@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 45.031",
+    "official_title": "Judicial sales procedure",
+    "summary_description": "Outlines the procedures for conducting judicial sales of real or personal property as ordered by the court.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "45",
+        "chapter_name": "Civil Procedure: General Provisions",
+        "section_number_raw": ".031",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Civil Practice and Procedure",
+    "keywords": ["judicial sale", "procedure", "property", "civil procedure"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 68.065",
+    "official_title": "Recovery of worthless payment instruments",
+    "summary_description": "Provides for civil remedies and damages for the recovery of payment on worthless checks, drafts, or orders of payment.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "68",
+        "chapter_name": "Miscellaneous Proceedings",
+        "section_number_raw": ".065",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Civil Practice and Procedure",
+    "keywords": ["worthless check", "payment instrument", "civil remedy", "damages"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.001",
+    "official_title": "Application of Part I, Chapter 83 (Nonresidential Tenancies)",
+    "summary_description": "Specifies that Part I of Chapter 83 applies to nonresidential tenancies.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".001",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["nonresidential tenancy", "application", "chapter 83"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f90",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.01",
+    "official_title": "Definitions (Nonresidential Tenancies)",
+    "summary_description": "Provides definitions for terms used in the context of nonresidential tenancies.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".01",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["definitions", "nonresidential tenancy", "landlord", "tenant"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1e2f-3a4b-5c6d7e8f90a1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.02",
+    "official_title": "Provisions attaching to leases (Nonresidential)",
+    "summary_description": "Outlines certain provisions that are considered to attach to nonresidential leases unless expressly stated otherwise.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".02",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["lease provisions", "nonresidential lease", "implied terms"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2f3a-4b5c-6d7e8f90a1b2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.03",
+    "official_title": "Termination of tenancy at will (Nonresidential)",
+    "summary_description": "Specifies the notice requirements for terminating a nonresidential tenancy at will (a tenancy without a specific duration).",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".03",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["tenancy at will", "termination", "notice", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3a4b-5c6d-7e8f90a1b2c3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.04",
+    "official_title": "Holding over after term, etc., forfeits right to hold (Nonresidential)",
+    "summary_description": "States that a nonresidential tenant holding over after the lease term without permission may forfeit the right to continue possession and may be subject to eviction.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".04",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["holding over", "lease term", "forfeiture", "eviction", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4b5c-6d7e-8f90a1b2c3d4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.05",
+    "official_title": "Right of lessor to terminate or continue lease in case of fire, etc. (Nonresidential)",
+    "summary_description": "Governs the rights of a nonresidential lessor to terminate or continue a lease if the premises are destroyed or damaged by fire or other casualty.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".05",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["fire damage", "casualty", "lease termination", "lessor rights", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5c6d-7e8f-90a1b2c3d4e5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.06",
+    "official_title": "Right to demand double rent upon refusal to deliver possession (Nonresidential)",
+    "summary_description": "Allows a nonresidential landlord to demand double the monthly rent from a tenant who refuses to vacate the premises after the lease term has ended and proper notice has been given.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".06",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["double rent", "refusal to vacate", "possession", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6d7e-8f90-a1b2c3d4e5f6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.07",
+    "official_title": "Action for use and occupation (Nonresidential)",
+    "summary_description": "Permits a nonresidential landlord to bring an action to recover reasonable payment for the use and occupation of premises when no formal lease agreement exists or rent amount is unspecified.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".07",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["use and occupation", "rent recovery", "no lease", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7e8f-90a1-b2c3d4e5f6a7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.08",
+    "official_title": "Landlord's lien for rent (Nonresidential)",
+    "summary_description": "Establishes a landlord's lien on the tenant's property located on the premises for unpaid rent in nonresidential tenancies.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".08",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["landlord lien", "rent", "tenant property", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8f90-a1b2-c3d4e5f6a7b8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.09",
+    "official_title": "Exemptions from liens for rent (Nonresidential)",
+    "summary_description": "Specifies certain property of a nonresidential tenant that is exempt from the landlord's lien for rent.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".09",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["lien exemption", "rent lien", "tenant property", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a3b4c5d6-e7f8-90a1-b2c3-d4e5f6a7b8c9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.10",
+    "official_title": "Landlord's lien for advances (Nonresidential)",
+    "summary_description": "Provides for a landlord's lien on agricultural products raised on the land for money or goods advanced by the landlord to the tenant for sustaining the farm (nonresidential).",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".10",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["landlord lien", "advances", "agricultural products", "farm", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0a1b-2c3d-4e5f6a7b8c9d0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.11",
+    "official_title": "Distress for rent; claims by third persons (Nonresidential)",
+    "summary_description": "Outlines the process for a landlord to distrain for rent (seize tenant's property for unpaid rent) and how third-party claims to that property are handled in nonresidential tenancies.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".11",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["distress for rent", "seizure", "tenant property", "third party claims", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 83.15",
+        "relationship_type": "related_subject_matter"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1b2c-3d4e-5f6a7b8c9d0e1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.12",
+    "official_title": "Distress for rent; form of writ (Nonresidential)",
+    "summary_description": "Specifies the form of the writ of distress used in nonresidential rent recovery actions.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".12",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["distress for rent", "writ of distress", "form", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2c3d-4e5f-6a7b8c9d0e1f2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.13",
+    "official_title": "Distress for rent; levy of writ (Nonresidential)",
+    "summary_description": "Details how a writ of distress for nonresidential rent is to be levied (executed) by the sheriff.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".13",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["distress for rent", "writ of distress", "levy", "sheriff", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3d4e-5f6a-7b8c9d0e1f2a3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.135",
+    "official_title": "Distress for rent; dissolution of writ (Nonresidential)",
+    "summary_description": "Provides the procedure for a nonresidential tenant to seek dissolution of a writ of distress.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".135",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["distress for rent", "writ of distress", "dissolution", "tenant rights", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4e5f-6a7b-8c9d0e1f2a3b4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.14",
+    "official_title": "Distress for rent; replevy of distrained property (Nonresidential)",
+    "summary_description": "Allows a nonresidential tenant to recover (replevy) distrained property by posting a bond.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".14",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["distress for rent", "replevy", "distrained property", "bond", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5f6a-7b8c-9d0e1f2a3b4c5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.15",
+    "official_title": "Distress for rent; claims by third persons (Nonresidential)",
+    "summary_description": "Governs how claims by third parties to property seized under a writ of distress are adjudicated in nonresidential tenancies.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".15",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["distress for rent", "third party claims", "property seizure", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": "This statute details procedures for third-party claims when property is seized for rent, ensuring due process for those with an interest in the property.",
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 83.11",
+        "relationship_type": "related_subject_matter"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6a7b-8c9d-0e1f2a3b4c5d6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.18",
+    "official_title": "Distress for rent; trial; verdict; judgment (Nonresidential)",
+    "summary_description": "Outlines the trial procedure, verdict, and judgment in a nonresidential distress for rent action.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".18",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["distress for rent", "trial", "verdict", "judgment", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7b8c-9d0e-1f2a3b4c5d6e7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.19",
+    "official_title": "Distress for rent; sale of property distrained (Nonresidential)",
+    "summary_description": "Governs the sale of property distrained for nonresidential rent if the tenant does not pay the amount due or replevy the property.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".19",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["distress for rent", "sale of property", "distrained property", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8c9d-0e1f-2a3b4c5d6e7f8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.20",
+    "official_title": "Causes for removal of tenants (Nonresidential)",
+    "summary_description": "Lists the grounds upon which a nonresidential tenant may be removed from the premises, such as nonpayment of rent or holding over.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "I",
+        "part_name": "NONRESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".20",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Nonresidential)",
+    "keywords": ["eviction", "removal of tenant", "grounds for eviction", "nonresidential"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9d0e-1f2a-3b4c5d6e7f8a9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.40",
+    "official_title": "Short title (Florida Residential Landlord and Tenant Act)",
+    "summary_description": "Establishes the short title of Part II of Chapter 83 as the 'Florida Residential Landlord and Tenant Act.'",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".40",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["residential tenancy", "landlord tenant act", "short title"],
+    "full_text_link": null,
+    "application_notes_general": "This statute names the primary body of law governing residential landlord-tenant relationships in Florida.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0e1f-2a3b-4c5d6e7f8a9b0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.41",
+    "official_title": "Application of Part II, Chapter 83 (Residential Tenancies)",
+    "summary_description": "Specifies that Part II of Chapter 83 applies to the rental of residential dwelling units.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".41",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["residential tenancy", "application", "dwelling unit"],
+    "full_text_link": null,
+    "application_notes_general": "Defines the scope of the Florida Residential Landlord and Tenant Act, indicating it covers rentals of places where people live.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1f2a-3b4c-5d6e7f8a9b0c1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.42",
+    "official_title": "Exclusions from application of part (Residential Tenancies)",
+    "summary_description": "Lists specific types of occupancies or residences that are excluded from the provisions of the Florida Residential Landlord and Tenant Act.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".42",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["exclusions", "residential tenancy", "scope"],
+    "full_text_link": null,
+    "application_notes_general": "Identifies situations (e.g., transient occupancy in a hotel, medical facilities) where the standard residential landlord-tenant rules do not apply.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2a3b-4c5d-6e7f8a9b0c1d2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.425",
+    "official_title": "Preemption of local regulations on residential tenancies",
+    "summary_description": "Establishes that state law regarding residential tenancies generally preempts conflicting local ordinances, with certain exceptions.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".425",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["preemption", "local ordinances", "state law", "residential tenancy"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3b4c-5d6e-7f8a9b0c1d2e3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.43",
+    "official_title": "Definitions (Residential Tenancies)",
+    "summary_description": "Provides definitions for key terms used throughout the Florida Residential Landlord and Tenant Act.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".43",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["definitions", "residential tenancy", "landlord", "tenant", "dwelling unit"],
+    "full_text_link": null,
+    "application_notes_general": "Clarifies the meaning of essential terms like 'landlord,' 'tenant,' 'rent,' and 'dwelling unit' as they are used in the Act.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4c5d-6e7f-8a9b0c1d2e3f4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.44",
+    "official_title": "Obligation of good faith",
+    "summary_description": "Mandates that every rental agreement or duty within the Florida Residential Landlord and Tenant Act imposes an obligation of good faith in its performance and enforcement.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".44",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["good faith", "obligation", "rental agreement", "performance", "enforcement"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Landlords must exercise good faith in the performance and enforcement of rental agreements. Relevance: A landlord's pattern of deceptive practices, harassment, or failure to comply with statutory duties can be argued as a violation of this overarching obligation.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5d6e-7f8a-9b0c1d2e3f4a5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.45",
+    "official_title": "Unconscionable rental agreement or provision",
+    "summary_description": "Allows a court to refuse enforcement, enforce without the unconscionable provision, or limit an unconscionable rental agreement or provision within a residential lease.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".45",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["unconscionable", "rental agreement", "lease provision", "enforcement"],
+    "full_text_link": null,
+    "application_notes_general": "Protects tenants from grossly unfair or one-sided lease terms that a court finds unconscionable.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6e7f-8a9b-0c1d2e3f4a5b6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.46",
+    "official_title": "Rent; duration of tenancies",
+    "summary_description": "Governs aspects of rent payments, such as when rent is payable if not specified in the lease, and establishes the duration of tenancies if not fixed by agreement (e.g., month-to-month). Also addresses late fees.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".46",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["rent", "duration of tenancy", "late fees", "payment timing"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Governs rent payment timing and late fees. Relevance: Landlords must comply with lease terms and statutory limits on late fees.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7f8a-9b0c-1d2e3f4a5b6c7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.47",
+    "official_title": "Prohibited provisions in rental agreements",
+    "summary_description": "Identifies certain provisions that are prohibited in residential rental agreements, rendering them void and unenforceable if included, such as waiving tenant rights under the Act.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".47",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["prohibited provisions", "rental agreement", "tenant rights", "waiver"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Voids lease clauses that attempt to waive or circumvent tenant rights or landlord obligations established by the Florida Landlord-Tenant Act. Relevance: Lease clauses attempting to disclaim landlord liability for tenant's personal property or waive other statutory protections are void under this statute.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8a9b-0c1d-2e3f4a5b6c7d8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.48",
+    "official_title": "Attorney fees",
+    "summary_description": "Provides for the award of reasonable attorney's fees and court costs to the prevailing party in most civil actions brought to enforce the provisions of a residential rental agreement or Part II of Chapter 83.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".48",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["attorney fees", "prevailing party", "court costs", "civil action"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Provides for the award of attorney's fees and costs to the prevailing party in actions under the Florida Landlord-Tenant Act. Relevance: While not a violation itself, this statute is crucial as it allows a tenant to recover legal costs if they successfully prove landlord violations.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9b0c-1d2e-3f4a5b6c7d8e9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.49",
+    "official_title": "Deposit money or advance rent; duty of landlord and tenant",
+    "summary_description": "Governs the landlord's duties and procedures for handling security deposits and advance rent in residential tenancies. This includes requirements for holding funds, disclosure, notice of claims, tenant objections, and return of the deposit.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".49",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["security deposit", "advance rent", "landlord duty", "tenant duty", "notice of claim"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Governs security deposit handling, including holding funds, providing notice of claims, and returning deposits. Relevance: This is a central statute for deposit disputes. Violations include: Failure to hold the deposit in a separate account. Failure to provide required disclosures about the account. Failure to provide a timely, itemized written notice of intent to impose a claim within 30 days of vacating. Failure to provide sufficient detail or supporting evidence in the claim notice. Failure to return the undisputed portion of the deposit promptly. Bad faith retention of the deposit, potentially leading to treble damages.",
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 83.491",
+        "relationship_type": "related_subject_matter"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0c1d-2e3f-4a5b6c7d8e9f0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.491",
+    "official_title": "Fee in Lieu of Security Deposit",
+    "summary_description": "(2024 update) Allows landlords to offer tenants the option to pay a recurring fee instead of a traditional security deposit, subject to specific disclosure and agreement requirements.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".491",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": "Recent update noted by user.",
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["security deposit alternative", "fee in lieu", "tenant option", "disclosure"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 83.49",
+        "relationship_type": "related_subject_matter"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1d2e-3f4a-5b6c7d8e9f0a1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.50",
+    "official_title": "Disclosure of landlord's address",
+    "summary_description": "Requires the landlord or their authorized agent to disclose in writing the name and address of the landlord or a person authorized to receive notices and demands on the landlord's behalf.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".50",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["disclosure", "landlord address", "notice", "service of process"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Requires the landlord to disclose their address for service of process and for receiving notices and demands. Relevance: Violations include: Failing to provide any address. Providing an incorrect or misleading address. Using the tenant's rental address as the landlord's address. Providing inconsistent addresses across different documents.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2e3f-4a5b-6c7d8e9f0a1b2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.51",
+    "official_title": "Landlord's obligation to maintain premises",
+    "summary_description": "Outlines the landlord's duty to maintain a residential rental premises in a safe and habitable condition, including compliance with applicable codes and maintaining essential features and services.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".51",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["landlord obligation", "maintain premises", "habitability", "building codes", "repairs"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Requires the landlord to maintain the premises in a safe and habitable condition, including complying with building, housing, and health codes, and maintaining structural components, plumbing, and reasonable provisions for locks and keys. Relevance: This is a core habitability statute. Violations include: Failure to comply with applicable building or housing codes. Failure to maintain roofs, windows, doors, floors, steps, porches, exterior walls, foundations, and other structural components in good repair. Failure to maintain plumbing in reasonable working condition. Failure to make reasonable provisions for locks and keys. Failure to maintain common areas. Failure to address pest infestations. Failure to ensure essential services like heat, running water, and hot water.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  }
+]

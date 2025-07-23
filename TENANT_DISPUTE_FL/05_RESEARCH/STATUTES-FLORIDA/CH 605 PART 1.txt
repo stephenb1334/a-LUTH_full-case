@@ -1,0 +1,626 @@
+
+The 2024 Florida Statutes
+
+Title XXXVI
+BUSINESS ORGANIZATIONS
+
+Chapter 605
+FLORIDA REVISED LIMITED LIABILITY COMPANY ACT
+
+
+
+----
+
+PROVIDED IN THIS DOCUMENT IS 605.0101 - 605.0205 
+
+---
+
+
+TABLE OF CONTENTS:
+
+
+
+605.0101 Short title.
+605.0102 Definitions.
+605.0103 Knowledge; notice.
+605.0104 Governing law.
+605.0105 Operating agreement; scope, function, and limitations.
+605.0106 Operating agreement; effect on limited liability company and person becoming member; preformation agreement; other matters involving operating agreement.
+605.0107 Operating agreement; effect on third parties and relationship to records effective on behalf of limited liability company.
+605.0108 Nature, purpose, and duration of limited liability company.
+605.0109 Powers.
+605.0110 Limited liability company property.
+605.0111 Rules of construction and supplemental principles of law.
+605.0112 Name.
+605.01125 Reserved name.
+605.0113 Registered agent.
+605.0114 Change of registered agent or registered office.
+605.0115 Resignation of registered agent.
+605.0116 Change of name or address by registered agent.
+605.0117 Serving process, giving notice, or making a demand.
+605.0118 Delivery of record.
+605.0119 Waiver of notice.
+605.0201 Formation of limited liability company; articles of organization.
+605.0202 Amendment or restatement of articles of organization.
+605.0203 Signing of records to be delivered for filing to department.
+605.0204 Signing and filing pursuant to judicial order.
+605.0205 Liability for inaccurate information in filed record.
+605.0206 Filing requirements.
+605.0207 Effective date and time.
+605.0208 Withdrawal of filed record before effectiveness.
+605.0209 Correcting filed record.
+605.0210 Duty of department to file; review of refusal to file; transmission of information by department.
+605.0211 Certificate of status.
+605.0212 Annual report for department.
+605.0213 Fees of the department.
+605.0214 Powers of department.
+605.0215 Certificates to be received in evidence and evidentiary effect of certified copy of filed document.
+605.0216 Statement of dissociation or resignation.
+605.0301 Power to bind limited liability company.
+605.0302 Statement of authority.
+605.0303 Statement of denial.
+605.0304 Liability of members and managers.
+605.0401 Becoming a member.
+605.0402 Form of contribution.
+605.0403 Liability for contributions.
+605.0404 Sharing of distributions before dissolution and profits and losses.
+605.0405 Limitations on distributions.
+605.0406 Liability for improper distributions.
+605.0407 Management of limited liability company.
+605.04071 Delegation of rights and powers to manage.
+605.04072 Selection and terms of managers in a manager-managed limited liability company.
+605.04073 Voting rights of members and managers.
+605.04074 Agency rights of members and managers.
+605.0408 Reimbursement, indemnification, advancement, and insurance.
+605.04091 Standards of conduct for members and managers.
+605.04092 Conflict of interest transactions.
+605.04093 Limitation of liability of managers and members.
+605.0410 Records to be kept; rights of member, manager, and person dissociated to information.
+605.0411 Court-ordered inspection.
+605.0501 Nature of transferable interest.
+605.0502 Transfer of transferable interest.
+605.0503 Charging order.
+605.0504 Power of legal representative.
+605.0601 Power to dissociate as member; wrongful dissociation.
+605.0602 Events causing dissociation.
+605.0603 Effect of dissociation.
+605.0701 Events causing dissolution.
+605.0702 Grounds for judicial dissolution.
+605.0703 Procedure for judicial dissolution; alternative remedies.
+605.0704 Receivership or custodianship.
+605.0705 Decree of dissolution.
+605.0706 Election to purchase instead of dissolution.
+605.0707 Articles of dissolution; filing of articles of dissolution.
+605.0708 Revocation of articles of dissolution.
+605.0709 Winding up.
+605.0710 Disposition of assets in winding up.
+605.0711 Known claims against dissolved limited liability company.
+605.0712 Other claims against a dissolved limited liability company.
+605.0713 Court proceedings.
+605.0714 Administrative dissolution.
+605.0715 Reinstatement.
+605.0716 Judicial review of denial of reinstatement.
+605.0717 Effect of dissolution.
+605.0801 Direct action by member.
+605.0802 Derivative action.
+605.0803 Proper plaintiff.
+605.0804 Special litigation committee.
+605.0805 Proceeds and expenses.
+605.0806 Voluntary dismissal or settlement; notice.
+605.0901 Governing law.
+605.0902 Application for certificate of authority.
+605.0903 Effect of a certificate of authority.
+605.0904 Effect of failure to have certificate of authority.
+605.0905 Activities not constituting transacting business.
+605.0906 Noncomplying name of foreign limited liability company.
+605.0907 Amendment to certificate of authority.
+605.0908 Revocation of certificate of authority.
+605.0909 Reinstatement following revocation of certificate of authority.
+605.09091 Judicial review of denial of reinstatement.
+605.0910 Withdrawal and cancellation of certificate of authority.
+605.0911 Withdrawal deemed on conversion to domestic filing entity.
+605.0912 Withdrawal on dissolution, merger, or conversion to nonfiling entity.
+605.0913 Action by Department of Legal Affairs.
+605.1001 Relationship of the provisions of this section and ss. 605.1002-605.1072 to other laws.
+605.1002 Charitable and donative provisions.
+605.1003 Status of filings.
+605.1004 Nonexclusivity.
+605.1005 Reference to external facts.
+605.1006 Appraisal rights.
+605.1021 Merger authorized.
+605.1022 Plan of merger.
+605.1023 Approval of merger.
+605.1024 Amendment or abandonment of plan of merger.
+605.1025 Articles of merger.
+605.1026 Effect of merger.
+605.1031 Interest exchange authorized.
+605.1032 Plan of interest exchange.
+605.1033 Approval of interest exchange.
+605.1034 Amendment or abandonment of plan of interest exchange.
+605.1035 Articles of interest exchange.
+605.1036 Effect of interest exchange.
+605.1041 Conversion authorized.
+605.1042 Plan of conversion.
+605.1043 Approval of conversion.
+605.1044 Amendment or abandonment of plan of conversion.
+605.1045 Articles of conversion.
+605.1046 Effect of conversion.
+605.1051 Domestication authorized.
+605.1052 Plan of domestication.
+605.1053 Approval of domestication.
+605.1054 Amendment or abandonment of plan of domestication.
+605.1055 Articles of domestication.
+605.1056 Effect of domestication.
+605.1061 Appraisal rights; definitions.
+605.1062 Assertion of rights by nominees and beneficial owners.
+605.1063 Notice of appraisal rights.
+605.1064 Notice of intent to demand payment.
+605.1065 Appraisal notice and form.
+605.1066 Perfection of rights; right to withdraw.
+605.1067 Member’s acceptance of limited liability company’s offer.
+605.1068 Procedure if member is dissatisfied with offer.
+605.1069 Court action.
+605.1070 Court costs and attorney fees.
+605.1071 Limitation on limited liability company payment.
+605.1072 Other remedies limited.
+605.1101 Uniformity of application and construction.
+605.1102 Relation to Electronic Signatures in Global and National Commerce Act.
+605.1103 Tax exemption on income of certain limited liability companies.
+605.1104 Interrogatories by department; other powers of department.
+605.1105 Reservation of power to amend or repeal.
+605.1106 Savings clause.
+605.1107 Severability clause.
+605.1108 Application to limited liability company formed under the Florida Limited Liability Company Act.
+
+
+-----
+
+
+
+
+605.0101 Short title.—Sections 605.0101-605.1108 may be cited as the “Florida Revised Limited Liability Company Act.”
+History.—s. 2, ch. 2013-180.
+605.0102 Definitions.—As used in this chapter, the term:
+(1) “Acquired entity” means the entity that has all of one or more of its classes or series of interests acquired in an interest exchange.
+(2) “Acquiring entity” means the entity that acquires all of one or more classes or series of interests of the acquired entity in an interest exchange.
+(3) “Articles of conversion” means the articles of conversion required under s. 605.1045. The term includes the articles of conversion as amended or restated.
+(4) “Articles of domestication” means the articles of domestication required under s. 605.1055. The term includes the articles of domestication as amended or restated.
+(5) “Articles of interest exchange” means the articles of interest exchange required under s. 605.1035. The term includes the articles of interest exchange as amended or restated.
+(6) “Articles of merger” means the articles of merger required under s. 605.1025. The term includes the articles of merger as amended or restated.
+(7) “Articles of organization” means the articles of organization required under s. 605.0201. The term includes the articles of organization as amended or restated.
+(8) “Authorized representative” means:
+(a) In the case of the formation of a limited liability company, a person authorized by a prospective member of the limited liability company to form the company by executing and filing its articles of organization with the department.
+(b) In the case of an existing limited liability company, with respect to the execution and filing of a record with the department or taking any other action required or authorized under this chapter:
+1. A manager of a manager-managed limited liability company who is authorized to do so;
+2. A member of a member-managed limited liability company who is authorized to do so; or
+3. An agent or officer of the limited liability company who is granted the authority to do so by such a manager or such a member, pursuant to the operating agreement of the limited liability company or pursuant to s. 605.0709.
+(c) In the case of a foreign limited liability company or another entity, with respect to the execution and filing of a record with the department or taking any other action required or authorized under this chapter, a person who is authorized to file the record or take the action on behalf of the foreign limited liability company or other entity.
+(9) “Business day” means Monday through Friday, excluding any day that a national banking association is not open for normal business transactions.
+(10) “Contribution,” except in the phrase “right of contribution,” means property or a benefit described in s. 605.0402 which is provided by a person to a limited liability company to become a member or which is provided in the person’s capacity as a member.
+(11) “Conversion” means a transaction authorized under ss. 605.1041-605.1046.
+(12) “Converted entity” means the converting entity as it continues in existence after a conversion.
+(13) “Converting entity” means the domestic entity that approves a plan of conversion pursuant to s. 605.1043 or the foreign entity that approves a conversion pursuant to the organic law of its jurisdiction of formation.
+(14) “Day” means a calendar day.
+(15) “Debtor in bankruptcy” means a person who is the subject of:
+(a) An order for relief under Title 11 of the United States Code or a successor statute of general application; or
+(b) A comparable order under federal, state, or foreign law governing insolvency.
+(16) “Department” means the Department of State.
+(17) “Distribution” means a transfer of money or other property from a limited liability company to a person on account of a transferable interest or in the person’s capacity as a member.
+(a) The term includes:
+1. A redemption or other purchase by a limited liability company of a transferable interest.
+2. A transfer to a member in return for the member’s relinquishment of any right to participate as a member in the management or conduct of the company’s activities and affairs or a relinquishment of a right to have access to records or other information concerning the company’s activities and affairs.
+(b) The term does not include amounts constituting reasonable compensation for present or past service or payments made in the ordinary course of business under a bona fide retirement plan or other bona fide benefits program.
+(18) “Distributional interest” means the right under an unincorporated entity’s organic law and organic rules to receive distributions from the entity.
+(19) “Domestic,” with respect to an entity, means an entity whose jurisdiction of formation is this state.
+(20) “Domesticated limited liability company” means the domesticating entity as it continues in existence after a domestication.
+(21) “Domesticating entity” means a non-United States entity that approves a domestication pursuant to the law of its jurisdiction of formation.
+(22) “Domestication” means a transaction authorized under ss. 605.1051-605.1056.
+(23)(a) “Entity” means:
+1. A business corporation;
+2. A nonprofit corporation;
+3. A general partnership, including a limited liability partnership;
+4. A limited partnership, including a limited liability limited partnership;
+5. A limited liability company;
+6. A real estate investment trust; or
+7. Any other domestic or foreign entity that is organized under an organic law.
+(b) “Entity” does not include:
+1. An individual;
+2. A trust with a predominantly donative purpose or a charitable trust;
+3. An association or relationship that is not a partnership solely by reason of s. 620.8202(2) or a similar provision of the law of another jurisdiction;
+4. A decedent’s estate; or
+5. A government or a governmental subdivision, agency, or instrumentality.
+(24) “Filing entity” means an entity whose formation requires the filing of a public organic record.
+(25) “Foreign,” with respect to an entity, means an entity whose jurisdiction of formation is a jurisdiction other than this state.
+(26) “Foreign limited liability company” means an unincorporated entity that was formed in a jurisdiction other than this state and is denominated by that law as a limited liability company.
+(27) “Governance interest” means a right under the organic law or organic rules of an unincorporated entity, other than as a governor, agent, assignee, or proxy, to:
+(a) Receive or demand access to information concerning an entity or its books and records;
+(b) Vote for or consent to the election of the governors of the entity; or
+(c) Receive notice of, vote on, or consent to an issue involving the internal affairs of the entity.
+(28) “Governor” means:
+(a) A director of a business corporation;
+(b) A director or trustee of a nonprofit corporation;
+(c) A general partner of a general partnership;
+(d) A general partner of a limited partnership;
+(e) A manager of a manager-managed limited liability company;
+(f) A member of a member-managed limited liability company;
+(g) A director or a trustee of a real estate investment trust; or
+(h) Any other person under whose authority the powers of an entity are exercised and under whose direction the activities and affairs of the entity are managed pursuant to the organic law and organic rules of the entity.
+(29) “Interest” means:
+(a) A share in a business corporation;
+(b) A membership in a nonprofit corporation;
+(c) A partnership interest in a general partnership;
+(d) A partnership interest in a limited partnership;
+(e) A membership interest in a limited liability company;
+(f) A share or beneficial interest in a real estate investment trust;
+(g) A member’s interest in a limited cooperative association;
+(h) A beneficial interest in a statutory trust, business trust, or common law business trust; or
+(i) A governance interest or distributional interest in another entity.
+(30) “Interest exchange” means a transaction authorized under ss. 605.1031-605.1036.
+(31) “Interest holder” means:
+(a) A shareholder of a business corporation;
+(b) A member of a nonprofit corporation;
+(c) A general partner of a general partnership;
+(d) A general partner of a limited partnership;
+(e) A limited partner of a limited partnership;
+(f) A member of a limited liability company;
+(g) A shareholder or beneficial owner of a real estate investment trust;
+(h) A beneficiary or beneficial owner of a statutory trust, business trust, or common law business trust; or
+(i) Another direct holder of an interest.
+(32) “Interest holder liability” means:
+(a) Personal liability for a liability of an entity which is imposed on a person:
+1. Solely by reason of the status of the person as an interest holder; or
+2. By the organic rules of the entity which make one or more specified interest holders or categories of interest holders liable in their capacity as interest holders for all or specified liabilities of the entity.
+(b) An obligation of an interest holder under the organic rules of an entity to contribute to the entity.
+(33) “Jurisdiction,” if used to refer to a political entity, means the United States, a state, a foreign country, or a political subdivision of a foreign country.
+(34) “Jurisdiction of formation” means, with respect to an entity:
+(a) The jurisdiction under whose organic law the entity is formed, incorporated, or created or otherwise comes into being; however, for these purposes, if an entity exists under the law of a jurisdiction different from the jurisdiction under which the entity originally was formed, incorporated, or created or otherwise came into being, then the jurisdiction under which the entity then exists is treated as the jurisdiction of formation; or
+(b) In the case of a limited liability partnership or foreign limited liability partnership, the jurisdiction in which the partnership’s statement of qualification or equivalent document is filed.
+(35) “Legal representative” means, with respect to a natural person, the personal representative, executor, guardian, or conservator or any other person who is empowered by applicable law with the authority to act on behalf of the natural person, and, with respect to a person other than a natural person, a person who is empowered by applicable law with the authority to act on behalf of the person.
+(36) “Limited liability company” or “company,” except in the phrase “foreign limited liability company,” means an entity formed or existing under this chapter or an entity that becomes subject to this chapter pursuant to ss. 605.1001-605.1072.
+(37) “Majority-in-interest” means those members who hold more than 50 percent of the then-current percentage or other interest in the profits of the limited liability company owned by all of its members; however, as used in ss. 605.1001-605.1072, the term means:
+(a) In the case of a limited liability company with only one class or series of members, the holders of more than 50 percent of the then-current percentage or other interest in the profits of the company owned by all of its members who have the right to approve the merger, interest exchange, or conversion, as applicable, under the organic law or the organic rules of the company; and
+(b) In the case of a limited liability company having more than one class or series of members, the holders in each class or series of more than 50 percent of the then-current percentage or other interest in the profits of the company owned by all of the members of that class or series who have the right to approve the merger, interest exchange, or conversion, as applicable, under the organic law or the organic rules of the company, unless the company’s organic rules provide for the approval of the transaction in a different manner.
+(38) “Manager” means a person who, under the operating agreement of a manager-managed limited liability company, is responsible, alone or in concert with others, for performing the management functions stated in ss. 605.0407(3) and 605.04073(2).
+(39) “Manager-managed limited liability company” means a limited liability company that is manager-managed by virtue of the operation of s. 605.0407(1).
+(40) “Member” means a person who:
+(a) Is a member of a limited liability company under s. 605.0401 or was a member in a company when the company became subject to this chapter; and
+(b) Has not dissociated from the company under s. 605.0602.
+(41) “Member-managed limited liability company” means a limited liability company that is not a manager-managed limited liability company.
+(42) “Merger” means a transaction authorized under ss. 605.1021-605.1026.
+(43) “Merging entity” means an entity that is a party to a merger and exists immediately before the merger becomes effective.
+(44) “Non-United States entity” means a foreign entity other than an entity with a jurisdiction of formation that is not a state.
+(45) “Operating agreement” means an agreement, whether referred to as an operating agreement or not, which may be oral, implied, in a record, or in any combination thereof, of the members of a limited liability company, including a sole member, concerning the matters described in s. 605.0105(1). The term includes the operating agreement as amended or restated.
+(46) “Organic law” means the law of the jurisdiction in which an entity was formed.
+(47) “Organic rules” means the public organic record and private organic rules of an entity.
+(48) “Person” means an individual, business corporation, nonprofit corporation, partnership, limited partnership, limited liability company, limited cooperative association, unincorporated nonprofit association, statutory trust, business trust, common law business trust, estate, trust, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or another legal or commercial entity.
+(49) “Plan” means a plan of merger, plan of interest exchange, plan of conversion, or plan of domestication, as appropriate in the particular context.
+(50) “Plan of conversion” means a plan under s. 605.1042 and includes the plan of conversion as amended or restated.
+(51) “Plan of domestication” means a plan under s. 605.1052 and includes the plan of domestication as amended or restated.
+(52) “Plan of interest exchange” means a plan under s. 605.1032 and includes the plan of interest exchange as amended or restated.
+(53) “Plan of merger” means a plan under s. 605.1022 and includes the plan of merger as amended or restated.
+(54) “Principal office” means the principal executive office of a limited liability company or foreign limited liability company, regardless of whether the office is located in this state.
+(55) “Private organic rules” means the rules, whether or not in a record, which govern the internal affairs of an entity, are binding on all its interest holders, and are not part of its public organic record, if any. Where private organic rules have been amended or restated, the term means the private organic rules as last amended or restated. The term includes:
+(a) The bylaws of a business corporation.
+(b) The bylaws of a nonprofit corporation.
+(c) The partnership agreement of a general partnership.
+(d) The partnership agreement of a limited partnership.
+(e) The operating agreement, limited liability company agreement, or similar agreement of a limited liability company.
+(f) The bylaws, trust instrument, or similar rules of a real estate investment trust.
+(g) The trust instrument of a statutory trust or similar rules of a business trust or common law business trust.
+(56) “Property” means all property, whether real, personal, mixed, tangible, or intangible, or a right or interest therein.
+(57) “Protected agreement” means:
+(a) A record evidencing indebtedness and any related agreement in effect on January 1, 2014;
+(b) An agreement that is binding on an entity on January 1, 2014;
+(c) The organic rules of an entity in effect on January 1, 2014; or
+(d) An agreement that is binding on any of the governors or interest holders of an entity on January 1, 2014.
+(58) “Public organic record” means a record, the filing of which by a governmental body is required to form an entity, and an amendment to or restatement of that record. Where a public organic record has been amended or restated, the term means the public organic record as last amended or restated. The term includes the following:
+(a) The articles of incorporation of a business corporation.
+(b) The articles of incorporation of a nonprofit corporation.
+(c) The certificate of limited partnership of a limited partnership.
+(d) The articles of organization of a limited liability company.
+(e) The articles of incorporation of a general cooperative association or a limited cooperative association.
+(f) The certificate of trust of a statutory trust or similar record of a business trust.
+(g) The articles of incorporation of a real estate investment trust.
+(59) “Record,” if used as a noun, means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+(60) “Registered foreign entity” means a foreign entity that is authorized to transact business in this state pursuant to a record filed with the department.
+(61) “Registered foreign limited liability company” means a foreign limited liability company that has a certificate of authority to transact business in this state pursuant to a record filed with the department.
+(62) “Sign” means, with present intent to authenticate or adopt a record:
+(a) To execute or adopt a tangible symbol; or
+(b) To attach or logically associate an electronic symbol, sound, or process to or with a record, and includes a manual, facsimile, conformed, or electronic signature.
+The terms “signed” and “signature” have the corresponding meanings.
+
+(63) “State” means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or a territory or insular possession subject to the jurisdiction of the United States.
+(64) “Surviving entity” means the entity that continues in existence after or is created by a merger.
+(65) “Transfer” includes:
+(a) An assignment.
+(b) A conveyance.
+(c) A sale.
+(d) A lease.
+(e) An encumbrance, including a mortgage or security interest.
+(f) A gift.
+(g) A transfer by operation of law.
+(66) “Transferable interest” means the right, as initially owned by a person in the person’s capacity as a member, to receive distributions from a limited liability company in accordance with the operating agreement, whether the person remains a member or continues to own a part of the right. The term applies to any fraction of the interest, by whomever owned.
+(67) “Transferee” means a person to which all or part of a transferable interest is transferred, whether or not the transferor is a member. The term includes a person who owns a transferable interest under s. 605.0603(1)(c).
+(68) “Type of entity” means a generic form of entity that is:
+(a) Recognized at common law; or
+(b) Formed under an organic law, whether or not some of the entities formed under that organic law are subject to provisions of that law which create different categories of the form of entity.
+(69) “Writing” means printing, typewriting, electronic communication, or other intentional communication that is reducible to a tangible form. The term “written” has the corresponding meaning.
+History.—s. 2, ch. 2013-180; s. 20, ch. 2015-148; s. 234, ch. 2019-90.
+605.0103 Knowledge; notice.—
+(1) A person knows a fact if the person:
+(a) Has actual knowledge of the fact; or
+(b) Is deemed to know the fact under paragraph (4)(b), or a law other than this chapter.
+(2) A person has notice of a fact when the person:
+(a) Has reason to know the fact from all of the facts known to the person at the time in question; or
+(b) Is deemed to have notice of the fact under paragraph (4)(b).
+(3) Subject to s. 605.0210(8), a person notifies another person of a fact by taking steps reasonably required to inform the other person in the ordinary course of events, regardless of whether those steps actually cause the other person to know of the fact.
+(4) A person who is not a member is deemed to:
+(a) Know of a limitation on authority to transfer real property as provided in s. 605.0302(7); and
+(b) Have notice of a limited liability company’s:
+1. Dissolution, 90 days after the articles of dissolution filed under s. 605.0707 become effective;
+2. Termination, 90 days after a statement of termination filed under s. 605.0709(7) becomes effective;
+3. Participation in a merger, interest exchange, conversion, or domestication, 90 days after the articles of merger, articles of interest exchange, articles of conversion, or articles of domestication under s. 605.1025, s. 605.1035, s. 605.1045, or s. 605.1055, respectively, become effective;
+4. Declaration in its articles of organization that it is manager-managed in accordance with s. 605.0201(3)(a); however, if such a declaration has been added or changed by an amendment or amendment and restatement of the articles of organization, notice of the addition or change may not become effective until 90 days after the effective date of such amendment or amendment and restatement; and
+5. Grant of authority to or limitation imposed on the authority of a person holding a position or having a specified status in a company, or grant of authority to or limitation imposed on the authority of a specific person, if the grant of authority or limitation imposed on the authority is described in the articles of organization in accordance with s. 605.0201(3)(d); however, if that description has been added or changed by an amendment or an amendment and restatement of the articles of organization, notice of the addition or change may not become effective until 90 days after the effective date of such amendment or amendment and restatement. A provision of the articles of organization that limits the authority of a person to transfer real property held in the name of the limited liability company is not notice of such limitation to a person who is not a member or manager of the company, unless such limitation appears in an affidavit, certificate, or other instrument that bears the name of the limited liability company and is recorded in the office for recording transfers of such real property.
+History.—s. 2, ch. 2013-180; s. 1, ch. 2015-148.
+605.0104 Governing law.—The law of this state governs:
+(1) The internal affairs of a limited liability company.
+(2) The liability of a member as member, and a manager as manager, for the debts, obligations, or other liabilities of a limited liability company.
+History.—s. 2, ch. 2013-180.
+605.0105 Operating agreement; scope, function, and limitations.—
+(1) Except as otherwise provided in subsections (3) and (4), the operating agreement governs the following:
+(a) Relations among the members as members and between the members and the limited liability company.
+(b) The rights and duties under this chapter of a person in the capacity of manager.
+(c) The activities and affairs of the company and the conduct of those activities and affairs.
+(d) The means and conditions for amending the operating agreement.
+(2) To the extent the operating agreement does not otherwise provide for a matter described in subsection (1), this chapter governs the matter.
+(3) An operating agreement may not do any of the following:
+(a) Vary a limited liability company’s capacity under s. 605.0109 to sue and be sued in its own name.
+(b) Vary the law applicable under s. 605.0104.
+(c) Vary the requirement, procedure, or other provision of this chapter pertaining to:
+1. Registered agents; or
+2. The department, including provisions pertaining to records authorized or required to be delivered to the department for filing under this chapter.
+(d) Vary the provisions of s. 605.0204.
+(e) Eliminate the duty of loyalty or the duty of care under s. 605.04091, except as otherwise provided in subsection (4).
+(f) Eliminate the obligation of good faith and fair dealing under s. 605.04091, but the operating agreement may prescribe the standards by which the performance of the obligation is to be measured if the standards are not manifestly unreasonable.
+(g) Relieve or exonerate a person from liability for conduct involving bad faith, willful or intentional misconduct, or a knowing violation of law.
+(h) Unreasonably restrict the duties and rights stated in s. 605.0410, but the operating agreement may impose reasonable restrictions on the availability and use of information obtained under that section and may define appropriate remedies, including liquidated damages, for a breach of a reasonable restriction on use.
+(i) Vary the grounds for dissolution specified in s. 605.0702. A deadlock resolution mechanism does not vary the grounds for dissolution for the purposes of this paragraph.
+(j) Vary the requirement to wind up the company’s business, activities, and affairs as specified in s. 605.0709(1), (2)(a), and (5).
+(k) Unreasonably restrict the right of a member to maintain an action under ss. 605.0801-605.0806.
+(l) Vary the provisions of s. 605.0804, but the operating agreement may provide that the company may not appoint a special litigation committee. However, the operating agreement may not prevent a court from appointing a special litigation committee.
+(m) Vary the right of a member to approve a merger, interest exchange, or conversion under s. 605.1023(1)(b), s. 605.1033(1)(b), or s. 605.1043(1)(b), respectively.
+(n) Vary the required contents of plan of merger under s. 605.1022, a plan of interest exchange under s. 605.1032, a plan of conversion under s. 605.1042, or a plan of domestication under s. 605.1052.
+(o) Except as otherwise provided in ss. 605.0106 and 605.0107(2), restrict the rights under this chapter of a person other than a member or manager.
+(p) Provide for indemnification for a member or manager under s. 605.0408 for any of the following:
+1. Conduct involving bad faith, willful or intentional misconduct, or a knowing violation of law.
+2. A transaction from which the member or manager derived an improper personal benefit.
+3. A circumstance under which the liability provisions of s. 605.0406 are applicable.
+4. A breach of duties or obligations under s. 605.04091, taking into account a restriction, an expansion, or an elimination of such duties and obligations provided for in the operating agreement to the extent allowed by subsection (4).
+(4) Subject to paragraph (3)(g), without limiting other terms that may be included in an operating agreement, the following rules apply:
+(a) The operating agreement may:
+1. Specify the method by which a specific act or transaction that would otherwise violate the duty of loyalty may be authorized or ratified by one or more disinterested and independent persons after full disclosure of all material facts; or
+2. Alter the prohibition stated in s. 605.0405(1)(b) so that the prohibition requires solely that the company’s total assets not be less than the sum of its total liabilities.
+(b) To the extent the operating agreement of a member-managed limited liability company expressly relieves a member of responsibility that the member would otherwise have under this chapter and imposes the responsibility on one or more other members, the operating agreement may, to the benefit of the member that the operating agreement relieves of the responsibility, also eliminate or limit a duty or obligation that would have pertained to the responsibility.
+(c) If not manifestly unreasonable, the operating agreement may:
+1. Alter or eliminate the aspects of the duty of loyalty under s. 605.04091(2);
+2. Identify specific types or categories of activities that do not violate the duty of loyalty;
+3. Alter the duty of care, but may not authorize willful or intentional misconduct or a knowing violation of law; and
+4. Alter or eliminate any other fiduciary duty.
+(5) The court shall decide as a matter of law whether a term of an operating agreement is manifestly unreasonable under paragraph (3)(f) or paragraph (4)(c). The court:
+(a) Shall make its determination as of the time the challenged term became part of the operating agreement and shall consider only circumstances existing at that time; and
+(b) May invalidate the term only if, in light of the purposes, activities, and affairs of the limited liability company, it is readily apparent that:
+1. The objective of the term is unreasonable; or
+2. The term is an unreasonable means to achieve the provision’s objective.
+(6) An operating agreement may provide for specific penalties or specified consequences, including those described in s. 605.0403(5), if a member or transferee fails to comply with the terms and conditions of the operating agreement or if other events specified in the operating agreement occur.
+History.—s. 2, ch. 2013-180; s. 2, ch. 2015-148; s. 235, ch. 2019-90.
+605.0106 Operating agreement; effect on limited liability company and person becoming member; preformation agreement; other matters involving operating agreement.—
+(1) A limited liability company is bound by and may enforce the operating agreement, regardless of whether the company has itself manifested assent to the operating agreement.
+(2) A person who becomes a member of a limited liability company is deemed to assent to, is bound by, and may enforce the operating agreement, regardless of whether the member executes the operating agreement.
+(3) Two or more persons who intend to become the initial members of a limited liability company may make an agreement providing that, upon the formation of the company, the agreement will become the operating agreement. One person who intends to become the initial member of a limited liability company may assent to terms that will become the operating agreement upon formation of the company.
+(4) A manager of a limited liability company or a transferee is bound by the operating agreement, regardless of whether the manager or transferee has agreed to the operating agreement.
+(5) An operating agreement of a limited liability company that has only one member is not unenforceable simply because there is only one person who is a party to the operating agreement.
+(6) Except as provided in s. 605.0403(1), an operating agreement is not subject to a statute of frauds.
+(7) An operating agreement may provide rights to a person, including a person who is not a party to the operating agreement, to the extent provided in the operating agreement.
+(8) A written operating agreement or other record:
+(a) May provide that a person be admitted as a member of a limited liability company, become a transferee of a limited liability company interest, or have other rights or powers of a member to the extent assigned:
+1. If the person or a representative authorized by that person orally, in writing, or by other action such as payment for a limited liability company interest, executes the operating agreement or another record evidencing the intent of the person to become a member or transferee; or
+2. Without the execution of the operating agreement, if the person or a representative authorized by the person orally, in writing, or by other action such as payment for a limited liability company interest complies with the conditions for becoming a member or transferee as provided in the operating agreement or another record; and
+(b) Is not unenforceable by reason of its not being signed by a person being admitted as a member or becoming a transferee as provided in paragraph (a), or by reason of its being signed by a representative as provided in this chapter.
+History.—s. 2, ch. 2013-180.
+605.0107 Operating agreement; effect on third parties and relationship to records effective on behalf of limited liability company.—
+(1) An operating agreement may specify that its amendment requires the approval of a person who is not a party to the agreement or upon the satisfaction of a condition. An amendment is ineffective if its adoption does not include the required approval or satisfy the specified condition.
+(2) The obligations of a limited liability company and its members to a person in the person’s capacity as a transferee or a person dissociated as a member are governed by the operating agreement. An amendment to the operating agreement made after a person becomes a transferee or is dissociated as a member:
+(a) Is effective with regard to a debt, obligation, or other liability of the limited liability company or its members to the person in the person’s capacity as a transferee or person dissociated as a member; and
+(b) Is not effective to the extent the amendment imposes a new debt, obligation, or other liability on the transferee or person dissociated as a member.
+(3) If a record delivered to the department for filing becomes effective under this chapter and contains a provision that would be ineffective under s. 605.0105(3) or (4)(c) if contained in the operating agreement, the provision is ineffective in the record.
+(4) Subject to subsection (3), if a record delivered to the department for filing which has become effective under this chapter but conflicts with a provision of the operating agreement:
+(a) The operating agreement prevails as to members, dissociated members, transferees, and managers; and
+(b) The record prevails as to other persons to the extent the other persons reasonably rely on the record.
+History.—s. 2, ch. 2013-180.
+605.0108 Nature, purpose, and duration of limited liability company.—
+(1) A limited liability company is an entity distinct from its members.
+(2) A limited liability company may have any lawful purpose, regardless of whether the company is a for-profit company.
+(3) A limited liability company has an indefinite duration.
+History.—s. 2, ch. 2013-180.
+605.0109 Powers.—A limited liability company has the powers, rights, and privileges granted by this chapter, by any other law, or by its operating agreement to do all things necessary or convenient to carry out its activities and affairs, including the power to do all of the following:
+(1) Sue, be sued, and defend in its name.
+(2) Purchase, receive, lease, or otherwise acquire, own, hold, improve, use, and otherwise deal with real or personal property or any legal or equitable interest in property, wherever located.
+(3) Sell, convey, mortgage, grant a security interest in, lease, exchange, and otherwise encumber or dispose of all or a part of its property.
+(4) Purchase, receive, subscribe for, or otherwise acquire, own, hold, vote, use, sell, mortgage, lend, grant a security interest in, or otherwise dispose of and deal in and with, shares or other interests in or obligations of another entity.
+(5) Make contracts or guarantees or incur liabilities; borrow money; issue notes, bonds, or other obligations, which may be convertible into or include the option to purchase other securities of the limited liability company; or make contracts of guaranty and suretyship which are necessary or convenient to the conduct, promotion, or attainment of the purposes, activities, and affairs of the limited liability company.
+(6) Lend money, invest or reinvest its funds, and receive and hold real or personal property as security for repayment.
+(7) Conduct its business, locate offices, and exercise the powers granted by this chapter within or without this state.
+(8) Select managers and appoint officers, directors, employees, and agents of the limited liability company, define their duties, fix their compensation, and lend them money and credit.
+(9) Make donations for the public welfare or for charitable, scientific, or educational purposes.
+(10) Pay pensions and establish pension plans, pension trusts, profit-sharing plans, bonus plans, option plans, and benefit or incentive plans for any or all of its current or former managers, members, officers, agents, and employees.
+(11) Be a promoter, incorporator, shareholder, partner, member, associate, or manager of a corporation, partnership, joint venture, trust, or other entity.
+(12) Make payments or donations or conduct any other act not inconsistent with applicable law which furthers the business of the limited liability company.
+(13) Enter into interest rate, basis, currency, hedge or other swap agreements, or cap, floor, put, call, option, exchange or collar agreements, derivative agreements, or similar agreements.
+(14) Grant, hold, or exercise a power of attorney, including an irrevocable power of attorney.
+History.—s. 2, ch. 2013-180; s. 132, ch. 2014-17.
+605.0110 Limited liability company property.—
+(1) All property originally contributed to the limited liability company or subsequently acquired by a limited liability company by purchase or other method is limited liability company property.
+(2) Property acquired with limited liability company funds is limited liability company property.
+(3) Instruments and documents providing for the acquisition, mortgage, or disposition of property of the limited liability company are valid and binding upon the limited liability company if they are executed in accordance with this chapter.
+(4) A member of a limited liability company has no interest in any specific limited liability company property.
+History.—s. 2, ch. 2013-180.
+605.0111 Rules of construction and supplemental principles of law.—
+(1) It is the intent of this chapter to give the maximum effect to the principle of freedom of contract and to the enforceability of operating agreements, including the purposes of ss. 605.0105-605.0107.
+(2) To the extent that, at law or in equity, a member, manager, or other person has duties, including fiduciary duties, to a limited liability company or to another member or manager or to another person that is a party to or is otherwise bound by an operating agreement, the duties of the member, manager, or other person may be restricted, expanded, or eliminated, including in the determination of applicable duties and obligations under this chapter, by the operating agreement, to the extent allowed by s. 605.0105.
+(3) Unless displaced by particular provisions of this chapter, the principles of law and equity, including the common law principles relating to the fiduciary duties of loyalty and care, supplement this chapter.
+History.—s. 2, ch. 2013-180; s. 3, ch. 2015-148.
+605.0112 Name.—
+(1) The name of a limited liability company:
+(a) Must contain the words “limited liability company” or the abbreviation “L.L.C.” or “LLC” as will clearly indicate that it is a limited liability company instead of a natural person, partnership, corporation, or other business entity.
+(b) Must be distinguishable in the records of the department from the names of all other entities or filings that are on file with the department, except fictitious name registrations pursuant to s. 865.09, general partnership registrations pursuant to s. 620.8105, and limited liability partnership statements pursuant to s. 620.9001 which are organized, registered, or reserved under the laws of this state; however, a limited liability company may register under a name that is not otherwise distinguishable on the records of the department with the written consent of the other entity if the consent is filed with the department at the time of registration of such name and if such name is not identical to the name of the other entity. A name that is different from the name of another entity or filing due to any of the following is not considered distinguishable:
+1. A suffix.
+2. A definite or indefinite article.
+3. The word “and” and the symbol “&.”
+4. The singular, plural, or possessive form of a word.
+5. A punctuation mark or a symbol.
+(c) May not contain language stating or implying that the limited liability company is organized for a purpose other than a purpose authorized in this chapter and its articles of organization.
+(d) May not contain language stating or implying that the limited liability company is connected with a state or federal government agency or a corporation or other entity chartered under the laws of the United States.
+(2) Subject to s. 605.0905, this section applies to a foreign limited liability company transacting business in this state which has a certificate of authority to transact business in this state or which has applied for a certificate of authority.
+(3) In the case of a limited liability company in existence before July 1, 2007, and registered with the department, the requirement in this section that the name of a limited liability company be distinguishable from the names of other entities and filings applies only if the limited liability company files documents on or after July 1, 2007, which would otherwise have affected its name.
+(4) A limited liability company in existence before January 1, 2014, which was registered with the department and is using an abbreviation or designation in its name authorized under previous law, may continue using the abbreviation or designation in its name until it dissolves or amends its name in the records of the department.
+(5) The name of the limited liability company must be filed with the department for public notice only, and the act of filing alone does not create any presumption of ownership beyond that which is created under the common law.
+(6) A limited liability company in existence before January 1, 2020, that has a name that does not clearly indicate that it is a limited liability company instead of a natural person, partnership, corporation, or other business entity may continue using such name until the limited liability company dissolves or amends its name in the records of the department.
+History.—s. 2, ch. 2013-180; s. 1, ch. 2014-209; s. 236, ch. 2019-90.
+605.01125 Reserved name.—
+(1) A person may reserve the exclusive use of the name of a limited liability company, including an alternate name for a foreign limited liability company whose name is not available, by delivering an application to the department for filing. The application must set forth the name and address of the applicant and the name proposed to be reserved. If the department finds that the name of the limited liability company applied for is available, it must reserve the name for the applicant’s exclusive use for a nonrenewable 120-day period.
+(2) The owner of a reserved name of a limited liability company may transfer the reservation to another person by delivering to the department a signed notice of the transfer that states the name and address of the transferee.
+(3) The department may revoke any reservation if, after a hearing, it finds that the application therefor or any transfer thereof was not made in good faith.
+History.—s. 237, ch. 2019-90.
+605.0113 Registered agent.—
+(1) Each limited liability company and each foreign limited liability company that has a certificate of authority under s. 605.0902 shall designate and continuously maintain in this state:
+(a) A registered office, which may be the same as its place of business in this state; and
+(b) A registered agent, who must be:
+1. An individual who resides in this state and whose business address is identical to the address of the registered office;
+2. Another domestic entity that is an authorized entity and whose business address is identical to the address of the registered office; or
+3. A foreign entity authorized to transact business in this state that is an authorized entity and whose business address is identical to the address of the registered office.
+(2) Each initial registered agent, and each successor registered agent that is appointed, shall file a statement in writing with the department, in the form and manner prescribed by the department, accepting the appointment as registered agent while simultaneously being designated as the registered agent. The statement of acceptance must provide that the registered agent is familiar with and accepts the obligations of that position.
+(3) The duties of a registered agent are as follows:
+(a) To forward to the limited liability company or registered foreign limited liability company, at the address most recently supplied to the agent by the company or foreign limited liability company, a process, notice, or demand pertaining to the company or foreign limited liability company which is served on or received by the agent.
+(b) If the registered agent resigns, to provide the notice required under s. 605.0115(2) to the company or foreign limited liability company at the address most recently supplied to the agent by the company or foreign limited liability company.
+(4) The department shall maintain an accurate record of the registered agent and registered office for service of process and shall promptly furnish information disclosed thereby upon request and payment of the required fee.
+(5) A limited liability company and each foreign limited liability company that has a certificate of authority under s. 605.0902 may not prosecute or maintain an action in a court in this state until the limited liability company complies with this section, pays to the department any amounts required under this chapter, and, to the extent ordered by a court of competent jurisdiction, pays to the department a penalty of $5 for each day it has failed to comply or $500, whichever is less, and pays any other amounts required under this chapter.
+(6) For the purposes of this section, “authorized entity” means:
+(a) A corporation for profit.
+(b) A limited liability company.
+(c) A limited liability partnership.
+(d) A limited partnership, including a limited liability limited partnership.
+History.—s. 2, ch. 2013-180; s. 238, ch. 2019-90; s. 16, ch. 2024-265.
+605.0114 Change of registered agent or registered office.—
+(1) In order to change its registered agent or registered office address, a limited liability company or a foreign limited liability company may deliver to the department for filing a statement of change containing the following:
+(a) The name of the limited liability company or foreign limited liability company.
+(b) The name of its current registered agent.
+(c) If the current registered agent is to be changed, the name of the new registered agent.
+(d) The street address of its current registered office for its current registered agent.
+(e) If the street address of the current registered office is to be changed, the new street address of the registered office in this state.
+(2) If the registered agent is changed, the written acceptance of the successor registered agent described in s. 605.0113(2) must also be included in or attached to the statement of change.
+(3) A statement of change is effective when filed by the department or when authorized under s. 605.0207.
+(4) The changes described in this section may also be made on the limited liability company’s or foreign limited liability company’s annual report, in an application for reinstatement filed with the department under s. 605.0715(1), in an amendment to or restatement of a company’s articles of organization in accordance with s. 605.0202, or in an amendment to a foreign limited liability company’s certificate of authority in accordance with s. 605.0907.
+History.—s. 2, ch. 2013-180; s. 239, ch. 2019-90.
+605.0115 Resignation of registered agent.—
+(1) A registered agent may resign as agent for a limited liability company or foreign limited liability company by delivering for filing to the department a signed statement of resignation containing the name of the limited liability company or foreign limited liability company.
+(2) After delivering the statement of resignation to the department for filing, the registered agent must promptly mail a copy to the limited liability company’s or foreign limited liability company’s current mailing address; provided, however, that if a composite statement of resignation is being filed pursuant to subsection (6), the registered agent must promptly mail a copy of either the composite statement of resignation or a separate notice of resignation for each respective limited liability company, in each case using the respective mailing address of the respective limited liability company that then appears in the records of the department.
+(3) A registered agent is terminated upon the earlier of:
+(a) The 31st day after the department files the statement of resignation; or
+(b) When a statement of change or other record designating a new registered agent is filed by the department.
+(4) When a statement of resignation takes effect, the registered agent ceases to have responsibility for a matter thereafter tendered to it as agent for the limited liability company or foreign limited liability company. The resignation does not affect contractual rights that the company or foreign limited liability company has against the agent or that the agent has against the company or foreign limited liability company.
+(5) A registered agent may resign from a limited liability company or foreign limited liability company regardless of whether the company or foreign limited liability company has active status.
+(6)(a) If a registered agent is resigning as registered agent from more than one limited liability company that each has been dissolved, either voluntarily, administratively, or by court action, for a continuous period of 10 years or longer, the registered agent may elect to file the statement of resignation separately for each such limited liability company or may elect to file a single composite statement of resignation covering two or more limited liability companies. Any such composite statement of resignation must set forth, for each such limited liability company covered by the statement of resignation, the name of the respective limited liability 1company and the date dissolution became effective for the respective limited liability company.
+(b) This subsection is applicable only to resignations from limited liability companies as defined in this chapter.
+History.—s. 2, ch. 2013-180; s. 240, ch. 2019-90; s. 9, ch. 2024-265.
+1Note.—The word “company” was inserted by the editors to conform to context.
+605.0116 Change of name or address by registered agent.—
+(1) If a registered agent changes his, her, or its name or address, the agent may deliver to the department for filing a statement of change that provides the following:
+(a) The name of the limited liability company or foreign limited liability company represented by the registered agent.
+(b) The name of the registered agent as currently shown in the records of the department for the limited liability company or foreign limited liability company.
+(c) If the name of the registered agent has changed, his, her, or its new name.
+(d) If the address of the registered agent has changed, the new address.
+(e) A statement that the registered agent has given the notice required under subsection (2).
+(2) A registered agent shall promptly furnish notice of the statement of change and the changes made by the statement filed with the department to the represented limited liability company or foreign limited liability company.
+History.—s. 2, ch. 2013-180; s. 241, ch. 2019-90; s. 70, ch. 2020-32.
+605.0117 Serving process, giving notice, or making a demand.—
+(1) Process against a limited liability company or registered foreign limited liability company may be served in accordance with s. 48.062 and chapter 48 or chapter 49.
+(2) Any notice or demand on a limited liability company or registered foreign limited liability company under this chapter may be given or made to any member of a member-managed limited liability company or registered foreign limited liability company or to any manager of a manager-managed limited liability company or registered foreign limited liability company; to the registered agent of the limited liability company or registered foreign limited liability company at the registered office of the limited liability company or registered foreign limited liability company in this state; or to any other address in this state which is in fact the principal office of the limited liability company or registered foreign limited liability company in this state.
+(3) A registered series of a foreign series limited liability company may be served in the same manner as a registered limited liability company.
+(4) This section does not affect the right to serve process, give notice, or make a demand in any other manner provided by law.
+History.—s. 2, ch. 2013-180; s. 242, ch. 2019-90; s. 19, ch. 2022-190.
+605.0118 Delivery of record.—
+(1) Except as otherwise provided in this chapter, permissible means of delivery of a record include delivery by hand, the United States Postal Service, a commercial delivery service, and electronic transmission.
+(2) Except as provided in subsection (3), delivery to the department is effective only when a record is received by the department.
+(3) If a check is mailed to the department for payment of an annual report fee or the annual supplemental fee required under s. 607.193, the check shall be deemed to have been received by the department as of the postmark date appearing on the envelope or package transmitting the check if the envelope or package is received by the department.
+History.—s. 2, ch. 2013-180; s. 243, ch. 2019-90.
+605.0119 Waiver of notice.—If, pursuant to this chapter or the articles of organization or operating agreement of a limited liability company, notice is required to be given to a member of a limited liability company or to a manager of a limited liability company having a manager or managers, a waiver in writing signed by the person or persons entitled to the notice, whether made before or after the time for notice to be given, is equivalent to the giving of notice.
+History.—s. 2, ch. 2013-180.
+605.0201 Formation of limited liability company; articles of organization.—
+(1) One or more persons may act as authorized representatives to form a limited liability company by signing and delivering articles of organization to the department for filing.
+(2) The articles of organization must state the following:
+(a) The name of the limited liability company, which must comply with s. 605.0112.
+(b) The street and mailing addresses of the company’s principal office.
+(c) The name, street address in this state, and written acceptance of the company’s initial registered agent.
+(3) The articles of organization may contain statements on matters other than those required under subsection (2), but may not vary from or otherwise affect the provisions specified in s. 605.0105(3) in a manner inconsistent with that subsection. Additional statements may include one or more of the following:
+(a) A declaration as to whether the limited liability company is manager-managed for purposes of s. 605.0407 and other relevant provisions of this chapter.
+(b) For a manager-managed limited liability company, the names and addresses of one or more of the managers of the company.
+(c) For a member-managed limited liability company, the names and addresses of one or more of the members of the company.
+(d) A description of the authority or limitation on the authority of a specific person in the company or a person holding a position or having a specified status in the company.
+(e) Any other relevant matters.
+(4) A limited liability company is formed when the company’s articles of organization become effective under s. 605.0207 and when at least one person becomes a member at the time the articles of organization become effective. By signing the articles of organization, the person who signs the articles of organization affirms that the company has or will have at least one member as of the time the articles of organization become effective.
+History.—s. 2, ch. 2013-180.
+605.0202 Amendment or restatement of articles of organization.—
+(1) The articles of organization may be amended or restated at any time.
+(2) To amend the articles of organization, a limited liability company must deliver to the department for filing an amendment, designated as such in its heading, which contains the following:
+(a) The present name of the company.
+(b) The date of filing of the company’s articles of organization.
+(c) The amendment to the articles of organization.
+(d) The delayed effective date, as provided under s. 605.0207, if the amendment is not effective on the date the department files the amendment.
+(3) To restate its articles of organization, a limited liability company must deliver to the department for filing an instrument, entitled “Restatement of Articles of Organization,” which contains the following:
+(a) The present name of the company.
+(b) The date of the filing of its articles of organization.
+(c) All of the provisions of its articles of organization in effect, as restated.
+(d) The delayed effective date, as provided under s. 605.0207, if the restatement is not effective on the date the department files the restatement.
+(4) A restatement of the articles of organization of a limited liability company may also contain one or more amendments to the articles of organization, in which case the instrument must be entitled “Amended and Restated Articles of Organization.”
+(5) If a member of a member-managed limited liability company or a manager of a manager-managed limited liability company knew that information contained in filed articles of organization was inaccurate when the articles of organization were filed or became inaccurate due to changed circumstances, the member or manager shall promptly:
+(a) Cause the articles of organization to be amended; or
+(b) If appropriate, deliver to the department for filing a statement of change under s. 605.0114 or a statement of correction under s. 605.0209.
+History.—s. 2, ch. 2013-180.
+605.0203 Signing of records to be delivered for filing to department.—
+(1) A record delivered to the department for filing pursuant to this chapter must be signed as follows:
+(a) Except as otherwise provided in paragraphs (b) and (c), a record signed on behalf of a limited liability company must be signed by a person authorized by the company.
+(b) A company’s initial articles of organization must be signed by at least one person acting as an authorized representative. The articles of organization must also include or have attached a statement signed by the company’s initial registered agent in the form described in s. 605.0113(2).
+(c) A record delivered on behalf of a dissolved company that has no member must be signed by the person winding up the company’s activities and affairs under s. 605.0709(3) or a person appointed under s. 605.0709(4) or (5) to wind up the activities and affairs.
+(d) A statement of denial by a person under s. 605.0303 must be signed by that person.
+(e) A record changing the registered agent must also include or be accompanied by a statement signed by the successor registered agent in the form described in s. 605.0113(2).
+(f) Any other record delivered on behalf of a person to the department must be signed by that person.
+(2) A record may also be signed by an agent, legal representative, or attorney-in-fact, as applicable, if such person is duly appointed and authorized to sign the record and the record states that such person possesses that authority.
+(3) A person who signs a record as an agent, legal representative, or attorney-in-fact affirms as a fact that the person is authorized to sign the record.
+History.—s. 2, ch. 2013-180.
+605.0204 Signing and filing pursuant to judicial order.—
+(1) If a person who is required under this chapter to sign a record or deliver a record to the department for filing under this chapter does not do so, another person who is aggrieved may petition the circuit court to order:
+(a) The person to sign the record;
+(b) The person to deliver the record to the department for filing; or
+(c) The department to file the record unsigned.
+(2) If a petitioner under subsection (1) is not the limited liability company or foreign limited liability company to which the record pertains, the petitioner shall make the limited liability company or foreign limited liability company a party to the action. The petitioner may seek the remedies provided in subsection (1) in the same action, in combination or in the alternative.
+(3) A record filed pursuant to paragraph (1)(c) is effective without being signed.
+History.—s. 2, ch. 2013-180.
+605.0205 Liability for inaccurate information in filed record.—
+(1) If a record delivered to the department for filing under this chapter and filed by the department contains inaccurate information, a person who suffers a loss by reliance on such information may recover damages for the loss from:
+(a) A person who signed the record, or caused another to sign it on the person’s behalf, and knew the information was inaccurate at the time the record was signed; and
+(b) Subject to subsection (2), a member of a member-managed limited liability company or a manager of a manager-managed limited liability company if:
+1. The record was delivered for filing on behalf of the company; and
+2. The member or manager had notice of the inaccuracy for a reasonably sufficient time before the information was relied upon so that, before the reliance, the member or manager reasonably could have:
+a. Effected an amendment pursuant to s. 605.0202;
+b. Filed a petition pursuant to s. 605.0204; or
+c. Delivered to the department for filing a statement of change pursuant to s. 605.0114 or a statement of correction under s. 605.0209.
+(2) To the extent that the operating agreement of a member-managed limited liability company expressly relieves a member of responsibility for maintaining the accuracy of information contained in records delivered on behalf of the company to the department for filing and imposes that responsibility on one or more other members, the liability stated in paragraph (1)(b) applies to those other members and not to the member that the operating agreement relieves of the responsibility.
+(3) An individual who signs a record authorized or required to be filed under this chapter affirms under penalty of perjury that the information stated in the record is accurate.
+History.—s. 2, ch. 2013-180.
+605.0206 Filing requirements.—
+(1) A record authorized or required to be delivered to the department for filing under this chapter must be captioned to describe the record’s purpose, be in a medium authorized by the department, and be delivered to the department. If all filing fees are paid, the department shall file the record unless the department determines that the record does not comply with the filing requirements.
+(2) Upon request and payment of the applicable fee, the department shall send to the requester a certified copy of the requested record.
+(3) If the department has prescribed a mandatory medium or form for the record being filed, the record must be in the prescribed medium or on the prescribed form.
+(4) Except as otherwise provided by the department, a document to be filed with the department must be typewritten or printed, legible, and written in the English language. A limited liability company name does not need to be in English if written in English letters or Arabic or Roman numerals, and the certificate of existence required of a foreign limited liability company does not need to be in English if accompanied by a reasonably authenticated English translation. The department may prescribe forms in electronic format which comply with this chapter. The department may also use electronic transmissions for the purposes of notice and communication in the performance of its duties and may require filers and registrants to furnish e-mail addresses when presenting a document for filing.
+History.—s. 2, ch. 2013-180.

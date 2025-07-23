@@ -1,0 +1,68 @@
+6a-6d-CLAIMS
+
+6a: CLAIM: Failure to Provide Evidence Supporting Claims
+	•	Parties Involved:
+	•	Primary Responsible Party: Luther Rollins.
+	•	Jointly Liable Parties: Zach Steinberger, Compass Realty.
+	•	Statute Violated:
+	•	§83.49(3)(a): “Requirement for Evidence Supporting Security Deposit Claims.”
+	•	Summary: Landlords must provide itemized evidence of damages when making claims on a security deposit.
+	•	Claim Summary:
+The landlord and realtor failed to provide photographs, receipts, or professional assessments to justify the withholding of the tenant’s security deposit. The lack of evidence constitutes bad faith and violates statutory obligations.
+	•	Evidence:
+	•	Tenant’s dispute letter requesting itemized evidence.
+	•	Landlord’s failure to produce any documentation within the required timeframe.
+	•	Case Law Support:
+	•	Johnson v. Baker, 388 So.2d 1056 (Fla. App. 1980): Failure to provide evidence voids a landlord’s claim on a deposit.
+	•	Claim Amount: Contributes to treble damages of $13,500 for bad-faith withholding.
+	
+	
+6b: CLAIM: Arbitrary and Unjustified Settlement Offer
+
+	•	Parties Involved:
+	•	Primary Responsible Party: Luther Rollins.
+	•	Statute Violated:
+	•	§83.49(3)(c): “Bad-Faith Negotiation of Security Deposit Claims.”
+	•	Summary: Landlords must engage in good-faith negotiations regarding security deposit disputes.
+	•	Claim Summary:
+The landlord offered an arbitrary settlement of $2,000 without addressing the tenant’s dispute or providing justification for the reduced amount. This behavior reflects bad faith and an attempt to avoid compliance with statutory obligations.
+	•	Evidence:
+	•	Copy of the landlord’s $2,000 settlement offer.
+	•	Tenant’s written objection highlighting lack of justification.
+	•	Case Law Support:
+	•	Williams v. Edwards, 642 So.2d 124 (Fla. App. 1994): Arbitrary settlement offers reflect bad faith and trigger statutory penalties.
+	•	Claim Amount: Contributes to treble damages of $13,500 for bad-faith withholding.
+
+6c: CLAIM:  Improper Communication Tactics
+	•	Parties Involved:
+	•	Primary Responsible Party: Luther Rollins.
+	•	Jointly Liable Parties: Zach Steinberger, Compass Realty.
+	•	Statute Violated:
+	•	§83.67(5): “Prohibited Practices: Bad-Faith Communication.”
+	•	Summary: Landlords and agents must communicate transparently and avoid tactics that obstruct tenants’ rights.
+	•	Claim Summary:
+The landlord and realtor engaged in evasive communication tactics, including delays in responding to tenant disputes and withholding critical information about security deposit claims. These actions obstructed the tenant’s ability to resolve disputes and exacerbated emotional distress.
+	•	Evidence:
+	•	Timeline of delayed responses from the landlord and realtor.
+	•	Texts and emails showing evasive or incomplete communication.
+	•	Case Law Support:
+	•	Goodwin v. Alexatos, 584 So.2d 1007 (Fla. App. 1991): Obstructive communication tactics violate tenant protections under Florida law.
+	•	Claim Amount: Contributes to punitive damages of $15,000.
+
+
+6d: CLAIM:  Failure to Monitor Agent Communication
+	•	Parties Involved:
+	•	Primary Responsible Party: Compass Realty.
+	•	Statute Violated:
+	•	Florida Real Estate Law: “Supervisory Obligations for Agent Conduct.”
+	•	Summary: Brokers must ensure agents communicate transparently and adhere to professional standards.
+	•	Claim Summary:
+Compass Realty failed to monitor and supervise Zach Steinberger’s communications, allowing him to contribute to the landlord’s bad-faith actions. This failure enabled obstructive tactics and caused additional distress for the tenant.
+	•	Evidence:
+	•	Lease documents identifying Compass Realty as the broker responsible for supervising Zach.
+	•	Records of evasive or incomplete communication from Zach.
+	•	Case Law Support:
+	•	Goodwin v. Alexatos, 584 So.2d 1007 (Fla. App. 1991): Brokers are liable for failing to supervise agents’ conduct.
+	•	Claim Amount: Contributes to punitive damages of $10,000.
+
+

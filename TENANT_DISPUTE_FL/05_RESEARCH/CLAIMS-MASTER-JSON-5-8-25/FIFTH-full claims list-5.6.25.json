@@ -1,0 +1,966 @@
+[
+  {
+    "id": "c7d8e9f0-a1b2-3b4c-5d6e-7f8a9b0c1d2e3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 760.20-§ 760.37",
+    "official_title": "Fair Housing Act",
+    "summary_description": "Prohibits discrimination in housing based on race, color, national origin, sex, disability, familial status, or religion, and provides remedies for violations.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": "II",
+        "part_name": "FAIR HOUSING ACT",
+        "chapter_number": "760",
+        "chapter_name": "Discrimination in the Treatment of Persons; Minority Representation",
+        "section_number_raw": ".20-.37",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Civil Rights (Fair Housing)",
+    "keywords": ["fair housing", "discrimination", "housing", "protected class", "civil rights"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 760.23",
+        "relationship_type": "references"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4c5d-6e7f-8a9b0c1d2e3f4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 760.23",
+    "official_title": "Discrimination in Housing",
+    "summary_description": "Specifically prohibits discriminatory housing practices, such as refusing to rent or sell, or discriminating in terms or conditions, based on protected characteristics.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": "II",
+        "part_name": "FAIR HOUSING ACT",
+        "chapter_number": "760",
+        "chapter_name": "Discrimination in the Treatment of Persons; Minority Representation",
+        "section_number_raw": ".23",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Civil Rights (Fair Housing)",
+    "keywords": ["housing discrimination", "refusal to rent", "protected characteristics", "fair housing act"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 760.20-§ 760.37",
+        "relationship_type": "referenced_by"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5d6e-7f8a-9b0c1d2e3f4a5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 768.28",
+    "official_title": "Waiver of sovereign immunity (relevant to public landlords)",
+    "summary_description": "Waives sovereign immunity for the state and its agencies and subdivisions in tort actions under certain conditions, relevant if the landlord is a governmental entity.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "768",
+        "chapter_name": "Negligence",
+        "section_number_raw": ".28",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Torts (Sovereign Immunity)",
+    "keywords": ["sovereign immunity", "waiver", "tort actions", "public landlord", "governmental entity"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6e7f-8a9b-0c1d2e3f4a5b6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 768.31",
+    "official_title": "Contribution among tortfeasors",
+    "summary_description": "Allows a tortfeasor who has paid more than their pro rata share of common liability to seek contribution from other joint tortfeasors.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "768",
+        "chapter_name": "Negligence",
+        "section_number_raw": ".31",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Torts (Contribution)",
+    "keywords": ["contribution", "tortfeasors", "joint liability", "pro rata share"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7f8a-9b0c-1d2e3f4a5b6c7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 768.72",
+    "official_title": "Pleading and proving punitive damages / Pleading in civil actions for punitive damages",
+    "summary_description": "Sets forth the procedural and substantive requirements for pleading and proving a claim for punitive damages in civil actions, requiring a showing of intentional misconduct or gross negligence.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "768",
+        "chapter_name": "Negligence",
+        "section_number_raw": ".72",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Torts (Damages)",
+    "keywords": ["punitive damages", "pleading requirements", "proving damages", "intentional misconduct", "gross negligence"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Sets forth the requirements for pleading punitive damages. Relevance: Provides the statutory framework for seeking punitive damages based on the landlord's willful, malicious, or egregious conduct.",
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 768.73",
+        "relationship_type": "related_subject_matter"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8a9b-0c1d-2e3f4a5b6c7d8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 768.72-§ 768.73",
+    "official_title": "Punitive Damages Statutes",
+    "summary_description": "Collectively, these sections govern the award of punitive damages in civil actions, including standards for liability and limitations on amounts.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "768",
+        "chapter_name": "Negligence",
+        "section_number_raw": ".72-.73",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Torts (Damages)",
+    "keywords": ["punitive damages", "civil actions", "liability standards", "damage limitations"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9b0c-1d2e-3f4a5b6c7d8e9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 768.81",
+    "official_title": "Comparative fault and apportionment of damages / Comparative fault",
+    "summary_description": "Establishes the principles of comparative fault in negligence actions, whereby damages are apportioned among parties based on their percentage of fault.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "768",
+        "chapter_name": "Negligence",
+        "section_number_raw": ".81",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Torts (Negligence)",
+    "keywords": ["comparative fault", "negligence", "apportionment of damages", "percentage of fault"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0c1d-2e3f-4a5b6c7d8e9f0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 772.11",
+    "official_title": "Civil remedies for criminal practices",
+    "summary_description": "Provides for civil remedies, including treble damages and attorney's fees, for persons injured by certain criminal activities such as theft or dealing in stolen property.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "772",
+        "chapter_name": "Civil Remedies for Criminal Practices",
+        "section_number_raw": ".11",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Civil Remedies for Criminal Acts",
+    "keywords": ["civil remedies", "criminal practices", "treble damages", "attorney fees", "civil theft"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Allows a civil action for damages resulting from certain criminal practices, including theft. Provides for treble damages and attorney's fees. Relevance: Potential application if the landlord's conversion of personal property meets the elements of civil theft.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1d2e-3f4a-5b6c7d8e9f0a1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 775.082",
+    "official_title": "Felony sentencing structure",
+    "summary_description": "Outlines the general sentencing structure and penalties for felony offenses in Florida.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "775",
+        "chapter_name": "General Penalties; Registration of Criminals",
+        "section_number_raw": ".082",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Sentencing)",
+    "keywords": ["felony sentencing", "penalties", "criminal offenses", "sentencing structure"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2e3f-4a5b-6c7d8e9f0a1b2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 775.083",
+    "official_title": "Fines for fraud, theft, and regulatory offenses",
+    "summary_description": "Specifies the fines that can be imposed for various offenses, including those involving fraud, theft, and violations of regulatory statutes.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "775",
+        "chapter_name": "General Penalties; Registration of Criminals",
+        "section_number_raw": ".083",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Sentencing)",
+    "keywords": ["fines", "fraud", "theft", "regulatory offenses", "criminal penalties"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3f4a-5b6c-7d8e9f0a1b2c3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 775.084",
+    "official_title": "Habitual offender enhancement penalties",
+    "summary_description": "Provides for enhanced penalties for defendants classified as habitual felony offenders, habitual violent felony offenders, or violent career criminals.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "775",
+        "chapter_name": "General Penalties; Registration of Criminals",
+        "section_number_raw": ".084",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Sentencing)",
+    "keywords": ["habitual offender", "enhanced penalties", "sentencing", "repeat offenders"],
+    "full_text_link": null,
+    "application_notes_general": "If criminally charged.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4a5b-6c7d-8e9f0a1b2c3d4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 784.048",
+    "official_title": "Stalking and harassment, including repeated coercive communications / Stalking; definitions; penalties",
+    "summary_description": "Defines stalking and harassment, including cyberstalking, as a course of conduct that causes substantial emotional distress and serves no legitimate purpose, and establishes criminal penalties.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "784",
+        "chapter_name": "Assault; Battery; Culpable Negligence",
+        "section_number_raw": ".048",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Offenses Against Persons)",
+    "keywords": ["stalking", "harassment", "coercive communication", "cyberstalking", "emotional distress"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Defines stalking and harassment, including engaging in a course of conduct that causes substantial emotional distress and serves no legitimate purpose. Relevance: Landlord's pattern of unwanted communication may constitute harassment under this statute.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5b6c-7d8e-9f0a1b2c3d4e5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 812.014",
+    "official_title": "Theft (including conversion of tenant property)",
+    "summary_description": "Defines the crime of theft, which includes knowingly obtaining or using the property of another with intent to deprive the person of a right to the property or a benefit from it, or to appropriate the property to one's own use.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "812",
+        "chapter_name": "Theft, Robbery, and Related Crimes",
+        "section_number_raw": ".014",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Property Crimes)",
+    "keywords": ["theft", "conversion", "tenant property", "property crime", "larceny"],
+    "full_text_link": null,
+    "application_notes_general": "Potential conversion of tenant's property.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6c7d-8e9f-0a1b2c3d4e5f6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 812.081",
+    "official_title": "Theft of trade secrets or personal records",
+    "summary_description": "Criminalizes the theft of trade secrets and certain personal identification information.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "812",
+        "chapter_name": "Theft, Robbery, and Related Crimes",
+        "section_number_raw": ".081",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Property Crimes)",
+    "keywords": ["theft", "trade secrets", "personal records", "identity theft"],
+    "full_text_link": null,
+    "application_notes_general": "If relevant to tenant's personal records.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7d8e-9f0a-1b2c3d4e5f6a7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 817.02",
+    "official_title": "False pretenses",
+    "summary_description": "Criminalizes obtaining property, money, or other valuable things by false pretenses with intent to defraud.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "817",
+        "chapter_name": "Fraudulent Practices",
+        "section_number_raw": ".02",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Fraud)",
+    "keywords": ["false pretenses", "fraud", "obtaining property by fraud", "deceit"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8e9f-0a1b-2c3d4e5f6a7b8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 817.03",
+    "official_title": "Obtaining property by trick",
+    "summary_description": "Criminalizes obtaining property from another by any trick, scheme, or device with intent to defraud.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "817",
+        "chapter_name": "Fraudulent Practices",
+        "section_number_raw": ".03",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Fraud)",
+    "keywords": ["obtaining property by trick", "fraud", "scheme", "device", "deceit"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9f0a-1b2c-3d4e5f6a7b8c9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 817.034",
+    "official_title": "Communications Fraud Act",
+    "summary_description": "Prohibits engaging in a scheme to defraud by means of willful misrepresentation through various forms of communication to obtain anything of value.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "817",
+        "chapter_name": "Fraudulent Practices",
+        "section_number_raw": ".034",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Fraud)",
+    "keywords": ["communications fraud", "scheme to defraud", "misrepresentation", "wire fraud", "mail fraud"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0a1b-2c3d-4e5f6a7b8c9d0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 817.155",
+    "official_title": "False statements to induce agreements",
+    "summary_description": "Criminalizes making false statements regarding financial condition or ability to pay to induce the making of an agreement or contract.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "817",
+        "chapter_name": "Fraudulent Practices",
+        "section_number_raw": ".155",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Fraud)",
+    "keywords": ["false statements", "inducement", "agreement", "contract fraud", "financial condition"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1b2c-3d4e-5f6a7b8c9d0e1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 817.535",
+    "official_title": "Fraudulent creation or possession of public records",
+    "summary_description": "Prohibits the fraudulent creation, alteration, or possession of public records with intent to defraud or injure.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "817",
+        "chapter_name": "Fraudulent Practices",
+        "section_number_raw": ".535",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Fraud)",
+    "keywords": ["fraudulent public records", "false records", "public records fraud", "intent to defraud"],
+    "full_text_link": null,
+    "application_notes_general": "Relevant if the landlord filed deeds or other public records containing false address information with intent to deceive or hinder.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2c3d-4e5f-6a7b8c9d0e1f2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 831.01-§ 831.07",
+    "official_title": "Forgery of lease-related documents, receipts, legal claims",
+    "summary_description": "These sections collectively criminalize various acts of forgery and counterfeiting, including the forgery of documents such as leases, receipts, or documents related to legal claims.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "831",
+        "chapter_name": "Forgery and Counterfeiting",
+        "section_number_raw": ".01-.07",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Forgery and Counterfeiting)",
+    "keywords": ["forgery", "counterfeiting", "lease documents", "receipts", "legal claims", "false documents"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3d4e-5f6a-7b8c9d0e1f2a3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. Chapter 832",
+    "official_title": "Fraudulent Practices",
+    "summary_description": "This chapter broadly covers various fraudulent practices, including issuing worthless checks and obtaining property by fraudulent means.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "832",
+        "chapter_name": "Violations Involving Checks and Drafts",
+        "section_number_raw": null,
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Fraud)",
+    "keywords": ["fraudulent practices", "worthless checks", "check fraud", "fraud"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4e5f-6a7b-8c9d0e1f2a3b4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. Chapter 837",
+    "official_title": "Perjury",
+    "summary_description": "This chapter criminalizes perjury, including making false statements under oath in official proceedings or in written declarations.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "837",
+        "chapter_name": "Perjury",
+        "section_number_raw": null,
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Offenses Against Justice)",
+    "keywords": ["perjury", "false statement", "under oath", "official proceeding", "written declaration"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 837.06",
+        "relationship_type": "references"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5f6a-7b8c-9d0e1f2a3b4c5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 837.06",
+    "official_title": "False official statements to public agencies or in legal proceedings",
+    "summary_description": "Criminalizes knowingly making a false official statement in writing with the intent to mislead a public servant in the performance of their official duty.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "837",
+        "chapter_name": "Perjury",
+        "section_number_raw": ".06",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Offenses Against Justice)",
+    "keywords": ["false official statement", "perjury", "public agency", "legal proceeding", "mislead public servant"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. Chapter 837",
+        "relationship_type": "referenced_by"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6a7b-8c9d-0e1f2a3b4c5d6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 865.09",
+    "official_title": "Fictitious name registration",
+    "summary_description": "Requires businesses operating under a fictitious name (a name other than the legal name of the owner) to register that name with the Florida Department of State.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "865",
+        "chapter_name": "Violations of Certain Commercial Restrictions",
+        "section_number_raw": ".09",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Regulation",
+    "keywords": ["fictitious name", "DBA", "business registration", "Department of State"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7b8c-9d0e-1f2a3b4c5d6e7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 934.03",
+    "official_title": "Interception and disclosure of wire, oral, or electronic communications prohibited",
+    "summary_description": "Prohibits the intentional interception, use, or disclosure of any wire, oral, or electronic communication without proper authorization or consent of all parties in many circumstances.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "934",
+        "chapter_name": "Security of Communications",
+        "section_number_raw": ".03",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Criminal Law (Privacy and Communications)",
+    "keywords": ["wiretapping", "interception", "electronic communication", "oral communication", "privacy", "consent"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Prohibits unauthorized recording or surveillance of communications. Relevance: Relevant if there is evidence the landlord or agent engaged in unauthorized recording of the tenant.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8c9d-0e1f-2a3b4c5d6e7f8",
+    "provision_type": "florida_administrative_code_rule",
+    "citation": "Fla. Admin. Code R. 61J2-10.025",
+    "official_title": "Disclosure Requirements (Real Estate)",
+    "summary_description": "Specifies disclosure requirements for real estate licensees regarding brokerage relationships and other material facts.",
+    "details": {
+      "floridaAdministrativeCodeRuleDetails": {
+        "code_name": "Florida Administrative Code",
+        "title_number_fac": "61J2",
+        "title_name_fac": "Florida Real Estate Commission",
+        "chapter_number_fac": "10",
+        "chapter_name_fac": "Disclosure",
+        "rule_number_full": "61J2-10.025",
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Professions and Occupations (Real Estate)",
+    "keywords": ["real estate", "disclosure", "brokerage relationship", "licensee duty", "FAC"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Specifies disclosure requirements for real estate licensees regarding brokerage relationships. Relevance: Relevant if the realtor failed to make proper disclosures.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9d0e-1f2a-3b4c5d6e7f8a9",
+    "provision_type": "florida_administrative_code_rule",
+    "citation": "Fla. Admin. Code R. 61J2-14.012",
+    "official_title": "Broker's responsibility for supervision (Real Estate)",
+    "summary_description": "Outlines the responsibilities of a licensed real estate broker for the supervision of their sales associates and broker associates.",
+    "details": {
+      "floridaAdministrativeCodeRuleDetails": {
+        "code_name": "Florida Administrative Code",
+        "title_number_fac": "61J2",
+        "title_name_fac": "Florida Real Estate Commission",
+        "chapter_number_fac": "14",
+        "chapter_name_fac": "Broker's Responsibility and Escrow Accounts",
+        "rule_number_full": "61J2-14.012",
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Professions and Occupations (Real Estate)",
+    "keywords": ["real estate broker", "supervision", "sales associate", "broker responsibility", "FAC"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Outlines the responsibilities of a licensed real estate broker for supervising sales associates. Relevance: Brokerage may be liable for negligent supervision of the realtor.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  }
+]

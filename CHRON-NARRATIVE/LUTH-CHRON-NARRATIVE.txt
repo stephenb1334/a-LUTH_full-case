@@ -1,0 +1,68 @@
+Background and Context
+
+On or about November 29, 2024, a package was delivered to the rental property located at 2649 Tifton St S, Gulfport, FL 33711 (hereinafter "the Property"). This package, sent by Luther Rollins, came seemingly as a result of tenant text message requests made on or about November 22, 2024, and November 28, 2024. The package contained pre-stamped and pre-addressed envelopes with instructions for remitting rent payments.
+
+You reinforced this approach by providing pre-stamped, pre-addressed envelopes instructing tenants to remit rent payments totaling $36,000, representing eight months of rent out of the total $45,000 due for the full ten-month lease term. However, these envelopes arrived only on November 29th, 29 days into the lease and just days before the second month’s rent was due. This timing was critical because, until then, no clear instructions or means to pay rent were provided despite repeated tenant inquiries.
+
+Prior Payment Instructions and Resulting Confusion Causing Undue Stress and Recurring Issues
+
+The only payment instructions available prior to the arrival of the November 29 package were those included in the fully executed lease agreement. Hypothetically, if tenants had followed these instructions, they would have been directed to send rental checks to Luther Rollins, Jr. at the very property being rented. This is because Luther Rollins, Jr. listed that same property address as the “landlord address” in five separate places within the lease documents. One of these instances even included specific rent payment instructions referencing this identical address.
+
+As a result, had tenants complied with these instructions, their rent checks would have been mailed to the rental property itself—2649 Tifton St S, Gulfport, FL 33711—effectively causing the payments to be misdirected or returned. This created confusion, delay, and undue stress for tenants, especially because no alternative or clarifying payment instructions were provided despite repeated tenant inquiries.
+
+This confusion and lack of clear payment guidance began just 29 days into the lease term and became a strong recurring theme throughout the tenancy and even after the lease concluded. The persistent uncertainty around where and how to remit rent payments placed tenants in a difficult position, contributing to ongoing stress and administrative complications.
+
+Details of the Mailed Package and Payment Instructions
+
+The package delivered on November 29, 2024, included instructions directing tenants to make rental payments payable to AMARLU ENTERPRISES. The mailing address for such payments was specified as:
+
+	231 Government Ave. SW #3097, Hickory, NC 28603
+
+This address is a federally owned United States Postal Service facility. The designation "#3097" is a Post Office Box (PO Box) number, which was represented in the payment instructions as a business suite number. This representation is misleading as it disguises a PO Box as a commercial office suite. The address is located in Catawba County, North Carolina.
+
+Evidence of this mailing and the instructions provided are documented in the evidence catalog.
+
+Assumed Business Name Filings and Legal Loophole
+
+Further investigation reveals that on July 7, 2023, Luther Rollins filed an Assumed Business Name Certificate with the Catawba County Recorder of Deeds. This filing occurred after the Property had been listed for rent on June 12, 2023.
+
+The filing established three assumed business names (DBAs) under Luther Rollins’ control:
+
+	AMARLU ENTERPRISES
+	AMARLU COMPANY
+	AMARLU CONSULTING
+
+These entities are not registered with the North Carolina Secretary of State, the state-level authority responsible for corporate and business registrations. The filings exist solely at the county level, exploiting a known legal loophole permitting individuals to operate under assumed business names without state oversight.
+
+In Catawba County and North Carolina at large, this loophole allows an individual to open both a bank account and a post office box under an assumed business name certificate filed at the county level. Documentation of the in-person county filing and certificate issuance has been provided as evidence. Unlike many other states that require state and federal EIN verification to open such accounts, North Carolina permits these accounts to be opened solely based on the county-level assumed business name certificate, making this process significantly less regulated and easier to exploit.
+
+The timing of key events strongly indicates a deliberate intent to execute the described scheme. Luther Rollins filed the assumed business name certificate in July 2023, shortly after the property was listed for rent in June 2023. The lease commencement date was October 31, 2023—coinciding exactly with the same day Zillow records show the property’s rental listing was delisted and marked as "Listing removed." This removal occurred under circumstances suggesting possible involvement or at least knowledge by Zach Steinberger of Compass Realty, the in-state listing agent representing Luther Rollins. Whether through direct action or negligence, the removal and concealment of the listing appear to contravene applicable rules, laws, and codes of ethics governing both real estate professionals and attorneys. This obfuscation effectively hid the existence of the lease from public records and scrutiny. Notably, the property had been purchased by Rollins in April 2022, establishing a timeline that underscores premeditated planning to leverage county-level assumed business filings and opaque listing practices to facilitate the rent payment scheme.
+
+
+Use of Personal Residence as Official Business Address
+
+Within the july 7th, 2023 filing of the assumed business name certificate with with donna hicks spencer, the recorder of deeds at catawba county, nc  Luther Rollins listed his personal and primary residence as the official business address for all three assumed business names - AMARLU ENTERPRISES, AMARLU COMPANY, and AMARLU CONSULTING—in the Assumed Business Name Certificate filing submitted to Catawba County. 
+
+	- 420 18th Ave Lane NW, Hickory, NC 28601, 
+
+and luther responded on the form to: "The street address of the principal place of business is" luther used 231 government ave sw #3097 Hickory nc 28603-3097
+
+as This filing is significant because the Assumed Business Name form explicitly prohibits the use of P.O. Boxes as official business addresses, requiring a physical street address instead to ensure transparency and proper identification of the business location.
+Despite this clear prohibition, Rollins circumvented the requirement by instructing tenants to remit rent payments to a mailing address that was, in reality, a disguised P.O. Box. This mailing address was represented as a commercial suite number (#3097) at 231 Government Ave. SW, Hickory, NC 28603—a federally owned United States Postal Service facility. By presenting the P.O. Box as a business suite, Rollins deliberately obscured the true nature of the payment address, complicating oversight and accountability.
+Moreover, Rollins appended an incorrect four-digit ZIP+4 code—28603-3097—to the mailing address. The base ZIP code 28603 is exclusively designated for P.O. Boxes at this USPS facility. The extension "3097" does not correspond to a valid ZIP+4 delivery segment but rather serves as a fabricated detail intended to mislead. This nonsensical ZIP+4 addition appears to be a calculated tactic to create a breadcrumb trail designed to confuse or thwart any attempts at regulatory review, legal service, or enforcement actions.
+Together, these actions represent a deliberate misrepresentation that undermines transparency and accountability in both the business filings and the rent collection process conducted under the assumed business names. The use of a personal residence as the official business address, coupled with a disguised P.O. Box and fabricated ZIP code details, effectively masks the true location and control of the rent payment receipt, raising significant concerns about legitimacy and oversight.
+
+Implications and Summary
+
+The combined use of:
+
+	- A federally owned PO Box disguised as a business suite address for rent payment receipt,
+
+	- County-level assumed business name filings without state registration, and
+	- A personal residential address as the official business address,
+creates a structure that obscures the true ownership and location of the rent payments.
+
+This arrangement effectively misdirects tenant payments, complicates transparency, and raises concerns regarding the legitimacy and accountability of the rent collection process conducted under the name AMARLU ENTERPRISES.
+
+Conclusion
+The evidence demonstrates a deliberate scheme by Luther Rollins to utilize county-level assumed business names and a federal PO Box to receive rental payments under a misleading business address, thereby circumventing standard state registration requirements and obscuring the true nature of the rent payment recipient.

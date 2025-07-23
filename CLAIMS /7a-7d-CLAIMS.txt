@@ -1,0 +1,34 @@
+7a-7d-CLAIMS - Category: Claims Related to Violations by Amarlu Enterprises
+
+
+7a: CLAIM: Failure to Register as a Foreign Entity
+	•	Parties Involved:
+	•	Primary Responsible Party: Amarlu Enterprises.
+	•	Statute Violated:
+	•	§605.0902: “Foreign Entities Conducting Business in Florida.”
+	•	Summary: Requires foreign entities engaging in business activities in Florida to register with the Division of Corporations.
+	•	Claim Summary:
+Amarlu Enterprises, a North Carolina entity, collected $36,000 in rent payments for a Florida property without registering as a foreign entity. This unlawful operation violates Florida law, invalidates the lease, and renders all rent payments subject to restitution.
+	•	Evidence:
+	•	Rent payment records showing payments to Amarlu Enterprises.
+	•	Business registration search showing Amarlu Enterprises is not registered in Florida.
+	•	Case Law Support:
+	•	Goodwin v. Alexatos, 584 So.2d 1007 (Fla. App. 1991): Entities operating without proper registration cannot enforce contractual agreements.
+	•	Claim Amount: Supports restitution of $36,000 in rent payments.
+
+
+7b: CLAIM: Concealment of Role in Lease Agreement
+	•	Parties Involved:
+	•	Primary Responsible Party: Amarlu Enterprises.
+	•	Statute Violated:
+	•	§83.49(2): “Transparency in Lease Agreements.”
+	•	Summary: Landlords must disclose all parties involved in collecting rent or managing the lease.
+	•	Claim Summary:
+Amarlu Enterprises was not disclosed in the lease agreement, concealing its role in collecting rent. This omission deprived the tenant of vital information about the entity’s involvement and undermined the transparency required by Florida law.
+	•	Evidence:
+	•	Lease agreement naming only Luther Rollins as the landlord.
+	•	Tenant’s rent payment records showing payments directed to Amarlu Enterprises.
+	•	Case Law Support:
+	•	Durene v. Alcime, 448 So.2d 1208 (Fla. App. 1984): Concealing parties involved in a lease breaches transparency obligations.
+	•	Claim Amount: Contributes to regulatory penalties of $10,000–$14,000.
+

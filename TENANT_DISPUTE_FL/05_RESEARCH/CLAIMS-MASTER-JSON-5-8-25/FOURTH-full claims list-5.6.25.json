@@ -1,0 +1,917 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7f8a-9b0c-1d2e3f4a5b6c7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 607.0101-§ 607.1907",
+    "official_title": "Florida Business Corporation Act",
+    "summary_description": "Governs the formation, operation, and dissolution of business corporations in Florida, relevant if the landlord is a corporation.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "607",
+        "chapter_name": "Florida Business Corporation Act",
+        "section_number_raw": ".0101-.1907",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (Corporations)",
+    "keywords": ["corporation", "business corporation act", "formation", "operation", "dissolution"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8a9b-0c1d-2e3f4a5b6c7d8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 607.1501",
+    "official_title": "Authority for foreign corporations to transact business",
+    "summary_description": "Requires foreign corporations to obtain a certificate of authority from the Florida Department of State before transacting business in Florida.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "607",
+        "chapter_name": "Florida Business Corporation Act",
+        "section_number_raw": ".1501",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (Corporations)",
+    "keywords": ["foreign corporation", "transact business", "certificate of authority", "registration"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9b0c-1d2e-3f4a5b6c7d8e9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 607.1502",
+    "official_title": "Application for certificate of authority (Foreign Corporation)",
+    "summary_description": "Outlines the process and requirements for a foreign corporation to apply for a certificate of authority to transact business in Florida.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "607",
+        "chapter_name": "Florida Business Corporation Act",
+        "section_number_raw": ".1502",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (Corporations)",
+    "keywords": ["foreign corporation", "certificate of authority", "application", "registration process"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0c1d-2e3f-4a5b6c7d8e9f0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 607.1505",
+    "official_title": "Consequences of unauthorized corporate business activity",
+    "summary_description": "Specifies the penalties and consequences for a foreign corporation transacting business in Florida without proper authorization, including inability to maintain lawsuits.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "607",
+        "chapter_name": "Florida Business Corporation Act",
+        "section_number_raw": ".1505",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (Corporations)",
+    "keywords": ["foreign corporation", "unauthorized business", "consequences", "penalties", "lawsuit bar"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1d2e-3f4a-5b6c7d8e9f0a1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 620.1101-§ 620.2205",
+    "official_title": "Florida Revised Uniform Limited Partnership Act",
+    "summary_description": "Governs the formation, operation, and dissolution of limited partnerships in Florida, relevant if the landlord is a limited partnership.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "620",
+        "chapter_name": "Partnership Laws",
+        "section_number_raw": ".1101-.2205",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (Partnerships)",
+    "keywords": ["limited partnership", "partnership act", "formation", "operation", "dissolution"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2e3f-4a5b-6c7d8e9f0a1b2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 633.208",
+    "official_title": "Florida Fire Prevention Code",
+    "summary_description": "Adopts and establishes the Florida Fire Prevention Code, which sets standards for fire safety in buildings, including rental properties.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "633",
+        "chapter_name": "Fire Prevention and Control",
+        "section_number_raw": ".208",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Fire Prevention and Safety",
+    "keywords": ["fire prevention code", "fire safety", "building standards", "rental property"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3f4a-5b6c-7d8e9f0a1b2c3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 689.01",
+    "official_title": "Conveyances of real estate",
+    "summary_description": "Sets forth the requirements for validly conveying interests in real estate in Florida, such as the need for a written instrument signed in the presence of two subscribing witnesses.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "689",
+        "chapter_name": "Conveyances of Land and Declarations of Trust",
+        "section_number_raw": ".01",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Real Property",
+    "keywords": ["real estate conveyance", "deed", "written instrument", "witnesses", "property transfer"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4a5b-6c7d-8e9f0a1b2c3d4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 689.071",
+    "official_title": "Land trust provisions",
+    "summary_description": "Provides for the creation and operation of land trusts in Florida, which can be used to hold title to real property.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "689",
+        "chapter_name": "Conveyances of Land and Declarations of Trust",
+        "section_number_raw": ".071",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Real Property (Trusts)",
+    "keywords": ["land trust", "real property trust", "title holding", "trust law"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5b6c-7d8e-9f0a1b2c3d4e5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 689.18",
+    "official_title": "Recovery of possession and termination of tenancies",
+    "summary_description": "Addresses the recovery of possession of real property and the termination of tenancies, often in conjunction with Chapter 83.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "689",
+        "chapter_name": "Conveyances of Land and Declarations of Trust",
+        "section_number_raw": ".18",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Real Property",
+    "keywords": ["recovery of possession", "termination of tenancy", "eviction", "real property"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Chapter 83",
+        "relationship_type": "related_subject_matter"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6c7d-8e9f-0a1b2c3d4e5f6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.10",
+    "official_title": "Definitions / Disposition of personal property landlord",
+    "summary_description": "Provides definitions for terms used in the statutes governing the disposition of personal property left by a former tenant; generally introduces the topic of disposition of personal property by a landlord.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".10",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["personal property", "abandoned property", "landlord-tenant", "definitions", "disposition"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7d8e-9f0a-1b2c3d4e5f6a7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.101",
+    "official_title": "Notification of lien for storage",
+    "summary_description": "Pertains to the notification requirements for asserting a lien for storage of personal property, often in contexts other than landlord-tenant abandoned property.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".101",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["storage lien", "notification", "personal property", "lien"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8e9f-0a1b-2c3d4e5f6a7b8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.104",
+    "official_title": "Notice before disposing of property / Notification to tenant or occupant with property remaining on premises",
+    "summary_description": "Requires a landlord to provide specific written notice to a former tenant or occupant regarding personal property left on the premises before disposing of it.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".104",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["abandoned property", "personal property", "notice", "landlord duty", "disposal"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Requires the landlord to provide written notice to a former tenant about personal property left behind, describing the property and stating the landlord's intent to dispose of it if not claimed within a specified time. Relevance: Landlord's failure to provide this notice is a direct violation.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9f0a-1b2c-3d4e5f6a7b8c9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.105",
+    "official_title": "Manner of notice / Form of notification for personal property of tenant",
+    "summary_description": "Specifies the required content, format, and method of delivery for the notice a landlord must give to a former tenant about abandoned personal property.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".105",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["abandoned property", "notice form", "personal property", "landlord duty", "tenant notification"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Provides the specific statutory language and format required for the notice under § 715.104. Relevance: Landlords must use the correct form of notice; deviations may invalidate the notice.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0a1b-2c3d-4e5f6a7b8c9d0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.106",
+    "official_title": "Tenant’s right to reclaim property / Form of notification for personal property of occupant / Procedure for landlord to dispose of personal property left by former tenant",
+    "summary_description": "Outlines the former tenant's or occupant's right to reclaim their personal property within a specified timeframe after receiving notice from the landlord; also specifies the notice form for occupants and the steps a landlord must follow to store, sell, or dispose of property if not claimed.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".106",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["abandoned property", "reclaim property", "tenant rights", "occupant notice", "disposal procedure"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Outlines the steps a landlord must follow to store, sell, or dispose of personal property if the tenant does not claim it after receiving notice. Relevance: Landlords must adhere to these procedures; failure to do so can result in liability.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1b2c-3d4e-5f6a7b8c9d0e1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.107",
+    "official_title": "Storage of personal property / Landlord's relief of liability",
+    "summary_description": "Governs the landlord's ability to store abandoned personal property and charge reasonable storage costs; also specifies conditions under which a landlord is relieved of liability for the property.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".107",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["abandoned property", "storage", "storage costs", "landlord liability", "relief of liability"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Specifies conditions under which a landlord is relieved of liability for personal property. Relevance: A landlord is not relieved of liability if they fail to follow the statutory procedures.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2c3d-4e5f-6a7b8c9d0e1f2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.108",
+    "official_title": "Release of personal property / Storage of personal property left by former tenant",
+    "summary_description": "Details the conditions for the release of stored personal property to the former tenant; also governs the landlord's ability to store personal property and charge reasonable storage costs.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".108",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["abandoned property", "release of property", "storage", "storage costs", "tenant rights"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Governs the landlord's ability to store personal property and charge reasonable storage costs. Relevance: Landlords can only charge reasonable storage costs if they comply with the notice requirements.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3d4e-5f6a-7b8c9d0e1f2a3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.109",
+    "official_title": "Sale or disposition of personal property / Liability of the landlord",
+    "summary_description": "Outlines the procedures for the sale or other disposition of unclaimed personal property by the landlord; also establishes landlord liability for damages if statutory procedures are not followed, potentially including actual damages or three months' rent.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".109",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["abandoned property", "sale of property", "disposition", "landlord liability", "damages"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: A landlord who does not comply with the requirements of Chapter 715, Part II (regarding abandoned property) is liable to the former tenant for actual damages or three months' rent, whichever is greater, and costs of the action. Relevance: This statute provides the damages available to a tenant when a landlord mishandles abandoned property.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4e5f-6a7b-8c9d0e1f2a3b4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.11",
+    "official_title": "Construction of law (Disposition of Personal Property)",
+    "summary_description": "Clarifies that the provisions for disposition of personal property do not supersede other rights or obligations of landlords or tenants under other laws.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".11",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["abandoned property", "construction of law", "landlord rights", "tenant rights"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Clarifies that Chapter 715, Part II does not affect other landlord rights or obligations. Relevance: Ensures that the abandoned property statutes interact correctly with other landlord-tenant laws.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5f6a-7b8c-9d0e1f2a3b4c5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.111",
+    "official_title": "Sale or destruction of unclaimed property / Assurance of voluntary compliance",
+    "summary_description": "Details the procedures for the sale or destruction of unclaimed personal property by the landlord; also pertains to assurances of voluntary compliance in certain regulatory contexts.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": "II",
+        "part_name": "DISPOSITION OF PERSONAL PROPERTY LANDLORD AND TENANT ACT",
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".111",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition)",
+    "keywords": ["abandoned property", "unclaimed property", "sale", "destruction", "voluntary compliance"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6a7b-8c9d-0e1f2a3b4c5d6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 715.12",
+    "official_title": "Commercial landlord property disposal obligations",
+    "summary_description": "Addresses the specific obligations of commercial landlords regarding the disposal of personal property left by former tenants in commercial tenancies.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "715",
+        "chapter_name": "Property: General Provisions",
+        "section_number_raw": ".12",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Property (Personal Property Disposition - Commercial)",
+    "keywords": ["commercial landlord", "personal property", "disposal obligations", "commercial tenancy"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7b8c-9d0e-1f2a3b4c5d6e7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 718.101-§ 718.622",
+    "official_title": "Condominium Act",
+    "summary_description": "Governs the creation, operation, and management of condominiums in Florida, relevant if the rental property is a condominium unit.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "718",
+        "chapter_name": "Condominiums",
+        "section_number_raw": ".101-.622",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Real Property (Condominiums)",
+    "keywords": ["condominium", "condo act", "association", "rental unit", "management"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8c9d-0e1f-2a3b4c5d6e7f8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. Chapter 720",
+    "official_title": "Homeowners' Associations",
+    "summary_description": "Governs homeowners' associations in Florida, which may be relevant if the rental property is part of a community governed by an HOA and the lease or landlord actions are affected by HOA rules.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "720",
+        "chapter_name": "Homeowners' Associations",
+        "section_number_raw": null,
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Real Property (Homeowners' Associations)",
+    "keywords": ["homeowners association", "HOA", "community rules", "rental restrictions"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9d0e-1f2a-3b4c5d6e7f8a9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. Chapter 721",
+    "official_title": "Vacation and Timeshare Plans",
+    "summary_description": "Regulates vacation and timeshare plans in Florida, which may be relevant if a lease is structured or disguised as a timeshare.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "721",
+        "chapter_name": "Vacation and Timeshare Plans",
+        "section_number_raw": null,
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Real Property (Timeshares)",
+    "keywords": ["timeshare", "vacation plan", "short-term rental", "mixed-use"],
+    "full_text_link": null,
+    "application_notes_general": "May apply where lease is disguised as short-term or mixed-use timeshare structure.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0e1f-2a3b-4c5d6e7f8a9b0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 723.001-§ 723.0791",
+    "official_title": "Mobile Home Park Lot Tenancies",
+    "summary_description": "Regulates the rental of mobile home lots in mobile home parks, including specific rights and obligations for park owners and homeowners.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XL",
+        "title_name": "REAL AND PERSONAL PROPERTY",
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "723",
+        "chapter_name": "Mobile Home Park Lot Tenancies",
+        "section_number_raw": ".001-.0791",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Real Property (Mobile Homes)",
+    "keywords": ["mobile home park", "lot tenancy", "park owner", "homeowner rights"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1f2a-3b4c-5d6e7f8a9b0c1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 726.101-§ 726.110",
+    "official_title": "Florida Uniform Fraudulent Transfer Act",
+    "summary_description": "Allows creditors to void transfers of assets made by a debtor with the intent to defraud, hinder, or delay creditors, or transfers made for less than reasonably equivalent value while insolvent.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "XLI",
+        "title_name": "STATUTE OF FRAUDS, FRAUDULENT TRANSFERS, AND GENERAL ASSIGNMENTS",
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "726",
+        "chapter_name": "Fraudulent Transfers",
+        "section_number_raw": ".101-.110",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Creditor Rights (Fraudulent Transfers)",
+    "keywords": ["fraudulent transfer", "creditor rights", "asset transfer", "debtor-creditor"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2a3b-4c5d-6e7f8a9b0c1d2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 736.0801-§ 736.08125",
+    "official_title": "Trustee duties (Florida Trust Code)",
+    "summary_description": "Outlines the various duties of a trustee in administering a trust, such as the duty of loyalty and prudence, relevant if the rental property is held in a trust and the landlord is the trustee.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "736",
+        "chapter_name": "Florida Trust Code",
+        "section_number_raw": ".0801-.08125",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Trusts and Estates",
+    "keywords": ["trustee duties", "trust administration", "fiduciary duty", "Florida Trust Code"],
+    "full_text_link": null,
+    "application_notes_general": "If property is held under a trust and landlord breaches fiduciary obligations.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  }
+]

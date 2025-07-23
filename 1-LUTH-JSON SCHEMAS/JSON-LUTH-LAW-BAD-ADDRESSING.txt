@@ -1,0 +1,340 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FloridaLandlordTenantDispute_TenantRepresentation",
+  "type": "object",
+  "required": ["id", "case", "document", "workflow"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "format": "uuid",
+      "value": "UUID_PLACEHOLDER"
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "schema_version": { "type": "string", "value": "1.0.0" },
+        "processing_timestamp": { "type": "string", "format": "date-time", "value": "2025-04-19T00:53:15Z" },
+        "source_hash": { "type": "string", "pattern": "^[A-Fa-f0-9]{64}$", "value": "SHA256_PLACEHOLDER_FOR_BAD_ADDRESSING.pdf" },
+        "processing_metrics": {
+          "type": "object",
+          "properties": {
+            "confidence_score": { "type": "number", "minimum": 0, "maximum": 1, "value": null },
+            "processing_time_ms": { "type": "integer", "minimum": 0, "value": null },
+            "extraction_method": { "type": "string", "enum": ["ocr", "direct_text", "pdf_extraction", "docx_extraction", "image_analysis", "manual_entry"], "value": "pdf_extraction" }
+          }
+        },
+        "data_handling": {
+          "type": "object",
+          "properties": {
+            "pii_detected": { "type": "boolean", "value": true },
+            "sensitive_financial_data": { "type": "boolean", "value": true },
+            "health_information": { "type": "boolean", "value": false },
+            "retention_policy": { "type": "string", "value": null }
+          }
+        }
+      }
+    },
+    "case": {
+      "type": "object",
+      "required": ["label", "court_docket"],
+      "properties": {
+        "label": { "type": "string", "value": "Landlord Address Misrepresentation Dispute" },
+        "court_docket": { "type": "string", "pattern": "^[0-9]{4}-[A-Z]{2}-[0-9]{6}$", "value": null },
+        "jurisdiction": { "const": "FL-Pinellas", "value": "FL-Pinellas" },
+        "stage": { 
+          "type": "string", 
+          "enum": ["pre_filing","demand_letter","complaint_filed","answer","discovery","mediation","hearing","trial","post_judgment","appeal","emergency_relief","contempt_proceedings"],
+          "value": "pre_filing" 
+        },
+        "judge": { "type": "string", "value": null },
+        "tags": { "type": "array", "items": { "type": "string" }, "value": ["address misrepresentation", "bad faith", "lease violation", "statutory non-compliance", "PO Box misuse"] },
+        "filing_date": { "type": "string", "format": "date", "value": null },
+        "next_court_date": { "type": "string", "format": "date", "value": null },
+        "client_representation": { "type": "string", "enum": ["tenant", "landlord"], "value": "tenant" },
+        "opposing_counsel": { "type": "string", "value": null },
+        "county": { "type": "string", "value": "Pinellas" },
+        "estimated_damages_range": { 
+          "type": "string", 
+          "enum": ["under_5k", "5k_8k", "8k_15k", "15k_30k", "30k_50k", "over_50k"],
+          "value": null 
+        },
+        "property_address": { "type": "string", "value": "2649 Tifton St. S., Gulfport, FL 33711" }
+      }
+    },
+    "parties": {
+      "type": "object",
+      "required": ["tenant", "landlord"],
+      "properties": {
+        "tenant": { 
+            "$ref": "#/$defs/party", 
+            "value": {
+                "name": "Stephen Boerner",
+                "address": "2649 Tifton St. S., Gulfport, FL 33711" 
+            } 
+        },
+        "landlord": { 
+            "$ref": "#/$defs/party",
+            "value": {
+                "name": "Luther Rollins Jr.",
+                "address": "Disputed (Used tenant address 2649 Tifton St S, Gulfport, FL 33711 in lease; used PO Box disguised as suite 231 Government Ave SW, #3097, Hickory, NC 28603 for rent/correspondence )",
+                "alternative_business_names": ["Amarlu Enterprises"]
+            }
+        },
+        "counsel_tenant": { "$ref": "#/$defs/attorney", "value": null },
+        "counsel_landlord": { "$ref": "#/$defs/attorney", "value": null },
+        "rental_status": {
+          "type": "object",
+          "properties": {
+            "lease_start_date": { "type": "string", "format": "date", "value": "2023-11-01" },
+            "lease_end_date": { "type": "string", "format": "date", "value": "2024-08-31" },
+            "rental_duration": { "type": "string", "value": "10 months" },
+            "monthly_rent": { "type": "string", "value": "$4500 (Implied from $36,000 total Dec 2023 - July 2024 )" },
+            "security_deposit": { "type": "string", "value": null },
+            "move_out_date": { "type": "string", "format": "date", "value": null },
+            "move_out_reason": { "type": "string", "enum": ["lease_expiration", "early_termination", "eviction", "constructive_eviction", "mutual_agreement"], "value": null },
+            "security_deposit_handling": { "type": "string", "enum": ["returned_full", "returned_partial", "withheld_full", "disputed", "pending"], "value": "disputed" }
+          }
+        },
+        "witnesses": { "type": "array", "items": { "type": "object" }, "value": [] }
+      }
+    },
+    "document": {
+      "type": "object",
+      "required": ["file_name","original_sha256","text"],
+      "properties": {
+        "file_name": { "type": "string", "value": "BAD ADDRESSING.pdf" },
+        "media_type": { "type": "string", "value": "application/pdf" },
+        "original_sha256": { "type": "string", "pattern": "^[A-Fa-f0-9]{64}$", "value": "SHA256_PLACEHOLDER_FOR_BAD_ADDRESSING.pdf" },
+        "text": { "type": "string", "value": "[Content of BAD ADDRESSING.pdf - Truncated for brevity]" },
+        "structured_text": { "type": "string", "value": null },
+        "language": { "type": "string", "default": "en", "value": "en" },
+        "created_at": { "type": "string", "format": "date-time", "value": null },
+        "doc_type": { 
+          "type": "string", 
+          "enum": ["lease_agreement","security_deposit_claim","tenant_dispute_letter","demand_letter","complaint","answer","motion","order","notice","affidavit","discovery_request","discovery_response","correspondence","exhibit","inspection_report","incident_report","police_report","medical_record","receipt","invoice","photograph","certificate_of_service"],
+          "value": "tenant_dispute_letter"
+        },
+        "doc_subtype": { "type": "string", "value": "Legal Analysis/Complaint Draft" },
+        "verification_status": {
+          "type": "string",
+          "enum": ["unverified", "verified", "contested", "partially_verified"],
+          "value": "unverified" 
+        },
+        "verification_details": { "type": "string", "value": null },
+        "evidence_classification": {
+          "type": "string",
+          "enum": ["admissible", "potentially_admissible", "inadmissible", "privileged", "work_product", "hearsay"],
+          "value": "potentially_admissible"
+        },
+        "ocr_confidence": { "type": "number", "minimum": 0, "maximum": 1, "value": null }
+      }
+    },
+    "extracted_entities": {
+      "type": "object",
+      "properties": {
+        "statutes": { 
+          "type": "array", 
+          "items": { "type": "object" },
+          "value": [
+            { "citation": "Fla. Stat. § 83.44", "context": "Duty of good faith", "favorable_to_client": true },
+            { "citation": "Fla. Stat. § 83.48", "context": "Attorney's fees", "favorable_to_client": true },
+            { "citation": "Fla. Stat. § 83.49", "context": "Deposit money/advance rent, notice requirements", "favorable_to_client": true },
+            { "citation": "Fla. Stat. § 83.50", "context": "Disclosure of landlord's address", "favorable_to_client": true },
+            { "citation": "N.C.G.S. § 66-71.4", "context": "Prohibition of PO Boxes for business registration address", "favorable_to_client": true },
+            { "citation": "18 U.S.C. § 1341", "context": "Frauds and swindles (Mail Fraud)", "favorable_to_client": true }
+          ]
+        },
+        "case_law": {
+          "type": "array",
+          "items": { "type": "object" },
+           "value": [
+              { "citation": "Johnson v. Hayward, 103 So. 3d 152 (Fla. 5th DCA 2012)", "case_name": "Johnson v. Hayward", "relevance": "Penalties for landlords using deceptive practices undermining tenant rights", "jurisdiction": "Florida", "court": "5th DCA", "year": 2012, "favorable_to_client": true },
+              { "citation": "Rolfe v. Betts, 31 So. 3d 842 (Fla. 5th DCA 2010)", "case_name": "Rolfe v. Betts", "relevance": "Penalties for landlords using deceptive practices undermining tenant rights", "jurisdiction": "Florida", "court": "5th DCA", "year": 2010, "favorable_to_client": true }
+           ]
+        },
+        "dates": { 
+          "type": "array", 
+          "items": { "type": "object" },
+           "value": [
+              { "date": "2023-07-07", "context": "Amarlu Enterprises Assumed Business Name Certificate filed", "significance": "Establishes business filing date, potentially non-compliant " },
+              { "date": "2023-11-01", "context": "Lease effective start date", "significance": "Start of lease term " },
+              { "date": "2023-11-29", "context": "Landlord instruction to redirect rent payments", "significance": "Introduction of disputed address and entity " },
+              { "date": "2024-08-31", "context": "Lease effective end date", "significance": "End of lease term " },
+              { "date": "2024-10-01", "context": "Certified letter sent by Landlord", "significance": "Shows use of disputed PO Box address format " },
+              { "date": "2024-10-15", "context": "Tenant sent certified dispute letter", "significance": "Tenant attempt at formal dispute, letter unclaimed by landlord " },
+              { "date": "2024-11-08", "context": "Certified letter sent by Landlord", "significance": "Shows use of different disputed PO Box address format " }
+           ]
+        },
+        "rental_property": {
+          "type": "object",
+          "properties": {
+            "address": { "type": "string", "value": "2649 Tifton St. S., Gulfport, FL 33711" },
+            "parcel_id": { "type": "string", "value": null },
+            "county": { "type": "string", "default": "Pinellas County", "value": "Pinellas County" },
+            "property_type": { "type": "string", "enum": ["single_family_home", "apartment", "condominium", "townhouse", "duplex", "multi_family", "mobile_home", "commercial"], "value": null },
+            "move_in_condition": { "type": "object", "value": null },
+            "move_out_condition": { "type": "object", "value": null },
+            "maintenance_issues": { "type": "array", "items": { "type": "object" }, "value": [] },
+            "security_concerns": { "type": "array", "items": { "type": "object" }, "value": [] }
+          }
+        },
+        "personal_property": { "type": "array", "items": { "type": "object" }, "value": [] },
+        "security_deposit": { "type": "object", "value": null },
+        "financials": {
+          "type": "object",
+          "properties": {
+             "lease_payments": {
+               "type": "array",
+               "items": { "type": "object" },
+               "value": [{ "amount": "$36,000 total (Dec 2023 - July 2024)", "payment_recipient_entity": "Amarlu Enterprises (not named in lease)", "context": "Payments allegedly compelled to non-lease entity/address "}] 
+             },
+             "damages": { "type": "array", "items": { "type": "object" }, "value": [] },
+             "expenses": { "type": "array", "items": { "type": "object" }, "value": [] }
+          }
+        },
+        "issues": { 
+          "type": "array", 
+          "items": { "type": "object" },
+          "value": [
+            { "category": "statutory_violation", "specific_claim": "Improper Landlord Address Disclosure in Lease", "requested_relief": null, "statutory_basis": "Fla. Stat. § 83.50" },
+            { "category": "statutory_violation", "specific_claim": "Use of Disguised/Invalid PO Box for Rent/Notices", "requested_relief": null, "statutory_basis": "Fla. Stat. § 83.44, § 83.49; N.C.G.S. § 66-71.4; 18 U.S.C. § 1341" },
+            { "category": "lease_violation", "specific_claim": "Failure to Provide Valid Mailing Address Per Lease Terms", "requested_relief": null },
+            { "category": "statutory_violation", "specific_claim": "Failure to Comply with Security Deposit Notice Requirements (Implied)", "requested_relief": null, "statutory_basis": "Fla. Stat. § 83.49" },
+            { "category": "statutory_violation", "specific_claim": "Non-compliant Assumed Business Name Filing (NC)", "requested_relief": null, "statutory_basis": "N.C.G.S. § 66-71.4" }
+          ]
+        },
+        "correspondence": {
+          "type": "array",
+          "items": { "type": "object" },
+          "value": [
+            { "date": "2023-11-29", "sender": "Landlord", "recipient": "Tenant", "method": null, "subject": "Rent Payment Instructions", "content_summary": "Directed rent to Amarlu Enterprises at 231 Government Ave SW #3097, Hickory, NC 28603 " },
+            { "date": "2024-10-01", "sender": "Landlord", "recipient": "Tenant", "method": "certified_mail", "subject": null, "content_summary": "Used address '231 Government Ave SW #3097, Hickory, NC 28603' " },
+            { "date": "2024-10-15", "sender": "Tenant", "recipient": "Landlord", "method": "certified_mail", "subject": "Dispute Letter", "content_summary": "Sent to 231 Government Ave SW #3097, Hickory, NC 28603; unclaimed by Landlord " },
+            { "date": "2024-11-08", "sender": "Landlord", "recipient": "Tenant", "method": "certified_mail", "subject": null, "content_summary": "Used address 'PO Box #3097, Hickory, NC 28603' " }
+          ]
+        }
+      }
+    },
+    "analysis": {
+      "type": "object",
+      "properties": {
+        "statutory_factor_analysis": {
+          "type": "object",
+          "properties": {
+            "security_deposit_handling": { "type": "string", "value": "Landlord potentially violated notice requirements under Fla. Stat. § 83.49 by failing to provide valid address and ignoring dispute letter." },
+            "notice_requirements": { "type": "string", "value": "Landlord failed to provide a valid address for notices as required by lease and Fla. Stat. § 83.50, using tenant's own address instead." },
+            "habitability_standards": { "type": "string", "value": null },
+            "maintenance_obligations": { "type": "string", "value": "Lease specified maintenance requests go to landlord at tenant's address, hindering proper communication." },
+            "landlord_access_compliance": { "type": "string", "value": null },
+            "retaliation_prohibition": { "type": "string", "value": null },
+            "rent_payment_handling": { "type": "string", "value": "Landlord directed payments to entity (Amarlu Enterprises) and address (disguised PO Box) not specified in lease." }
+          }
+        },
+        "landlord_professional_status": { "type": "object", "value": null },
+        "precedential_application": {
+          "type": "array",
+          "items": { "type": "object" },
+          "value": [
+            { "case_citation": "Johnson v. Hayward, 103 So. 3d 152 (Fla. 5th DCA 2012)", "relevant_holding": "Courts view deliberate obfuscation unfavorably and penalize landlords undermining tenant rights through deceptive practices.", "application_to_facts": "Landlord's address misrepresentation appears to be deliberate obfuscation.", "client_favorability": "favorable" },
+            { "case_citation": "Rolfe v. Betts, 31 So. 3d 842 (Fla. 5th DCA 2010)", "relevant_holding": "Courts view deliberate obfuscation unfavorably and penalize landlords undermining tenant rights through deceptive practices.", "application_to_facts": "Landlord's address misrepresentation appears to be deliberate obfuscation.", "client_favorability": "favorable" }
+          ]
+        },
+        "entity_registration_issues": {
+          "type": "object",
+          "properties": {
+            "business_name_used": { "type": "string", "value": "Amarlu Enterprises" },
+            "florida_registration_status": { "type": "string", "enum": ["registered", "not_registered", "expired", "unknown"], "value": "unknown" },
+            "foreign_entity_registration": { "type": "boolean", "value": null },
+            "home_state_registration": { "type": "string", "value": "Filed Assumed Business Name Certificate in Catawba County, NC on 2023-07-07 " },
+            "registered_agent": { "type": "string", "value": null },
+            "regulatory_violations": { "type": "array", "items": { "type": "string" }, "value": ["Alleged violation of N.C.G.S. § 66-71.4 by using PO Box for registration ", "Alleged false listing of rental property as business address on NC filing "] },
+            "legal_implications": { "type": "string", "value": "Pattern of deception and non-compliance; potential issues with entity's standing/legitimacy." }
+          }
+        },
+        "strategic_assessment": { "type": "string", "value": "Document argues landlord engaged in deliberate, systemic address misrepresentation, non-compliance, bad faith, and potential fraud, violating FL, NC, and federal law. Landlord used tenant address in lease and disguised PO Box for payments/correspondence. Actions strengthen tenant's defenses/counterclaims. Recommend legal remedies and regulatory complaints (FL DBPR, Catawba County Register of Deeds)." },
+        "procedural_next_steps": { "type": "array", "items": { "type": "string" }, "value": ["Send formal demand/notice (if proper address ascertainable)", "File legal action (counterclaims/affirmative defenses)", "File regulatory complaints (FL DBPR, Catawba County Register of Deeds)"] },
+        "litigation_risk_factors": { "type": "array", "items": { "type": "string" }, "value": ["Landlord faces significant risk due to documented bad faith, statutory violations.", "Tenant faces costs/complexity of litigation."] },
+        "negotiation_strategy": { "type": "object", "value": null },
+        "pinellas_county_practice_notes": { "type": "string", "value": null },
+        "tenant_representation_factors": { 
+            "type": "object", 
+            "properties": {
+                 "documentation_strength": { "type": "string", "value": "Strong documentation (lease, correspondence, public records) showing address misuse and statutory non-compliance." },
+                 "communication_pattern_evidence": { "type": "string", "value": "Evidence shows landlord providing conflicting addresses and ignoring certified mail." }
+            }
+        },
+        "opposing_counsel_profile": { "type": "object", "value": null },
+        "settlement_projections": { "type": "array", "items": { "type": "object" }, "value": [] },
+        "damages_calculation": { "type": "object", "value": null } 
+      }
+    },
+    "workflow": {
+      "type": "object",
+      "required": ["status","version"],
+      "properties": {
+        "status": { 
+          "type": "string",
+          "enum": ["new","parsed","reviewed","locked","contested","pending_verification","attorney_reviewed","client_reviewed","demand_drafted","complaint_drafted","settlement_negotiation","litigation_active","appealed"],
+          "value": "parsed"
+        },
+        "version": { "type": "integer", "minimum": 1, "value": 1 },
+        "version_history": { "type": "array", "items": { "type": "object" }, "value": [] },
+        "parent_version": { "type": "integer", "value": null },
+        "updated_at": { "type": "string", "format": "date-time", "value": "2025-04-19T00:53:15Z" },
+        "updated_by": { "type": "string", "value": "Gemini" },
+        "ai_feedback": { "type": "array", "items": { "type": "string" }, "value": [] },
+        "attorney_notes": { "type": "string", "contentMediaType": "text/markdown", "value": "The source PDF itself constitutes a detailed analysis focusing on the landlord's address misrepresentations and failure to comply with statutory requirements, arguing bad faith and potential fraud." },
+        "priority": { "type": "string", "enum": ["low", "medium", "high", "urgent"], "value": null },
+        "deadline": { "type": "string", "format": "date-time", "value": null },
+        "related_documents": { "type": "array", "items": { "type": "string", "format": "uuid" }, "value": [] },
+        "client_communication": { "type": "array", "items": { "type": "object" }, "value": [] },
+        "court_submission_status": { "type": "object", "value": null },
+        "discovery_tracking": { "type": "object", "value": null },
+        "quality_control": { "type": "object", "value": null },
+        "statutory_deadline_tracking": { "type": "array", "items": { "type": "object" }, "value": [] }
+      }
+    }
+  },
+  "$defs": {
+    "party": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "address": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "phone": { "type": "string" },
+        "alternative_business_names": { "type": "array", "items": { "type": "string" } },
+        "business_registration": {
+          "type": "object",
+          "properties": {
+            "registered_in_florida": { "type": "boolean" },
+            "registration_number": { "type": "string" },
+            "registration_type": { "type": "string" },
+            "home_state": { "type": "string" },
+            "home_state_registration": { "type": "string" }
+          }
+        },
+        "professional_licenses": { "type": "array", "items": { "type": "object" } },
+        "property_ownership": { "type": "object", "properties": {}},
+        "health_factors": { "type": "array", "items": { "type": "object" }}
+      }
+    },
+    "attorney": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "firm": { "type": "string" },
+        "address": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "phone": { "type": "string" },
+        "florida_bar_number": { "type": "string" },
+        "practice_focus": { "type": "array", "items": { "type": "string" } },
+        "landlord_tenant_experience_years": { "type": "integer" },
+        "negotiation_style": { "type": "string", "enum": ["aggressive", "collaborative", "technical", "relationship-based", "settlement-oriented"] },
+        "trial_experience_level": { "type": "string", "enum": ["extensive", "moderate", "limited", "none"] }
+      }
+    }
+  }
+}
+

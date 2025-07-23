@@ -1,0 +1,992 @@
+[
+  {
+    "id": "a7b8c9d0-e1f2-3f4a-5b6c-7d8e9f0a1b2c3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.52",
+    "official_title": "Tenant's obligation to maintain dwelling unit",
+    "summary_description": "Details the tenant's responsibilities for maintaining the cleanliness and condition of the dwelling unit and complying with applicable codes.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".52",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["tenant obligation", "maintain dwelling", "cleanliness", "building codes"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Outlines the tenant's duties regarding maintaining the premises. Relevance: While primarily a tenant obligation, a landlord might violate this by falsely claiming a tenant failed in these duties to justify withholding a deposit.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4a5b-6c7d-8e9f0a1b2c3d4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.53",
+    "official_title": "Landlord's access to dwelling unit",
+    "summary_description": "Specifies the conditions under which a landlord may enter a tenant's dwelling unit, including requirements for reasonable notice, consent, and emergency situations.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".53",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["landlord access", "entry", "dwelling unit", "notice", "consent", "emergency"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Outlines the conditions and notice requirements for a landlord to enter the tenant's dwelling. Relevance: Violations include: Entering the premises without proper notice (usually 12 hours, unless emergency). Entering at unreasonable times. Harassing the tenant by repeated demands for entry.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5b6c-7d8e-9f0a1b2c3d4e5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.535",
+    "official_title": "Flotation bedding system; restrictions on use",
+    "summary_description": "Addresses a tenant's right to install a flotation (waterbed) bedding system, subject to certain conditions like insurance and proper installation.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".535",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["flotation bedding", "waterbed", "tenant rights", "restrictions"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6c7d-8e9f-0a1b2c3d4e5f6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.54",
+    "official_title": "Enforcement of rights and duties; civil action; criminal offenses",
+    "summary_description": "Clarifies that rights and duties under the Act are enforceable by civil action and specifies certain actions that may constitute criminal offenses.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".54",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["enforcement", "rights and duties", "civil action", "criminal offenses"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7d8e-9f0a-1b2c3d4e5f6a7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.55",
+    "official_title": "Right of action for damages",
+    "summary_description": "Affirms that if either the landlord or tenant fails to comply with the rental agreement or the Act, the aggrieved party may recover damages.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".55",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["damages", "right of action", "noncompliance", "rental agreement"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8e9f-0a1b-2c3d4e5f6a7b8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.56",
+    "official_title": "Termination of rental agreement",
+    "summary_description": "Outlines the procedures and grounds for termination of a residential rental agreement by either the landlord or the tenant due to material noncompliance with the lease or statutory duties.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".56",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["termination", "rental agreement", "material noncompliance", "lease violation"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Specifies procedures for terminating a lease, including remedies for landlord's failure to maintain the premises. Relevance: A landlord's failure to maintain the premises as required by § 83.51 can trigger the tenant's right to terminate the lease or seek other remedies under this statute.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9f0a-1b2c-3d4e5f6a7b8c9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.561",
+    "official_title": "Termination of rental agreement upon foreclosure",
+    "summary_description": "Governs the rights and procedures for termination of a rental agreement when the rental property is subject to foreclosure.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".561",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": "Note: This statute number might have been renumbered or its subject matter moved. §83.682 also deals with termination, specifically by servicemembers, and foreclosure impacts were also mentioned under that number in some inputs.",
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["termination", "rental agreement", "foreclosure", "tenant rights"],
+    "full_text_link": null,
+    "application_notes_general": "Relevance: Relevant if the property is subject to foreclosure during the tenancy.",
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 83.682",
+        "relationship_type": "related_subject_matter"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0a1b-2c3d-4e5f6a7b8c9d0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.57",
+    "official_title": "Termination of tenancy without specific term",
+    "summary_description": "Specifies the notice requirements for terminating a residential tenancy that does not have a specific duration, such as a month-to-month or week-to-week tenancy.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".57",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["termination", "tenancy without specific term", "month-to-month", "week-to-week", "notice"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Governs termination of month-to-month or week-to-week tenancies. Relevance: Landlords must provide proper written notice to terminate such tenancies.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1b2c-3d4e-5f6a7b8c9d0e1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.575",
+    "official_title": "Termination of tenancy with specific duration",
+    "summary_description": "Addresses the conditions and notice requirements for terminating a residential tenancy that has a specific duration, particularly regarding non-renewal.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".575",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["termination", "tenancy with specific duration", "non-renewal", "notice"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2c3d-4e5f-6a7b8c9d0e1f2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.58",
+    "official_title": "Remedies; tenant holding over / Waiver of right to proceed with eviction claim",
+    "summary_description": "Outlines the landlord's remedies if a tenant remains in possession of the dwelling unit after the rental agreement has terminated without the landlord's permission (holding over). Also specifies conditions under which a landlord may waive their right to pursue eviction.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".58",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["remedies", "holding over", "eviction waiver", "possession"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Specifies conditions under which a landlord may waive their right to pursue eviction. Relevance: Relevant if the landlord attempted eviction after accepting rent or failing to follow proper procedures.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3d4e-5f6a-7b8c9d0e1f2a3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.59",
+    "official_title": "Right of action for possession",
+    "summary_description": "Establishes the landlord's right to bring an action for possession (eviction) if a tenant defaults in rent payment or holds over after termination.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".59",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["eviction", "action for possession", "rent default", "holding over"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Outlines the landlord's right to bring an action for possession (eviction). Relevance: Landlords must follow strict legal procedures for eviction; improper or illegal evictions violate this framework.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4e5f-6a7b-8c9d0e1f2a3b4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.595",
+    "official_title": "Choice of remedies upon breach or early termination by tenant",
+    "summary_description": "Describes the landlord's options for remedies if a tenant breaches the lease agreement and vacates the premises before the end of the term.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".595",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["remedies", "breach of lease", "early termination", "tenant default"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5f6a-7b8c-9d0e1f2a3b4c5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.60",
+    "official_title": "Defenses to action for rent or possession; procedure",
+    "summary_description": "Details the defenses a tenant may raise in an action for possession or unpaid rent, including the landlord's material noncompliance, and the procedure for raising such defenses.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".60",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["defenses", "eviction", "action for rent", "material noncompliance", "habitability"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Specifies defenses a tenant may raise in an eviction action, including habitability issues. Relevance: A landlord's failure to maintain the premises can be used as a defense against an eviction for non-payment of rent.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6a7b-8c9d-0e1f2a3b4c5d6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.61",
+    "official_title": "Disbursement of funds in registry of court; prompt final hearing",
+    "summary_description": "Governs the handling and disbursement of rent paid into the court registry by a tenant during an eviction proceeding and mandates a prompt final hearing.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".61",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["court registry", "rent disbursement", "eviction proceeding", "final hearing"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7b8c-9d0e-1f2a3b4c5d6e7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.62",
+    "official_title": "Restoration of possession to landlord",
+    "summary_description": "Outlines the process by which a landlord can be restored to possession of the dwelling unit following a judgment in their favor in an eviction action.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".62",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["restoration of possession", "eviction", "judgment", "writ of possession"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8c9d-0e1f-2a3b4c5d6e7f8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.625",
+    "official_title": "Power to award possession and enter money judgment",
+    "summary_description": "Confirms the court's authority in an eviction action to award possession to the landlord and enter a money judgment for unpaid rent and other damages.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".625",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["eviction", "possession", "money judgment", "unpaid rent", "damages"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9d0e-1f2a-3b4c5d6e7f8a9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.63",
+    "official_title": "Casualty damage",
+    "summary_description": "Addresses the rights and obligations of the landlord and tenant if the dwelling unit is damaged or destroyed by fire or other casualty, potentially allowing for rent reduction or lease termination.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".63",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["casualty damage", "fire damage", "destruction of premises", "rent reduction", "lease termination"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0e1f-2a3b-4c5d6e7f8a9b0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.64",
+    "official_title": "Retaliatory conduct",
+    "summary_description": "Prohibits a landlord from retaliating against a tenant for exercising their legal rights, such as complaining to a governmental agency or organizing with other tenants.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".64",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["retaliatory conduct", "retaliation", "tenant rights", "complaint", "landlord prohibition"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Prohibits landlords from retaliating against tenants for exercising their rights (e.g., complaining about maintenance, joining a tenant union, reporting violations). Relevance: Landlord actions like increasing rent, decreasing services, or bringing an eviction action shortly after a tenant complains or asserts rights may be deemed retaliatory.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1f2a-3b4c-5d6e7f8a9b0c1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.67",
+    "official_title": "Prohibited practices",
+    "summary_description": "Lists specific actions by a landlord that are prohibited, such as unlawfully removing a tenant or their property, terminating utilities, or engaging in retaliatory conduct or harassment.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".67",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["prohibited practices", "unlawful eviction", "utility termination", "harassment", "property seizure"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Lists prohibited landlord actions, including unlawful removal of the tenant or the tenant's property, and retaliation. Relevance: This statute is a key source for claims of landlord misconduct, including: Unlawful lockouts. Termination of utilities. Unlawful retention or disposal of tenant's personal property (§ 83.67(5)). Harassment intended to force a tenant to leave.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2a3b-4c5d-6e7f8a9b0c1d2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.681",
+    "official_title": "Orders to enjoin violation of this part / Disbursement of funds in registry of court",
+    "summary_description": "Allows a party to seek an injunction to prevent violations of the Residential Landlord-Tenant Act; also governs the process for disbursing rent money paid into the court registry in a dispute.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".681",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["injunction", "violation", "court registry", "rent disbursement"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Governs the process for disbursing rent money paid into the court registry in a dispute. Relevance: Relevant if the case involves rent withholding and payment into the court registry.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3b4c-5d6e-7f8a9b0c1d2e3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.682",
+    "official_title": "Termination of rental agreement by a servicemember / upon foreclosure",
+    "summary_description": "Allows a servicemember to terminate a rental agreement under certain conditions related to their military service; also governs tenant rights when a rental property is foreclosed.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".682",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["termination", "servicemember", "military service", "foreclosure", "tenant rights"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Governs the rights of tenants when a rental property is foreclosed. Relevance: Relevant if the property is subject to foreclosure during the tenancy.",
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 83.561",
+        "relationship_type": "related_subject_matter"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4c5d-6e7f-8a9b0c1d2e3f4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.683",
+    "official_title": "Rental application by a servicemember",
+    "summary_description": "Provides protections for servicemembers regarding rental applications, such as prohibiting denial solely based on lack of credit history under certain conditions.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "II",
+        "part_name": "RESIDENTIAL TENANCIES",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".683",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Landlord and Tenant (Residential)",
+    "keywords": ["rental application", "servicemember", "military", "credit history", "protections"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5d6e-7f8a-9b0c1d2e3f4a5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 83.801-§ 83.809",
+    "official_title": "Self-Service Storage Space",
+    "summary_description": "Comprises Part III of Chapter 83, governing the rights and obligations related to self-service storage facilities and the lien rights of facility owners.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": "VI",
+        "title_name": "CIVIL PRACTICE AND PROCEDURE",
+        "part_number": "III",
+        "part_name": "SELF-SERVICE STORAGE SPACE",
+        "chapter_number": "83",
+        "chapter_name": "Landlord and Tenant",
+        "section_number_raw": ".801-.809",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Self-Service Storage",
+    "keywords": ["self-storage", "storage facility", "lien rights", "owner obligations"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6e7f-8a9b-0c1d2e3f4a5b6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 95.11",
+    "official_title": "Limitations of actions; periods of limitation",
+    "summary_description": "Specifies the time limits (statutes of limitations) for bringing various types of civil actions in Florida, including those related to contracts or property rights relevant to landlord-tenant disputes.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "95",
+        "chapter_name": "Limitations of Actions; Adverse Possession",
+        "section_number_raw": ".11",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Civil Practice and Procedure",
+    "keywords": ["statute of limitations", "time limits", "civil actions", "claims"],
+    "full_text_link": null,
+    "application_notes_general": "Relevant for determining the deadline for filing lawsuits related to landlord-tenant disputes.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7f8a-9b0c-1d2e3f4a5b6c7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 112.3175",
+    "official_title": "Public officials; prohibited employment relationship",
+    "summary_description": "Prohibits certain employment relationships for public officials that may create a conflict of interest, potentially relevant if a landlord is a public official.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "112",
+        "chapter_name": "Public Officers and Employees; General Provisions",
+        "section_number_raw": ".3175",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Public Officers and Ethics",
+    "keywords": ["public official", "ethics", "conflict of interest", "employment"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8a9b-0c1d-2e3f4a5b6c7d8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 125.01",
+    "official_title": "Powers of counties (local housing codes)",
+    "summary_description": "Grants counties the power to establish and enforce local ordinances, including housing codes, which can impact landlord obligations.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "125",
+        "chapter_name": "County Government",
+        "section_number_raw": ".01",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Local Government",
+    "keywords": ["county powers", "local ordinances", "housing codes", "code enforcement"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9b0c-1d2e-3f4a5b6c7d8e9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 162.01-§ 162.13",
+    "official_title": "Local code enforcement",
+    "summary_description": "Outlines the procedures for local code enforcement boards to enforce local codes, including building and housing codes relevant to rental properties.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "162",
+        "chapter_name": "County and Municipal Code Enforcement",
+        "section_number_raw": ".01-.13",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Local Government",
+    "keywords": ["code enforcement", "local codes", "housing codes", "building codes", "enforcement boards"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0c1d-2e3f-4a5b6c7d8e9f0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 166.021",
+    "official_title": "Powers of municipalities (local housing ordinances)",
+    "summary_description": "Grants municipalities the power to enact ordinances and regulations, including local housing codes, which can impose duties on landlords.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "166",
+        "chapter_name": "Municipalities",
+        "section_number_raw": ".021",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Local Government",
+    "keywords": ["municipal powers", "local ordinances", "housing codes", "regulations"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  }
+]

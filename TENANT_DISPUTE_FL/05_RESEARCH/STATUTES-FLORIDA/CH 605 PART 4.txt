@@ -1,0 +1,545 @@
+605.1032
+
+
+
+The 2024 Florida Statutes
+
+Title XXXVI
+BUSINESS ORGANIZATIONS
+
+Chapter 605
+FLORIDA REVISED LIMITED LIABILITY COMPANY ACT
+
+
+
+----
+
+PROVIDED IN THIS DOCUMENT IS 605.1032 - 605.1108
+
+
+-----
+
+
+
+TABLE OF CONTENTS:
+
+
+
+605.0101 Short title.
+605.0102 Definitions.
+605.0103 Knowledge; notice.
+605.0104 Governing law.
+605.0105 Operating agreement; scope, function, and limitations.
+605.0106 Operating agreement; effect on limited liability company and person becoming member; preformation agreement; other matters involving operating agreement.
+605.0107 Operating agreement; effect on third parties and relationship to records effective on behalf of limited liability company.
+605.0108 Nature, purpose, and duration of limited liability company.
+605.0109 Powers.
+605.0110 Limited liability company property.
+605.0111 Rules of construction and supplemental principles of law.
+605.0112 Name.
+605.01125 Reserved name.
+605.0113 Registered agent.
+605.0114 Change of registered agent or registered office.
+605.0115 Resignation of registered agent.
+605.0116 Change of name or address by registered agent.
+605.0117 Serving process, giving notice, or making a demand.
+605.0118 Delivery of record.
+605.0119 Waiver of notice.
+605.0201 Formation of limited liability company; articles of organization.
+605.0202 Amendment or restatement of articles of organization.
+605.0203 Signing of records to be delivered for filing to department.
+605.0204 Signing and filing pursuant to judicial order.
+605.0205 Liability for inaccurate information in filed record.
+605.0206 Filing requirements.
+605.0207 Effective date and time.
+605.0208 Withdrawal of filed record before effectiveness.
+605.0209 Correcting filed record.
+605.0210 Duty of department to file; review of refusal to file; transmission of information by department.
+605.0211 Certificate of status.
+605.0212 Annual report for department.
+605.0213 Fees of the department.
+605.0214 Powers of department.
+605.0215 Certificates to be received in evidence and evidentiary effect of certified copy of filed document.
+605.0216 Statement of dissociation or resignation.
+605.0301 Power to bind limited liability company.
+605.0302 Statement of authority.
+605.0303 Statement of denial.
+605.0304 Liability of members and managers.
+605.0401 Becoming a member.
+605.0402 Form of contribution.
+605.0403 Liability for contributions.
+605.0404 Sharing of distributions before dissolution and profits and losses.
+605.0405 Limitations on distributions.
+605.0406 Liability for improper distributions.
+605.0407 Management of limited liability company.
+605.04071 Delegation of rights and powers to manage.
+605.04072 Selection and terms of managers in a manager-managed limited liability company.
+605.04073 Voting rights of members and managers.
+605.04074 Agency rights of members and managers.
+605.0408 Reimbursement, indemnification, advancement, and insurance.
+605.04091 Standards of conduct for members and managers.
+605.04092 Conflict of interest transactions.
+605.04093 Limitation of liability of managers and members.
+605.0410 Records to be kept; rights of member, manager, and person dissociated to information.
+605.0411 Court-ordered inspection.
+605.0501 Nature of transferable interest.
+605.0502 Transfer of transferable interest.
+605.0503 Charging order.
+605.0504 Power of legal representative.
+605.0601 Power to dissociate as member; wrongful dissociation.
+605.0602 Events causing dissociation.
+605.0603 Effect of dissociation.
+605.0701 Events causing dissolution.
+605.0702 Grounds for judicial dissolution.
+605.0703 Procedure for judicial dissolution; alternative remedies.
+605.0704 Receivership or custodianship.
+605.0705 Decree of dissolution.
+605.0706 Election to purchase instead of dissolution.
+605.0707 Articles of dissolution; filing of articles of dissolution.
+605.0708 Revocation of articles of dissolution.
+605.0709 Winding up.
+605.0710 Disposition of assets in winding up.
+605.0711 Known claims against dissolved limited liability company.
+605.0712 Other claims against a dissolved limited liability company.
+605.0713 Court proceedings.
+605.0714 Administrative dissolution.
+605.0715 Reinstatement.
+605.0716 Judicial review of denial of reinstatement.
+605.0717 Effect of dissolution.
+605.0801 Direct action by member.
+605.0802 Derivative action.
+605.0803 Proper plaintiff.
+605.0804 Special litigation committee.
+605.0805 Proceeds and expenses.
+605.0806 Voluntary dismissal or settlement; notice.
+605.0901 Governing law.
+605.0902 Application for certificate of authority.
+605.0903 Effect of a certificate of authority.
+605.0904 Effect of failure to have certificate of authority.
+605.0905 Activities not constituting transacting business.
+605.0906 Noncomplying name of foreign limited liability company.
+605.0907 Amendment to certificate of authority.
+605.0908 Revocation of certificate of authority.
+605.0909 Reinstatement following revocation of certificate of authority.
+605.09091 Judicial review of denial of reinstatement.
+605.0910 Withdrawal and cancellation of certificate of authority.
+605.0911 Withdrawal deemed on conversion to domestic filing entity.
+605.0912 Withdrawal on dissolution, merger, or conversion to nonfiling entity.
+605.0913 Action by Department of Legal Affairs.
+605.1001 Relationship of the provisions of this section and ss. 605.1002-605.1072 to other laws.
+605.1002 Charitable and donative provisions.
+605.1003 Status of filings.
+605.1004 Nonexclusivity.
+605.1005 Reference to external facts.
+605.1006 Appraisal rights.
+605.1021 Merger authorized.
+605.1022 Plan of merger.
+605.1023 Approval of merger.
+605.1024 Amendment or abandonment of plan of merger.
+605.1025 Articles of merger.
+605.1026 Effect of merger.
+605.1031 Interest exchange authorized.
+605.1032 Plan of interest exchange.
+605.1033 Approval of interest exchange.
+605.1034 Amendment or abandonment of plan of interest exchange.
+605.1035 Articles of interest exchange.
+605.1036 Effect of interest exchange.
+605.1041 Conversion authorized.
+605.1042 Plan of conversion.
+605.1043 Approval of conversion.
+605.1044 Amendment or abandonment of plan of conversion.
+605.1045 Articles of conversion.
+605.1046 Effect of conversion.
+605.1051 Domestication authorized.
+605.1052 Plan of domestication.
+605.1053 Approval of domestication.
+605.1054 Amendment or abandonment of plan of domestication.
+605.1055 Articles of domestication.
+605.1056 Effect of domestication.
+605.1061 Appraisal rights; definitions.
+605.1062 Assertion of rights by nominees and beneficial owners.
+605.1063 Notice of appraisal rights.
+605.1064 Notice of intent to demand payment.
+605.1065 Appraisal notice and form.
+605.1066 Perfection of rights; right to withdraw.
+605.1067 Member’s acceptance of limited liability company’s offer.
+605.1068 Procedure if member is dissatisfied with offer.
+605.1069 Court action.
+605.1070 Court costs and attorney fees.
+605.1071 Limitation on limited liability company payment.
+605.1072 Other remedies limited.
+605.1101 Uniformity of application and construction.
+605.1102 Relation to Electronic Signatures in Global and National Commerce Act.
+605.1103 Tax exemption on income of certain limited liability companies.
+605.1104 Interrogatories by department; other powers of department.
+605.1105 Reservation of power to amend or repeal.
+605.1106 Savings clause.
+605.1107 Severability clause.
+605.1108 Application to limited liability company formed under the Florida Limited Liability Company Act.
+
+
+-----
+
+
+
+605.1032 Plan of interest exchange.—
+(1) A domestic limited liability company may be the acquired entity in an interest exchange under the provisions of ss. 605.1031-605.1036 by approving a plan of interest exchange. The plan must be in a record and contain the following:
+(a) The name of the acquired entity.
+(b) The name, jurisdiction of formation, and type of entity of the acquiring entity.
+(c) The manner and basis of converting the interests and the rights to acquire interests of the members of each limited liability company that is to be an acquired entity into interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing.
+(d) If the acquired entity is a domestic limited liability company, any proposed amendments to or restatements of its public organic record or any amendments to or restatements of its private organic rules that are or are proposed to be in a record and all such amendments or restatements are effective at the effective date of the interest exchange.
+(e) The other terms and conditions of the interest exchange.
+(f) Any other provision required by the law of an acquired entity’s jurisdiction of formation, the organic rules of the acquired entity, the organic rules of an acquiring entity, or the law of the jurisdiction of formation of the acquiring entity.
+(2) In addition to the requirements of subsection (1), a plan of interest exchange may contain any other provision not prohibited by law.
+History.—s. 2, ch. 2013-180.
+605.1033 Approval of interest exchange.—
+(1) A plan of interest exchange is not effective unless it has been approved:
+(a) With respect to a domestic limited liability company that is the acquired entity in the interest exchange, by a majority-in-interest of the members of such company; and
+(b) In a record, by each member of the domestic-acquired limited liability company that will have interest holder liability for debts, obligations, and other liabilities that arise after the interest exchange becomes effective, unless:
+1. The organic rules of the company in a record provide for the approval of an interest exchange or a merger in which some or all of its members become subject to interest holder liability by the vote or consent of fewer than all the members; and
+2. The member consented in a record to or voted for that provision of the organic rules or became a member after the adoption of that provision.
+(2) An interest exchange involving a domestic-acquired entity that is not a limited liability company is not effective unless it is approved by the domestic entity in accordance with its organic law.
+(3) An interest exchange involving a foreign-acquired entity is not effective unless it is approved by the foreign entity in accordance with the law of the foreign entity’s jurisdiction of formation.
+(4) Except as otherwise provided in its organic law or organic rules, the interest holders of the acquiring entity are not required to approve the interest exchange.
+(5) All members of each domestic limited liability company that is a party to the interest exchange who have a right to vote upon the interest exchange must be given written notice of any meeting with respect to the approval of a plan of interest exchange as provided in subsection (1) not less than 10 days and not more than 60 days before the date of the meeting at which the plan of interest exchange is submitted for approval by the members of such limited liability company. The notification required under this subsection may be waived in writing by the person entitled to such notification.
+(6) The notification required under subsection (5) must be in writing and must include the following:
+(a) The date, time, and place of the meeting at which the plan of interest exchange is to be submitted for approval by the members of the limited liability company.
+(b) A copy of the plan of interest exchange.
+(c) The statement or statements required under ss. 605.1006 and 605.1061-605.1072 regarding the availability of appraisal rights, if any, to members of the limited liability company.
+(d) The date on which such notification was mailed or delivered to the members.
+(7) In addition to the requirements of subsection (6), the notification required under subsection (5) may contain any other information concerning the plan of interest exchange not prohibited by applicable law.
+(8) The notification required under subsection (5) is deemed to be given at the earliest date of:
+(a) The date the notification is received;
+(b) Five days after the date such notification is deposited in the United States mail addressed to the member at the member’s address as it appears in the books and records of the limited liability company, with prepaid postage affixed;
+(c) The date shown on the return receipt, if sent by registered or certified mail, return receipt requested, and if the receipt is signed by or on behalf of the addressee; or
+(d) The date such notification is given in accordance with the provisions of the organic rules of the limited liability company.
+History.—s. 2, ch. 2013-180; s. 141, ch. 2014-17.
+605.1034 Amendment or abandonment of plan of interest exchange.—
+(1) A plan of interest exchange may be amended only with the consent of each party to the plan, except as otherwise provided in the plan or in the organic rules of each such entity.
+(2) A domestic-acquired limited liability company may approve an amendment of a plan of interest exchange:
+(a) In the same manner as the plan was approved, if the plan does not provide for the manner in which it may be amended; or
+(b) By the managers or members in the manner provided in the plan, but a member who was entitled to vote on or consent to approval of the interest exchange is entitled to vote on or consent to any amendment of the plan which will change:
+1. The amount or kind of interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing, to be received by the interest holders of any party to the plan;
+2. The public organic record, if any, or private organic rules of the acquired entity which will be in effect immediately after the interest exchange becomes effective, except for changes that do not require approval of the interest holders of the acquired entity under its organic law or organic rules; or
+3. Any other terms or conditions of the plan, if the change would adversely affect the member in any material respect.
+(3) After a plan of interest exchange has been approved and before such articles of interest exchange become effective, the plan may be abandoned as provided in the plan. Unless prohibited by the plan, a domestic limited liability company may abandon the plan in the same manner as the plan was approved.
+(4) If a plan of interest exchange is abandoned after articles of interest exchange have been delivered to the department for filing and before such articles of interest exchange have become effective, a statement of abandonment, signed by a party to the plan, must be delivered to the department for filing before the articles of interest exchange become effective. The statement of abandonment takes effect on filing, and the interest exchange is abandoned and does not become effective. The statement of abandonment must contain the following:
+(a) The name of each party to the plan of interest exchange.
+(b) The date on which the articles of interest exchange were delivered to the department for filing.
+(c) A statement that the interest exchange has been abandoned in accordance with this section.
+History.—s. 2, ch. 2013-180.
+605.1035 Articles of interest exchange.—
+(1) After a plan of interest exchange has been approved, articles of interest exchange must be signed by each party to the interest exchange and delivered to the department for filing.
+(2) The articles of interest exchange must contain the following:
+(a) The name of the acquired limited liability company.
+(b) The name, jurisdiction of formation, and type of entity of the acquiring entity.
+(c) A statement that the plan of interest exchange was approved by the acquired limited liability entity in accordance with the provisions of ss. 605.1031-605.1036 and by each member of such limited liability company who, as a result of the interest exchange, will have interest holder liability under s. 605.1033(1)(b) and whose approval is required.
+(d) Any amendments to the acquired limited liability company’s public organic record approved as part of the plan of interest exchange.
+(e) A statement that the plan of interest exchange was approved by each acquiring entity that is a party to the interest exchange in accordance with the organic laws in its jurisdiction of formation, or, if such approval was not required, a statement to that effect.
+(f) A statement that the acquiring entity has agreed to pay to any members of the acquired entity with appraisal rights the amount to which such members are entitled under ss. 605.1006 and 605.1061-605.1072.
+(g) The effective date of the interest exchange, if the effective date of the interest exchange is not the same as the date of filing of the articles of interest exchange, subject to the limitations in s. 605.0207.
+(3) In addition to the requirements of subsection (2), articles of interest exchange may include any other provision not prohibited by law.
+(4) An interest exchange becomes effective when the articles of interest exchange become effective, unless the articles of interest exchange specify an effective time or a delayed effective date that complies with s. 605.0207.
+(5) A limited liability company is not required to deliver articles of interest exchange for filing pursuant to subsection (1) if the domestic limited liability company is named as an acquired entity or as an acquiring entity in the articles of share exchange filed for the same interest exchange in accordance with s. 607.1105 and if such articles of share exchange substantially comply with the requirements of this section.
+History.—s. 2, ch. 2013-180; s. 267, ch. 2019-90.
+605.1036 Effect of interest exchange.—
+(1) When an interest exchange in which the acquired entity is a domestic limited liability company becomes effective:
+(a) The interests in a domestic company which are the subject of the interest exchange cease to exist or are converted or exchanged, and the members holding those interests are entitled only to the rights provided to them under the plan of interest exchange and to any appraisal rights they have under ss. 605.1006 and 605.1061-605.1072;
+(b) The acquiring entity becomes the interest holder of the interests in the acquired entity stated in the plan of interest exchange to be acquired by the acquiring entity;
+(c) The public organic record of the acquired entity is amended as provided in the articles of interest exchange; and
+(d) The provisions of the private organic rules of the acquired entity that are to be in a record, if any, are amended to the extent provided in the plan of interest exchange.
+(2) Except as otherwise provided in the organic rules of the acquired limited liability company, the interest exchange does not give rise to any rights that a member, manager, or third party would have upon a dissolution, liquidation, or winding up of the acquired entity.
+(3) When an interest exchange becomes effective, a person who did not have interest holder liability with respect to a domestic-acquired limited liability company and who becomes subject to interest holder liability with respect to a domestic entity as a result of the interest exchange will have interest holder liability only to the extent provided by the organic law of the entity and only for those debts, obligations, and other liabilities that arise after the interest exchange becomes effective.
+(4) When an interest exchange becomes effective, the interest holder liability of a person who ceases to hold an interest in a domestic-acquired limited liability company with respect to which the person had interest holder liability is as follows:
+(a) The interest exchange does not discharge any interest holder liability to the extent the interest holder liability arose before the interest exchange became effective.
+(b) The person does not have interest holder liability for any debt, obligation, or other liability that arises after the interest exchange becomes effective.
+(c) The organic law of the acquired entity’s jurisdiction of formation and any rights of contribution provided by such law, or under the organic rules of the acquired entity, continue to apply to the release, collection, or discharge of any interest holder liability preserved under paragraph (a) as if the interest exchange had not occurred.
+History.—s. 2, ch. 2013-180.
+605.1041 Conversion authorized.—
+(1) By complying with the provisions of this section and ss. 605.1042-605.1046, a domestic limited liability company may become:
+(a) A domestic entity that is a different type of entity; or
+(b) A foreign entity that is a limited liability company or a different type of entity, if the conversion is authorized by the law of the foreign entity’s jurisdiction of formation.
+(2) By complying with the provisions of this section and ss. 605.1042-605.1046, which are applicable to a domestic entity that is not a domestic limited liability company, the domestic entity may become a domestic limited liability company if the conversion is authorized by the law governing the domestic entity.
+(3) By complying with the provisions of this section and ss. 605.1042-605.1046 which are applicable to foreign entities, a foreign entity may become a domestic limited liability company if the conversion is authorized by the law of the foreign entity’s jurisdiction of formation.
+(4) If a protected agreement contains a provision that applies to a merger of a domestic limited liability company but does not refer to a conversion, the provision applies to a conversion of the entity as if the conversion were a merger until the provision is amended after January 1, 2014.
+History.—s. 2, ch. 2013-180; s. 142, ch. 2014-17.
+605.1042 Plan of conversion.—
+(1) A domestic limited liability company may convert into a different type of domestic entity or into a foreign entity that is a foreign limited liability company or a different type of foreign entity by approving a plan of conversion. The plan must be in a record and contain the following:
+(a) The name of the converting limited liability company.
+(b) The name, jurisdiction of formation, and type of entity of the converted entity.
+(c) The manner and basis of converting the interests and rights to acquire interests in the converting limited liability company into interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing.
+(d) The proposed public organic record of the converted entity, if it will be a filing entity.
+(e) The full text of the private organic rules of the converted entity which are proposed to be in a record, if any.
+(f) Any other provision required by the law of this state or the organic rules of the converted limited liability company, if the entity is to be an entity other than a domestic limited liability company.
+(g) All other statements required to be set forth in a plan of conversion by the law of the jurisdiction of formation of the converted entity following the conversion.
+(2) In addition to the requirements of subsection (1), a plan of conversion may contain any other provision not prohibited by law.
+History.—s. 2, ch. 2013-180.
+605.1043 Approval of conversion.—
+(1) A plan of conversion is not effective unless it has been approved:
+(a) If the converting entity is a domestic limited liability company, by a majority-in-interest of the members of such company who have a right to vote upon the conversion; and
+(b) In a record, by each member of a converting limited liability company which will have interest holder liability for debts, obligations, and other liabilities that arise after the conversion becomes effective, unless:
+1. The organic rules of the company in a record provide for the approval of a conversion in which some or all of its members become subject to interest holder liability by the vote or consent of less than all of the members; and
+2. The member consented in a record to or voted for that provision of the organic rules or became a member after the adoption of that provision.
+(2) A conversion involving a domestic converting entity that is not a limited liability company is not effective unless it is approved by the domestic converting entity in accordance with its organic law.
+(3) A conversion of a foreign converting entity is not effective unless it is approved by the foreign entity in accordance with the law of the foreign entity’s jurisdiction of formation.
+(4) If the converting entity is a domestic limited liability company, all members of the company who have the right to vote upon the conversion must be given written notice of a meeting with respect to the approval of a plan of conversion as provided in subsection (1) not less than 10 days and not more than 60 days before the date of the meeting at which the plan of conversion is submitted for approval by the members of such limited liability company. The notification required under this subsection may be waived in writing by the person or persons entitled to such notification.
+(5) The notification required under subsection (4) must be in writing and include the following:
+(a) The date, time, and place of the meeting at which the plan of conversion is to be submitted for approval by the members of the limited liability company.
+(b) A copy of the plan of conversion.
+(c) The statement or statements required under ss. 605.1006 and 605.1061-605.1072 regarding the availability of appraisal rights, if any, to members of the limited liability company.
+(d) The date on which such notification was mailed or delivered to the members.
+(6) In addition to the requirements of subsection (5), the notification required under subsection (4) may contain any other information concerning the plan of conversion not prohibited by applicable law.
+(7) The notification required under subsection (4) is deemed to be given at the earliest date of:
+(a) The date the notification is received;
+(b) Five days after the date the notification is deposited in the United States mail addressed to the member at the member’s address as it appears in the books and records of the limited liability company, with prepaid postage affixed;
+(c) The date shown on the return receipt, if sent by registered or certified mail, return receipt requested, and if the receipt is signed by or on behalf of the addressee; or
+(d) The date the notification is given in accordance with the organic rules of the limited liability company.
+History.—s. 2, ch. 2013-180.
+605.1044 Amendment or abandonment of plan of conversion.—
+(1) A plan of conversion of a domestic converting limited liability company may be amended:
+(a) In the same manner as the plan was approved, if the plan does not provide for the manner in which it may be amended; or
+(b) By the managers or members of the entity in the manner provided in the plan, but a member who was entitled to vote on or consent to approval of the conversion is entitled to vote on or consent to an amendment of the plan which will change:
+1. The amount or kind of interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing, to be received by the interest holders of the converting entity under the plan;
+2. The public organic record, if any, or private organic rules of the converted entity which will be in effect immediately after the conversion becomes effective, except for changes that do not require approval of the interest holders of the converting entity under its organic law or organic rules; or
+3. Any other terms or conditions of the plan, if the change would adversely affect the interest holder in any material respect.
+(2) After a plan of conversion has been approved and before the articles of conversion become effective, the plan may be abandoned as provided in the plan. Unless prohibited by the plan, a domestic converting limited liability company may abandon the plan in the same manner as the plan was approved.
+(3) If a plan of conversion is abandoned after articles of conversion have been delivered to the department for filing and before such articles of conversion have become effective, a statement of abandonment, signed by the converting entity, must be delivered to the department for filing before the articles of conversion become effective. The statement of abandonment takes effect on filing, and the conversion is abandoned and does not become effective. The statement of abandonment must contain the following:
+(a) The name of the converting limited liability company.
+(b) The date on which the articles of conversion were delivered to the department for filing.
+(c) A statement that the conversion has been abandoned in accordance with this section.
+History.—s. 2, ch. 2013-180.
+605.1045 Articles of conversion.—
+(1) After a plan of conversion is approved, articles of conversion signed by the converting entity must be delivered to the department for filing.
+(2) The articles of conversion must contain the following:
+(a) The name, jurisdiction of formation, and type of entity of the converting entity.
+(b) The name, jurisdiction of formation, and type of entity of the converted entity.
+(c) If the converting entity is a domestic limited liability company, a statement that the plan of conversion has been approved in accordance with ss. 605.1041-605.1046, or if the converting entity is a foreign entity, a statement that the conversion was approved by the foreign converting entity in accordance with the law of its jurisdiction of formation and by each member of the converting entity who as a result of the conversion will have interest holder liability under s. 605.1043(1)(b) and whose approval is required.
+(d) If the converted entity is a domestic filing entity, the text of its public organic record, as an attachment.
+(e) If the converted entity is a domestic limited liability partnership, the text of its statement of qualification, as an attachment.
+(f) If the converted entity is a foreign entity that does not have a certificate of authority to transact business in this state, a mailing address and an e-mail address to which a party seeking to effectuate service of process may send any process served on the Secretary of State pursuant to s. 605.0117 and chapter 48.
+(g) A statement that the converted entity has agreed to pay to the members of any limited liability company with appraisal rights the amount to which such members are entitled under ss. 605.1006 and 605.1061-605.1072.
+(h) The effective date of the conversion, if the effective date of the conversion is not the same as the date of filing of the articles of conversion, subject to the limitations contained in s. 605.0207.
+(3) In addition to the requirements of subsection (2), articles of conversion may contain any other provision not prohibited by law.
+(4) A conversion becomes effective when the articles of conversion become effective, unless the articles of conversion specify an effective time or a delayed effective date that complies with s. 605.0207.
+(5) A copy of the articles of conversion, certified by the department, may be filed in the official records of any county in this state in which the converted entity holds an interest in real property.
+History.—s. 2, ch. 2013-180; s. 22, ch. 2022-190.
+605.1046 Effect of conversion.—
+(1) When a conversion in which the converted entity is a domestic limited liability company becomes effective:
+(a) The converted entity is:
+1. Organized under and subject to this chapter; and
+2. The same entity, without interruption, as the converting entity;
+(b) All property of the converting entity continues to be vested in the converted entity without transfer, reversion, or impairment;
+(c) All debts, obligations, and other liabilities of the converting entity continue as debts, obligations, and other liabilities of the converted entity;
+(d) Except as otherwise provided by law or the plan of conversion, all the rights, privileges, immunities, powers, and purposes of the converting entity remain in the converted entity;
+(e) The name of the converted entity may be substituted for the name of the converting entity in any pending action or proceeding;
+(f) The provisions of the organic rules of the converted entity which are to be in a record, if any, approved as part of the plan of conversion are effective; and
+(g) The interests or rights to acquire interests in the converting entity are converted, and the interest holders of the converting entity are entitled only to the rights provided to them under the plan of conversion and to any appraisal rights they have under ss. 605.1006 and 605.1061-605.1072 and the converting entity’s organic law.
+(2) Except as otherwise provided in the private organic rules of a domestic converting limited liability company, the conversion does not give rise to any rights that a member, manager, or third party would otherwise have upon a dissolution, liquidation, or winding up of the converting entity.
+(3) When a conversion becomes effective, a person who did not have interest holder liability with respect to the converting entity and becomes subject to interest holder liability with respect to a domestic entity as a result of the conversion has interest holder liability only to the extent provided by the organic law of the entity and only for those debts, obligations, and other liabilities that arise after the conversion becomes effective.
+(4) When a conversion becomes effective, the interest holder liability of a person who ceases to hold an interest in a domestic limited liability company with respect to which the person had interest holder liability is as follows:
+(a) The conversion does not discharge interest holder liability to the extent the interest holder liability arose before the conversion became effective.
+(b) The person does not have interest holder liability for any debt, obligation, or other liability that arises after the conversion becomes effective.
+(c) The organic law of the jurisdiction of formation of the converting limited liability company and the rights of contribution provided under such law, or the organic rules of the converting limited liability company, continue to apply to the release, collection, or discharge of any interest holder liability preserved under paragraph (a) as if the conversion had not occurred.
+(5) When a conversion becomes effective, a foreign entity that is the converted entity may be served with process in this state for the collection and enforcement of its debts, obligations, and liabilities as provided in s. 605.0117 and chapter 48.
+(6) If the converting entity is a registered foreign entity, the certificate of authority to conduct business in this state of the converting entity is canceled when the conversion becomes effective.
+(7) A conversion does not require the entity to wind up its affairs and does not constitute or cause the dissolution of the entity.
+History.—s. 2, ch. 2013-180.
+605.1051 Domestication authorized.—By complying with this section and ss. 605.1052-605.1056, a non-United States entity may become a domestic limited liability company if the domestication is authorized under the organic law of the non-United States entity’s jurisdiction of formation.
+History.—s. 2, ch. 2013-180.
+605.1052 Plan of domestication.—
+(1) A non-United States entity may become a domestic limited liability company by approving a plan of domestication. The plan of domestication must be in a record and contain the following:
+(a) The name and jurisdiction of formation of the domesticating entity.
+(b) If applicable, the manner and basis of converting the interests and rights to acquire interests in the domesticating entity into interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing.
+(c) The proposed public organic record of the domesticating entity in this state.
+(d) The full text of the proposed private organic rules of the domesticated entity that are to be in a record, if any.
+(e) Any other provision required by the law of the jurisdiction of formation of the domesticating entity or the organic rules of the domesticating entity.
+(2) In addition to the requirements of subsection (1), a plan of domestication may contain any other provision not prohibited by law.
+History.—s. 2, ch. 2013-180.
+605.1053 Approval of domestication.—A plan of domestication of a domesticating entity shall be approved:
+(1) In accordance with the organic law of the domesticating entity’s jurisdiction of formation; and
+(2) In a record, by each of the domesticating entity’s owners who will have interest holder liability for debts, obligations, and other liabilities that arise after the domestication becomes effective, unless:
+(a) The organic rules of the domesticating entity in a record provide for the approval of a domestication in which some or all of the persons who are its owners become subject to interest holder liability by the vote or consent of fewer than all of the persons who are its owners; and
+(b) The person who will be a member of the domesticated limited liability company consented in a record to or voted for that provision of the organic rules of the domesticating entity or became an owner of the domesticating entity after the adoption of that provision.
+History.—s. 2, ch. 2013-180.
+605.1054 Amendment or abandonment of plan of domestication.—
+(1) A plan of domestication of a domesticating entity may be amended:
+(a) In the same manner as the plan was approved if the plan does not provide for the manner in which it may be amended; or
+(b) By the interest holders of the domesticating entity in the manner provided in the plan, but an owner who was entitled to vote on or consent to approval of the domestication is entitled to vote on or consent to any amendment of the plan that will change:
+1. If applicable, the amount or kind of interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing, to be received by the interest holders of the domesticating entity under the plan;
+2. The public organic record, if any, or private organic rules of the domesticated limited liability company which will be in effect immediately after the domestication becomes effective except for changes that do not require approval of the interest holders of the domesticating entity under its organic law or organic rules; or
+3. Any other terms or conditions of the plan, if the change would adversely affect the interest holder in any material respect.
+(2) After a plan of domestication has been approved and before the articles of domestication become effective, the plan may be abandoned as provided in the plan. Unless prohibited by the plan, the domesticating entity may abandon the plan in the same manner as the plan was approved.
+(3) If a plan of domestication is abandoned after articles of domestication have been delivered to the department for filing and before such articles of domestication have become effective, a statement of abandonment, signed by the domesticating entity, must be delivered to the department for filing before the articles of domestication become effective. The statement of abandonment takes effect on filing, and the domestication is abandoned and does not become effective. The statement of abandonment must contain the following:
+(a) The name of the domesticating entity.
+(b) The date on which the articles of domestication were delivered to the department for filing.
+(c) A statement that the domestication has been abandoned in accordance with this section.
+History.—s. 2, ch. 2013-180.
+605.1055 Articles of domestication.—
+(1) The articles of domestication must be filed with the department. The articles of domestication must contain the following:
+(a) The date on which the domesticating entity was first formed, incorporated, created, or otherwise came into being.
+(b) The name of the domesticating entity immediately before the filing of the articles of domestication.
+(c) The articles of organization of the domesticated limited liability company, as an attachment.
+(d) The effective date of the domestication as a limited liability company, if the effective date of the domestication is not the same as the date of filing of the articles of domestication, subject to the limitations contained in s. 605.0207.
+(e) The jurisdiction that constituted the seat, siege social, or principal place of business or central administration of the domesticating entity, or any other equivalent thereto under the law of the jurisdiction of formation, immediately before the filing of the articles of domestication.
+(f) A statement that the domestication has been approved in accordance with the laws of the jurisdiction of formation of the domesticating entity.
+(2) In addition to the requirements of subsection (1), articles of domestication may contain any other provision not prohibited by law.
+(3) The articles of domestication which are filed with the department must be accompanied by a certificate of status or equivalent document, if any, from the domesticating entity’s jurisdiction of formation.
+(4) The articles of domestication and the articles of organization of a domesticated limited liability company must satisfy the requirements of the law of this state, and may be executed by an authorized representative and registered agent in accordance with this chapter.
+History.—s. 2, ch. 2013-180.
+605.1056 Effect of domestication.—
+(1) When a domestication becomes effective:
+(a) The domesticated limited liability company is:
+1. Organized under and subject to the organic law of this state; and
+2. The same entity, without interruption, as the domesticating entity;
+(b) All property of the domesticating entity continues to be vested in the domesticated limited liability company without transfer, reversion, or impairment;
+(c) All debts, obligations, and other liabilities of the domesticating entity continue as debts, obligations, and other liabilities of the domesticated limited liability company;
+(d) Except as otherwise provided by law or the plan of domestication, all the rights, privileges, immunities, powers, and purposes of the domesticating entity remain in the domesticated limited liability company;
+(e) The name of the domesticated limited liability company may be substituted for the name of the domesticating entity in any pending action or proceeding;
+(f) The articles of organization of the domesticated limited liability company are effective;
+(g) The provisions of the private organic rules of the domesticated limited liability company which are to be in a record, if any, approved as part of the plan of domestication are effective; and
+(h) The interests in the domesticating entity are converted to the extent and as approved in connection with the domestication, and the interest holders of the domesticating entity are entitled only to the rights provided to them under the plan of domestication.
+(2) Except as otherwise provided in the organic law or organic rules of the domesticating entity, the domestication does not give rise to any rights that an interest holder or third party would otherwise have upon a dissolution, liquidation, or winding up of the domesticating entity.
+(3) When a domestication becomes effective, a person who did not have interest holder liability with respect to the domesticating entity and becomes subject to interest holder liability with respect to the domesticated limited liability company as a result of the domestication has interest holder liability only to the extent provided by the organic law of the domesticating entity and only for those debts, obligations, and other liabilities that arise after the domestication becomes effective.
+(4) When a domestication becomes effective, the interest holder liability of a person who ceases to hold an interest in a domestic limited liability company with respect to which the person had interest holder liability is as follows:
+(a) The domestication does not discharge any interest holder liability under this chapter to the extent the interest holder liability arose before the domestication became effective;
+(b) A person does not have interest holder liability under this chapter for any debt, obligation, or other liability that arises after the domestication becomes effective; and
+(c) The organic law of the jurisdiction of formation of the domesticating entity and any rights of contribution provided under such law, or the organic rules of the domesticating entity, continue to apply to the release, collection, or discharge of any interest holder liability preserved under paragraph (a) as if the domestication had not occurred.
+(5) When a domestication becomes effective, a domesticating entity that has become the domesticated limited liability company may be served with process in this state for the collection and enforcement of its debts, obligations, and liabilities as provided in s. 605.0117 and chapter 48.
+(6) If the domesticating entity is qualified to transact business in this state, the certificate of authority of the domesticating entity is canceled when the domestication becomes effective.
+(7) A domestication does not require the domesticating entity to wind up its affairs and does not constitute or cause the dissolution of the domesticating entity.
+History.—s. 2, ch. 2013-180.
+605.1061 Appraisal rights; definitions.—The following definitions apply to this section and to ss. 605.1006 and 605.1062-605.1072:
+(1) “Accrued interest” means interest from the effective date of the appraisal event to which the member objects until the date of payment, at the rate of interest determined for judgments in accordance with s. 55.03, determined as of the effective date of the appraisal event.
+(2) “Affiliate” means a person who directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with another person or is a senior executive thereof. For purposes of s. 605.1006(4)(d), a person is deemed to be an affiliate of its senior executives.
+(3) “Appraisal event” means an event described in s. 605.1006(1).
+(4) “Beneficial member” means a person who is the beneficial owner of a membership interest held in a voting trust or by a nominee on the beneficial owner’s behalf.
+(5) “Fair value” means the value of the member’s membership interest determined:
+(a) Immediately before the effectiveness of the appraisal event to which the member objects;
+(b) Using customary and current valuation concepts and techniques generally employed for similar businesses in the context of the transaction requiring appraisal, excluding any appreciation or depreciation in anticipation of the transaction to which the member objects, unless exclusion would be inequitable to the limited liability company and its remaining members; and
+(c) Without discounting for lack of marketability or minority status.
+(6) “Limited liability company” means the limited liability company that issued the membership interest held by a member demanding appraisal and, for matters covered in this section and ss. 605.1062-605.1072, includes the converted entity in a conversion or the surviving entity in a merger.
+(7) “Member” means a record member or a beneficial member.
+(8) “Membership interest” means a member’s transferable interest and all other rights as a member of the limited liability company that issued the membership interest, including voting rights, management rights, or other rights under this chapter or the organic rules of the limited liability company except, if the appraisal rights of a member under s. 605.1006 pertain to only a certain class or series of a membership interest, the term “membership interest” means only the membership interest pertaining to such class or series.
+(9) “Record member” means each person who is identified as a member in the current list of members maintained for purposes of s. 605.1006 by the limited liability company, or to the extent the limited liability company has failed to maintain a current list, each person who is the rightful owner of a membership interest in the limited liability company. A transferee of a membership interest who has not been admitted as a member is not a record member.
+(10) “Senior executive” means a manager in a manager-managed limited liability company; a member in a member-managed limited liability company; or the chief executive officer, chief operating officer, chief financial officer, or president or any other person in charge of a principal business unit or function of a limited liability company, in charge of a manager in a manager-managed limited liability company, or in charge of a member in a member-managed limited liability company.
+History.—s. 2, ch. 2013-180; s. 268, ch. 2019-90.
+605.1062 Assertion of rights by nominees and beneficial owners.—
+(1) A record member may assert appraisal rights as to less than all the membership interests registered in the record member’s name which are owned by a beneficial member only if the record member objects with respect to all membership interests of the class or series owned by that beneficial member and notifies the limited liability company in writing of the name and address of each beneficial member on whose behalf appraisal rights are being asserted. The rights of a record member who asserts appraisal rights for only part of the membership interests of the class or series held of record in the record member’s name under this subsection shall be determined as if the membership interests to which the record member objects and the record member’s other membership interests were registered in the names of different record members.
+(2) A beneficial member may assert appraisal rights as to a membership interest held on behalf of the member only if such beneficial member:
+(a) Submits to the limited liability company the record member’s written consent to the assertion of such rights by the date provided in s. 605.1063(3)(b); and
+(b) Does so with respect to all membership interests of the class or series that are beneficially owned by the beneficial member.
+History.—s. 2, ch. 2013-180.
+605.1063 Notice of appraisal rights.—
+(1) If a proposed appraisal event is to be submitted to a vote at a members’ meeting, the meeting notice must state that the limited liability company has concluded that the members are, are not, or may be entitled to assert appraisal rights under this chapter.
+(2) If the limited liability company concludes that appraisal rights are or may be available, a copy of ss. 605.1006 and 605.1061-605.1072 must accompany the meeting notice sent to those record members who are or may be entitled to exercise appraisal rights.
+(3) If the appraisal event is to be approved by written consent of the members pursuant to s. 605.04073:
+(a) Written notice that appraisal rights are, are not, or may be available must be sent to each member from whom a consent is solicited at the time consent of such member is first solicited, and if the limited liability company has concluded that appraisal rights are or may be available, a copy of ss. 605.1006 and 605.1061-605.1072 must accompany such written notice; or
+(b) Written notice that appraisal rights are, are not, or may be available must be delivered, at least 10 days before the appraisal event becomes effective, to all nonconsenting and nonvoting members, and, if the limited liability company has concluded that appraisal rights are or may be available, a copy of ss. 605.1006 and 605.1061-605.1072 must accompany such written notice.
+(4) If a particular appraisal event is proposed and the limited liability company concludes that appraisal rights are or may be available, the notice referred to in subsection (1), paragraph (3)(a), or paragraph (3)(b) must be accompanied by:
+(a) Financial statements of the limited liability company that issued the membership interests that may be or are subject to appraisal rights, consisting of a balance sheet as of the end of the fiscal year ending not more than 16 months before the date of the notice, an income statement for that fiscal year, and a cash flow statement for that fiscal year; however, if such financial statements are not reasonably available, the limited liability company shall provide reasonably equivalent financial information; and
+(b) The latest available interim financial statements, including year-to-date through the end of the interim period, of such limited liability company, if any.
+(5) The right to receive the information described in subsection (4) may be waived in writing by a member before or after the appraisal event.
+History.—s. 2, ch. 2013-180; s. 269, ch. 2019-90.
+605.1064 Notice of intent to demand payment.—
+(1) If a proposed appraisal event is submitted to a vote at a members’ meeting, a member who is entitled to and who wishes to assert appraisal rights with respect to a class or series of membership interests:
+(a) Must deliver, before the vote is taken, to any other member of a member-managed limited liability company, to a manager of a manager-managed limited liability company, or, if the limited liability company has appointed officers, to an officer written notice of such person’s intent to demand payment if the proposed appraisal event is effectuated; and
+(b) May not vote, or cause or permit to be voted, any membership interests of the class or series in favor of the appraisal event.
+(2) If a proposed appraisal event is to be approved by less than unanimous written consent of the members, a member who is entitled to and who wishes to assert appraisal rights with respect to a class or series of membership interests must not sign a consent in favor of the proposed appraisal event with respect to that class or series of membership interests.
+(3) A person who may otherwise be entitled to appraisal rights, but does not satisfy the requirements of subsection (1) or subsection (2), is not entitled to payment under ss. 605.1006 and 605.1061-605.1072.
+History.—s. 2, ch. 2013-180.
+605.1065 Appraisal notice and form.—
+(1) If the proposed appraisal event becomes effective, the limited liability company must send a written appraisal notice and form required by paragraph (2)(a) to all members who satisfy the requirements of s. 605.1064(1) or (2).
+(2) The appraisal notice must be sent no earlier than the date the appraisal event became effective and within 10 days after such date and must:
+(a) Supply a form that specifies the date that the appraisal event became effective and that provides for the member to state:
+1. The member’s name and address;
+2. The number, classes, and series of membership interests as to which the member asserts appraisal rights;
+3. That the member did not vote for or execute a written consent with respect to the transaction as to any classes or series of membership interests as to which the member asserts appraisal rights;
+4. Whether the member accepts the limited liability company’s offer as stated in subparagraph (b)5.; and
+5. If the offer is not accepted, the member’s estimated fair value of the membership interests and a demand for payment of the member’s estimated value plus accrued interest.
+(b) State:
+1. Where the form described in paragraph (a) must be sent;
+2. A date by which the limited liability company must receive the form, which date may not be less than 40 days or more than 60 days after the date the appraisal notice and form described in this section are sent, and that the member is considered to have waived the right to demand appraisal with respect to the membership interests unless the form is received by the limited liability company by such specified date;
+3. In the case of membership interests represented by a certificate, the location at which certificates for the certificated membership interests must be deposited, if that action is required by the limited liability company, and the date by which those certificates must be deposited, which may not be earlier than the date for receiving the required form under subparagraph 2.;
+4. The limited liability company’s estimate of the fair value of the membership interests;
+5. An offer to each member who is entitled to appraisal rights to pay the limited liability company’s estimate of fair value provided in subparagraph 4.;
+6. That, if requested in writing, the limited liability company will provide to the member so requesting, within 10 days after the date specified in subparagraph 2., the number of members who return the forms by the specified date and the total number of membership interests owned by such members;
+7. The date by which the notice to withdraw under s. 605.1066 must be received, which date must be within 20 days after the date specified in subparagraph 2.; and
+8. If not previously provided, accompanied by a copy of ss. 605.1006 and 605.1061-605.1072.
+History.—s. 2, ch. 2013-180.
+605.1066 Perfection of rights; right to withdraw.—
+(1) A member who receives notice pursuant to s. 605.1065 and wishes to exercise appraisal rights must sign and return the form received pursuant to s. 605.1065(1) and, in the case of certificated membership interests and if the limited liability company so requires, deposit the member’s certificates in accordance with the terms of the notice by the date referred to in the notice pursuant to s. 605.1065(2)(b)2. Once a member deposits that member’s certificates or, in the case of uncertificated membership interests, returns the signed form described in s. 605.1065(2), the member loses all rights as a member, unless the member withdraws pursuant to subsection (2). Upon receiving a demand for payment from a member who holds an uncertificated membership interest, the limited liability company shall make an appropriate notation of the demand for payment in its records and shall restrict the transfer of the membership interest, or the applicable class or series, from the date the member delivers the items required by this section.
+(2) A member who has complied with subsection (1) may nevertheless decline to exercise appraisal rights and withdraw from the appraisal process by so notifying the limited liability company in writing by the date provided in the appraisal notice pursuant to s. 605.1065(2)(b)7. A member who fails to notify the limited liability company in writing of the withdrawal by the date provided in the appraisal notice may not thereafter withdraw without the limited liability company’s written consent.
+(3) A member who does not sign and return the form and, in the case of certificated membership interests, deposit that member’s certificates, if so required by the limited liability company, each by the date set forth in the notice described in s. 605.1065(2)(a), is not entitled to payment under ss. 605.1006 and 605.1061-605.1072.
+(4) If the member’s right to receive fair value is terminated other than by the purchase of the membership interest by the limited liability company, all rights of the member, with respect to such membership interest, shall be reinstated effective as of the date the member delivered the items required by subsection (1), including the right to receive any intervening payment or other distribution with respect to such membership interest, or, if any such rights have expired or any such distribution other than a cash payment has been completed, in lieu thereof at the election of the limited liability company, the fair value thereof in cash as determined by the limited liability company as of the time of such expiration or completion, but without prejudice otherwise to any action or proceeding of the limited liability company that may have been taken by the limited liability company on or after the date the member delivered the items required by subsection (1).
+History.—s. 2, ch. 2013-180.
+605.1067 Member’s acceptance of limited liability company’s offer.—
+(1) If the member states on the form provided in s. 605.1065(1) that the member accepts the offer of the limited liability company to pay the limited liability company’s estimated fair value for the membership interest, the limited liability company shall make the payment to the member within 90 days after the limited liability company’s receipt of the items required by s. 605.1066(1).
+(2) Upon payment of the agreed value, the member shall cease to have an interest in the membership interest.
+History.—s. 2, ch. 2013-180.
+605.1068 Procedure if member is dissatisfied with offer.—
+(1) A member who is dissatisfied with the limited liability company’s offer as provided pursuant to s. 605.1065(2)(b)4. must notify the limited liability company on the form provided pursuant to s. 605.1065(1) of the member’s estimate of the fair value of the membership interest and demand payment of that estimate plus accrued interest.
+(2) A member who fails to notify the limited liability company in writing of the member’s demand to be paid the member’s estimate of the fair value plus interest under subsection (1) within the timeframe provided in s. 605.1065(2)(b)2. waives the right to demand payment under this section and is entitled only to the payment offered by the limited liability company pursuant to s. 605.1065(2)(b)4.
+History.—s. 2, ch. 2013-180.
+605.1069 Court action.—
+(1) If a member makes demand for payment under s. 605.1068 which remains unsettled, the limited liability company shall commence a proceeding within 60 days after receiving the payment demand and petition the court to determine the fair value of the membership interest plus accrued interest from the date of the appraisal event. If the limited liability company does not commence the proceeding within the 60-day period, any member who has made a demand pursuant to s. 605.1068 may commence the proceeding in the name of the limited liability company.
+(2) The proceeding must be commenced in the appropriate court of the county in which the limited liability company’s principal office in this state is located or, if none, the county in which its registered agent is located. If by virtue of the appraisal event becoming effective the entity has become a foreign entity without a registered agent in this state, the proceeding must be commenced in the county in this state in which the principal office or registered agent of the limited liability company was located immediately before the time the appraisal event became effective; if it has, and immediately before the appraisal event became effective had no principal office in this state, then in the county in which the limited liability company has, or immediately before the time the appraisal event became effective had, an office in this state; or if none in this state, then in the county in which the limited liability company’s registered office is or was last located.
+(3) All members, whether or not residents of this state, whose demands remain unsettled shall be made parties to the proceeding as in an action against their membership interests. The limited liability company shall serve a copy of the initial pleading in such proceeding upon each member-party who is a resident of this state in the manner provided by law for the service of a summons and complaint and upon each nonresident member-party by registered or certified mail or by publication as provided by law.
+(4) The jurisdiction of the court in which the proceeding is commenced under subsection (2) is plenary and exclusive. If it so elects, the court may appoint one or more persons as appraisers to receive evidence and recommend a decision on the question of fair value. The appraisers shall have the powers described in the order appointing them or in an amendment to the order. The members demanding appraisal rights are entitled to the same discovery rights as parties in other civil proceedings. There is no right to a jury trial.
+(5) Each member who is made a party to the proceeding is entitled to judgment for the amount of the fair value of such member’s membership interests, plus interest, as found by the court.
+(6) The limited liability company shall pay each such member the amount found to be due within 10 days after final determination of the proceedings. Upon payment of the judgment, the member ceases to have any interest in the membership interests.
+History.—s. 2, ch. 2013-180.
+605.1070 Court costs and attorney fees.—
+(1) The court in an appraisal proceeding shall determine all costs of the proceeding, including the reasonable compensation and expenses of appraisers appointed by the court. The court shall assess the costs against the limited liability company, except that the court may assess costs against all or some of the members demanding appraisal, in amounts the court finds equitable, to the extent the court finds the members acted arbitrarily, vexatiously, or not in good faith with respect to the rights provided by this chapter.
+(2) The court in an appraisal proceeding may also assess the expenses incurred by the respective parties, in amounts the court finds equitable:
+(a) Against the limited liability company and in favor of any or all members demanding appraisal, if the court finds the limited liability company did not substantially comply with the requirements of ss. 605.1061-605.1072; or
+(b) Against either the limited liability company or a member demanding appraisal, in favor of another party, if the court finds that the party against whom the expenses are assessed acted arbitrarily, vexatiously, or not in good faith with respect to the rights provided by this chapter.
+(3) If the court in an appraisal proceeding finds that the expenses incurred by any member were of substantial benefit to other members similarly situated and should not be assessed against the limited liability company, the court may direct that the expenses be paid out of the amounts awarded the members who were benefited.
+(4) To the extent the limited liability company fails to make a required payment pursuant to s. 605.1067 or s. 605.1069, the member may sue the limited liability company directly for the amount owed and, to the extent successful, is entitled to recover from the limited liability company all costs and expenses of the suit, including attorney fees.
+History.—s. 2, ch. 2013-180.
+605.1071 Limitation on limited liability company payment.—
+(1) Payment may not be made to a member seeking appraisal rights if, at the time of payment, the limited liability company is unable to meet the distribution standards of s. 605.0405. In such event, the member shall, at the member’s option:
+(a) Withdraw the notice of intent to assert appraisal rights, which is deemed withdrawn with the consent of the limited liability company; or
+(b) Retain the status as a claimant against the limited liability company and, if the limited liability company is liquidated, be subordinated to the rights of creditors of the limited liability company, but have rights superior to the members not asserting appraisal rights and, if the limited liability company is not liquidated, retain the right to be paid for the membership interest, which right the limited liability company shall be obligated to satisfy when the restrictions of this section do not apply.
+(2) The member shall exercise the option under paragraph (1)(a) or paragraph (1)(b) by written notice filed with the limited liability company within 30 days after the limited liability company has given written notice that the payment for the membership interests cannot be made because of the restrictions of this section. If the member fails to exercise the option, the member is deemed to have withdrawn the notice of intent to assert appraisal rights.
+History.—s. 2, ch. 2013-180.
+605.1072 Other remedies limited.—
+(1) A member entitled to appraisal rights under this chapter may not challenge a completed appraisal event for which appraisal rights are available unless such completed appraisal event was either:
+(a) Not authorized and approved in accordance with the applicable provisions of this chapter, the organic rules of the limited liability company, or the resolutions of the members authorizing the appraisal event.
+(b) Procured as a result of fraud, a material misrepresentation, or an omission of a material fact that is necessary to make statements made, in light of the circumstances in which they were made, not misleading.
+(2) Nothing in this section operates to override or supersede s. 605.04092.
+History.—s. 2, ch. 2013-180; s. 9, ch. 2015-148; s. 270, ch. 2019-90.
+605.1101 Uniformity of application and construction.—In applying and construing this chapter, consideration must be given to the need to promote uniformity of the law with respect to the uniform act upon which it is based.
+History.—s. 2, ch. 2013-180.
+605.1102 Relation to Electronic Signatures in Global and National Commerce Act.—This chapter modifies, limits, and supersedes the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. s. 7001 et seq., but does not modify, limit, or supersede s. 101(c) of that act, 15 U.S.C. s. 7001(c), or authorize electronic delivery of the notices described in s. 103(b) of that act, 15 U.S.C. s. 7003(b). Notwithstanding the foregoing, this chapter does not operate to modify, limit, or supersede any provisions of s. 15.16, s. 116.34, or s. 668.50.
+History.—s. 2, ch. 2013-180.
+605.1103 Tax exemption on income of certain limited liability companies.—
+(1) A limited liability company classified as a partnership for federal income tax purposes, or a single-member limited liability company that is disregarded as an entity separate from its owner for federal income tax purposes, and organized pursuant to this chapter or qualified to do business in this state as a foreign limited liability company is not an “artificial entity” within the purview of s. 220.02 and is not subject to the tax imposed under chapter 220. If a single-member limited liability company is disregarded as an entity separate from its owner for federal income tax purposes, its activities are, for purposes of taxation under chapter 220, treated in the same manner as a sole proprietorship, branch, or division of the owner.
+(2) For purposes of taxation under chapter 220, a limited liability company formed in this state or a foreign limited liability company with a certificate of authority to transact business in this state shall be classified as a partnership or a limited liability company that has only one member shall be disregarded as an entity separate from its owner for federal income tax purposes, unless classified otherwise for federal income tax purposes, in which case the limited liability company shall be classified identically to its classification for federal income tax purposes. For purposes of taxation under chapter 220, a member or a transferee of a member of a limited liability company formed in this state or a foreign limited liability company with a certificate of authority to transact business in this state shall be treated as a resident or nonresident partner unless classified otherwise for federal income tax purposes, in which case the member or transferee of a member has the same status as the member or transferee of a member for federal income tax purposes.
+(3) Single-member limited liability companies and other entities that are disregarded for federal income tax purposes must be treated as separate legal entities for all non-income tax purposes. The Department of Revenue shall adopt rules to take into account that single-member disregarded entities such as limited liability companies and qualified subchapter S corporations may be disregarded as separate entities for federal tax purposes and therefore may report and account for income, employment, and other taxes under the taxpayer identification number of the owner of the single-member entity.
+History.—s. 2, ch. 2013-180; s. 143, ch. 2014-17.
+605.1104 Interrogatories by department; other powers of department.—
+(1) The department may direct to any limited liability company or foreign limited liability company subject to this chapter, and to a member or manager of any limited liability company or foreign limited liability company subject to this chapter, interrogatories reasonably necessary and proper to enable the department to ascertain whether the limited liability company or foreign limited liability company has complied with the provisions of this chapter applicable to the limited liability company or foreign limited liability company. The interrogatories must be answered within 30 days after the date of mailing, or within such additional time as fixed by the department. The answers to the interrogatories must be full and complete and must be made in writing and under oath. If the interrogatories are directed to an individual, they must be answered by the individual, and if directed to a limited liability company or foreign limited liability company, they must be answered by a manager of a manager-managed company, a member of a member-managed company, or other applicable governor if a foreign limited liability company is not member-managed or manager managed, or a fiduciary if the company is in the hands of a receiver, trustee, or other court-appointed fiduciary.
+(2) The department need not file a record in a court of competent jurisdiction to which the interrogatories relate until the interrogatories are answered as provided in this chapter, and is not required to file a record if the answers disclose that the record is not in conformity with the requirements of this chapter or if the department has determined that the parties to such document have not paid all fees, taxes, and penalties due and owing this state. The department shall certify to the Department of Legal Affairs, for such action as the Department of Legal Affairs may deem appropriate, all interrogatories and answers that disclose a violation of this chapter.
+(3) The department may, based upon its findings under this section or as provided in s. 213.053(15), bring an action in circuit court to collect any penalties, fees, or taxes determined to be due and owing the state and to compel any filing, qualification, or registration required by law. In connection with such proceeding, the department may, without prior approval by the court, file a lis pendens against any property owned by the limited liability company and may further certify any findings to the Department of Legal Affairs for the initiation of an action permitted pursuant to this chapter which the Department of Legal Affairs may deem appropriate.
+History.—s. 2, ch. 2013-180; s. 75, ch. 2020-32.
+605.1105 Reservation of power to amend or repeal.—The Legislature has the power to amend or repeal all or part of this chapter at any time, and all domestic and foreign limited liability companies subject to this chapter shall be governed by the amendment or repeal.
+History.—s. 2, ch. 2013-180.
+605.1106 Savings clause.—
+(1) Except as provided in subsection (2), the repeal of a statute by this chapter does not affect:
+(a) The operation of the statute or an action taken under it before its repeal, including, without limiting the generality of the foregoing, the continuing validity of any provision of the articles of organization, regulations, or operating agreements of a limited liability company authorized under the statute at the time of its adoption;
+(b) Any ratification, right, remedy, privilege, obligation, or liability acquired, accrued, or incurred under the statute before its repeal;
+(c) Any violation of the statute or any penalty, forfeiture, or punishment incurred because of the violation, before its repeal; or
+(d) Any proceeding, merger, sale of assets, reorganization, or dissolution commenced under the statute before its repeal, and the proceeding, merger, sale of assets, reorganization, or dissolution may be completed in accordance with the statute as if it had not been repealed.
+(2) If a penalty or punishment imposed for violation of a statute is reduced by this chapter, the penalty or punishment, if not already imposed, shall be imposed in accordance with this chapter.
+(3) This chapter does not affect an action commenced, proceeding brought, or right accrued before this chapter takes effect.
+History.—s. 2, ch. 2013-180.
+605.1107 Severability clause.—If any provision of this chapter or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of this chapter which can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable.
+History.—s. 2, ch. 2013-180.
+605.1108 Application to limited liability company formed under the Florida Limited Liability Company Act.—
+(1) Subject to subsection (4), before January 1, 2015, this chapter governs only:
+(a) A limited liability company formed on or after January 1, 2014; and
+(b) A limited liability company formed before January 1, 2014, which elects, in the manner provided in its operating agreement or by law for amending the operating agreement, to be subject to this chapter.
+(2) On or after January 1, 2015, this chapter governs all limited liability companies.
+(3) For the purpose of applying this chapter to a limited liability company formed before January 1, 2014, under the Florida Limited Liability Company Act, former ss. 608.401-608.705, the company’s articles of organization are deemed to be the company’s articles of organization under this chapter.
+(4) Notwithstanding the provisions of subsections (1) and (2), effective January 1, 2014, all documents, instruments, and other records submitted to the department must comply with the filing requirements stipulated by this chapter.
+History.—s. 2, ch. 2013-180; s. 10, ch. 2015-148.

@@ -1,0 +1,940 @@
+[
+  {
+    "id": "e5f6a7b8-c9d0-1d2e-3f4a-5b6c7d8e9f0a1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 205.1965",
+    "official_title": "Business tax for apartment houses, hotels, etc.",
+    "summary_description": "Authorizes counties and municipalities to levy a business tax on persons operating apartment houses, hotels, and other lodging establishments.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "205",
+        "chapter_name": "Local Business Taxes",
+        "section_number_raw": ".1965",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Taxation (Local Business)",
+    "keywords": ["business tax", "apartment house", "hotel", "lodging", "local tax"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2e3f-4a5b-6c7d8e9f0a1b2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 212.03",
+    "official_title": "Transient rentals tax",
+    "summary_description": "Imposes a tax on transient rentals (short-term rentals of living quarters or sleeping accommodations), which may apply to certain types of rental agreements.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "212",
+        "chapter_name": "Tax on Sales, Use, and Other Transactions",
+        "section_number_raw": ".03",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Taxation (Sales and Use)",
+    "keywords": ["transient rental tax", "short-term rental", "sales tax", "lodging tax"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3f4a-5b6c-7d8e9f0a1b2c3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 222.05",
+    "official_title": "Exemption of money deposited in lieu of security for stay of execution",
+    "summary_description": "Provides an exemption from creditor claims for money deposited with a court in lieu of a security bond to stay execution of a judgment.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "222",
+        "chapter_name": "Method of Setting Apart Homestead and Exemptions",
+        "section_number_raw": ".05",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Exemptions and Homestead",
+    "keywords": ["exemption", "security deposit", "stay of execution", "creditor claims", "court deposit"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4a5b-6c7d-8e9f0a1b2c3d4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 386.01-§ 386.41",
+    "official_title": "Sanitary nuisances",
+    "summary_description": "Defines and provides for the abatement of sanitary nuisances, which can include conditions on rental properties that are detrimental to health.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "386",
+        "chapter_name": "Nuisances Injurious to Health",
+        "section_number_raw": ".01-.41",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Public Health",
+    "keywords": ["sanitary nuisance", "public health", "abatement", "rental property conditions"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5b6c-7d8e-9f0a1b2c3d4e5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 454.23",
+    "official_title": "Practicing law without authority; penalty",
+    "summary_description": "Prohibits the unauthorized practice of law in Florida and establishes penalties for violations. This is relevant if a non-attorney landlord or agent provides legal advice or representation.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "454",
+        "chapter_name": "Attorneys at Law",
+        "section_number_raw": ".23",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Professions and Occupations (Legal)",
+    "keywords": ["unauthorized practice of law", "UPL", "attorney", "legal advice", "penalty"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Prohibits the unauthorized practice of law. Relevance: Relevant if the landlord, as an attorney licensed elsewhere, provided legal advice or acted in a manner constituting the practice of law in Florida without a Florida license.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6c7d-8e9f-0a1b2c3d4e5f6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 455.227",
+    "official_title": "Grounds for disciplinary action; penalties; enforcement",
+    "summary_description": "Lists grounds for disciplinary action by the Department of Business and Professional Regulation (DBPR) against licensed professionals, including real estate licensees, for misconduct.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "455",
+        "chapter_name": "Business and Professional Regulation: General Provisions",
+        "section_number_raw": ".227",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Professions and Occupations (General Regulation)",
+    "keywords": ["disciplinary action", "DBPR", "licensed professional", "misconduct", "real estate licensee"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Lists grounds for disciplinary action against licensees regulated by the DBPR, including real estate licensees. Relevance: Realtor's actions may fall under grounds for disciplinary action by the FREC.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7d8e-9f0a-1b2c3d4e5f6a7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 475.278",
+    "official_title": "Authorized brokerage relationships",
+    "summary_description": "Defines the types of brokerage relationships (e.g., single agent, transaction broker) that real estate licensees can have with clients and the duties owed within those relationships.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "475",
+        "chapter_name": "Real Estate Brokers, Sales Associates, Schools, and Appraisers",
+        "section_number_raw": ".278",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Professions and Occupations (Real Estate)",
+    "keywords": ["brokerage relationship", "real estate licensee", "single agent", "transaction broker", "duties"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Defines authorized brokerage relationships and the duties owed within them. Relevance: Realtor's actions may violate duties owed to the landlord or tenant within the brokerage relationship.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8e9f-0a1b-2c3d4e5f6a7b8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 475.42",
+    "official_title": "Violations and penalties (Real Estate Brokerage Act)",
+    "summary_description": "Specifies violations of the Real Estate Brokerage Act and the penalties that can be imposed on real estate licensees.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "475",
+        "chapter_name": "Real Estate Brokers, Sales Associates, Schools, and Appraisers",
+        "section_number_raw": ".42",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Professions and Occupations (Real Estate)",
+    "keywords": ["real estate violations", "penalties", "brokerage act", "licensee misconduct"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Specifies penalties for violations of the Real Estate Brokerage Act. Relevance: Provides for penalties against the realtor and brokerage for violations.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9f0a-1b2c-3d4e5f6a7b8c9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 489.101-§ 489.146",
+    "official_title": "Contracting requirements for property work",
+    "summary_description": "Regulates the construction industry, including licensing and requirements for contractors performing work on properties, which can be relevant to landlord repairs and maintenance.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "489",
+        "chapter_name": "Contracting",
+        "section_number_raw": ".101-.146",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Professions and Occupations (Contracting)",
+    "keywords": ["contracting", "construction", "licensing", "property repairs", "maintenance"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0a1b-2c3d-4e5f6a7b8c9d0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 501.160",
+    "official_title": "Rental or sale of essential commodities during a state of emergency",
+    "summary_description": "Prohibits unconscionable pricing for essential commodities, including rental housing, during a declared state of emergency.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "501",
+        "chapter_name": "Consumer Protection",
+        "section_number_raw": ".160",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Consumer Protection",
+    "keywords": ["price gouging", "state of emergency", "essential commodities", "rental housing", "unconscionable pricing"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1b2c-3d4e-5f6a7b8c9d0e1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 501.201-§ 501.213",
+    "official_title": "Florida Deceptive and Unfair Trade Practices Act (FDUTPA)",
+    "summary_description": "Prohibits unfair methods of competition, unconscionable acts or practices, and unfair or deceptive acts or practices in trade or commerce, including landlord-tenant transactions, and provides for civil remedies.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": "II",
+        "part_name": "DECEPTIVE AND UNFAIR TRADE PRACTICES",
+        "chapter_number": "501",
+        "chapter_name": "Consumer Protection",
+        "section_number_raw": ".201-.213",
+        "is_range": true,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Consumer Protection",
+    "keywords": ["FDUTPA", "deceptive practices", "unfair trade", "consumer rights", "landlord-tenant"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 501.204",
+        "relationship_type": "references"
+      },
+      {
+        "citation": "Fla. Stat. § 501.206",
+        "relationship_type": "references"
+      },
+      {
+        "citation": "Fla. Stat. § 501.211",
+        "relationship_type": "references"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2c3d-4e5f-6a7b8c9d0e1f2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 501.204",
+    "official_title": "Deceptive or unfair acts or practices prohibited / Unlawful acts and practices",
+    "summary_description": "Declares unfair methods of competition, unconscionable acts or practices, and unfair or deceptive acts or practices in the conduct of any trade or commerce to be unlawful under FDUTPA.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": "II",
+        "part_name": "DECEPTIVE AND UNFAIR TRADE PRACTICES",
+        "chapter_number": "501",
+        "chapter_name": "Consumer Protection",
+        "section_number_raw": ".204",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Consumer Protection",
+    "keywords": ["FDUTPA", "deceptive acts", "unfair practices", "unconscionable acts", "prohibition"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 501.201-§ 501.213",
+        "relationship_type": "referenced_by"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3d4e-5f6a-7b8c9d0e1f2a3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 501.206",
+    "official_title": "Enforcement and injunctive relief (FDUTPA)",
+    "summary_description": "Authorizes enforcing authorities to seek injunctive relief and other remedies for violations of the Florida Deceptive and Unfair Trade Practices Act.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": "II",
+        "part_name": "DECEPTIVE AND UNFAIR TRADE PRACTICES",
+        "chapter_number": "501",
+        "chapter_name": "Consumer Protection",
+        "section_number_raw": ".206",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Consumer Protection",
+    "keywords": ["FDUTPA", "enforcement", "injunctive relief", "remedies"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 501.201-§ 501.213",
+        "relationship_type": "referenced_by"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4e5f-6a7b-8c9d0e1f2a3b4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 501.211",
+    "official_title": "Civil remedies for consumers and tenants (FDUTPA)",
+    "summary_description": "Provides for civil remedies, including actual damages, attorney's fees, and costs, for individuals harmed by violations of the Florida Deceptive and Unfair Trade Practices Act.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": "II",
+        "part_name": "DECEPTIVE AND UNFAIR TRADE PRACTICES",
+        "chapter_number": "501",
+        "chapter_name": "Consumer Protection",
+        "section_number_raw": ".211",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Consumer Protection",
+    "keywords": ["FDUTPA", "civil remedies", "damages", "attorney fees", "consumer rights", "tenant rights"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [
+      {
+        "citation": "Fla. Stat. § 501.201-§ 501.213",
+        "relationship_type": "referenced_by"
+      }
+    ],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5f6a-7b8c-9d0e1f2a3b4c5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 509.141",
+    "official_title": "Refusal of admission and ejection of undesirable guests",
+    "summary_description": "Governs the right of operators of public lodging establishments to refuse admission or eject guests who are acting in an undesirable manner.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "509",
+        "chapter_name": "Lodging and Food Service Establishments; Membership Campgrounds",
+        "section_number_raw": ".141",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Lodging and Food Service",
+    "keywords": ["public lodging", "hotel", "guest ejection", "refusal of admission", "undesirable guest"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6a7b-8c9d-0e1f2a3b4c5d6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 509.142",
+    "official_title": "Conduct on premises; refusal of service",
+    "summary_description": "Addresses the conduct expected on the premises of public lodging establishments and the operator's right to refuse service.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "509",
+        "chapter_name": "Lodging and Food Service Establishments; Membership Campgrounds",
+        "section_number_raw": ".142",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Lodging and Food Service",
+    "keywords": ["public lodging", "conduct on premises", "refusal of service", "operator rights"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7b8c-9d0e-1f2a3b4c5d6e7",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 553.03",
+    "official_title": "Enforcement of minimum housing codes",
+    "summary_description": "Relates to the enforcement of building construction standards, including minimum housing codes, by local governments.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "553",
+        "chapter_name": "Building Construction Standards",
+        "section_number_raw": ".03",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Building and Construction Standards",
+    "keywords": ["housing codes", "building codes", "enforcement", "local government", "minimum standards"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8c9d-0e1f-2a3b4c5d6e7f8",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 553.73",
+    "official_title": "Florida Building Code",
+    "summary_description": "Establishes the Florida Building Code, which sets minimum standards for building design, construction, and maintenance, applicable to rental properties.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "553",
+        "chapter_name": "Building Construction Standards",
+        "section_number_raw": ".73",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Building and Construction Standards",
+    "keywords": ["Florida Building Code", "building standards", "construction", "maintenance", "rental property"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9d0e-1f2a-3b4c5d6e7f8a9",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 553.865",
+    "official_title": "Maintenance of residential property to code standards",
+    "summary_description": "Requires residential property to be maintained in accordance with applicable building codes.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "553",
+        "chapter_name": "Building Construction Standards",
+        "section_number_raw": ".865",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Building and Construction Standards",
+    "keywords": ["property maintenance", "residential property", "building codes", "code standards"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0e1f-2a3b-4c5d6e7f8a9b0",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 605.0105(4)",
+    "official_title": "Good faith and fair dealing in LLC conduct",
+    "summary_description": "Mandates that members and managers of a Limited Liability Company (LLC) discharge their duties in good faith and with fair dealing.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "605",
+        "chapter_name": "Florida Revised Limited Liability Company Act",
+        "section_number_raw": ".0105(4)",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (LLC)",
+    "keywords": ["LLC", "good faith", "fair dealing", "member duties", "manager duties"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1f2a-3b4c-5d6e7f8a9b0c1",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 605.0901",
+    "official_title": "Foreign LLC authority",
+    "summary_description": "Addresses the authority of foreign (out-of-state) Limited Liability Companies (LLCs) to transact business in Florida.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "605",
+        "chapter_name": "Florida Revised Limited Liability Company Act",
+        "section_number_raw": ".0901",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (LLC)",
+    "keywords": ["foreign LLC", "LLC authority", "transacting business", "out-of-state LLC"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2a3b-4c5d-6e7f8a9b0c1d2",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 605.0902",
+    "official_title": "Foreign LLC registration required / Certificate of authority",
+    "summary_description": "Requires a foreign Limited Liability Company (LLC) to obtain a certificate of authority from the Florida Department of State before transacting business in Florida, such as collecting rent.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "605",
+        "chapter_name": "Florida Revised Limited Liability Company Act",
+        "section_number_raw": ".0902",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (LLC)",
+    "keywords": ["foreign LLC", "registration", "certificate of authority", "transacting business", "LLC"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Requires a foreign limited liability company (LLC) to obtain a certificate of authority from the Florida Department of State before transacting business in Florida. Relevance: Collecting rent for a Florida property without this registration is a violation.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3b4c-5d6e-7f8a9b0c1d2e3",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 605.0904",
+    "official_title": "What does not constitute transacting business (Foreign LLC)",
+    "summary_description": "Lists activities that do not constitute 'transacting business' in Florida for the purpose of foreign LLC registration requirements.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "605",
+        "chapter_name": "Florida Revised Limited Liability Company Act",
+        "section_number_raw": ".0904",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (LLC)",
+    "keywords": ["foreign LLC", "transacting business", "registration exemption", "LLC activities"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4c5d-6e7f-8a9b0c1d2e3f4",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 605.0905",
+    "official_title": "Consequences of transacting business without authority (Foreign LLC)",
+    "summary_description": "Specifies the consequences for a foreign LLC transacting business in Florida without proper authority, including inability to maintain lawsuits and potential fines.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "605",
+        "chapter_name": "Florida Revised Limited Liability Company Act",
+        "section_number_raw": ".0905",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (LLC)",
+    "keywords": ["foreign LLC", "unauthorized business", "consequences", "penalties", "lawsuit bar"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5d6e-7f8a-9b0c1d2e3f4a5",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 605.0907",
+    "official_title": "Effect of failure to obtain certificate of authority (Foreign LLC)",
+    "summary_description": "Details the effects of a foreign LLC's failure to obtain a certificate of authority, primarily impacting its ability to maintain legal actions in Florida courts.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "605",
+        "chapter_name": "Florida Revised Limited Liability Company Act",
+        "section_number_raw": ".0907",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (LLC)",
+    "keywords": ["foreign LLC", "certificate of authority", "failure to register", "lawsuit bar", "LLC"],
+    "full_text_link": null,
+    "application_notes_general": "Requirement: Specifies the consequences for a foreign LLC failing to obtain a certificate of authority, including inability to maintain an action in Florida courts. Relevance: This statute impacts the landlord's ability to sue the tenant or enforce lease terms in Florida courts.",
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6e7f-8a9b-0c1d2e3f4a5b6",
+    "provision_type": "florida_statute",
+    "citation": "Fla. Stat. § 605.0913",
+    "official_title": "Rights of authorized foreign LLCs",
+    "summary_description": "Outlines the rights and privileges of a foreign LLC that is properly authorized to transact business in Florida.",
+    "details": {
+      "floridaStatuteDetails": {
+        "code_name": "Florida Statutes",
+        "title_number": null,
+        "title_name": null,
+        "part_number": null,
+        "part_name": null,
+        "chapter_number": "605",
+        "chapter_name": "Florida Revised Limited Liability Company Act",
+        "section_number_raw": ".0913",
+        "is_range": false,
+        "effective_date": null,
+        "last_amended_date": null,
+        "history_notes": null,
+        "repealed_status": false,
+        "repeal_date": null
+      }
+    },
+    "primary_topic_area": "Business Organizations (LLC)",
+    "keywords": ["foreign LLC", "authorized LLC", "rights", "privileges", "transacting business"],
+    "full_text_link": null,
+    "application_notes_general": null,
+    "related_provisions_identified": [],
+    "metadata": {
+      "schema_version": "1.0.0",
+      "processing_timestamp": "2024-05-16T12:00:00Z",
+      "source_description": "User-provided list and internal knowledge."
+    }
+  }
+]

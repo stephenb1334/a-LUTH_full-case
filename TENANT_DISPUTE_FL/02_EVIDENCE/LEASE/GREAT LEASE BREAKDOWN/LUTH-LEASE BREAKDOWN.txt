@@ -1,0 +1,73 @@
+Below is a clause‑by‑clause “deep dive” into the lease for 2649 Tifton St S, Gulfport, Florida, focusing on (1) address manipulation, (2) statutory compliance, (3) provisions that shift risk or waive rights, and (4) leverage points for a tenant claim.
+
+⸻
+
+1 │ Landlord‑address anomalies
+
+*In every blank where the form asks for a landlord mailing address—five times across the first four pages—Rollins inserts the rented premises itself, 2649 Tifton St S.*ASE-PDF-AGREEMENT-PRIIZMO.pdf](file-service://file-1ZTEVJvJ5F5RYhBfVs597e)
+	•	“Parties” clause: landlord name and address both read “2649 Tifton St S.”
+	•	“Money due prior to occupancy”: pre‑move‑in funds payable to that same address.EASE-PDF-AGREEMENT-PRIIZMO.pdf](file-service://file-1ZTEVJvJ5F5RYhBfVs597e)
+	•	“Notices” paragraph: statutory notices must be mailed to 2649 Tifton St S (city and ZIP omitted once).D ADDRESSING copy.pdf](file-service://file-81kXjZa5fqnQKAw2MCzzDd)
+	•	“Maintenance” clause: repair requests go to 2649 Tifton St S.AD ADDRESSING copy.pdf](file-service://file-81kXjZa5fqnQKAw2MCzzDd)
+
+Why it matters.
+Florida Statute 83.49(3)(a) requires the landlord to mail any security‑deposit claim to the tenant’s “last known address”—and gives the tenant fifteen days to object “in writing … to the landlord’s address.” By conflating landlord and premises addresses, Rollins forces the tenant to serve objections at their own residence, undermining proof of delivery and arguably shortening the statutory response window. The dual use also conflicts with § 83.50, which obliges a landlord to keep records and provide a reliable address for service.
+
+⸻
+
+2 │ Security‑deposit compliance
+
+The lease reproduces the statutory disclosure text from § 83.49 verbatim, but leaves two critical blanks empty:
+	•	No banking depository is named.
+	•	No statement appears explaining whether the deposit earns interest.
+
+The omission violates § 83.49(2)(b), which obliges the landlord to disclose those details in writing within thirty days after receipt of the money. The defect is aggravated by the mis‑addressed claim letter that followed: Rollins’s notice demanded the full $4,500 deposit and told the tenants to send objections to 231 Government Ave SW #3097—again without “P.O. Box,” triggering USPS mis‑routing. The tenant’s need to warn Rollins by e‑mail that certified mail was being rejected is evidence of actual prejudice.
+
+⸻
+
+3 │ Rent and late‑fee structure
+	•	Rent is $4,500 monthly, due the first.
+	•	A late charge is set as “$____ (if blank, 4 % of the rent payment) for each rent payment made ___ days late …” The blank for the dollar amount is filled with nothing, so the default 4 % applies. If rent is $4,500, the late fee caps at $180 under § 83.46(1). No issues there.
+	•	Payment instructions direct checks to Luther Rollins at the premises, repeating the address confusion.
+
+⸻
+
+4 │ Maintenance allocation
+
+Every maintenance item—foundations, plumbing, HVAC, pest‑control—is assigned to “Landlord” by default. Tenants “shall notify Luther Rollins at 2649 Tifton St S” of repair requests. By giving a notice address identical to the premises, Rollins risks claiming he never received written repair requests left in his own mailbox—an argument Florida courts routinely reject as self‑serving.
+
+⸻
+
+5 │ Prohibited or risky clauses
+
+Waiver‑of‑rights check.
+Page 9 reproduces § 83.47(1) and § 83.48, confirming attorney‑fees reciprocity and voiding any waiver of statutory remedies. No explicit waiver appears elsewhere, so the lease skirts that pitfall.
+
+Assignment clause.
+Tenant may not assign unless the checkbox is marked. Standard.
+
+Insurance‑in‑lieu‑of‑deposit addendum.
+Page 12 references the new § 83.491 “fee in lieu of security deposit.” Rollins did not opt into the fee scheme; instead he took a conventional $4,500 deposit, so that boilerplate is harmless but further proof the form was adopted without tailoring.
+
+⸻
+
+6 │ Consistency with the emerging pattern
+	1.	Address toggling—street address mis‑labelled as “post‑office” on the Pinellas deed, P.O.‑box masked as “Suite 3097” on rent envelopes, and now landlord address conflated with tenant premises.
+	2.	Control of communication flow—repair requests, notices, deposits, and objections must all pass through addresses Rollins can selectively monitor.
+	3.	Regulatory short‑cuts—deposit notice blanks left empty; mailbox label omitted; insecure route for certified mail.
+
+Taken together these clauses confirm that the address games are intentional and central to Rollins’s strategy: they muddy statutory timelines, complicate service of process, and keep tenant funds and correspondence under his exclusive control.
+
+⸻
+
+7 │ Leverage points for a tenant claim
+	•	Statutory damages for deposit mishandling. Failure to name a bank plus the mis‑addressed claim letter supports treble‑deposit recovery under § 83.49(3)(a).
+	•	Declaratory judgment on invalid notice clause. A court can rule that any lease paragraph requiring notices to be mailed to the premises is unconscionable or void under § 83.47.
+	•	Attorney‑fee entitlement. Because the lease adopts § 83.48 verbatim, the prevailing tenant will recover fees.
+	•	Pattern evidence for punitive damages. Showing the same address tactic in deeds, rent instructions, claim letters, and the lease itself can satisfy the “willful and malicious” threshold.
+
+⸻
+
+Bottom‑line assessment
+
+The lease’s most damaging flaw is procedural: by substituting the rental house for a bona‑fide landlord address, it frustrates every statutory notice the tenant may need to send—from repair demands to deposit objections. That choice is not an accident; it dovetails with Rollins’s broader use of post‑office boxes disguised as suites and street addresses disguised as post‑office boxes. The pattern underscores intentional evasion, supplies a solid statutory cause of action, and strengthens any argument for punitive damages or bar discipline.

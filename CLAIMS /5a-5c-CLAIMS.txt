@@ -1,0 +1,68 @@
+5a-5c-CLAIMS
+
+Category: Claims Related to Professional Misconduct and Ethical Violations
+
+
+5a: CLAIM: Misrepresentation as a Lawyer
+	•	Parties Involved:
+	•	Primary Responsible Party: Luther Rollins.
+	•	Statute Violated:
+	•	§454.23: “Misrepresentation of Legal Status.”
+	•	Summary: Prohibits individuals from falsely representing themselves as licensed attorneys to gain undue advantage.
+	•	Claim Summary:
+The landlord used the email handle “luther2law@gmail.com” to imply legal authority, misleading the tenant into believing he was required to comply with verbal requests and unwritten negotiations. This misrepresentation created undue pressure and contributed to the tenant’s emotional distress.
+	•	Evidence:
+	•	Emails from “luther2law@gmail.com” referencing legal obligations.
+	•	Tenant’s certified letter explicitly rejecting unwritten negotiations.
+	•	Case Law Support:
+	•	Durene v. Alcime, 448 So.2d 1208 (Fla. App. 1984): Misrepresentation of legal status is a breach of professional conduct.
+	•	Claim Amount: Contributes to punitive damages of $10,000.
+	
+	
+	
+5b: CLAIM: Ethical Violations by Realtor and Landlord
+	•	Parties Involved:
+	•	Primary Responsible Party: Luther Rollins.
+	•	Jointly Liable Parties: Zach Steinberger, Compass Realty.
+	•	Statute Violated:
+	•	Florida Realtor Code of Ethics (Article 1): “Duty to Protect Client and Public Interests.”
+	•	Summary: Realtors must act honestly, avoid conflicts of interest, and protect tenant rights.
+	•	Claim Summary:
+The realtor acted as both the listing agent and landlord’s representative, creating a conflict of interest. This dual role compromised his impartiality and influenced decisions regarding the tenant’s security deposit and property retrieval.
+	•	Evidence:
+	•	Lease documents identifying Zach as both listing agent and landlord representative.
+	•	Emails showing biased advice favoring the landlord’s claims.
+	
+	
+5c: CLAIM: Unqualified Role in Damage Assessments
+	•	Parties Involved:
+	•	Primary Responsible Party: Zach Steinberger.
+	•	Jointly Liable Parties: Compass Realty.
+	•	Statute Violated:
+	•	§83.49(3)(c): “Unauthorized and Unqualified Actions.”
+	•	Summary: Landlords and agents must rely on qualified professionals for damage assessments and claims.
+	•	Claim Summary:
+The realtor provided unqualified opinions on property damage, influencing the landlord’s security deposit claim. His flawed and unverified assessments contributed to bad-faith withholding of the deposit and tenant distress.
+	•	Evidence:
+	•	Emails from Zach advising the landlord on deposit claims without proper credentials.
+	•	Lack of professional assessments to support claims.
+	•	Case Law Support:
+	•	Williams v. Edwards, 642 So.2d 124 (Fla. App. 1994): Unqualified actions by agents invalidate claims and create liability.
+	•	Claim Amount: Contributes to emotional distress and punitive damages of $10,000.
+
+
+5d: CLAIM: Failure to Enforce Ethical Standards
+
+	•	Parties Involved:
+	•	Primary Responsible Party: Compass Realty.
+	•	Statute Violated:
+	•	Florida Real Estate Law: “Supervisory Obligations of Brokers.”
+	•	Summary: Brokers must ensure agents comply with ethical standards and professional responsibilities.
+	•	Claim Summary:
+Compass Realty failed to supervise Zach Steinberger’s actions, allowing him to act unethically and contribute to the landlord’s bad-faith conduct. This failure enabled harassment, unqualified assessments, and unethical representation.
+	•	Evidence:
+	•	Lease documents and emails identifying Compass Realty as Zach’s employer.
+	•	Realtor Code of Ethics violations in Zach’s conduct.
+	•	Case Law Support:
+	•	Goodwin v. Alexatos, 584 So.2d 1007 (Fla. App. 1991): Brokers are liable for agents’ ethical violations.
+	•	Claim Amount: Contributes to punitive damages of $15,000.

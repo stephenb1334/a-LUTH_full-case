@@ -1,0 +1,2100 @@
+{
+    "buildingPermits": null,
+    "contact_recipients": [
+        {
+            "agent_reason": 1,
+            "zpro": null,
+            "recent_sales": 0,
+            "review_count": 0,
+            "display_name": "Premier Broker Flex Atlanta GA",
+            "badge_type": "Premier Agent",
+            "business_name": "Zillow Group",
+            "rating_average": 0,
+            "phone": {
+                "prefix": "452",
+                "areacode": "206",
+                "number": "1030"
+            },
+            "zuid": "X1-ZUv2ktj4jt3nyh_98wrm",
+            "image_url": "https://www.zillowstatic.com/static/images/nophoto_h_g.png"
+        }
+    ],
+    "longitude": -82.69662,
+    "countyFIPS": "12103",
+    "imgSrc": "https://photos.zillowstatic.com/fp/cea75f5b5483b2b1f4973818157fe338-p_d.jpg",
+    "livingAreaValue": 1472,
+    "streetAddress": "2649 Tifton St S",
+    "county": "Pinellas County",
+    "monthlyHoaFee": null,
+    "timeZone": "America/New_York",
+    "taxHistory": [
+        {
+            "time": 1720163568739,
+            "valueIncreaseRate": 0.079549894,
+            "taxIncreaseRate": 0.059212986,
+            "taxPaid": 8262.91,
+            "value": 483525
+        },
+        {
+            "time": 1688541168739,
+            "valueIncreaseRate": 0.8277922,
+            "taxIncreaseRate": 1.184301,
+            "taxPaid": 7800.99,
+            "value": 447895
+        },
+        {
+            "time": 1657005168739,
+            "valueIncreaseRate": 0.029998738,
+            "taxIncreaseRate": -0.01253621,
+            "taxPaid": 3571.39,
+            "value": 245047
+        },
+        {
+            "time": 1625469168739,
+            "valueIncreaseRate": 0.014001066,
+            "taxIncreaseRate": 0.0024807365,
+            "taxPaid": 3616.73,
+            "value": 237910
+        },
+        {
+            "time": 1593933168739,
+            "valueIncreaseRate": 0.022999782,
+            "taxIncreaseRate": 0.01807419,
+            "taxPaid": 3607.78,
+            "value": 234625
+        },
+        {
+            "time": 1562310768739,
+            "valueIncreaseRate": 0.8765341,
+            "taxIncreaseRate": 0,
+            "taxPaid": 3543.73,
+            "value": 229350
+        },
+        {
+            "time": 1530774768739,
+            "valueIncreaseRate": 0.021001454,
+            "taxIncreaseRate": 1.3006454,
+            "taxPaid": 3543.73,
+            "value": 122220
+        },
+        {
+            "time": 1499238768739,
+            "valueIncreaseRate": 0.020998942,
+            "taxIncreaseRate": 0.02599758,
+            "taxPaid": 1540.32,
+            "value": 119706
+        },
+        {
+            "time": 1467702768739,
+            "valueIncreaseRate": 0.006999974,
+            "taxIncreaseRate": -0.01655357,
+            "taxPaid": 1501.29,
+            "value": 117244
+        },
+        {
+            "time": 1436080368739,
+            "valueIncreaseRate": 0.007999654,
+            "taxIncreaseRate": 0.0072713485,
+            "taxPaid": 1526.56,
+            "value": 116429
+        },
+        {
+            "time": 1404544368739,
+            "valueIncreaseRate": 0.1500244,
+            "taxIncreaseRate": 0.23278783,
+            "taxPaid": 1515.54,
+            "value": 115505
+        },
+        {
+            "time": 1373008368739,
+            "valueIncreaseRate": 0.019551117,
+            "taxIncreaseRate": -0.3871677,
+            "taxPaid": 1229.36,
+            "value": 100437
+        },
+        {
+            "time": 1341472368739,
+            "valueIncreaseRate": 0.09633298,
+            "taxIncreaseRate": 0,
+            "taxPaid": 2006.03,
+            "value": 98511
+        },
+        {
+            "time": 1309849968739,
+            "valueIncreaseRate": -0.09496087,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 89855
+        },
+        {
+            "time": 1278313968739,
+            "valueIncreaseRate": -0.13083482,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 99283
+        },
+        {
+            "time": 1246777968739,
+            "valueIncreaseRate": -0.21330579,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 114228
+        },
+        {
+            "time": 1215241968739,
+            "valueIncreaseRate": -0.13261649,
+            "taxIncreaseRate": 0,
+            "taxPaid": 2774.27,
+            "value": 145200
+        },
+        {
+            "time": 1183619568739,
+            "valueIncreaseRate": 0.49330956,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 167400
+        },
+        {
+            "time": 1120547568739,
+            "valueIncreaseRate": 0.10770751,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 112100
+        },
+        {
+            "time": 1089011568739,
+            "valueIncreaseRate": 0.13072626,
+            "taxIncreaseRate": 0.12468042,
+            "taxPaid": 2177.46,
+            "value": 101200
+        },
+        {
+            "time": 1057389168739,
+            "valueIncreaseRate": 0.2293956,
+            "taxIncreaseRate": 0.36885676,
+            "taxPaid": 1936.07,
+            "value": 89500
+        },
+        {
+            "time": 1025853168739,
+            "valueIncreaseRate": 0.12693499,
+            "taxIncreaseRate": 0,
+            "taxPaid": 1414.37,
+            "value": 72800
+        },
+        {
+            "time": 994317168739,
+            "valueIncreaseRate": 0.4323725,
+            "taxIncreaseRate": 3.0067139,
+            "taxPaid": 1414.37,
+            "value": 64600
+        },
+        {
+            "time": 962781168739,
+            "valueIncreaseRate": 0,
+            "taxIncreaseRate": 0,
+            "taxPaid": 353,
+            "value": 45100
+        }
+    ],
+    "dateSold": null,
+    "annualHomeownersInsurance": 2310,
+    "state": "FL",
+    "listed_by": {
+        "agent_reason": 3,
+        "zpro": false,
+        "recent_sales": 0,
+        "zuid": "X1-ZUuzidjqko6nm1_4eq92",
+        "review_count": 6,
+        "display_name": "Shawn Rigney",
+        "profile_url": "https://www.zillow.com/profile/shawn-rigney9/",
+        "business_name": "EXP REALTY LLC",
+        "rating_average": 5,
+        "phone": {
+            "prefix": "275",
+            "areacode": "727",
+            "number": "0580"
+        },
+        "badge_type": "Listing Agent",
+        "image_url": "https://photos.zillowstatic.com/fp/368a75514804092deac3561566fe0740-h_n.jpg"
+    },
+    "yearBuilt": 1955,
+    "brokerageName": "EXP REALTY LLC",
+    "description": "This Gulfport gem is what you've been looking for! Welcome to 2649 Tifton St S, a beautifully updated 2-bedroom, 2-bath home offering 1,472 square feet of thoughtfully designed living space, complete with a versatile bonus room ideal for an office. This home blends modern comfort with timeless charm and is packed with features that set it apart. Step through the front door into a warm and welcoming entryway, where you'll immediately notice the home\u2019s inviting atmosphere. A convenient coat closet is located just to your left, providing a perfect drop zone for guests and daily use. From the entry, you're greeted with a well-designed split floor plan that offers flexibility and flow\u2014head straight ahead into the main living areas, including the dinette, kitchen, living room, and office, or turn right toward the formal dining room and the two spacious bedrooms. Inside, the kitchen is a chef\u2019s dream, featuring white soft-close cabinetry, a beautiful backsplash, recessed lighting, quartz countertops, and a wine bar. Stainless steel appliances and an open-concept layout make this space both highly functional and perfect for entertaining. The spacious living room offers plenty of room for gatherings and includes a bar that opens into the kitchen, creating an inviting flow ideal for hosting. Natural light fills the home through ample windows, giving the space a warm and airy feel. Additional interior highlights include plantation-style shutters, motorized blinds, and a variety of new, updated lights and fixtures that bring a modern touch to every room. The horseshoe driveway provides convenient extra parking and enhances the home\u2019s curb appeal. Step outside into the oversized, fenced-in backyard, a perfect extension of your living space. The paver patio is prewired for a hot tub, allowing you to create a private outdoor retreat. Whether you're entertaining guests, enjoying a quiet evening, or letting pets roam freely, this backyard offers endless possibilities. Living in Gulfport means enjoying a vibrant, outdoor-focused lifestyle. You're just moments away from the Gulfport Municipal Marina, where you can rent a kayak or take a scenic boat tour of Boca Ciega Bay. Clam Bayou Nature Preserve offers peaceful trails ideal for hiking and dog-walking, while Gulfport Beach and Tomlinson Park provide great spots for relaxing, fishing, or using the outdoor fitness equipment. The nearby Gulfport Recreation Center features amenities like a playground and skate park, making it a great community space for all ages. Education is also within easy reach, with St. Petersburg College, Eckerd College, Pinellas Technical College, and Stetson University College of Law all located within three miles of the home. This makes it an ideal location for anyone seeking proximity to top-tier schools. For those who love culture and community, Gulfport delivers in every way. Take a walk along Beach and Shore Boulevards, lined with art galleries, local shops, and cafes. Enjoy live music at the Art Village Courtyard or explore local history at the Gulfport Historical Society. The neighborhood offers an eclectic mix of dining and entertainment, including waterfront restaurants, the historic Gulfport Casino, and the ever-popular Gulfport Tuesday Fresh Market. This property combines modern updates, bright and open living spaces, and a prime location in one of Gulfport\u2019s most desirable neighborhoods. Schedule your private showing today!",
+    "climate": {
+        "windSources": {
+            "primary": {
+                "insuranceRecommendation": "CRITICAL",
+                "riskScore": {
+                    "label": "EXTREME",
+                    "max": 10,
+                    "value": 10
+                },
+                "probability": [
+                    {
+                        "relativeYear": 0,
+                        "probability": 0.5
+                    },
+                    {
+                        "relativeYear": 5,
+                        "probability": 0.98000001907349
+                    },
+                    {
+                        "relativeYear": 10,
+                        "probability": 0.99000000953674
+                    },
+                    {
+                        "relativeYear": 15,
+                        "probability": 0.99000000953674
+                    },
+                    {
+                        "relativeYear": 20,
+                        "probability": 0.99000000953674
+                    },
+                    {
+                        "relativeYear": 25,
+                        "probability": 0.99000000953674
+                    },
+                    {
+                        "relativeYear": 30,
+                        "probability": 0.99000000953674
+                    }
+                ],
+                "source": {
+                    "url": "https://firststreet.org/property/2649-tifton-st-s-gulfport-fl-33711/1201386953_fsid"
+                },
+                "insuranceSeparatePolicy": "LIKELY_REQUIRED",
+                "historicCountAll": 97
+            }
+        },
+        "floodSources": {
+            "primary": {
+                "insuranceRecommendation": "CRITICAL",
+                "riskScore": {
+                    "label": "EXTREME",
+                    "max": 10,
+                    "value": 9
+                },
+                "femaZone": "AE",
+                "source": {
+                    "url": "https://firststreet.org/property/2649-tifton-st-s-gulfport-fl-33711/1201386953_fsid"
+                },
+                "probability": [
+                    {
+                        "relativeYear": 0,
+                        "probability": 0.17000000178814
+                    },
+                    {
+                        "relativeYear": 5,
+                        "probability": 0.6700000166893
+                    },
+                    {
+                        "relativeYear": 10,
+                        "probability": 0.87000000476837
+                    },
+                    {
+                        "relativeYear": 15,
+                        "probability": 0.94999998807907
+                    },
+                    {
+                        "relativeYear": 20,
+                        "probability": 0.98000001907349
+                    },
+                    {
+                        "relativeYear": 25,
+                        "probability": 0.99000000953674
+                    },
+                    {
+                        "relativeYear": 30,
+                        "probability": 0.99000000953674
+                    }
+                ],
+                "insuranceSeparatePolicy": "REQUIRED",
+                "historicCountPropertyAll": 0
+            }
+        },
+        "fireSources": {
+            "primary": {
+                "insuranceRecommendation": "NOT_CRITICAL",
+                "riskScore": {
+                    "label": "MINIMAL",
+                    "max": 10,
+                    "value": 1
+                },
+                "probability": {},
+                "source": {
+                    "url": "https://firststreet.org/property/2649-tifton-st-s-gulfport-fl-33711/1201386953_fsid"
+                },
+                "insuranceSeparatePolicy": "LIKELY_OPTIONAL",
+                "historicCountAll": 1
+            }
+        },
+        "heatSources": {
+            "primary": {
+                "percentile98Temp": 106,
+                "hotDays": [
+                    {
+                        "relativeYear": 0,
+                        "dayCount": 7
+                    },
+                    {
+                        "relativeYear": 5,
+                        "dayCount": 10
+                    },
+                    {
+                        "relativeYear": 10,
+                        "dayCount": 13
+                    },
+                    {
+                        "relativeYear": 15,
+                        "dayCount": 17
+                    },
+                    {
+                        "relativeYear": 20,
+                        "dayCount": 20
+                    },
+                    {
+                        "relativeYear": 25,
+                        "dayCount": 23
+                    },
+                    {
+                        "relativeYear": 30,
+                        "dayCount": 26
+                    }
+                ],
+                "riskScore": {
+                    "label": "EXTREME",
+                    "max": 10,
+                    "value": 10
+                },
+                "source": {
+                    "url": "https://firststreet.org/property/2649-tifton-st-s-gulfport-fl-33711/1201386953_fsid"
+                }
+            }
+        },
+        "airSources": {
+            "primary": {
+                "source": {
+                    "url": "https://firststreet.org/property/2649-tifton-st-s-gulfport-fl-33711/1201386953_fsid"
+                },
+                "riskScore": {
+                    "label": "MODERATE",
+                    "max": 10,
+                    "value": 3
+                },
+                "badAirDays": [
+                    {
+                        "relativeYear": 0,
+                        "dayCount": 3
+                    },
+                    {
+                        "relativeYear": 5,
+                        "dayCount": 3
+                    },
+                    {
+                        "relativeYear": 10,
+                        "dayCount": 3
+                    },
+                    {
+                        "relativeYear": 15,
+                        "dayCount": 3
+                    },
+                    {
+                        "relativeYear": 20,
+                        "dayCount": 3
+                    },
+                    {
+                        "relativeYear": 25,
+                        "dayCount": 3
+                    },
+                    {
+                        "relativeYear": 30,
+                        "dayCount": 3
+                    }
+                ]
+            }
+        }
+    },
+    "latitude": 27.743277,
+    "nearbyHomes": [
+        {
+            "bathrooms": 2,
+            "newConstructionType": null,
+            "lotAreaUnits": "Square Feet",
+            "formattedChip": {
+                "location": [
+                    {
+                        "fullValue": "2650 47th St S"
+                    },
+                    {
+                        "fullValue": null
+                    }
+                ]
+            },
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "hdpUrl": "/homedetails/2650-47th-St-S-Gulfport-FL-33711/47261130_zpid/",
+            "lotAreaValue": 6451,
+            "parentRegion": null,
+            "address": {
+                "city": "Gulfport",
+                "state": "FL",
+                "streetAddress": "2650 47th St S",
+                "zipcode": "33711"
+            },
+            "state": "FL",
+            "attributionInfo": {
+                "agentPhoneNumber": null,
+                "trueStatus": null,
+                "providerLogo": null,
+                "mlsId": "U8188035",
+                "brokerName": null,
+                "mlsName": null,
+                "brokerPhoneNumber": null,
+                "agentName": null
+            },
+            "latitude": 27.743208,
+            "homeStatus": "SOLD",
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_forAuction": false,
+                "is_comingSoon": false,
+                "is_foreclosure": false,
+                "is_bankOwned": false,
+                "is_newHome": false,
+                "is_FSBO": false
+            },
+            "price": 530000,
+            "listingMetadata": {
+                "comminglingCategoryIsRulesApplicable": false
+            },
+            "bedrooms": 3,
+            "propertyTypeDimension": "Single Family",
+            "listingTypeDimension": "Unknown Listed By",
+            "lotSize": 6451,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/d603669835151a16cc698ee66e47fe79-p_c.jpg"
+                }
+            ],
+            "zpid": 47261130,
+            "hdpTypeDimension": "RecentlySold",
+            "livingArea": 1527,
+            "longitude": -82.69695,
+            "livingAreaUnitsShort": "sqft",
+            "providerListingID": null,
+            "homeType": "SINGLE_FAMILY",
+            "livingAreaUnits": "Square Feet",
+            "currency": "USD",
+            "livingAreaValue": 1527
+        },
+        {
+            "bathrooms": 1,
+            "newConstructionType": null,
+            "lotAreaUnits": "Square Feet",
+            "formattedChip": {
+                "location": [
+                    {
+                        "fullValue": "2646 47th St S"
+                    },
+                    {
+                        "fullValue": null
+                    }
+                ]
+            },
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "hdpUrl": "/homedetails/2646-47th-St-S-Gulfport-FL-33711/47261129_zpid/",
+            "lotAreaValue": 6446,
+            "parentRegion": null,
+            "address": {
+                "city": "Gulfport",
+                "state": "FL",
+                "streetAddress": "2646 47th St S",
+                "zipcode": "33711"
+            },
+            "state": "FL",
+            "attributionInfo": {
+                "agentPhoneNumber": null,
+                "trueStatus": null,
+                "providerLogo": null,
+                "mlsId": null,
+                "brokerName": null,
+                "mlsName": null,
+                "brokerPhoneNumber": null,
+                "agentName": null
+            },
+            "latitude": 27.743368,
+            "homeStatus": "OTHER",
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_forAuction": false,
+                "is_comingSoon": false,
+                "is_foreclosure": false,
+                "is_bankOwned": false,
+                "is_newHome": false,
+                "is_FSBO": false
+            },
+            "price": 325500,
+            "listingMetadata": {
+                "comminglingCategoryIsRulesApplicable": false
+            },
+            "bedrooms": null,
+            "propertyTypeDimension": "Single Family",
+            "listingTypeDimension": "Unknown Listed By",
+            "lotSize": 6446,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=27.74336814880371,-82.69694519042969&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Qt6N8K9d7U4Q8C9e87NO2eN_d00="
+                }
+            ],
+            "zpid": 47261129,
+            "hdpTypeDimension": "Zestimate",
+            "livingArea": 938,
+            "longitude": -82.696945,
+            "livingAreaUnitsShort": "sqft",
+            "providerListingID": null,
+            "homeType": "SINGLE_FAMILY",
+            "livingAreaUnits": "Square Feet",
+            "currency": "USD",
+            "livingAreaValue": 938
+        },
+        {
+            "bathrooms": 2,
+            "newConstructionType": "BUILDER_SPEC",
+            "lotAreaUnits": "Square Feet",
+            "formattedChip": {
+                "location": [
+                    {
+                        "fullValue": "2633 Tifton St S"
+                    },
+                    {
+                        "fullValue": null
+                    }
+                ]
+            },
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "hdpUrl": "/homedetails/2633-Tifton-St-S-Saint-Petersburg-FL-33711/2053243565_zpid/",
+            "lotAreaValue": 5320,
+            "parentRegion": null,
+            "address": {
+                "city": "Saint Petersburg",
+                "state": "FL",
+                "streetAddress": "2633 Tifton St S",
+                "zipcode": "33711"
+            },
+            "state": "FL",
+            "attributionInfo": {
+                "agentPhoneNumber": null,
+                "trueStatus": null,
+                "providerLogo": null,
+                "mlsId": "T3497015",
+                "brokerName": null,
+                "mlsName": null,
+                "brokerPhoneNumber": null,
+                "agentName": null
+            },
+            "latitude": 27.743593,
+            "homeStatus": "FOR_SALE",
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_forAuction": false,
+                "is_comingSoon": false,
+                "is_foreclosure": false,
+                "is_bankOwned": false,
+                "is_newHome": true,
+                "is_FSBO": false
+            },
+            "price": 949900,
+            "listingMetadata": {
+                "comminglingCategoryIsRulesApplicable": false
+            },
+            "bedrooms": 3,
+            "propertyTypeDimension": "Single Family",
+            "listingTypeDimension": "New Construction",
+            "lotSize": 5320,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/107705fbcc18554b3fb196ce3d61b96d-p_c.jpg"
+                }
+            ],
+            "zpid": 2053243565,
+            "hdpTypeDimension": "ForSale",
+            "livingArea": 1997,
+            "longitude": -82.696526,
+            "livingAreaUnitsShort": "sqft",
+            "providerListingID": null,
+            "homeType": "SINGLE_FAMILY",
+            "livingAreaUnits": "Square Feet",
+            "currency": "USD",
+            "livingAreaValue": 1997
+        },
+        {
+            "hdpTypeDimension": "RecentlySold",
+            "lotAreaUnits": "Acres",
+            "isShowcaseListing": false,
+            "longitude": -82.69662,
+            "parentRegion": null,
+            "address": {
+                "city": "Gulfport",
+                "state": "FL",
+                "streetAddress": "2641 Tifton St S",
+                "zipcode": "33711"
+            },
+            "livingAreaValue": 2646,
+            "lotSize": 13910,
+            "zpid": 47261134,
+            "livingAreaUnitsShort": "sqft",
+            "homeType": "SINGLE_FAMILY",
+            "livingAreaUnits": "Square Feet",
+            "bathrooms": 2,
+            "state": "FL",
+            "formattedChip": {
+                "location": [
+                    {
+                        "fullValue": "2641 Tifton St S"
+                    },
+                    {
+                        "fullValue": null
+                    }
+                ]
+            },
+            "isPremierBuilder": false,
+            "hdpUrl": "/homedetails/2641-Tifton-St-S-Gulfport-FL-33711/47261134_zpid/",
+            "lotAreaValue": 0.31932966023875,
+            "attributionInfo": {
+                "agentPhoneNumber": null,
+                "trueStatus": null,
+                "providerLogo": null,
+                "mlsId": "U8254048",
+                "brokerName": null,
+                "mlsName": null,
+                "brokerPhoneNumber": null,
+                "agentName": null
+            },
+            "homeStatus": "RECENTLY_SOLD",
+            "latitude": 27.743607,
+            "listingMetadata": {
+                "comminglingCategoryIsRulesApplicable": false
+            },
+            "bedrooms": 4,
+            "propertyTypeDimension": "Single Family",
+            "newConstructionType": null,
+            "yearBuilt": 1949,
+            "listingTypeDimension": "Unknown Listed By",
+            "livingArea": 2646,
+            "providerListingID": null,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/6365b6eaf94cccb3eb5229dda7ca6b0b-p_c.jpg"
+                }
+            ],
+            "currency": "USD",
+            "price": 725000,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_forAuction": false,
+                "is_comingSoon": false,
+                "is_foreclosure": false,
+                "is_bankOwned": false,
+                "is_newHome": false,
+                "is_FSBO": false
+            }
+        },
+        {
+            "hdpTypeDimension": "ForSale",
+            "lotAreaUnits": "Square Feet",
+            "isShowcaseListing": false,
+            "longitude": -82.69662,
+            "parentRegion": null,
+            "address": {
+                "city": "Saint Petersburg",
+                "state": "FL",
+                "streetAddress": "2631 Tifton St S #23",
+                "zipcode": "33711"
+            },
+            "livingAreaValue": null,
+            "lotSize": 5350,
+            "zpid": 440130879,
+            "livingAreaUnitsShort": null,
+            "homeType": "LOT",
+            "livingAreaUnits": null,
+            "bathrooms": 0,
+            "state": "FL",
+            "formattedChip": {
+                "location": [
+                    {
+                        "fullValue": "2631 Tifton St S #23"
+                    },
+                    {
+                        "fullValue": null
+                    }
+                ]
+            },
+            "isPremierBuilder": false,
+            "hdpUrl": "/homedetails/2631-Tifton-St-S-23-Saint-Petersburg-FL-33711/440130879_zpid/",
+            "lotAreaValue": 5350,
+            "attributionInfo": {
+                "agentPhoneNumber": null,
+                "trueStatus": null,
+                "providerLogo": null,
+                "mlsId": "U8255342",
+                "brokerName": null,
+                "mlsName": null,
+                "brokerPhoneNumber": null,
+                "agentName": null
+            },
+            "homeStatus": "FOR_SALE",
+            "latitude": 27.743607,
+            "listingMetadata": {
+                "comminglingCategoryIsRulesApplicable": false
+            },
+            "bedrooms": null,
+            "propertyTypeDimension": "Lot",
+            "newConstructionType": null,
+            "yearBuilt": null,
+            "listingTypeDimension": "For Sale by Agent",
+            "livingArea": null,
+            "providerListingID": null,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/ba85bb8cfe0b1b28c877fc1f6d5badd7-p_c.jpg"
+                }
+            ],
+            "currency": "USD",
+            "price": 219900,
+            "listing_sub_type": {
+                "is_FSBA": true,
+                "is_forAuction": false,
+                "is_comingSoon": false,
+                "is_foreclosure": false,
+                "is_bankOwned": false,
+                "is_newHome": false,
+                "is_FSBO": false
+            }
+        },
+        {
+            "hdpTypeDimension": "Zestimate",
+            "lotAreaUnits": "sqft",
+            "isShowcaseListing": false,
+            "longitude": -82.69695,
+            "parentRegion": null,
+            "address": {
+                "city": "Gulfport",
+                "state": "FL",
+                "streetAddress": "2638 47th St S",
+                "zipcode": "33711"
+            },
+            "livingAreaValue": 1045,
+            "lotSize": null,
+            "zpid": 47261128,
+            "livingAreaUnitsShort": "sqft",
+            "homeType": "SINGLE_FAMILY",
+            "livingAreaUnits": "Square Feet",
+            "bathrooms": 1,
+            "state": "FL",
+            "formattedChip": {
+                "location": [
+                    {
+                        "fullValue": "2638 47th St S"
+                    },
+                    {
+                        "fullValue": null
+                    }
+                ]
+            },
+            "isPremierBuilder": false,
+            "hdpUrl": "/homedetails/2638-47th-St-S-Gulfport-FL-33711/47261128_zpid/",
+            "lotAreaValue": null,
+            "attributionInfo": {
+                "agentPhoneNumber": null,
+                "trueStatus": null,
+                "providerLogo": null,
+                "mlsId": null,
+                "brokerName": null,
+                "mlsName": null,
+                "brokerPhoneNumber": null,
+                "agentName": null
+            },
+            "homeStatus": "OTHER",
+            "latitude": 27.743536,
+            "listingMetadata": {
+                "comminglingCategoryIsRulesApplicable": false
+            },
+            "bedrooms": 2,
+            "propertyTypeDimension": "Single Family",
+            "newConstructionType": null,
+            "yearBuilt": null,
+            "listingTypeDimension": "Unknown Listed By",
+            "livingArea": 1045,
+            "providerListingID": "3vj7zp1jx9qmq",
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/627097cab5028e4d5659165586bdd037-p_c.jpg"
+                }
+            ],
+            "currency": "USD",
+            "price": 317500,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_forAuction": false,
+                "is_comingSoon": false,
+                "is_foreclosure": false,
+                "is_bankOwned": false,
+                "is_newHome": false,
+                "is_FSBO": false
+            }
+        },
+        {
+            "bathrooms": 1,
+            "newConstructionType": null,
+            "lotAreaUnits": "sqft",
+            "formattedChip": {
+                "location": [
+                    {
+                        "fullValue": "5214 1/2 W 27th Ave S #W"
+                    },
+                    {
+                        "fullValue": null
+                    }
+                ]
+            },
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "hdpUrl": "/homedetails/5214-1-2-W-27th-Ave-S-W-Saint-Petersburg-FL-33711/450353182_zpid/",
+            "lotAreaValue": null,
+            "parentRegion": null,
+            "address": {
+                "city": "Saint Petersburg",
+                "state": "FL",
+                "streetAddress": "5214 1/2 W 27th Ave S #W",
+                "zipcode": "33711"
+            },
+            "state": "FL",
+            "attributionInfo": {
+                "agentPhoneNumber": null,
+                "trueStatus": null,
+                "providerLogo": null,
+                "mlsId": null,
+                "brokerName": null,
+                "mlsName": null,
+                "brokerPhoneNumber": null,
+                "agentName": null
+            },
+            "latitude": 27.742895,
+            "homeStatus": "OTHER",
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_forAuction": false,
+                "is_comingSoon": false,
+                "is_foreclosure": false,
+                "is_bankOwned": false,
+                "is_newHome": false,
+                "is_FSBO": false
+            },
+            "price": 0,
+            "listingMetadata": {
+                "comminglingCategoryIsRulesApplicable": false
+            },
+            "bedrooms": 1,
+            "propertyTypeDimension": "Apartment",
+            "listingTypeDimension": "Unknown Listed By",
+            "lotSize": null,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/641d26a84cbed0f2d105d5d7d1842eeb-p_c.jpg"
+                }
+            ],
+            "zpid": 450353182,
+            "hdpTypeDimension": "NoZestimate",
+            "livingArea": 500,
+            "longitude": -82.69677,
+            "livingAreaUnitsShort": "sqft",
+            "providerListingID": "2trhjaewqa3mh",
+            "homeType": "APARTMENT",
+            "livingAreaUnits": "Square Feet",
+            "currency": "USD",
+            "livingAreaValue": 500
+        },
+        {
+            "bathrooms": 2,
+            "newConstructionType": null,
+            "lotAreaUnits": "Square Feet",
+            "formattedChip": {
+                "location": [
+                    {
+                        "fullValue": "4635 27th Ave S"
+                    },
+                    {
+                        "fullValue": null
+                    }
+                ]
+            },
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "hdpUrl": "/homedetails/4635-27th-Ave-S-Gulfport-FL-33711/47261131_zpid/",
+            "lotAreaValue": 6534,
+            "parentRegion": null,
+            "address": {
+                "city": "Gulfport",
+                "state": "FL",
+                "streetAddress": "4635 27th Ave S",
+                "zipcode": "33711"
+            },
+            "state": "FL",
+            "attributionInfo": {
+                "agentPhoneNumber": null,
+                "trueStatus": null,
+                "providerLogo": null,
+                "mlsId": null,
+                "brokerName": null,
+                "mlsName": null,
+                "brokerPhoneNumber": null,
+                "agentName": null
+            },
+            "latitude": 27.74287,
+            "homeStatus": "OTHER",
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_forAuction": false,
+                "is_comingSoon": false,
+                "is_foreclosure": false,
+                "is_bankOwned": false,
+                "is_newHome": false,
+                "is_FSBO": false
+            },
+            "price": 526500,
+            "listingMetadata": {
+                "comminglingCategoryIsRulesApplicable": false
+            },
+            "bedrooms": 3,
+            "propertyTypeDimension": "Single Family",
+            "listingTypeDimension": "Unknown Listed By",
+            "lotSize": 6534,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/f24970af4b3cd7ad3c857894f61c79d8-p_c.jpg"
+                }
+            ],
+            "zpid": 47261131,
+            "hdpTypeDimension": "Zestimate",
+            "livingArea": 1472,
+            "longitude": -82.696526,
+            "livingAreaUnitsShort": "sqft",
+            "providerListingID": null,
+            "homeType": "SINGLE_FAMILY",
+            "livingAreaUnits": "Square Feet",
+            "currency": "USD",
+            "livingAreaValue": 1472
+        }
+    ],
+    "priceHistory": [
+        {
+            "priceChangeRate": 0.057692307692308,
+            "date": "2025-07-05",
+            "source": "Stellar MLS",
+            "postingIsRental": false,
+            "time": 1751673600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/e39375731b4bce0deb161dcc85f92017-zillow_web_logo_inf_11.jpg",
+                "infoString1": "TB8404165"
+            },
+            "pricePerSquareFoot": 374,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 550000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2025-03-10",
+            "source": "Stellar MLS",
+            "postingIsRental": true,
+            "time": 1741564800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": null,
+                "infoString1": "TB8310228"
+            },
+            "pricePerSquareFoot": 3,
+            "buyerAgent": null,
+            "event": "Listing removed",
+            "price": 4000
+        },
+        {
+            "priceChangeRate": -0.11111111111111,
+            "date": "2024-10-04",
+            "source": "Stellar MLS",
+            "postingIsRental": true,
+            "time": 1728000000000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": null,
+                "infoString1": "TB8310228"
+            },
+            "pricePerSquareFoot": 3,
+            "buyerAgent": null,
+            "event": "Listed for rent",
+            "price": 4000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2023-10-31",
+            "source": "Stellar MLS",
+            "postingIsRental": true,
+            "time": 1698710400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": null,
+                "infoString1": "U8203582"
+            },
+            "pricePerSquareFoot": null,
+            "buyerAgent": null,
+            "event": "Listing removed",
+            "price": null
+        },
+        {
+            "priceChangeRate": -0.081632653061224,
+            "date": "2023-07-31",
+            "source": "Stellar MLS",
+            "postingIsRental": true,
+            "time": 1690761600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": null,
+                "infoString1": "U8203582"
+            },
+            "pricePerSquareFoot": 3,
+            "buyerAgent": null,
+            "event": "Price change",
+            "price": 4500
+        },
+        {
+            "priceChangeRate": -0.02,
+            "date": "2023-06-30",
+            "source": "Stellar MLS",
+            "postingIsRental": true,
+            "time": 1688083200000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": null,
+                "infoString1": "U8203582"
+            },
+            "pricePerSquareFoot": 3,
+            "buyerAgent": null,
+            "event": "Price change",
+            "price": 4900
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2023-06-12",
+            "source": "Stellar MLS",
+            "postingIsRental": true,
+            "time": 1686528000000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": null,
+                "infoString1": "U8203582"
+            },
+            "pricePerSquareFoot": 3,
+            "buyerAgent": null,
+            "event": "Listed for rent",
+            "price": 5000
+        },
+        {
+            "priceChangeRate": -0.044117647058824,
+            "date": "2022-06-08",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1654646400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 353,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 520000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2022-04-22",
+            "source": "Stellar MLS",
+            "postingIsRental": false,
+            "time": 1650585600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/e39375731b4bce0deb161dcc85f92017-zillow_web_logo_inf_11.jpg",
+                "infoString1": "U8152988"
+            },
+            "pricePerSquareFoot": 370,
+            "buyerAgent": null,
+            "event": "Pending sale",
+            "price": 544000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2022-03-31",
+            "source": "RE/MAX International",
+            "postingIsRental": false,
+            "time": 1648684800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "RE/MAX International",
+                "infoString3": "https://photos.zillowstatic.com/fp/cd5a1d62fa18a5e74fcc3dc6aed90a23-zillow_web_logo_inf_11.jpg",
+                "infoString1": "U8152988"
+            },
+            "pricePerSquareFoot": 370,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 544000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2022-02-28",
+            "source": "RE/MAX International",
+            "postingIsRental": false,
+            "time": 1646006400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "RE/MAX International",
+                "infoString3": "https://photos.zillowstatic.com/fp/cd5a1d62fa18a5e74fcc3dc6aed90a23-zillow_web_logo_inf_11.jpg",
+                "infoString1": "U8152988"
+            },
+            "pricePerSquareFoot": 370,
+            "buyerAgent": null,
+            "event": "Pending sale",
+            "price": 544000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2022-02-24",
+            "source": "RE/MAX International",
+            "postingIsRental": false,
+            "time": 1645660800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "RE/MAX International",
+                "infoString3": "https://photos.zillowstatic.com/fp/cd5a1d62fa18a5e74fcc3dc6aed90a23-zillow_web_logo_inf_11.jpg",
+                "infoString1": "U8152988"
+            },
+            "pricePerSquareFoot": 370,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 544000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2022-02-24",
+            "source": "Stellar MLS",
+            "postingIsRental": false,
+            "time": 1645660800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/e39375731b4bce0deb161dcc85f92017-zillow_web_logo_inf_11.jpg",
+                "infoString1": "U8152988"
+            },
+            "pricePerSquareFoot": 370,
+            "buyerAgent": null,
+            "event": "Pending sale",
+            "price": 544000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2022-02-24",
+            "source": "Stellar MLS",
+            "postingIsRental": false,
+            "time": 1645660800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/e39375731b4bce0deb161dcc85f92017-zillow_web_logo_inf_11.jpg",
+                "infoString1": "U8152988"
+            },
+            "pricePerSquareFoot": 370,
+            "buyerAgent": null,
+            "event": "Pending sale",
+            "price": 544000
+        },
+        {
+            "priceChangeRate": 0.67384615384615,
+            "date": "2022-02-23",
+            "source": "Stellar MLS",
+            "postingIsRental": false,
+            "time": 1645574400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Stellar MLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/e39375731b4bce0deb161dcc85f92017-zillow_web_logo_inf_11.jpg",
+                "infoString1": "U8152988"
+            },
+            "pricePerSquareFoot": 370,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 544000
+        },
+        {
+            "priceChangeRate": 1.2413793103448,
+            "date": "2018-07-12",
+            "source": "Agent Provided",
+            "postingIsRental": false,
+            "time": 1531353600000,
+            "sellerAgent": {
+                "name": "Robert Eanell",
+                "photo": null,
+                "profileUrl": "/profile/TheTampaBayRealtor/"
+            },
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": null,
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 221,
+            "buyerAgent": {
+                "name": "Jessica Houston",
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/h_e/IS3v0g5cg5c6hl0000000000.jpg"
+                },
+                "profileUrl": "/profile/jessicabegginsc21/"
+            },
+            "event": "Sold",
+            "price": 325000
+        },
+        {
+            "priceChangeRate": -0.093183239524703,
+            "date": "2011-11-15",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1321315200000,
+            "sellerAgent": {
+                "name": "De Ann Meredith",
+                "photo": null,
+                "profileUrl": "/profile/dannre8/"
+            },
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 99,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 145000
+        },
+        {
+            "priceChangeRate": 0.23,
+            "date": "2011-08-15",
+            "source": "Gulfport Real Estate Inc",
+            "postingIsRental": false,
+            "time": 1313366400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Gulfport Real Estate Inc",
+                "infoString3": null,
+                "infoString1": "U7522285"
+            },
+            "pricePerSquareFoot": 109,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 159900
+        },
+        {
+            "priceChangeRate": 1.1739130434783,
+            "date": "2001-04-19",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 987638400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 88,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 130000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2000-11-29",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 975456000000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 41,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 59800
+        }
+    ],
+    "neighborhoodMapThumb": [
+        {
+            "url": "https://photos.zillowstatic.com/fp/cea75f5b5483b2b1f4973818157fe338-p_c.jpg"
+        }
+    ],
+    "schools": [
+        {
+            "link": "https://www.greatschools.org/florida/gulfport/2457-Gulfport-Montessori-Elementary-School/",
+            "rating": 4,
+            "totalCount": null,
+            "distance": 0.7,
+            "assigned": null,
+            "name": "Gulfport Montessori Elementary School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Primary",
+            "grades": "PK-5",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/florida/st.-petersburg/2428-Azalea-Middle-School/",
+            "rating": 2,
+            "totalCount": null,
+            "distance": 4.6,
+            "assigned": null,
+            "name": "Azalea Middle School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Middle",
+            "grades": "6-8",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/florida/gulfport/2439-Boca-Ciega-High-School/",
+            "rating": 3,
+            "totalCount": null,
+            "distance": 1.5,
+            "assigned": null,
+            "name": "Boca Ciega High School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "High",
+            "grades": "9-12",
+            "type": "Public"
+        }
+    ],
+    "rentZestimate": 2565,
+    "city": "Gulfport",
+    "providerListingID": null,
+    "currency": "USD",
+    "listingProvider": null,
+    "propertyTaxRate": 1.81,
+    "isShowcaseListing": false,
+    "openHouseSchedule": [
+        {
+            "startTime": "2025-07-05 12:00:00",
+            "endTime": "2025-07-05 14:00:00"
+        },
+        {
+            "startTime": "2025-07-06 12:00:00",
+            "endTime": "2025-07-06 14:00:00"
+        }
+    ],
+    "mortgageRates": null,
+    "address": {
+        "community": null,
+        "city": "Gulfport",
+        "state": "FL",
+        "neighborhood": null,
+        "subdivision": "WATERVIEW PARK SEC 1",
+        "streetAddress": "2649 Tifton St S",
+        "zipcode": "33711"
+    },
+    "cityId": 24990,
+    "timeOnZillow": "3 hours",
+    "priceChange": null,
+    "zestimate": 526300,
+    "zpid": 47261133,
+    "countyId": 2480,
+    "homeType": "SINGLE_FAMILY",
+    "livingAreaUnits": "sqft",
+    "pageViewCount": 19,
+    "homeInsights": {},
+    "bathrooms": 2,
+    "neighborhoodRegion": null,
+    "zipcode": "33711",
+    "building": null,
+    "zestimateLowPercent": "5",
+    "brokerId": null,
+    "stateId": 14,
+    "url": "/homedetails/2649-Tifton-St-S-Gulfport-FL-33711/47261133_zpid/",
+    "solarPotential": null,
+    "attributionInfo": {
+        "buyerAgentName": null,
+        "infoString3": "https://photos.zillowstatic.com/fp/e39375731b4bce0deb161dcc85f92017-zillow_web_95_35.jpg",
+        "mlsName": "Stellar MLS",
+        "coAgentLicenseNumber": null,
+        "listingAgreement": null,
+        "listingOffices": [
+            {
+                "associatedOfficeType": "listOffice",
+                "officeName": "EXP REALTY LLC"
+            },
+            {
+                "associatedOfficeType": "coListOffice",
+                "officeName": "EXP REALTY LLC"
+            }
+        ],
+        "infoString10": "IDX information is provided exclusively for personal, non-commercial use, and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing. Information is deemed reliable but not guaranteed. Some IDX listings have been excluded from this website.\n\nListing Information presented by local MLS brokerage:  Zillow, Inc - (407) 904-3511",
+        "buyerAgentMemberStateLicense": null,
+        "brokerName": "EXP REALTY LLC",
+        "listingAttributionContact": null,
+        "lastUpdated": "2025-07-04 22:06:07",
+        "trueStatus": null,
+        "listingAgentAttributionContact": null,
+        "agentEmail": null,
+        "agentName": "Shawn Rigney",
+        "attributionTitle": "Listing Provided by:",
+        "mlsId": "TB8404165",
+        "coAgentName": "Dustin Hogard",
+        "coAgentNumber": "727-810-5179",
+        "infoString5": "518-953-3294",
+        "listingAgents": [
+            {
+                "memberStateLicense": "3426748",
+                "memberFullName": "Shawn Rigney",
+                "associatedAgentType": "listAgent"
+            },
+            {
+                "memberStateLicense": "3627437",
+                "memberFullName": "Dustin Hogard",
+                "associatedAgentType": "coListAgent"
+            }
+        ],
+        "agentPhoneNumber": "518-953-3294",
+        "agentLicenseNumber": null,
+        "providerLogo": "https://photos.zillowstatic.com/fp/e39375731b4bce0deb161dcc85f92017-zillow_web_95_35.jpg",
+        "infoString16": null,
+        "buyerBrokerageName": null,
+        "mlsDisclaimer": "IDX information is provided exclusively for personal, non-commercial use, and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing. Information is deemed reliable but not guaranteed. Some IDX listings have been excluded from this website.\n\nListing Information presented by local MLS brokerage:  Zillow, Inc - (407) 904-3511",
+        "brokerPhoneNumber": "888-883-8509",
+        "lastChecked": "2025-07-04 23:57:28"
+    },
+    "priceChangeDateString": null,
+    "photoCount": 39,
+    "homeStatus": "FOR_SALE",
+    "homeFacts": null,
+    "resoFacts": {
+        "hasAttachedProperty": false,
+        "frontageType": null,
+        "poolFeatures": null,
+        "flooring": [
+            "Laminate",
+            "Luxury Vinyl",
+            "Tile"
+        ],
+        "foundationDetails": [
+            "Slab"
+        ],
+        "accessibilityFeatures": null,
+        "hasGarage": true,
+        "hasPetsAllowed": null,
+        "bodyType": null,
+        "topography": null,
+        "landLeaseExpirationDate": null,
+        "hasAdditionalParcels": false,
+        "parkName": null,
+        "livingQuarters": {},
+        "taxAssessedValue": 483525,
+        "atAGlanceFacts": [
+            {
+                "factValue": "Single Family Residence",
+                "factLabel": "Type"
+            },
+            {
+                "factValue": "1955",
+                "factLabel": "Year Built"
+            },
+            {
+                "factValue": "Central",
+                "factLabel": "Heating"
+            },
+            {
+                "factValue": "Central Air",
+                "factLabel": "Cooling"
+            },
+            {
+                "factValue": "1 Attached Garage space",
+                "factLabel": "Parking"
+            },
+            {
+                "factValue": "7,527 sqft",
+                "factLabel": "Lot"
+            },
+            {
+                "factValue": "0",
+                "factLabel": "Days on Zillow"
+            },
+            {
+                "factValue": "$374",
+                "factLabel": "Price/sqft"
+            },
+            {
+                "factValue": null,
+                "factLabel": "Offer Review Date"
+            }
+        ],
+        "offerReviewDate": null,
+        "horseYN": null,
+        "view": {},
+        "rooms": [
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "120.19",
+                "roomAreaSource": null,
+                "roomType": "PrimaryBedroom",
+                "roomDescription": null,
+                "roomWidth": "11.9",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "10.1",
+                "roomFeatures": [
+                    "Built-in Closet"
+                ],
+                "roomDimensions": "11.9x10.1",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "126.14",
+                "roomAreaSource": null,
+                "roomType": "Bedroom2",
+                "roomDescription": null,
+                "roomWidth": "11.9",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "10.6",
+                "roomFeatures": [
+                    "Built-in Closet"
+                ],
+                "roomDimensions": "11.9x10.6",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "31.39",
+                "roomAreaSource": null,
+                "roomType": "PrimaryBathroom",
+                "roomDescription": null,
+                "roomWidth": "4.3",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "7.3",
+                "roomFeatures": null,
+                "roomDimensions": "4.3x7.3",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "38.69",
+                "roomAreaSource": null,
+                "roomType": "Bathroom2",
+                "roomDescription": null,
+                "roomWidth": "5.3",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "7.3",
+                "roomFeatures": null,
+                "roomDimensions": "5.3x7.3",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "93.17",
+                "roomAreaSource": null,
+                "roomType": "Dinette",
+                "roomDescription": null,
+                "roomWidth": "7.7",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "12.1",
+                "roomFeatures": null,
+                "roomDimensions": "7.7x12.1",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "314.13",
+                "roomAreaSource": null,
+                "roomType": "DiningRoom",
+                "roomDescription": null,
+                "roomWidth": "28.3",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "11.1",
+                "roomFeatures": null,
+                "roomDimensions": "28.3x11.1",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "39.44",
+                "roomAreaSource": null,
+                "roomType": "Foyer",
+                "roomDescription": null,
+                "roomWidth": "6.8",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "5.8",
+                "roomFeatures": null,
+                "roomDimensions": "6.8x5.8",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "132.3",
+                "roomAreaSource": null,
+                "roomType": "Kitchen",
+                "roomDescription": null,
+                "roomWidth": "10.5",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "12.6",
+                "roomFeatures": null,
+                "roomDimensions": "10.5x12.6",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "106.82",
+                "roomAreaSource": null,
+                "roomType": "Laundry",
+                "roomDescription": null,
+                "roomWidth": "10.9",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "9.8",
+                "roomFeatures": null,
+                "roomDimensions": "10.9x9.8",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "282.96",
+                "roomAreaSource": null,
+                "roomType": "LivingRoom",
+                "roomDescription": null,
+                "roomWidth": "21.6",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "13.1",
+                "roomFeatures": null,
+                "roomDimensions": "21.6x13.1",
+                "roomLengthWidthSource": null,
+                "area": null
+            },
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": "Square Feet",
+                "roomArea": "83.84",
+                "roomAreaSource": null,
+                "roomType": "Office",
+                "roomDescription": null,
+                "roomWidth": "6.4",
+                "roomLevel": "First",
+                "description": null,
+                "roomLengthWidthUnits": "Feet",
+                "roomLength": "13.1",
+                "roomFeatures": null,
+                "roomDimensions": "6.4x13.1",
+                "roomLengthWidthSource": null,
+                "area": null
+            }
+        ],
+        "belowGradeFinishedArea": null,
+        "feesAndDues": [
+            {
+                "phone": null,
+                "name": null,
+                "fee": null,
+                "type": "HOA"
+            },
+            {
+                "phone": null,
+                "name": null,
+                "fee": "$0 monthly",
+                "type": "Pet"
+            }
+        ],
+        "cityRegion": "Gulfport",
+        "mainLevelBathrooms": null,
+        "hasPrivatePool": null,
+        "landLeaseAmount": null,
+        "waterSource": [
+            "Public"
+        ],
+        "exteriorFeatures": [
+            "Lighting",
+            "Sidewalk",
+            "Storage"
+        ],
+        "inclusions": null,
+        "hasFireplace": false,
+        "gas": null,
+        "propertyCondition": "Completed",
+        "elevationUnits": null,
+        "exclusions": null,
+        "mainLevelBedrooms": null,
+        "numberOfUnitsVacant": null,
+        "hasWaterfrontView": null,
+        "bathroomsOneQuarter": null,
+        "lotSize": "7,527 sqft",
+        "entryLevel": null,
+        "media": {},
+        "greenWaterConservation": null,
+        "stories": 1,
+        "livingArea": "1,472 sqft",
+        "commonWalls": null,
+        "listingTerms": "Cash,Conventional,FHA,VA Loan",
+        "otherParking": [
+            "Garage Dimensions: 18x11"
+        ],
+        "associationFee": null,
+        "marketingType": null,
+        "greenIndoorAirQuality": null,
+        "greenSustainability": null,
+        "livingAreaRangeUnits": null,
+        "associationPhone": null,
+        "greenBuildingVerificationType": null,
+        "hasAttachedGarage": true,
+        "bedrooms": 2,
+        "architecturalStyle": "Florida",
+        "listingId": null,
+        "structureType": null,
+        "interiorFeatures": [
+            "Ceiling Fan(s)",
+            "Open Floorplan",
+            "Thermostat"
+        ],
+        "horseAmenities": null,
+        "garageParkingCapacity": 1,
+        "developmentStatus": null,
+        "lotFeatures": [
+            "City Lot",
+            "Near Marina",
+            "Near Public Transit",
+            "Oversized Lot",
+            "Sidewalk"
+        ],
+        "roofType": "Shingle",
+        "compensationBasedOn": null,
+        "greenEnergyGeneration": null,
+        "daysOnZillow": 0,
+        "listAOR": "Sarasota - Manatee",
+        "buildingAreaSource": null,
+        "elementarySchool": "Gulfport Elementary-PN",
+        "zoningDescription": null,
+        "irrigationWaterRightsAcres": null,
+        "yearBuiltEffective": null,
+        "greenEnergyEfficient": null,
+        "constructionMaterials": [
+            "Block"
+        ],
+        "fireplaceFeatures": null,
+        "hoaFeeTotal": null,
+        "appliances": [
+            "Convection Oven",
+            "Dishwasher",
+            "Disposal",
+            "Dryer",
+            "Microwave",
+            "Range",
+            "Refrigerator",
+            "Washer",
+            "Wine Refrigerator"
+        ],
+        "sewer": [
+            "Public Sewer"
+        ],
+        "bathroomsPartial": null,
+        "fencing": "Wood",
+        "spaFeatures": null,
+        "waterViewYN": false,
+        "buildingName": null,
+        "attic": null,
+        "petsMaxWeight": null,
+        "cumulativeDaysOnMarket": null,
+        "waterfrontFeatures": null,
+        "additionalParcelsDescription": null,
+        "canRaiseHorses": false,
+        "hasLandLease": false,
+        "communityFeatures": null,
+        "waterBodyName": null,
+        "middleOrJuniorSchool": "Azalea Middle-PN",
+        "lotSizeDimensions": "70  x  108",
+        "virtualTour": null,
+        "contingency": null,
+        "yearBuilt": 1955,
+        "utilities": [
+            "BB/HS Internet Available",
+            "Cable Available",
+            "Cable Connected",
+            "Electricity Available",
+            "Electricity Connected",
+            "Fire Hydrant",
+            "Phone Available",
+            "Public",
+            "Sewer Available",
+            "Sewer Connected",
+            "Street Lights",
+            "Underground Utilities",
+            "Water Available",
+            "Water Connected"
+        ],
+        "totalActualRent": 0,
+        "bathroomsFull": 2,
+        "parcelNumber": "333116951120030180",
+        "incomeIncludes": null,
+        "highSchool": "Boca Ciega High-PN",
+        "taxAnnualAmount": 8262,
+        "subdivisionName": "WATERVIEW PARK SEC 1",
+        "storiesTotal": 1,
+        "storiesDecimal": 1,
+        "specialListingConditions": "None",
+        "windowFeatures": [
+            "Double Pane Windows",
+            "Shutters",
+            "Window Treatments"
+        ],
+        "ownership": "Fee Simple",
+        "woodedArea": null,
+        "middleOrJuniorSchoolDistrict": null,
+        "associationPhone2": null,
+        "onMarketDate": 1751673600000,
+        "roomTypes": [
+            "Den/Library/Office"
+        ],
+        "frontageLength": null,
+        "roadSurfaceType": [
+            "Paved",
+            "Asphalt"
+        ],
+        "associationAmenities": null,
+        "propertySubType": [
+            "Single Family Residence"
+        ],
+        "hasCooling": true,
+        "levels": "One",
+        "coveredParkingCapacity": 1,
+        "foundationArea": null,
+        "zoning": null,
+        "hoaFee": null,
+        "livingAreaRange": null,
+        "parkingFeatures": [
+            "Curb Parking",
+            "Driveway",
+            "Garage Door Opener",
+            "Off Street",
+            "On Street"
+        ],
+        "parkingCapacity": 1,
+        "cropsIncludedYN": null,
+        "tenantPays": null,
+        "builderModel": null,
+        "otherStructures": [
+            "Shed(s)"
+        ],
+        "otherFacts": {},
+        "additionalFeeInfo": null,
+        "hasView": false,
+        "openParkingCapacity": null,
+        "securityFeatures": [
+            "Security System Owned",
+            "Smoke Detector(s)"
+        ],
+        "numberOfUnitsInCommunity": null,
+        "hasHomeWarranty": false,
+        "basementYN": null,
+        "doorFeatures": [
+            "Sliding Doors"
+        ],
+        "ownershipType": null,
+        "aboveGradeFinishedArea": null,
+        "associations": {},
+        "waterView": null,
+        "electric": null,
+        "buildingFeatures": null,
+        "hasOpenParking": true,
+        "hasCarport": false,
+        "bathroomsHalf": 0,
+        "homeType": "SingleFamily",
+        "isSeniorCommunity": null,
+        "municipality": null,
+        "bathroomsThreeQuarter": null,
+        "hasSpa": false,
+        "basement": null,
+        "associationFee2": null,
+        "cooling": [
+            "Central Air"
+        ],
+        "hasHeating": true,
+        "associationName2": null,
+        "hasRentControl": null,
+        "elementarySchoolDistrict": null,
+        "otherEquipment": null,
+        "bathrooms": 2,
+        "buildingArea": "1,826",
+        "furnished": false,
+        "vegetation": [
+            "Bamboo",
+            "Mature Landscaping",
+            "Trees/Landscaped"
+        ],
+        "patioAndPorchFeatures": null,
+        "bathroomsFloat": 2,
+        "builderName": null,
+        "highSchoolDistrict": null,
+        "hasElectricOnProperty": true,
+        "laundryFeatures": [
+            "Laundry Room"
+        ],
+        "entryLocation": null,
+        "fireplaces": null,
+        "heating": [
+            "Central"
+        ],
+        "availabilityDate": null,
+        "carportParkingCapacity": 0,
+        "hasAssociation": false,
+        "irrigationWaterRightsYN": null,
+        "isNewConstruction": false,
+        "associationFeeIncludes": null,
+        "leaseTerm": null,
+        "pricePerSquareFoot": 374,
+        "associationName": null,
+        "elevation": null
+    },
+    "datePosted": "2025-07-05",
+    "bedrooms": 2,
+    "propertyTypeDimension": "Single Family",
+    "mortgageZHLRates": {
+        "thirtyYearFixedBucket": {
+            "rate": 6.534,
+            "rateSource": "ZGMI",
+            "lastUpdated": 1751699172761
+        },
+        "fifteenYearFixedBucket": {
+            "rate": 5.916,
+            "rateSource": "ZGMI",
+            "lastUpdated": 1751699172761
+        },
+        "arm5Bucket": {
+            "rate": 7.467,
+            "rateSource": "ZGMI",
+            "lastUpdated": 1751699172761
+        }
+    },
+    "comingSoonOnMarketDate": null,
+    "favoriteCount": 1,
+    "livingArea": 1472,
+    "zestimateHighPercent": "5",
+    "mlsid": "TB8404165",
+    "isListedByOwner": null,
+    "listingSubType": {
+        "is_comingSoon": false,
+        "is_pending": false,
+        "is_forAuction": false,
+        "is_bankOwned": false,
+        "is_FSBA": true,
+        "is_FSBO": false,
+        "is_newHome": false,
+        "is_foreclosure": false
+    },
+    "buildingId": null,
+    "country": "USA",
+    "price": 550000,
+    "priceChangeDate": null,
+    "contingentListingType": null
+}

@@ -1,0 +1,243 @@
+The 2024 Florida Statutes
+
+Title XLVI
+CRIMES
+
+Chapter 784
+ASSAULT; BATTERY; CULPABLE NEGLIGENCE
+
+
+CHAPTER 784
+ASSAULT; BATTERY; CULPABLE NEGLIGENCE
+
+
+----
+
+TABLE OF CONTENTS:
+
+784.011 Assault.
+784.021 Aggravated assault.
+784.03 Battery; felony battery.
+784.031 Battery by strangulation.
+784.041 Felony battery; domestic battery by strangulation.
+784.045 Aggravated battery.
+784.046 Action by victim of repeat violence, sexual violence, or dating violence for protective injunction; dating violence investigations, notice to victims, and reporting; pretrial release violations; public records exemption.
+784.047 Penalties for violating protective injunction against violators.
+784.048 Stalking; definitions; penalties.
+784.0485 Stalking; injunction; powers and duties of court and clerk; petition; notice and hearing; temporary injunction; issuance of injunction; statewide verification system; enforcement.
+784.0487 Violation of an injunction for protection against stalking or cyberstalking.
+784.049 Sexual cyberharassment.
+784.0493 Harassment or intimidation based on religious or ethnic heritage.
+784.0495 Mob intimidation.
+784.05 Culpable negligence.
+784.062 Misuse of laser lighting devices.
+784.07 Assault or battery of law enforcement officers and other specified personnel; reclassification of offenses; minimum sentences.
+784.071 Assault or battery on a law enforcement officer; missing while in line of duty; blue alert.
+784.074 Assault or battery on sexually violent predators detention or commitment facility staff; reclassification of offenses.
+784.075 Battery on detention or commitment facility staff or a juvenile probation officer.
+784.076 Battery on health services personnel.
+784.078 Battery of facility employee by throwing, tossing, or expelling certain fluids or materials.
+784.08 Assault or battery on persons 65 years of age or older; reclassification of offenses; minimum sentence.
+784.081 Assault or battery on specified officials or employees; reclassification of offenses.
+784.082 Assault or battery by a person who is being detained in a prison, jail, or other detention facility upon visitor or other detainee; reclassification of offenses.
+784.083 Assault or battery on code inspectors.
+784.085 Battery of child by throwing, tossing, projecting, or expelling certain fluids or materials.
+784.086 Reproductive battery.
+
+
+-----
+
+BELOW IS: 784.011 - 775.047
+
+
+784.011 Assault.—
+(1) An “assault” is an intentional, unlawful threat by word or act to do violence to the person of another, coupled with an apparent ability to do so, and doing some act which creates a well-founded fear in such other person that such violence is imminent.
+(2) Except as provided in subsection (3), a person who assaults another person commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.
+(3) A person who assaults another person in furtherance of a riot or an aggravated riot prohibited under s. 870.01 commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.—s. 5, Feb. 10, 1832; RS 2400; GS 3226; RGS 5059; CGL 7161; s. 1, ch. 70-88; s. 729, ch 71-136; s. 17, ch. 74-383; s. 7, ch. 75-298; s. 171, ch. 91-224; s. 4, ch. 2021-6.
+Note.—Former s. 784.02.
+784.021 Aggravated assault.—
+(1) An “aggravated assault” is an assault:
+(a) With a deadly weapon without intent to kill; or
+(b) With an intent to commit a felony.
+(2) A person who commits aggravated assault commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(3) For the purposes of sentencing under chapter 921, a violation of this section committed by a person acting in furtherance of a riot or an aggravated riot prohibited under s. 870.01 is ranked one level above the ranking under s. 921.0022 for the offense committed.
+History.—s. 2, ch. 3275, 1881; RS 2402; GS 3228; RGS 5061; CGL 7163; s. 1, ch. 29709, 1955; s. 1, ch. 57-345; s. 731, ch. 71-136; s. 18, ch. 74-383; s. 8, ch. 75-298; s. 5, ch. 2021-6.
+Note.—Former s. 784.04.
+784.03 Battery; felony battery.—
+(1)(a) The offense of battery occurs when a person:
+1. Actually and intentionally touches or strikes another person against the will of the other; or
+2. Intentionally causes bodily harm to another person.
+(b) Except as provided in subsection (2) or subsection (3), a person who commits battery commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(2) A person who has one prior conviction for battery, aggravated battery, or felony battery and who commits any second or subsequent battery commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. For purposes of this subsection, “conviction” means a determination of guilt that is the result of a plea or a trial, regardless of whether adjudication is withheld or a plea of nolo contendere is entered.
+(3) A person who commits a battery in furtherance of a riot or an aggravated riot prohibited under s. 870.01 commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or 775.084.
+History.—s. 5, Feb. 10, 1832; RS 2401; s. 1, ch. 5135, 1903; GS 3227; RGS 5060; CGL 7162; s. 2, ch. 70-88; s. 730, ch. 71-136; s. 19, ch. 74-383; s. 9, ch. 75-298; s. 172, ch. 91-224; s. 5, ch. 96-392; s. 4, ch. 2001-50; s. 6, ch. 2021-6.
+784.031 Battery by strangulation.—
+(1) A person commits battery by strangulation if he or she knowingly and intentionally, against the will of another person, impedes the normal breathing or circulation of the blood of that person so as to create a risk of or cause great bodily harm by applying pressure on the throat or neck of the other person or by blocking the nose or mouth of the other person. This subsection does not apply to any act of medical diagnosis, treatment, or prescription which is authorized under the laws of this state.
+(2) A person who violates subsection (1) commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.—s. 1, ch. 2023-237.
+784.041 Felony battery; domestic battery by strangulation.—
+(1) A person commits felony battery if he or she:
+(a) Actually and intentionally touches or strikes another person against the will of the other; and
+(b) Causes great bodily harm, permanent disability, or permanent disfigurement.
+(2)(a) A person commits domestic battery by strangulation if the person knowingly and intentionally, against the will of another, impedes the normal breathing or circulation of the blood of a family or household member or of a person with whom he or she is in a dating relationship, so as to create a risk of or cause great bodily harm by applying pressure on the throat or neck of the other person or by blocking the nose or mouth of the other person. This paragraph does not apply to any act of medical diagnosis, treatment, or prescription which is authorized under the laws of this state.
+(b) As used in this subsection, the term:
+1. “Family or household member” has the same meaning as in s. 741.28.
+2. “Dating relationship” means a continuing and significant relationship of a romantic or intimate nature.
+(3) A person who commits felony battery or domestic battery by strangulation commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.—s. 1, ch. 97-183; s. 1, ch. 2007-133.
+784.045 Aggravated battery.—
+(1)(a) A person commits aggravated battery who, in committing battery:
+1. Intentionally or knowingly causes great bodily harm, permanent disability, or permanent disfigurement; or
+2. Uses a deadly weapon.
+(b) A person commits aggravated battery if the person who was the victim of the battery was pregnant at the time of the offense and the offender knew or should have known that the victim was pregnant.
+(2) A person who violates subsection (1) commits a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(3) For the purposes of sentencing under chapter 921, a violation of this section committed by a person acting in furtherance of a riot or an aggravated riot prohibited under s. 870.01 is ranked one level above the ranking under s. 921.0022 for the offense committed.
+History.—s. 1, ch. 70-63; s. 732, ch. 71-136; s. 20, ch. 74-383; s. 10, ch. 75-298; s. 3, ch. 88-344; s. 7, ch. 2021-6.
+784.046 Action by victim of repeat violence, sexual violence, or dating violence for protective injunction; dating violence investigations, notice to victims, and reporting; pretrial release violations; public records exemption.—
+(1) As used in this section, the term:
+(a) “Violence” means any assault, aggravated assault, battery, aggravated battery, sexual assault, sexual battery, stalking, aggravated stalking, kidnapping, or false imprisonment, or any criminal offense resulting in physical injury or death, by a person against any other person.
+(b) “Repeat violence” means two incidents of violence or stalking committed by the respondent, one of which must have been within 6 months of the filing of the petition, which are directed against the petitioner or the petitioner’s immediate family member.
+(c) “Sexual violence” means any one incident of:
+1. Sexual battery, as defined in chapter 794;
+2. A lewd or lascivious act, as defined in chapter 800, committed upon or in the presence of a person younger than 16 years of age;
+3. Luring or enticing a child, as described in chapter 787;
+4. Sexual performance by a child, as described in chapter 827; or
+5. Any other forcible felony wherein a sexual act is committed or attempted,
+regardless of whether criminal charges based on the incident were filed, reduced, or dismissed by the state attorney.
+
+(d) “Dating violence” means violence between individuals who have or have had a continuing and significant relationship of a romantic or intimate nature. The existence of such a relationship shall be determined based on the consideration of the following factors:
+1. A dating relationship must have existed within the past 6 months;
+2. The nature of the relationship must have been characterized by the expectation of affection or sexual involvement between the parties; and
+3. The frequency and type of interaction between the persons involved in the relationship must have included that the persons have been involved over time and on a continuous basis during the course of the relationship.
+The term does not include violence in a casual acquaintanceship or violence between individuals who only have engaged in ordinary fraternization in a business or social context.
+
+(2) There is created a cause of action for an injunction for protection in cases of repeat violence, there is created a separate cause of action for an injunction for protection in cases of dating violence, and there is created a separate cause of action for an injunction for protection in cases of sexual violence.
+(a) Any person who is the victim of repeat violence or the parent or legal guardian of any minor child who is living at home and who seeks an injunction for protection against repeat violence on behalf of the minor child has standing in the circuit court to file a verified petition for an injunction for protection against repeat violence.
+(b) Any person who is the victim of dating violence and has reasonable cause to believe he or she is in imminent danger of becoming the victim of another act of dating violence, or any person who has reasonable cause to believe he or she is in imminent danger of becoming the victim of an act of dating violence, or the parent or legal guardian of any minor child who is living at home and who seeks an injunction for protection against dating violence on behalf of that minor child, has standing in the circuit court to file a verified petition for an injunction for protection against dating violence.
+(c) A person who is the victim of sexual violence or the parent or legal guardian of a minor child who is living at home who is the victim of sexual violence has standing in the circuit court to file a verified petition for an injunction for protection against sexual violence on his or her own behalf or on behalf of the minor child if:
+1. The person has reported the sexual violence to a law enforcement agency and is cooperating in any criminal proceeding against the respondent, regardless of whether criminal charges based on the sexual violence have been filed, reduced, or dismissed by the state attorney; or
+2. The respondent who committed the sexual violence against the victim or minor child was sentenced to a term of imprisonment in state prison for the sexual violence and the respondent’s term of imprisonment has expired or is due to expire within 90 days following the date the petition is filed.
+(d) A cause of action for an injunction may be sought whether or not any other petition, complaint, or cause of action is currently available or pending between the parties.
+(e) A cause of action for an injunction does not require that the petitioner be represented by an attorney.
+(3)(a) The clerk of the court shall provide a copy of this section, simplified forms, and clerical assistance for the preparation and filing of such a petition by any person who is not represented by counsel.
+(b) Notwithstanding any other law, the clerk of the court may not assess a fee for filing a petition for protection against repeat violence, sexual violence, or dating violence. However, subject to legislative appropriation, the clerk of the court may, each quarter, submit to the Office of the State Courts Administrator a certified request for reimbursement for petitions for protection issued by the court under this section at the rate of $40 per petition. The request for reimbursement shall be submitted in the form and manner prescribed by the Office of the State Courts Administrator. From this reimbursement, the clerk shall pay the law enforcement agency serving the injunction the fee requested by the law enforcement agency; however, this fee may not exceed $20.
+(c) No bond shall be required by the court for the entry of an injunction.
+(d) The clerk of the court shall provide the petitioner with a certified copy of any injunction for protection against repeat violence, sexual violence, or dating violence entered by the court.
+(4)(a) The verified petition shall allege the incidents of repeat violence, sexual violence, or dating violence and shall include the specific facts and circumstances that form the basis upon which relief is sought. With respect to a minor child who is living at home, the parent or legal guardian seeking the protective injunction on behalf of the minor child must:
+1. Have been an eyewitness to, or have direct physical evidence or affidavits from eyewitnesses of, the specific facts and circumstances that form the basis upon which relief is sought, if the party against whom the protective injunction is sought is also a parent, stepparent, or legal guardian of the minor child; or
+2. Have reasonable cause to believe that the minor child is a victim of repeat violence, sexual violence, or dating violence to form the basis upon which relief is sought, if the party against whom the protective injunction is sought is a person other than a parent, stepparent, or legal guardian of the minor child.
+(b) The verified petition must be in substantially the following form:
+PETITION FOR INJUNCTION FOR PROTECTION
+AGAINST REPEAT VIOLENCE, SEXUAL
+VIOLENCE, OR DATING VIOLENCE
+
+The undersigned petitioner   (name)   declares under penalties of perjury that the following statements are true:
+
+1. Petitioner resides at   (address)   (A petitioner for an injunction for protection against sexual violence may furnish an address to the court in a separate confidential filing if, for safety reasons, the petitioner requires the location of his or her current residence to be confidential pursuant to s. 119.071(2)(j), Florida Statutes.)
+
+2. Respondent resides at   (address)  .
+
+3.a. Petitioner has suffered repeat violence as demonstrated by the fact that the respondent has:   (enumerate incidents of violence)  
+
+ 
+ 
+ 
+
+b. Petitioner has suffered sexual violence as demonstrated by the fact that the respondent has:   (enumerate incident of violence and include incident report number from law enforcement agency or attach notice of inmate release)  
+
+ 
+ 
+ 
+
+c. Petitioner is a victim of dating violence and has reasonable cause to believe that he or she is in imminent danger of becoming the victim of another act of dating violence or has reasonable cause to believe that he or she is in imminent danger of becoming a victim of dating violence, as demonstrated by the fact that the respondent has:   (list the specific incident or incidents of violence and describe the length of time of the relationship, whether it has been in existence during the last 6 months, the nature of the relationship of a romantic or intimate nature, the frequency and type of interaction, and any other facts that characterize the relationship)  
+
+ 
+ 
+ 
+
+4. Petitioner genuinely fears repeat violence by the respondent.
+
+5. Petitioner seeks: an immediate injunction against the respondent, enjoining him or her from committing any further acts of violence; an injunction enjoining the respondent from committing any further acts of violence; and an injunction providing any terms the court deems necessary for the protection of the petitioner and the petitioner’s immediate family, including any injunctions or directives to law enforcement agencies.
+
+(c) Every petition for an injunction against sexual violence, dating violence, or repeat violence must contain, directly above the signature line, a statement in all capital letters and bold type not smaller than the surrounding text, as follows:
+UNDER PENALTIES OF PERJURY, I DECLARE THAT I HAVE READ THE FOREGOING DOCUMENT AND THAT THE FACTS STATED IN IT ARE TRUE. I UNDERSTAND THAT THE STATEMENTS MADE IN THIS PETITION ARE BEING MADE UNDER PENALTIES OF PERJURY, PUNISHABLE AS PROVIDED IN SECTION 92.525, FLORIDA STATUTES.
+
+  (initials)  
+
+(5) Upon the filing of the petition, the court shall set a hearing to be held at the earliest possible time. The respondent shall be personally served with a copy of the petition, notice of hearing, and temporary injunction, if any, prior to the hearing.
+(6)(a) When it appears to the court that an immediate and present danger of violence exists, the court may grant a temporary injunction which may be granted in an ex parte hearing, pending a full hearing, and may grant such relief as the court deems proper, including an injunction enjoining the respondent from committing any acts of violence.
+(b) Except as provided in s. 90.204, in a hearing ex parte for the purpose of obtaining such temporary injunction, no evidence other than the verified pleading or affidavit shall be used as evidence, unless the respondent appears at the hearing or has received reasonable notice of the hearing.
+(c) Any such ex parte temporary injunction shall be effective for a fixed period not to exceed 15 days. However, an ex parte temporary injunction granted under subparagraph (2)(c)2. is effective for 15 days following the date the respondent is released from incarceration. A full hearing, as provided by this section, shall be set for a date no later than the date when the temporary injunction ceases to be effective. The court may grant a continuance of the ex parte injunction and the full hearing before or during a hearing, for good cause shown by any party.
+(7) Upon notice and hearing, the court may grant such relief as the court deems proper, including an injunction:
+(a) Enjoining the respondent from committing any acts of violence.
+(b) Ordering such other relief as the court deems necessary for the protection of the petitioner, including injunctions or directives to law enforcement agencies, as provided in this section.
+(c) The terms of the injunction shall remain in full force and effect until modified or dissolved. Either party may move at any time to modify or dissolve the injunction. Such relief may be granted in addition to other civil or criminal remedies.
+(d) A temporary or final judgment on injunction for protection against repeat violence, sexual violence, or dating violence entered pursuant to this section shall, on its face, indicate that:
+1. The injunction is valid and enforceable in all counties of the State of Florida.
+2. Law enforcement officers may use their arrest powers pursuant to s. 901.15(6) to enforce the terms of the injunction.
+3. The court had jurisdiction over the parties and matter under the laws of Florida and that reasonable notice and opportunity to be heard was given to the person against whom the order is sought sufficient to protect that person’s right to due process.
+4. The date that the respondent was served with the temporary or final order, if obtainable.
+(8)(a)1. Within 24 hours after the court issues an injunction for protection against repeat violence, sexual violence, or dating violence, the clerk of the court shall electronically transmit a copy of the petition, notice of hearing, and temporary injunction, if any, to the sheriff or a law enforcement agency of the county where the respondent resides or can be found, who shall serve it upon the respondent as soon thereafter as possible on any day of the week and at any time of the day or night. An electronic copy of an injunction must be certified by the clerk of the court, and the electronic copy must be served in the same manner as a certified copy. Upon receiving an electronic copy of the injunction, the sheriff must verify receipt with the sender before attempting to serve it upon the respondent. In addition, if the sheriff is in possession of an injunction for protection that has been certified by the clerk of the court, the sheriff may electronically transmit a copy of that injunction to a law enforcement officer who shall serve it in the same manner as a certified copy. The clerk of the court is responsible for furnishing to the sheriff such information on the respondent’s physical description and location as is required by the department to comply with the verification procedures set forth in this section. Notwithstanding any other law to the contrary, the chief judge of each circuit, in consultation with the appropriate sheriff, may authorize a law enforcement agency within the chief judge’s jurisdiction to effect this type of service and to receive a portion of the service fee. A person may not serve or execute an injunction issued under this section unless the person is a law enforcement officer as defined in chapter 943.
+2. When an injunction is issued, if the petitioner requests the assistance of a law enforcement agency, the court may order that an officer from the appropriate law enforcement agency accompany the petitioner and assist in the execution or service of the injunction. A law enforcement officer must accept a copy of an injunction for protection against repeat violence, sexual violence, or dating violence, certified by the clerk of the court, from the petitioner and immediately serve it upon a respondent who has been located but not yet served.
+(b) A Domestic, Dating, Sexual, and Repeat Violence Injunction Statewide Verification System is created within the Department of Law Enforcement. The department shall establish, implement, and maintain a statewide communication system capable of electronically transmitting information to and between criminal justice agencies relating to domestic violence injunctions, dating violence injunctions, sexual violence injunctions, and repeat violence injunctions issued by the courts throughout the state. Such information must include, but is not limited to, information as to the existence and status of any injunction for verification purposes.
+(c)1. Within 24 hours after the court issues an injunction for protection against repeat violence, sexual violence, or dating violence or changes or vacates an injunction for protection against repeat violence, sexual violence, or dating violence, the clerk of the court must electronically transmit a copy of the injunction to the sheriff with jurisdiction over the residence of the petitioner.
+2. Within 24 hours after service of process of an injunction for protection against repeat violence, sexual violence, or dating violence upon a respondent, the law enforcement officer must electronically transmit the written proof of service of process to the sheriff with jurisdiction over the residence of the petitioner.
+3. Within 24 hours after the sheriff receives a certified copy of the injunction for protection against repeat violence, sexual violence, or dating violence, the sheriff must make information relating to the injunction available to other law enforcement agencies by electronically transmitting such information to the department.
+4. Within 24 hours after the sheriff or other law enforcement officer has made service upon the respondent and the sheriff has been so notified, the sheriff must make information relating to the service available to other law enforcement agencies by electronically transmitting such information to the department.
+5. Subject to available funding, the Florida Association of Court Clerks and Comptrollers shall develop an automated process by which a petitioner may request notification of service of the injunction for protection against repeat violence, sexual violence, or dating violence and other court actions related to the injunction for protection. The automated notice must be made within 12 hours after the sheriff or other law enforcement officer serves the injunction upon the respondent. The notification must include, at a minimum, the date, time, and location where the injunction for protection against repeat violence, sexual violence, or dating violence was served. The Florida Association of Court Clerks and Comptrollers may apply for any available grants to fund the development of the automated process.
+6. Within 24 hours after an injunction for protection against repeat violence, sexual violence, or dating violence is lifted, terminated, or otherwise rendered no longer effective by ruling of the court, the clerk of the court must notify the sheriff or local law enforcement agency receiving original notification of the injunction as provided in subparagraph 2. That agency shall, within 24 hours after receiving such notification from the clerk of the court, notify the department of such action of the court.
+(d) The petitioner may request a Hope Card under s. 741.311 after the court has issued a final order of protection.
+(9)(a) The court shall enforce, through a civil or criminal contempt proceeding, a violation of an injunction for protection. The court may enforce the respondent’s compliance with the injunction by imposing a monetary assessment. The clerk of the court shall collect and receive such assessments. On a monthly basis, the clerk shall transfer the moneys collected pursuant to this paragraph to the State Treasury for deposit in the Crimes Compensation Trust Fund established in s. 960.21.
+(b) If the respondent is arrested by a law enforcement officer under s. 901.15(6) for committing an act of repeat violence, sexual violence, or dating violence in violation of an injunction for protection, the respondent shall be held in custody until brought before the court as expeditiously as possible for the purpose of enforcing the injunction and for admittance to bail in accordance with chapter 903 and the applicable rules of criminal procedure, pending a hearing.
+(10) The petitioner or the respondent may move the court to modify or dissolve an injunction at any time.
+(11) Any law enforcement officer who investigates an alleged incident of dating violence shall assist the victim to obtain medical treatment if such is required as a result of the alleged incident to which the officer responds. Any law enforcement officer who investigates an alleged incident of dating violence shall advise the victim of such violence that there is a domestic violence center from which the victim may receive services. The law enforcement officer shall give the victim immediate notice of the legal rights and remedies available on a standard form developed and distributed by the Department of Law Enforcement. As necessary, the Department of Law Enforcement shall revise the Legal Rights and Remedies Notice to Victims to include a general summary of this section, using simple English as well as Spanish, and shall distribute the notice as a model form to be used by all law enforcement agencies throughout the state. The notice shall include:
+(a) The resource listing, including telephone number, for the area domestic violence center designated by the Department of Children and Families; and
+(b) A copy of the following statement: “IF YOU ARE THE VICTIM OF DATING VIOLENCE, you may ask the state attorney to file a criminal complaint. You also have the right to go to court and file a petition requesting an injunction for protection from dating violence which may include, but need not be limited to, provisions that restrain the abuser from further acts of abuse; direct the abuser to leave your household; and prevent the abuser from entering your residence, school, business, or place of employment.”
+(12) When a law enforcement officer investigates an allegation that an incident of dating violence has occurred, the officer shall handle the incident pursuant to the arrest policy provided in s. 901.15(7), and as developed in accordance with subsections (13), (14), and (16). Whether or not an arrest is made, the officer shall make a written police report that is complete and clearly indicates that the alleged offense was an incident of dating violence. Such report shall be given to the officer’s supervisor and filed with the law enforcement agency in a manner that will permit data on dating violence cases to be compiled. Such report must include:
+(a) A description of physical injuries observed, if any.
+(b) If a law enforcement officer decides not to make an arrest or decides to arrest two or more parties, the grounds for not arresting anyone or for arresting two or more parties.
+(c) A statement which indicates that a copy of the legal rights and remedies notice was given to the victim.
+Whenever possible, the law enforcement officer shall obtain a written statement from the victim and witnesses concerning the alleged dating violence. The officer shall submit the report to the supervisor or other person to whom the employer’s rules or policies require reports of similar allegations of criminal activity to be made. The law enforcement agency shall, without charge, send a copy of the initial police report, as well as any subsequent, supplemental, or related report, which excludes victim or witness statements or other materials that are part of an active criminal investigation and are exempt from disclosure under chapter 119, to the nearest locally certified domestic violence center within 24 hours after the agency’s receipt of the report. The report furnished to the domestic violence center must include a narrative description of the dating violence incident.
+
+(13) Whenever a law enforcement officer determines upon probable cause that an act of dating violence has been committed within the jurisdiction, or that a person has violated a condition of pretrial release as provided in s. 903.047 and the original arrest was for an act of dating violence, the officer may arrest the person or persons suspected of its commission and charge such person or persons with the appropriate crime. The decision to arrest and charge shall not require consent of the victim or consideration of the relationship of the parties.
+(14)(a) When complaints are received from two or more parties, the officers shall evaluate each complaint separately to determine whether there is probable cause for arrest.
+(b) If a law enforcement officer has probable cause to believe that two or more persons have committed a misdemeanor or felony, or if two or more persons make complaints to the officer, the officer shall try to determine who was the primary aggressor. Arrest is the preferred response only with respect to the primary aggressor and not the preferred response with respect to a person who acts in a reasonable manner to protect or defend himself or herself or another family or household member from dating violence.
+(15) A person who willfully violates a condition of pretrial release provided in s. 903.047, when the original arrest was for an act of dating violence as defined in this section, commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083, and shall be held in custody until his or her first appearance.
+(16) A law enforcement officer acting in good faith under this section and the officer’s employing agency shall be immune from all liability, civil or criminal, that might otherwise be incurred or imposed by reason of the officer’s or agency’s actions in carrying out the provisions of this section.
+
+784.047 Penalties for violating protective injunction against violators.—
+(1) A person who willfully violates an injunction for protection against repeat violence, sexual violence, or dating violence, issued pursuant to s. 784.046, or a foreign protection order accorded full faith and credit pursuant to s. 741.315 by:
+(a) Refusing to vacate the dwelling that the parties share;
+(b) Going to, or being within 500 feet of, the petitioner’s residence, school, place of employment, or a specified place frequented regularly by the petitioner and any named family or household member;
+(c) Committing an act of repeat violence, sexual violence, or dating violence against the petitioner;
+(d) Committing any other violation of the injunction through an intentional unlawful threat, word, or act to do violence to the petitioner;
+(e) Telephoning, contacting, or otherwise communicating with the petitioner directly or indirectly, unless the injunction specifically allows indirect contact through a third party;
+(f) Knowingly and intentionally coming within 100 feet of the petitioner’s motor vehicle, whether or not that vehicle is occupied;
+(g) Defacing or destroying the petitioner’s personal property, including the petitioner’s motor vehicle; or
+(h) Refusing to surrender firearms or ammunition if ordered to do so by the court,
+commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083, except as provided in subsection (2).
+
+(2) A person who has two or more prior convictions for violation of an injunction or foreign protection order, and who subsequently commits a violation of any injunction or foreign protection order against the same victim, commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. For purposes of this subsection, the term “conviction” means a determination of guilt which is the result of a plea or a trial, regardless of whether adjudication is withheld or a plea of nolo contendere is entered.
+History.—s. 7, ch. 95-195; s. 9, ch. 97-155; s. 22, ch. 2002-55; s. 2, ch. 2004-17; s. 1, ch. 2011-146; s. 2, ch. 2016-187.
+784.048 Stalking; definitions; penalties.—
+(1) As used in this section, the term:
+(a) “Harass” means to engage in a course of conduct directed at a specific person which causes substantial emotional distress to that person and serves no legitimate purpose.
+(b) “Course of conduct” means a pattern of conduct composed of a series of acts over a period of time, however short, which evidences a continuity of purpose. The term does not include constitutionally protected activity such as picketing or other organized protests.
+(c) “Credible threat” means a verbal or nonverbal threat, or a combination of the two, including threats delivered by electronic communication or implied by a pattern of conduct, which places the person who is the target of the threat in reasonable fear for his or her safety or the safety of his or her family members or individuals closely associated with the person, and which is made with the apparent ability to carry out the threat to cause such harm. It is not necessary to prove that the person making the threat had the intent to actually carry out the threat. The present incarceration of the person making the threat is not a bar to prosecution under this section.
+(d) “Cyberstalk” means:
+1. To engage in a course of conduct to communicate, or to cause to be communicated, directly or indirectly, words, images, or language by or through the use of electronic mail or electronic communication, directed at or pertaining to a specific person; or
+2. To access, or attempt to access, the online accounts or Internet-connected home electronic systems of another person without that person’s permission,
+causing substantial emotional distress to that person and serving no legitimate purpose.
+
+(2) A person who willfully, maliciously, and repeatedly follows, harasses, or cyberstalks another person commits the offense of stalking, a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(3) A person who willfully, maliciously, and repeatedly follows, harasses, or cyberstalks another person and makes a credible threat to that person commits the offense of aggravated stalking, a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(4) A person who, after an injunction for protection against repeat violence, sexual violence, or dating violence pursuant to s. 784.046, or an injunction for protection against domestic violence pursuant to s. 741.30, or after any other court-imposed prohibition of conduct toward the subject person or that person’s property, knowingly, willfully, maliciously, and repeatedly follows, harasses, or cyberstalks another person commits the offense of aggravated stalking, a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(5) A person who willfully, maliciously, and repeatedly follows, harasses, or cyberstalks a child under 16 years of age commits the offense of aggravated stalking, a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(6) A law enforcement officer may arrest, without a warrant, any person that he or she has probable cause to believe has violated this section.
+(7) A person who, after having been sentenced for a violation of s. 794.011, s. 800.04, or s. 847.0135(5) and prohibited from contacting the victim of the offense under s. 921.244, willfully, maliciously, and repeatedly follows, harasses, or cyberstalks the victim commits the offense of aggravated stalking, a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(8) The punishment imposed under this section shall run consecutive to any former sentence imposed for a conviction for any offense under s. 794.011, s. 800.04, or s. 847.0135(5).
+(9)(a) The sentencing court shall consider, as a part of any sentence, issuing an order restraining the defendant from any contact with the victim, which may be valid for up to 10 years, as determined by the court. It is the intent of the Legislature that the length of any such order be based upon the seriousness of the facts before the court, the probability of future violations by the perpetrator, and the safety of the victim and his or her family members or individuals closely associated with the victim.
+(b) The order may be issued by the court even if the defendant is sentenced to a state prison or a county jail or even if the imposition of the sentence is suspended and the defendant is placed on probation.
+
+

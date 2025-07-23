@@ -1,0 +1,1013 @@
+{
+  "mission": {
+    "objective": "Analyze and organize all potential legal claims arising from the landlord’s conduct and statutory violations, integrating facts about misrepresented business addresses, unregistered foreign entities, mismanaged security deposits, unaddressed maintenance, breaches of habitability, personal property issues, and invalid lease provisions into a comprehensive master table of contents, ensuring corrected data supersedes prior conflicting information per error-handling guidelines.",
+    "tags": [
+      "mission",
+      "legal_claims",
+      "landlord_conduct",
+      "florida_law"
+    ]
+  },
+  "error_handling_instructions": {
+    "discard_superseded": "Ignore older data when updated/corrected information is provided (e.g., correct date overrides prior).",
+    "priority_current": "Latest correction takes precedence over prior contradictory statements.",
+    "explicit_correction": "Remove explicitly labeled 'incorrect' data, adopting new data as controlling.",
+    "no_speculation": "Incorporate only corrected data without speculating on incomplete details.",
+    "chronological_clarifications": "Treat sequential clarifications as an evolving dataset, refining prior facts.",
+    "summaries_corrected": "Final summaries reflect only corrected data, excluding superseded references.",
+    "tags": [
+      "error_handling",
+      "data_management"
+    ]
+  },
+  "claims": [
+    {
+      "claim_id": "c1_s1_address_disclosure",
+      "title": "Failure to Disclose Proper Landlord/Address Information",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Violation of Fla. Stat. § 83.50; landlord provided no clear address for notices, using a P.O. Box and inconsistent ZIP codes instead of a valid business address, obstructing tenant’s ability to send formal communications.",
+      "tags": [
+        "c1",
+        "fla_stat_83.50",
+        "luther_rollins",
+        "address_disclosure",
+        "statutory_violation"
+      ],
+      "related_claims": [
+        "c1_s5_address_violation",
+        "c4_s3_deceptive_addresses"
+      ],
+      "source_category": "C1: Florida Landlord-Tenant Statutory Violations"
+    },
+    {
+      "claim_id": "c1_s2_security_deposit",
+      "title": "Improper Handling of Security Deposit",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Violation of Fla. Stat. § 83.49; landlord neglected the 30-day notice requirement for deposit location and account details, risking forfeiture of claimed deductions.",
+      "tags": [
+        "c1",
+        "fla_stat_83.49",
+        "luther_rollins",
+        "security_deposit",
+        "statutory_violation"
+      ],
+      "related_claims": [
+        "c5_s1_deposit_statute",
+        "c5_s2_bad_faith_retention"
+      ],
+      "source_category": "C1: Florida Landlord-Tenant Statutory Violations"
+    },
+    {
+      "claim_id": "c1_s3_required_disclosures",
+      "title": "Noncompliance with Required Disclosures",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Failed to disclose ownership of five-or-more properties or deposit location within 30 days, despite tenant’s explicit request, violating Florida law.",
+      "tags": [
+        "c1",
+        "luther_rollins",
+        "disclosures",
+        "statutory_violation"
+      ],
+      "related_claims": [
+        "c1_s2_security_deposit",
+        "c4_s2_fraudulent_concealment"
+      ],
+      "source_category": "C1: Florida Landlord-Tenant Statutory Violations"
+    },
+    {
+      "claim_id": "c1_s4_rent_collection",
+      "title": "Unclear or Improper Rent Collection Methods",
+      "defendant": {
+        "primary": "Landlord (Luther Rollins)",
+        "secondary": "Amarlu Enterprises (Unregistered foreign entity)"
+      },
+      "basis": "Rent funneled to an undisclosed, unregistered entity, violating Florida’s transparency and statutory requirements.",
+      "tags": [
+        "c1",
+        "luther_rollins",
+        "amarlu_enterprises",
+        "rent_collection",
+        "statutory_violation"
+      ],
+      "related_claims": [
+        "c2_s1_unregistered_entity",
+        "c2_s3_entity_concealment"
+      ],
+      "source_category": "C1: Florida Landlord-Tenant Statutory Violations"
+    },
+    {
+      "claim_id": "c1_s5_address_violation",
+      "title": "Violation of Fla. Stat. § 83.50 – Landlord’s Address Disclosure",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Misuse of P.O. Box and address irregularities, including listing the rental property address (2649 Tifton St S, Gulfport, FL), prevented tenant from serving legal notices, constituting statutory noncompliance.",
+      "tags": [
+        "c1",
+        "fla_stat_83.50",
+        "luther_rollins",
+        "address_violation",
+        "statutory_violation"
+      ],
+      "related_claims": [
+        "c1_s1_address_disclosure",
+        "c4_s3_deceptive_addresses"
+      ],
+      "source_category": "C1: Florida Landlord-Tenant Statutory Violations"
+    },
+    {
+      "claim_id": "c1_s6_statutory_waiver",
+      "title": "Attempted Waiver/Circumvention of Tenant Statutory Rights",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Lease terms suggesting phone calls are 'legally required' or including void disclaimers contravene Fla. Stat. § 83.47, rendering them unenforceable.",
+      "tags": [
+        "c1",
+        "fla_stat_83.47",
+        "luther_rollins",
+        "statutory_rights",
+        "lease_terms"
+      ],
+      "related_claims": [
+        "c4_s6_phone_misrepresentation",
+        "c12_s1_invalid_clause"
+      ],
+      "source_category": "C1: Florida Landlord-Tenant Statutory Violations"
+    },
+    {
+      "claim_id": "c1_s7_property_liability",
+      "title": "Invalid 'No Liability for Tenant’s Property' Clause",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Clause disclaiming liability for tenant property upon death/abandonment is void under Fla. Stat. § 83.47, especially since the tenant never initialed the required box.",
+      "tags": [
+        "c1",
+        "fla_stat_83.47",
+        "luther_rollins",
+        "property_liability",
+        "lease_terms"
+      ],
+      "related_claims": [
+        "c5_s4_abandoned_property",
+        "c12_s1_invalid_clause"
+      ],
+      "source_category": "C1: Florida Landlord-Tenant Statutory Violations"
+    },
+    {
+      "claim_id": "c2_s1_unregistered_entity",
+      "title": "Violation of Fla. Stat. § 605.0902 (Unregistered Foreign Entity)",
+      "defendant": {
+        "primary": "Landlord (Luther Rollins)",
+        "secondary": "Amarlu Enterprises"
+      },
+      "basis": "Amarlu Enterprises collected rent in Florida without registering as a foreign entity, invalidating landlord’s legal standing to enforce lease terms.",
+      "tags": [
+        "c2",
+        "fla_stat_605.0902",
+        "luther_rollins",
+        "amarlu_enterprises",
+        "foreign_entity"
+      ],
+      "related_claims": [
+        "c2_s2_unenforceable_lease",
+        "c1_s4_rent_collection"
+      ],
+      "source_category": "C2: Illegality and Foreign Entity Registration Claims"
+    },
+    {
+      "claim_id": "c2_s2_unenforceable_lease",
+      "title": "Unenforceability Due to Illegal Purpose/Execution",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Lease is void/voidable due to reliance on unregistered, illegal business operations, undermining its enforceability.",
+      "tags": [
+        "c2",
+        "luther_rollins",
+        "lease_enforceability",
+        "illegality"
+      ],
+      "related_claims": [
+        "c2_s1_unregistered_entity",
+        "c8_s3_declaratory_judgment"
+      ],
+      "source_category": "C2: Illegality and Foreign Entity Registration Claims"
+    },
+    {
+      "claim_id": "c2_s3_entity_concealment",
+      "title": "Concealment of Entity Identity",
+      "defendant": {
+        "primary": "Landlord (Luther Rollins)",
+        "secondary": "Amarlu Enterprises"
+      },
+      "basis": "Omission of Amarlu Enterprises from lease documents, despite directing rent payments to it, constitutes material concealment.",
+      "tags": [
+        "c2",
+        "luther_rollins",
+        "amarlu_enterprises",
+        "concealment",
+        "fraud"
+      ],
+      "related_claims": [
+        "c4_s2_fraudulent_concealment",
+        "c1_s4_rent_collection"
+      ],
+      "source_category": "C2: Illegality and Foreign Entity Registration Claims"
+    },
+    {
+      "claim_id": "c2_s4_tax_evasion",
+      "title": "Potential Tax Evasion / Failure to Properly Report Income",
+      "defendant": {
+        "primary": "Landlord (Luther Rollins)",
+        "secondary": "Amarlu Enterprises"
+      },
+      "basis": "Funneling rent to an undisclosed entity may conceal income from state/federal tax authorities, suggesting tax evasion.",
+      "tags": [
+        "c2",
+        "luther_rollins",
+        "amarlu_enterprises",
+        "tax_evasion",
+        "illegality"
+      ],
+      "related_claims": [
+        "c2_s3_entity_concealment",
+        "c10_s2_ethical_misconduct"
+      ],
+      "source_category": "C2: Illegality and Foreign Entity Registration Claims"
+    },
+    {
+      "claim_id": "c3_s1_breach_lease",
+      "title": "Breach of Lease / Breach of Contract",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Landlord failed to meet lease obligations, including habitability and timely repairs, breaching the agreement.",
+      "tags": [
+        "c3",
+        "luther_rollins",
+        "breach_contract",
+        "lease_obligations"
+      ],
+      "related_claims": [
+        "c3_s4_habitability",
+        "c6_s2_negligent_maintenance"
+      ],
+      "source_category": "C3: Contractual and Lease Enforcement Claims"
+    },
+    {
+      "claim_id": "c3_s2_good_faith",
+      "title": "Breach of Implied Covenant of Good Faith and Fair Dealing",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Withholding deposit and obstructing retrieval efforts in bad faith violate the implicit duty of good faith under Florida law.",
+      "tags": [
+        "c3",
+        "luther_rollins",
+        "good_faith",
+        "contract_breach"
+      ],
+      "related_claims": [
+        "c5_s2_bad_faith_retention",
+        "c5_s6_forced_abandonment"
+      ],
+      "source_category": "C3: Contractual and Lease Enforcement Claims"
+    },
+    {
+      "claim_id": "c3_s3_consideration_failure",
+      "title": "Failure of Consideration / Mutual Mistake",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Lease unenforceable if based on fraudulent or hidden information (e.g., unregistered entity), indicating no true meeting of minds.",
+      "tags": [
+        "c3",
+        "luther_rollins",
+        "consideration",
+        "mutual_mistake"
+      ],
+      "related_claims": [
+        "c2_s2_unenforceable_lease",
+        "c4_s2_fraudulent_concealment"
+      ],
+      "source_category": "C3: Contractual and Lease Enforcement Claims"
+    },
+    {
+      "claim_id": "c3_s4_habitability",
+      "title": "Breach of Warranty of Habitability / Quiet Enjoyment",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Neglecting maintenance (e.g., broken gates, faulty lights post-break-in on March 2024) breached tenant’s right to a safe, livable dwelling.",
+      "tags": [
+        "c3",
+        "luther_rollins",
+        "habitability",
+        "quiet_enjoyment",
+        "maintenance"
+      ],
+      "related_claims": [
+        "c6_s1_negligent_security",
+        "c9_s3_distress_invasion"
+      ],
+      "source_category": "C3: Contractual and Lease Enforcement Claims"
+    },
+    {
+      "claim_id": "c3_s5_lease_negligence",
+      "title": "Lease Preparation Negligence (Address Fields Error)",
+      "defendant": {
+        "primary": "Landlord (Luther Rollins)",
+        "secondary": "Compass Realty (if involved)"
+      },
+      "basis": "Address errors in the lease hampered tenant’s statutory rights, reflecting negligent preparation.",
+      "tags": [
+        "c3",
+        "luther_rollins",
+        "compass_realty",
+        "lease_preparation",
+        "negligence"
+      ],
+      "related_claims": [
+        "c1_s1_address_disclosure",
+        "c7_s1_realtor_duty"
+      ],
+      "source_category": "C3: Contractual and Lease Enforcement Claims"
+    },
+    {
+      "claim_id": "c3_s6_termination_fee",
+      "title": "Unlawful or Conflicting Early Termination Fee Clause",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "$9,000 fee may exceed Florida’s two-month rent limit, rendering it an unlawful penalty if contradictory.",
+      "tags": [
+        "c3",
+        "luther_rollins",
+        "termination_fee",
+        "lease_terms"
+      ],
+      "related_claims": [
+        "c1_s6_statutory_waiver",
+        "c8_s3_declaratory_judgment"
+      ],
+      "source_category": "C3: Contractual and Lease Enforcement Claims"
+    },
+    {
+      "claim_id": "c3_s7_void_provisions",
+      "title": "Invalid or Void Provisions Attempting to Waive Statutory Protections",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Provisions disclaiming statutory duties (e.g., deposit handling) are void under Florida law.",
+      "tags": [
+        "c3",
+        "luther_rollins",
+        "void_provisions",
+        "lease_terms"
+      ],
+      "related_claims": [
+        "c1_s6_statutory_waiver",
+        "c12_s1_invalid_clause"
+      ],
+      "source_category": "C3: Contractual and Lease Enforcement Claims"
+    },
+    {
+      "claim_id": "c4_s1_fraud_inducement",
+      "title": "Fraud in the Inducement",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Misrepresenting lease terms, property condition, or payment recipient induced tenant into signing.",
+      "tags": [
+        "c4",
+        "luther_rollins",
+        "fraud",
+        "inducement"
+      ],
+      "related_claims": [
+        "c4_s2_fraudulent_concealment",
+        "c3_s3_consideration_failure"
+      ],
+      "source_category": "C4: Fraud, Misrepresentation, and Deceptive Practices"
+    },
+    {
+      "claim_id": "c4_s2_fraudulent_concealment",
+      "title": "Fraudulent Concealment or Omission",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Concealing Amarlu Enterprises’ role in rent collection deprived tenant of informed consent.",
+      "tags": [
+        "c4",
+        "luther_rollins",
+        "fraud",
+        "concealment",
+        "amarlu_enterprises"
+      ],
+      "related_claims": [
+        "c2_s3_entity_concealment",
+        "c1_s3_required_disclosures"
+      ],
+      "source_category": "C4: Fraud, Misrepresentation, and Deceptive Practices"
+    },
+    {
+      "claim_id": "c4_s3_deceptive_addresses",
+      "title": "Deceptive Mailing/Address Practices",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Using incorrect ZIP codes and P.O. Box only hindered tenant’s legal recourse.",
+      "tags": [
+        "c4",
+        "luther_rollins",
+        "deceptive_practices",
+        "addressing"
+      ],
+      "related_claims": [
+        "c1_s1_address_disclosure",
+        "c1_s5_address_violation"
+      ],
+      "source_category": "C4: Fraud, Misrepresentation, and Deceptive Practices"
+    },
+    {
+      "claim_id": "c4_s4_fdutpa_violation",
+      "title": "Florida Deceptive and Unfair Trade Practices Act (FDUTPA)",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Unfair/deceptive practices (e.g., misrepresentations, invalid disclaimers) may violate FDUTPA, entitling tenant to damages.",
+      "tags": [
+        "c4",
+        "luther_rollins",
+        "fdutpa",
+        "deceptive_practices"
+      ],
+      "related_claims": [
+        "c4_s2_fraudulent_concealment",
+        "c4_s6_phone_misrepresentation"
+      ],
+      "source_category": "C4: Fraud, Misrepresentation, and Deceptive Practices"
+    },
+    {
+      "claim_id": "c4_s5_unauthorized_law",
+      "title": "Unauthorized Practice of Law / Misrepresentation of Attorney Status",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Use of 'luther2law@gmail' suggests attorney status, potentially intimidating tenant unlawfully.",
+      "tags": [
+        "c4",
+        "luther_rollins",
+        "unauthorized_law",
+        "misrepresentation"
+      ],
+      "related_claims": [
+        "c10_s1_professional_rules",
+        "c4_s6_phone_misrepresentation"
+      ],
+      "source_category": "C4: Fraud, Misrepresentation, and Deceptive Practices"
+    },
+    {
+      "claim_id": "c4_s6_phone_misrepresentation",
+      "title": "Misrepresentation that Phone Calls Were Legally Required",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Falsely claiming phone calls were legally mandated coerced tenant under false pretenses.",
+      "tags": [
+        "c4",
+        "luther_rollins",
+        "misrepresentation",
+        "phone_calls"
+      ],
+      "related_claims": [
+        "c1_s6_statutory_waiver",
+        "c9_s1_harassment"
+      ],
+      "source_category": "C4: Fraud, Misrepresentation, and Deceptive Practices"
+    },
+    {
+      "claim_id": "c5_s1_deposit_statute",
+      "title": "Violation of Deposit Statute (Fla. Stat. § 83.49)",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Failure to provide timely itemized notice for deposit deductions entitles tenant to full return plus damages.",
+      "tags": [
+        "c5",
+        "fla_stat_83.49",
+        "luther_rollins",
+        "security_deposit"
+      ],
+      "related_claims": [
+        "c1_s2_security_deposit",
+        "c5_s2_bad_faith_retention"
+      ],
+      "source_category": "C5: Security Deposit and Personal Property Claims"
+    },
+    {
+      "claim_id": "c5_s2_bad_faith_retention",
+      "title": "Wrongful or Bad-Faith Retention of Deposit",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Retaining deposit without proof of damage constitutes bad faith, risking treble damages.",
+      "tags": [
+        "c5",
+        "luther_rollins",
+        "bad_faith",
+        "security_deposit"
+      ],
+      "related_claims": [
+        "c5_s1_deposit_statute",
+        "c3_s2_good_faith"
+      ],
+      "source_category": "C5: Security Deposit and Personal Property Claims"
+    },
+    {
+      "claim_id": "c5_s3_civil_theft",
+      "title": "Conversion / Civil Theft (Fla. Stat. § 772.11)",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Intentionally withholding deposit/property for personal benefit may qualify as civil theft, with treble damages.",
+      "tags": [
+        "c5",
+        "fla_stat_772.11",
+        "luther_rollins",
+        "conversion",
+        "civil_theft"
+      ],
+      "related_claims": [
+        "c5_s2_bad_faith_retention",
+        "c12_s3_property_conversion"
+      ],
+      "source_category": "C5: Security Deposit and Personal Property Claims"
+    },
+    {
+      "claim_id": "c5_s4_abandoned_property",
+      "title": "Failure to Comply with Fla. Stat. § 715.104 (Disposition of Abandoned Property)",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "No notice provided for tenant to retrieve property, violating statutory procedure.",
+      "tags": [
+        "c5",
+        "fla_stat_715.104",
+        "luther_rollins",
+        "abandoned_property"
+      ],
+      "related_claims": [
+        "c5_s5_retrieval_interference",
+        "c12_s2_obstruction"
+      ],
+      "source_category": "C5: Security Deposit and Personal Property Claims"
+    },
+    {
+      "claim_id": "c5_s5_retrieval_interference",
+      "title": "Interference with Tenant’s Right to Retrieve Personal Property",
+      "defendant": {
+        "primary": "Landlord (Luther Rollins)",
+        "secondary": "Realtor (Zach Steinberger)"
+      },
+      "basis": "Landlord and agent obstructed tenant’s retrieval efforts despite multiple attempts.",
+      "tags": [
+        "c5",
+        "luther_rollins",
+        "zach_steinberger",
+        "property_retrieval"
+      ],
+      "related_claims": [
+        "c5_s6_forced_abandonment",
+        "c7_s2_conflict_interest"
+      ],
+      "source_category": "C5: Security Deposit and Personal Property Claims"
+    },
+    {
+      "claim_id": "c5_s6_forced_abandonment",
+      "title": "Willful Communication Cutoff & Attempted Forced Abandonment",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Ordering agent to cease communication on September 4, 2024, during retrieval attempt forced artificial abandonment, causing wasted costs.",
+      "tags": [
+        "c5",
+        "luther_rollins",
+        "communication_cutoff",
+        "forced_abandonment"
+      ],
+      "related_claims": [
+        "c5_s5_retrieval_interference",
+        "c9_s4_financial_distress"
+      ],
+      "source_category": "C5: Security Deposit and Personal Property Claims"
+    },
+    {
+      "claim_id": "c6_s1_negligent_security",
+      "title": "Negligent Security (Home Invasion Incident)",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Failing to fix broken gates/locks or faulty motion lights enabled a break-in in March 2024, endangering tenant.",
+      "tags": [
+        "c6",
+        "luther_rollins",
+        "negligent_security",
+        "home_invasion"
+      ],
+      "related_claims": [
+        "c3_s4_habitability",
+        "c9_s3_distress_invasion"
+      ],
+      "source_category": "C6: Negligence or Premises Liability"
+    },
+    {
+      "claim_id": "c6_s2_negligent_maintenance",
+      "title": "General Negligent Maintenance",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Ignoring clogged sinks, decaying gates, and repair requests breached duty to maintain habitable premises.",
+      "tags": [
+        "c6",
+        "luther_rollins",
+        "negligent_maintenance",
+        "habitability"
+      ],
+      "related_claims": [
+        "c3_s4_habitability",
+        "c6_s1_negligent_security"
+      ],
+      "source_category": "C6: Negligence or Premises Liability"
+    },
+    {
+      "claim_id": "c6_s3_building_codes",
+      "title": "Negligence Per Se (Violation of Building Codes)",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Failure to meet Gulfport codes (e.g., locking gates) constitutes negligence per se.",
+      "tags": [
+        "c6",
+        "luther_rollins",
+        "building_codes",
+        "negligence_per_se"
+      ],
+      "related_claims": [
+        "c6_s1_negligent_security",
+        "c3_s4_habitability"
+      ],
+      "source_category": "C6: Negligence or Premises Liability"
+    },
+    {
+      "claim_id": "c7_s1_realtor_duty",
+      "title": "Breach of Professional Duty / Negligent Misrepresentation",
+      "defendant": {
+        "primary": "Realtor (Zach Steinberger)",
+        "secondary": "Compass Florida LLC"
+      },
+      "basis": "Realtor provided misleading opinions outside expertise, breaching professional duty.",
+      "tags": [
+        "c7",
+        "zach_steinberger",
+        "compass_florida",
+        "professional_duty"
+      ],
+      "related_claims": [
+        "c7_s2_conflict_interest",
+        "c3_s5_lease_negligence"
+      ],
+      "source_category": "C7: Realtor and Brokerage Liability"
+    },
+    {
+      "claim_id": "c7_s2_conflict_interest",
+      "title": "Conflict of Interest and Unfair Dealing",
+      "defendant": {
+        "primary": "Realtor (Zach Steinberger)",
+        "secondary": "Compass Florida LLC"
+      },
+      "basis": "Realtor favored landlord due to business ties, compromising tenant’s interests.",
+      "tags": [
+        "c7",
+        "zach_steinberger",
+        "compass_florida",
+        "conflict_interest"
+      ],
+      "related_claims": [
+        "c7_s1_realtor_duty",
+        "c5_s5_retrieval_interference"
+      ],
+      "source_category": "C7: Realtor and Brokerage Liability"
+    },
+    {
+      "claim_id": "c7_s3_brokerage_supervision",
+      "title": "Lack of Adequate Supervision by Brokerage",
+      "defendant": {
+        "primary": "Compass Florida LLC",
+        "secondary": "Realtor (Zach Steinberger)"
+      },
+      "basis": "Brokerage failed to oversee realtor’s improper actions, sharing liability.",
+      "tags": [
+        "c7",
+        "compass_florida",
+        "zach_steinberger",
+        "supervision"
+      ],
+      "related_claims": [
+        "c7_s1_realtor_duty",
+        "c7_s2_conflict_interest"
+      ],
+      "source_category": "C7: Realtor and Brokerage Liability"
+    },
+    {
+      "claim_id": "c7_s4_mental_health",
+      "title": "Failure to Communicate Tenant’s Mental Health Information (PTSD)",
+      "defendant": "Primary – Realtor (Zach Steinberger)",
+      "basis": "Neglecting to relay PTSD needs exacerbated tenant’s vulnerability post-invasion.",
+      "tags": [
+        "c7",
+        "zach_steinberger",
+        "mental_health",
+        "ptsd"
+      ],
+      "related_claims": [
+        "c9_s3_distress_invasion",
+        "c11_s2_loss_consortium_ptsd"
+      ],
+      "source_category": "C7: Realtor and Brokerage Liability"
+    },
+    {
+      "claim_id": "c7_s5_ethics_violation",
+      "title": "Potential Code of Ethics Violation",
+      "defendant": {
+        "primary": "Realtor (Zach Steinberger)",
+        "secondary": "Compass Florida LLC"
+      },
+      "basis": "Offering opinions outside expertise may violate NAR Code of Ethics.",
+      "tags": [
+        "c7",
+        "zach_steinberger",
+        "compass_florida",
+        "ethics_violation"
+      ],
+      "related_claims": [
+        "c7_s1_realtor_duty",
+        "c7_s2_conflict_interest"
+      ],
+      "source_category": "C7: Realtor and Brokerage Liability"
+    },
+    {
+      "claim_id": "c8_s1_unjust_enrichment",
+      "title": "Unjust Enrichment",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Landlord profited from withheld deposit/property, warranting restitution.",
+      "tags": [
+        "c8",
+        "luther_rollins",
+        "unjust_enrichment"
+      ],
+      "related_claims": [
+        "c5_s3_civil_theft",
+        "c12_s3_property_conversion"
+      ],
+      "source_category": "C8: Additional or Overarching Theories and Defenses"
+    },
+    {
+      "claim_id": "c8_s2_offset_claims",
+      "title": "Offset / Setoff Against Landlord Claims",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Tenant’s damages offset any landlord claims due to statutory violations.",
+      "tags": [
+        "c8",
+        "luther_rollins",
+        "offset",
+        "damages"
+      ],
+      "related_claims": [
+        "c5_s2_bad_faith_retention",
+        "c8_s3_declaratory_judgment"
+      ],
+      "source_category": "C8: Additional or Overarching Theories and Defenses"
+    },
+    {
+      "claim_id": "c8_s3_declaratory_judgment",
+      "title": "Declaratory Judgment (Lease Void / Unenforceable)",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Court ruling sought to void lease due to illegality and invalid terms.",
+      "tags": [
+        "c8",
+        "luther_rollins",
+        "declaratory_judgment",
+        "lease_void"
+      ],
+      "related_claims": [
+        "c2_s2_unenforceable_lease",
+        "c12_s1_invalid_clause"
+      ],
+      "source_category": "C8: Additional or Overarching Theories and Defenses"
+    },
+    {
+      "claim_id": "c8_s4_attorney_fees",
+      "title": "Attorney’s Fees & Costs",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Fee-shifting under Florida law/lease entitles tenant to legal expenses if prevailing.",
+      "tags": [
+        "c8",
+        "luther_rollins",
+        "attorney_fees",
+        "legal_costs"
+      ],
+      "related_claims": [
+        "c8_s3_declaratory_judgment",
+        "c12_s3_property_conversion"
+      ],
+      "source_category": "C8: Additional or Overarching Theories and Defenses"
+    },
+    {
+      "claim_id": "c9_s1_harassment",
+      "title": "Harassment / Repeated Communications Causing Emotional Distress",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Excessive calls/texts despite written-only request caused tenant anxiety.",
+      "tags": [
+        "c9",
+        "luther_rollins",
+        "harassment",
+        "emotional_distress"
+      ],
+      "related_claims": [
+        "c4_s6_phone_misrepresentation",
+        "c9_s2_distress_property"
+      ],
+      "source_category": "C9: Harassment and Emotional Distress Claims"
+    },
+    {
+      "claim_id": "c9_s2_distress_property",
+      "title": "Emotional Distress from Interference with Personal Property",
+      "defendant": {
+        "primary": "Landlord (Luther Rollins)",
+        "secondary": "Realtor (Zach Steinberger)"
+      },
+      "basis": "Property obstruction intensified tenant’s stress, especially with PTSD.",
+      "tags": [
+        "c9",
+        "luther_rollins",
+        "zach_steinberger",
+        "emotional_distress",
+        "property"
+      ],
+      "related_claims": [
+        "c5_s5_retrieval_interference",
+        "c9_s4_financial_distress"
+      ],
+      "source_category": "C9: Harassment and Emotional Distress Claims"
+    },
+    {
+      "claim_id": "c9_s3_distress_invasion",
+      "title": "Emotional Distress for Landlord’s Inaction Post-Home Invasion",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Failure to address security post-break-in in March 2024 amplified tenant’s trauma.",
+      "tags": [
+        "c9",
+        "luther_rollins",
+        "emotional_distress",
+        "home_invasion"
+      ],
+      "related_claims": [
+        "c6_s1_negligent_security",
+        "c11_s2_loss_consortium_ptsd"
+      ],
+      "source_category": "C9: Harassment and Emotional Distress Claims"
+    },
+    {
+      "claim_id": "c9_s4_financial_distress",
+      "title": "Additional Financial & Emotional Harm from Wasted Rental Truck & Obstructed Plans",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Communication cutoff on September 4, 2024, during retrieval caused financial loss and distress.",
+      "tags": [
+        "c9",
+        "luther_rollins",
+        "financial_harm",
+        "emotional_distress"
+      ],
+      "related_claims": [
+        "c5_s6_forced_abandonment",
+        "c12_s2_obstruction"
+      ],
+      "source_category": "C9: Harassment and Emotional Distress Claims"
+    },
+    {
+      "claim_id": "c10_s1_professional_rules",
+      "title": "Potential Violations of Professional Rules (Rule 4-8.4)",
+      "defendant": "Primary – Landlord (Luther Rollins, if licensed attorney)",
+      "basis": "Dishonest conduct may breach Rule 4-8.4 if landlord is an attorney.",
+      "tags": [
+        "c10",
+        "luther_rollins",
+        "rule_4-8.4",
+        "professional_misconduct"
+      ],
+      "related_claims": [
+        "c4_s5_unauthorized_law",
+        "c10_s2_ethical_misconduct"
+      ],
+      "source_category": "C10: Professional Misconduct & Bar Violations"
+    },
+    {
+      "claim_id": "c10_s2_ethical_misconduct",
+      "title": "Ethical Misconduct in Structuring Fraudulent Lease or Tax Avoidance",
+      "defendant": {
+        "primary": "Landlord (Luther Rollins)",
+        "secondary": "Amarlu Enterprises"
+      },
+      "basis": "Unregistered entity setup may reflect ethical breaches or tax evasion.",
+      "tags": [
+        "c10",
+        "luther_rollins",
+        "amarlu_enterprises",
+        "ethical_misconduct",
+        "tax_evasion"
+      ],
+      "related_claims": [
+        "c2_s4_tax_evasion",
+        "c4_s2_fraudulent_concealment"
+      ],
+      "source_category": "C10: Professional Misconduct & Bar Violations"
+    },
+    {
+      "claim_id": "c11_s1_loss_consortium",
+      "title": "Loss of Consortium by Stephen (Marriage Breakdown)",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Negligence post-March 2024 break-in triggered marital strife, ending relationship.",
+      "tags": [
+        "c11",
+        "luther_rollins",
+        "loss_consortium",
+        "marriage_breakdown"
+      ],
+      "related_claims": [
+        "c6_s1_negligent_security",
+        "c11_s2_loss_consortium_ptsd"
+      ],
+      "source_category": "C11: Personal Injury & Loss of Consortium"
+    },
+    {
+      "claim_id": "c11_s2_loss_consortium_ptsd",
+      "title": "Loss of Consortium – PTSD-Induced Marital Dissolution",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "PTSD from break-in, worsened by landlord inaction, led to July 2024 divorce.",
+      "tags": [
+        "c11",
+        "luther_rollins",
+        "loss_consortium",
+        "ptsd",
+        "marital_dissolution"
+      ],
+      "related_claims": [
+        "c9_s3_distress_invasion",
+        "c7_s4_mental_health"
+      ],
+      "source_category": "C11: Personal Injury & Loss of Consortium"
+    },
+    {
+      "claim_id": "c12_s1_invalid_clause",
+      "title": "Invalid Clause Purporting to Waive Statutory Duties",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Clause disclaiming liability for property is void under Fla. Stat. § 83.47, especially without tenant initials.",
+      "tags": [
+        "c12",
+        "fla_stat_83.47",
+        "luther_rollins",
+        "invalid_clause",
+        "property"
+      ],
+      "related_claims": [
+        "c1_s7_property_liability",
+        "c3_s7_void_provisions"
+      ],
+      "source_category": "C12: Invalid Lease Provisions re. Personal Property Access, Unlawful Obstruction, and Conversion",
+      "factual_background": {
+        "lease_termination": "Lease ended with storm delays preventing full property removal; tenant sought retrieval via texts/emails.",
+        "property_left": "Includes Weber Spirit E-310 Grill, tools, lawn equipment; tenant notified landlord/agent.",
+        "retrieval_efforts": "On September 4, 2024, tenant arranged truck, texted landlord, but communication was cut off."
+      }
+    },
+    {
+      "claim_id": "c12_s2_obstruction",
+      "title": "Unlawful Obstruction of Retrieval (Communication Cutoff)",
+      "defendant": {
+        "primary": "Landlord (Luther Rollins)",
+        "secondary": "Realtor (Zach Steinberger)"
+      },
+      "basis": "Ordering agent to cease communication on September 4, 2024, blocked retrieval, violating good faith and Fla. Stat. § 715.104.",
+      "tags": [
+        "c12",
+        "luther_rollins",
+        "zach_steinberger",
+        "obstruction",
+        "property_retrieval"
+      ],
+      "related_claims": [
+        "c5_s4_abandoned_property",
+        "c5_s6_forced_abandonment"
+      ],
+      "source_category": "C12: Invalid Lease Provisions re. Personal Property Access, Unlawful Obstruction, and Conversion",
+      "factual_background": {
+        "retrieval_efforts": "On September 4, 2024, tenant arranged truck, texted landlord, but communication was cut off, causing wasted costs."
+      }
+    },
+    {
+      "claim_id": "c12_s3_property_conversion",
+      "title": "Conversion for Landlord’s Own Use (Weber Grill & Other Items)",
+      "defendant": "Primary – Landlord (Luther Rollins)",
+      "basis": "Using/advertising tenant’s grill while denying retrieval constitutes conversion under Florida common law and Fla. Stat. § 715.109.",
+      "tags": [
+        "c12",
+        "luther_rollins",
+        "conversion",
+        "weber_grill",
+        "property"
+      ],
+      "related_claims": [
+        "c5_s3_civil_theft",
+        "c8_s1_unjust_enrichment"
+      ],
+      "source_category": "C12: Invalid Lease Provisions re. Personal Property Access, Unlawful Obstruction, and Conversion",
+      "factual_background": {
+        "property_left": "Includes Weber Spirit E-310 Grill advertised as a 'barbecue amenity' for new tenants.",
+        "retrieval_efforts": "Landlord refused retrieval attempts, mischaracterized tenant’s intent as abandonment."
+      },
+      "remedies_sought": [
+        "Declaratory judgment voiding invalid lease provisions.",
+        "Return of property or fair market value/replacement cost.",
+        "Statutory damages under Fla. Stat. § 715.109 (actual damages or three months’ rent).",
+        "Damages for conversion and emotional distress, including punitive if willful.",
+        "Attorney’s fees and costs.",
+        "Injunctive relief for immediate retrieval if items remain."
+      ]
+    }
+  ],
+  "document_metadata": {
+    "compiled_on": "2025-02-25",
+    "source": "Merged from multiple versions and notes provided by user.",
+    "property_address": "2649 Tifton St S, Gulfport, FL 33711",
+    "tags": [
+      "legal_document",
+      "tenant_dispute",
+      "florida_law"
+    ]
+  }
+}

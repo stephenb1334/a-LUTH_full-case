@@ -1,0 +1,354 @@
+[
+  {
+    "block_id": "TOPIC-TASK_DEFINITION-REQUIREMENTS-2023_VERSION_CONTROL",
+    "content": "CRITICAL PROJECT REQUIREMENT: This AI repository is strictly limited to 2023 Florida statutes only. All 2024 amendments, updates, or changes must be absolutely excluded. I will process the list of Florida state statutes you provide, but ONLY using their 2023 versions. For each unique statute number, I will organize the information by: 1. **Statute Number** 2. **Title** (2023 version only) 3. **A brief 1-2 sentence summary** (based solely on 2023 law) 4. **Version Control Verification** (confirming 2023-only compliance) 5. **Exclusion Documentation** (noting any 2024 changes that were identified and excluded). Every statute will be verified against 2023 sources and explicitly marked with version control metadata.",
+    "hashtags": ["TaskConfirmation", "2023VersionControl", "StatuteListing", "VersionExclusion", "LegalCompliance"],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": [],
+      "related_to": ["TOPIC-VERSION_CONTROL-2023_COMPLIANCE-MANDATORY_VALIDATION"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": true,
+      "version_compliance_verified": true,
+      "completeness_score": 1.0,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-VERSION_CONTROL-2023_COMPLIANCE-MANDATORY_VALIDATION",
+    "content": "MANDATORY VERSION CONTROL PROTOCOL: Every Florida statute entry must undergo strict 2023 compliance validation. This includes: (1) Verification against official 2023 Florida Statutes archives, (2) Cross-reference with 2023 Online Sunshine records, (3) Documentation of any 2024 amendments that exist but are excluded, (4) Explicit dating of the 2023 version used, (5) Source attribution to 2023-specific legal databases. Any statute that cannot be verified as its 2023 version will be flagged for manual review. The cutoff date is December 31, 2023 - no legal changes effective January 1, 2024 or later may be included.",
+    "hashtags": ["VersionControl", "2023Compliance", "MandatoryValidation", "LegalAccuracy", "TemporalRestriction"],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": ["TOPIC-TASK_DEFINITION-REQUIREMENTS-2023_VERSION_CONTROL"],
+      "related_to": ["TOPIC-JSON_SCHEMA-FLORIDA_LEGAL_PROVISION_2023-ENHANCED_SCHEMA"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": true,
+      "version_compliance_verified": true,
+      "completeness_score": 1.0,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-FLORIDA_STATUTES-AGGREGATION-2023_COMPREHENSIVE_LIST",
+    "content": "The goal is to process all provided lists of 2023 Florida state statutes, including those from Chapter 83, Chapter 715, business registration laws, consumer protection statutes, criminal fraud statutes, and miscellaneous housing, civil, and ethics provisions - but exclusively in their 2023 versions. This involves aggregating redundant and repetitive entries to create the best, fully comprehensive version of each 2023 state statute, without excluding any single one, organized by statute number, title (2023 version), and a brief summary (reflecting 2023 law only). Any 2024 updates or amendments discovered during processing will be documented but excluded from the final dataset.",
+    "hashtags": ["2023StatuteAggregation", "ComprehensiveList", "LandlordTenantLaw", "FloridaLaw2023", "VersionControlled"],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": ["TOPIC-VERSION_CONTROL-2023_COMPLIANCE-MANDATORY_VALIDATION"],
+      "related_to": ["TOPIC-JSON_SCHEMA-FLORIDA_LEGAL_PROVISION_2023-ENHANCED_SCHEMA"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": true,
+      "version_compliance_verified": true,
+      "completeness_score": 1.0,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-JSON_SCHEMA-FLORIDA_LEGAL_PROVISION_2023-ENHANCED_SCHEMA",
+    "content": "{\n  \"$schema\": \"https://json-schema.org/draft/2020-12/schema\",\n  \"title\": \"FloridaLegalProvision2023\",\n  \"description\": \"Schema for 2023 Florida state statute or administrative code provision with strict version control. Absolutely excludes all 2024 amendments.\",\n  \"type\": \"object\",\n  \"required\": [\n    \"id\",\n    \"provision_type\",\n    \"citation\",\n    \"summary_description\",\n    \"details\",\n    \"version_control_2023\"\n  ],\n  \"properties\": {\n    \"id\": {\n      \"type\": \"string\",\n      \"format\": \"uuid\",\n      \"description\": \"Unique identifier for this 2023 provision record.\"\n    },\n    \"provision_type\": {\n      \"type\": \"string\",\n      \"enum\": [\n        \"florida_statute_2023\",\n        \"florida_administrative_code_rule_2023\"\n      ],\n      \"description\": \"Type of Florida legal provision - 2023 version only.\"\n    },\n    \"citation\": {\n      \"type\": \"string\",\n      \"minLength\": 3,\n      \"maxLength\": 255,\n      \"description\": \"The full legal citation as it existed in 2023 (e.g., 'Fla. Stat. § 83.49 (2023)').\"\n    },\n    \"official_title_2023\": {\n      \"type\": \"string\",\n      \"maxLength\": 500,\n      \"description\": \"The official title or catchline of the statute or rule as it existed in 2023.\"\n    },\n    \"summary_description\": {\n      \"type\": \"string\",\n      \"minLength\": 10,\n      \"maxLength\": 1000,\n      \"description\": \"A brief 1-2 sentence summary reflecting the content as it existed in 2023 only.\"\n    },\n    \"version_control_2023\": {\n      \"type\": \"object\",\n      \"description\": \"MANDATORY: Version control verification for 2023 compliance.\",\n      \"required\": [\n        \"verified_2023_version\",\n        \"cutoff_date_compliance\",\n        \"source_verification\",\n        \"exclusion_status\"\n      ],\n      \"properties\": {\n        \"verified_2023_version\": {\n          \"type\": \"boolean\",\n          \"description\": \"TRUE only if this provision has been verified as the 2023 version.\"\n        },\n        \"cutoff_date_compliance\": {\n          \"type\": \"string\",\n          \"pattern\": \"^2023-12-31$\",\n          \"description\": \"Must be '2023-12-31' - confirming no post-2023 changes included.\"\n        },\n        \"source_verification\": {\n          \"type\": \"object\",\n          \"required\": [\"source_type\", \"verification_date\"],\n          \"properties\": {\n            \"source_type\": {\n              \"type\": \"string\",\n              \"enum\": [\"official_2023_florida_statutes\", \"2023_online_sunshine\", \"2023_legal_database\"]\n            },\n            \"source_url_2023\": {\n              \"type\": [\"string\", \"null\"],\n              \"description\": \"URL to 2023-specific source if available.\"\n            },\n            \"verification_date\": {\n              \"type\": \"string\",\n              \"format\": \"date\",\n              \"description\": \"Date when 2023 version was verified.\"\n            }\n          }\n        },\n        \"exclusion_status\": {\n          \"type\": \"object\",\n          \"required\": [\"has_2024_amendments\", \"exclusion_verified\"],\n          \"properties\": {\n            \"has_2024_amendments\": {\n              \"type\": \"boolean\",\n              \"description\": \"TRUE if 2024 amendments exist but were excluded.\"\n            },\n            \"exclusion_verified\": {\n              \"type\": \"boolean\",\n              \"description\": \"TRUE if exclusion of 2024 changes has been verified.\"\n            },\n            \"amendment_summary_excluded\": {\n              \"type\": [\"string\", \"null\"],\n              \"maxLength\": 500,\n              \"description\": \"Brief description of 2024 amendments that were excluded.\"\n            }\n          }\n        }\n      }\n    },\n    \"details\": {\n      \"type\": \"object\",\n      \"description\": \"Specific details of the 2023 statute or administrative code rule.\",\n      \"oneOf\": [\n        { \"$ref\": \"#/definitions/floridaStatuteDetails2023\" },\n        { \"$ref\": \"#/definitions/floridaAdministrativeCodeRuleDetails2023\" }\n      ]\n    },\n    \"primary_topic_area\": {\n      \"type\": \"string\",\n      \"maxLength\": 100,\n      \"description\": \"Main legal topic area this 2023 provision falls under.\"\n    },\n    \"keywords_2023\": {\n      \"type\": \"array\",\n      \"items\": {\n        \"type\": \"string\",\n        \"maxLength\": 50\n      },\n      \"maxItems\": 10,\n      \"description\": \"Keywords for searching, derived from 2023 title and summary only.\"\n    },\n    \"application_notes_2023\": {\n      \"type\": [\"string\", \"null\"],\n      \"maxLength\": 2000,\n      \"description\": \"Notes on how this 2023 provision applied - no 2024 updates included.\"\n    },\n    \"related_provisions_2023\": {\n      \"type\": \"array\",\n      \"items\": {\n        \"type\": \"object\",\n        \"properties\": {\n          \"citation_2023\": {\n            \"type\": \"string\",\n            \"maxLength\": 255,\n            \"description\": \"Citation of related 2023 provision.\"\n          },\n          \"relationship_type\": {\n            \"type\": \"string\",\n            \"enum\": [\n              \"referenced_by_2023\",\n              \"references_2023\",\n              \"complements_2023\",\n              \"clarifies_2023\",\n              \"implements_2023\",\n              \"related_subject_matter_2023\",\n              \"other_2023\"\n            ]\n          }\n        },\n        \"required\": [\"citation_2023\"]\n      },\n      \"maxItems\": 20,\n      \"description\": \"List of related 2023 Florida statutes only.\"\n    },\n    \"metadata\": {\n      \"type\": \"object\",\n      \"description\": \"Enhanced metadata for 2023 version control.\",\n      \"properties\": {\n        \"schema_version\": {\n          \"type\": \"string\",\n          \"pattern\": \"^2\\\\.0\\\\.0$\",\n          \"default\": \"2.0.0\",\n          \"description\": \"Schema version for 2023-specific requirements.\"\n        },\n        \"processing_timestamp\": {\n          \"type\": \"string\",\n          \"format\": \"date-time\",\n          \"description\": \"Timestamp of when this 2023 record was generated.\"\n        },\n        \"source_description\": {\n          \"type\": \"string\",\n          \"default\": \"2023 Florida Statutes - version controlled and 2024-exclusion verified.\",\n          \"description\": \"Origin of the 2023 data for this record.\"\n        },\n        \"data_integrity_2023\": {\n          \"type\": \"object\",\n          \"required\": [\"version_locked\", \"exclusion_audit_complete\"],\n          \"properties\": {\n            \"version_locked\": {\n              \"type\": \"boolean\",\n              \"description\": \"TRUE when 2023 version is locked and verified.\"\n            },\n            \"exclusion_audit_complete\": {\n              \"type\": \"boolean\",\n              \"description\": \"TRUE when 2024 exclusion audit is complete.\"\n            },\n            \"quality_control_passed\": {\n              \"type\": \"boolean\",\n              \"description\": \"TRUE when all 2023 quality controls passed.\"\n            }\n          }\n        }\n      },\n      \"required\": [\n        \"schema_version\",\n        \"processing_timestamp\",\n        \"data_integrity_2023\"\n      ]\n    }\n  },\n  \"definitions\": {\n    \"floridaStatuteDetails2023\": {\n      \"type\": \"object\",\n      \"description\": \"Specific details for a 2023 Florida Statute.\",\n      \"required\": [\n        \"code_name\",\n        \"chapter_number\",\n        \"effective_date_2023\",\n        \"version_as_of_2023\"\n      ],\n      \"properties\": {\n        \"code_name\": {\n          \"type\": \"string\",\n          \"default\": \"Florida Statutes (2023)\",\n          \"enum\": [\"Florida Statutes (2023)\"],\n          \"description\": \"Name of the code - 2023 version.\"\n        },\n        \"chapter_number\": {\n          \"type\": \"string\",\n          \"pattern\": \"^\\\\d+[A-Z]?$\",\n          \"maxLength\": 10,\n          \"description\": \"Chapter number as it existed in 2023.\"\n        },\n        \"chapter_name_2023\": {\n          \"type\": [\"string\", \"null\"],\n          \"maxLength\": 255,\n          \"description\": \"Official name of the Chapter in 2023.\"\n        },\n        \"section_number_raw_2023\": {\n          \"type\": [\"string\", \"null\"],\n          \"maxLength\": 50,\n          \"description\": \"Section/subsection as it existed in 2023.\"\n        },\n        \"effective_date_2023\": {\n          \"type\": \"string\",\n          \"format\": \"date\",\n          \"description\": \"REQUIRED: Date when this 2023 version became effective.\"\n        },\n        \"last_amended_date_pre_2024\": {\n          \"type\": [\"string\", \"null\"],\n          \"format\": \"date\",\n          \"description\": \"Most recent amendment before 2024 (must be 2023 or earlier).\"\n        },\n        \"version_as_of_2023\": {\n          \"type\": \"string\",\n          \"pattern\": \"^2023-12-31$\",\n          \"description\": \"REQUIRED: Must be '2023-12-31' to confirm version control.\"\n        },\n        \"is_range\": {\n          \"type\": \"boolean\",\n          \"default\": false,\n          \"description\": \"True if represents a range of 2023 sections.\"\n        },\n        \"repealed_status_2023\": {\n          \"type\": \"boolean\",\n          \"default\": false,\n          \"description\": \"Whether statute was repealed by end of 2023.\"\n        },\n        \"post_2023_changes_excluded\": {\n          \"type\": \"object\",\n          \"required\": [\"exclusion_verified\"],\n          \"properties\": {\n            \"exclusion_verified\": {\n              \"type\": \"boolean\",\n              \"description\": \"TRUE if post-2023 changes were identified and excluded.\"\n            },\n            \"excluded_changes_summary\": {\n              \"type\": [\"string\", \"null\"],\n              \"maxLength\": 500,\n              \"description\": \"Summary of 2024+ changes that were excluded.\"\n            }\n          }\n        }\n      }\n    },\n    \"floridaAdministrativeCodeRuleDetails2023\": {\n      \"type\": \"object\",\n      \"description\": \"Specific details for a 2023 Florida Administrative Code Rule.\",\n      \"required\": [\n        \"code_name\",\n        \"rule_number_full\",\n        \"effective_date_2023\",\n        \"version_as_of_2023\"\n      ],\n      \"properties\": {\n        \"code_name\": {\n          \"type\": \"string\",\n          \"default\": \"Florida Administrative Code (2023)\",\n          \"enum\": [\"Florida Administrative Code (2023)\"],\n          \"description\": \"Name of the code - 2023 version.\"\n        },\n        \"rule_number_full\": {\n          \"type\": \"string\",\n          \"pattern\": \"^\\\\d+[A-Z]?-\\\\d+\\\\.\\\\d+$\",\n          \"maxLength\": 20,\n          \"description\": \"Full rule number as it existed in 2023.\"\n        },\n        \"effective_date_2023\": {\n          \"type\": \"string\",\n          \"format\": \"date\",\n          \"description\": \"REQUIRED: Date when this 2023 version became effective.\"\n        },\n        \"last_amended_date_pre_2024\": {\n          \"type\": [\"string\", \"null\"],\n          \"format\": \"date\",\n          \"description\": \"Most recent amendment before 2024.\"\n        },\n        \"version_as_of_2023\": {\n          \"type\": \"string\",\n          \"pattern\": \"^2023-12-31$\",\n          \"description\": \"REQUIRED: Must be '2023-12-31' to confirm version control.\"\n        },\n        \"repealed_status_2023\": {\n          \"type\": \"boolean\",\n          \"default\": false,\n          \"description\": \"Whether rule was repealed by end of 2023.\"\n        },\n        \"post_2023_changes_excluded\": {\n          \"type\": \"object\",\n          \"required\": [\"exclusion_verified\"],\n          \"properties\": {\n            \"exclusion_verified\": {\n              \"type\": \"boolean\",\n              \"description\": \"TRUE if post-2023 changes were identified and excluded.\"\n            },\n            \"excluded_changes_summary\": {\n              \"type\": [\"string\", \"null\"],\n              \"maxLength\": 500,\n              \"description\": \"Summary of 2024+ changes that were excluded.\"\n            }\n          }\n        }\n      }\n    }\n  }\n}",
+    "hashtags": ["JSONschema", "2023FloridaStatutes", "VersionControl", "DataModeling", "LegalTech"],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": ["TOPIC-VERSION_CONTROL-2023_COMPLIANCE-MANDATORY_VALIDATION"],
+      "related_to": ["TOPIC-JSON_OUTPUT-2023_STATUTE_DATABASE-GENERATION_PROTOCOL"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": true,
+      "version_compliance_verified": true,
+      "completeness_score": 1.0,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-JSON_OUTPUT-2023_STATUTE_DATABASE-GENERATION_PROTOCOL",
+    "content": "The comprehensive 2023-only dataset will be formatted into a JSON array according to the enhanced `FloridaLegalProvision2023.json` schema. CRITICAL PROTOCOL: Each statute entry must pass mandatory 2023 version verification before inclusion. This includes: (1) Source verification against 2023 archives, (2) Exclusion audit for any 2024 changes, (3) Version control metadata completion, (4) Quality control checkpoint. The JSON output will be generated with strict version controls, ensuring every entry reflects 2023 law exclusively. Any statute that cannot be verified as 2023-compliant will be flagged for manual review rather than included with uncertain dating.",
+    "hashtags": ["2023JSONoutput", "StatuteDatabase", "VersionControl", "QualityAssurance", "DataIntegrity"],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": ["TOPIC-JSON_SCHEMA-FLORIDA_LEGAL_PROVISION_2023-ENHANCED_SCHEMA"],
+      "related_to": ["TOPIC-QUALITY_CONTROL-2023_VERIFICATION-AUDIT_PROCESS"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": true,
+      "version_compliance_verified": true,
+      "completeness_score": 1.0,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-QUALITY_CONTROL-2023_VERIFICATION-AUDIT_PROCESS",
+    "content": "MANDATORY QUALITY CONTROL PROCESS for 2023 compliance: (1) **Source Verification**: Each statute must be traced to official 2023 Florida Statutes or verified 2023 legal databases. (2) **Amendment Audit**: Cross-reference against 2024 legislative session records to identify and exclude any post-2023 changes. (3) **Effective Date Validation**: Confirm all included provisions were effective as of December 31, 2023. (4) **Exclusion Documentation**: Maintain detailed records of any 2024 amendments that were identified and excluded. (5) **Dual Verification**: Each statute undergoes independent verification by two separate processes. (6) **Exception Reporting**: Any statute that cannot meet 2023 verification standards is flagged and excluded rather than included with uncertain dating.",
+    "hashtags": ["QualityControl", "2023Verification", "AuditProcess", "DataIntegrity", "VersionValidation"],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": ["TOPIC-JSON_OUTPUT-2023_STATUTE_DATABASE-GENERATION_PROTOCOL"],
+      "related_to": ["TOPIC-DATA_PROCESSING-2023_INPUT_VALIDATION-EXCLUSION_STRATEGY"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": true,
+      "version_compliance_verified": true,
+      "completeness_score": 1.0,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-DATA_PROCESSING-2023_INPUT_VALIDATION-EXCLUSION_STRATEGY",
+    "content": "Enhanced data processing protocol for 2023-only compliance: All user-provided statute lists undergo strict validation before processing. (1) **Temporal Filtering**: Any explicitly dated 2024 references are immediately flagged for exclusion. (2) **Version Cross-Check**: Each statute citation is verified against 2023 archives before inclusion. (3) **Amendment Tracking**: Legislative databases are consulted to identify statutes with 2024 changes, which are then processed using their 2023 versions only. (4) **Aggregation Controls**: When redundant entries exist, priority is given to explicitly 2023-dated sources. (5) **Exclusion Logging**: Comprehensive documentation of all 2024 content that was identified and excluded. The goal remains comprehensive coverage of all relevant statutes, but exclusively in their 2023 forms.",
+    "hashtags": ["DataValidation", "2023Processing", "ExclusionStrategy", "TemporalFiltering", "VersionControl"],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": ["TOPIC-QUALITY_CONTROL-2023_VERIFICATION-AUDIT_PROCESS"],
+      "related_to": ["TOPIC-FLORIDA_STATUTES-AGGREGATION-2023_COMPREHENSIVE_LIST"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": true,
+      "version_compliance_verified": true,
+      "completeness_score": 1.0,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-OUTPUT_GENERATION-2023_JSON_DELIVERY-VERSION_CONTROLLED_PROTOCOL",
+    "content": "For generating the 2023-only JSON output, enhanced delivery protocol applies: (1) **Pre-Generation Validation**: Complete 2023 verification must be finished before any JSON generation begins. (2) **Version Control Headers**: Each JSON section includes explicit 2023 version control metadata. (3) **Exclusion Reporting**: Accompanying documentation lists all 2024 content that was identified and excluded. (4) **Quality Checkpoints**: Multiple validation checkpoints during generation to ensure no 2024 content inadvertently included. (5) **Token Management**: Multi-part responses maintain version control integrity across all parts. (6) **Final Verification**: Complete dataset undergoes final 2023 compliance audit before delivery. No statute entry is included without explicit 2023 version verification.",
+    "hashtags": ["VersionControlledOutput", "2023JSONDelivery", "QualityCheckpoints", "DataIntegrity", "ComplianceProtocol"],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": ["TOPIC-JSON_OUTPUT-2023_STATUTE_DATABASE-GENERATION_PROTOCOL"],
+      "related_to": ["TOPIC-QUALITY_CONTROL-2023_VERIFICATION-AUDIT_PROCESS"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": true,
+      "version_compliance_verified": true,
+      "completeness_score": 1.0,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-LEGAL_STRATEGY-2023_VENUE_SELECTION-HISTORICAL_CONSIDERATIONS",
+    "content": "For landlord-tenant disputes using 2023 Florida law, venue selection was governed by 2023 statutes and case law. Under 2023 Chapter 83, venue was typically proper in the county where the rental property was located or where the defendant resided. Actions for possession (evictions) were generally filed in county court under 2023 procedures. Strategic considerations included 2023 local court practices, which may have changed in 2024. Federal court options for Fair Housing claims remained available under 2023 federal law. This analysis excludes any venue rule changes that took effect in 2024.",
+    "hashtags": ["2023VenueSelection", "HistoricalLegalStrategy", "LandlordTenantDisputes", "VersionSpecificAnalysis", "LegalHistory"],
+    "metadata": {
+      "confidence_level": "medium",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "strategic_details"
+    },
+    "relationships": {
+      "depends_on": [],
+      "related_to": ["TOPIC-FLORIDA_STATUTES-AGGREGATION-2023_COMPREHENSIVE_LIST"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "medium",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": false,
+      "version_compliance_verified": true,
+      "completeness_score": 0.9,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-PROCEDURAL_TIMING-2023_STATUTE_OF_LIMITATIONS-HISTORICAL_BARRIERS",
+    "content": "Under 2023 Florida law, § 95.11 dictated time limits for civil actions. For breach of written leases, the 2023 limit was five years; for oral leases or certain statutory violations, shorter periods applied (e.g., four years for negligence under 2023 law). Notice periods within 2023 statutes like §83.49 (security deposits) acted as procedural prerequisites. This analysis reflects 2023 law only - any statute of limitations changes effective in 2024 are excluded. Legal practitioners using this data for 2023 cases should verify these timelines against 2023 sources, not current law.",
+    "hashtags": ["2023StatuteOfLimitations", "HistoricalFilingDeadlines", "2023ProceduralLaw", "VersionSpecificTiming", "LegalHistory"],
+    "metadata": {
+      "confidence_level": "medium",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "strategic_details"
+    },
+    "relationships": {
+      "depends_on": [],
+      "related_to": ["TOPIC-FLORIDA_STATUTES-AGGREGATION-2023_COMPREHENSIVE_LIST"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "medium",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": false,
+      "version_compliance_verified": true,
+      "completeness_score": 0.9,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  },
+  {
+    "block_id": "TOPIC-2023_COMPLIANCE-EXCLUSION_DOCUMENTATION-AUDIT_TRAIL",
+    "content": "MANDATORY EXCLUSION DOCUMENTATION: Every instance where 2024 statute amendments or updates are identified must be documented in detail. This creates an audit trail showing: (1) **What 2024 changes were found**: Specific amendments, updates, or new provisions effective 2024 or later. (2) **Source of 2024 information**: Where the post-2023 changes were discovered (legislative records, legal databases, etc.). (3) **Exclusion verification**: Confirmation that 2024 content was not included in the final dataset. (4) **2023 version used instead**: Documentation of the specific 2023 version that was included. (5) **Impact assessment**: Brief analysis of how excluding 2024 changes affects the completeness of the legal analysis. This documentation ensures transparency and allows users to understand exactly what post-2023 legal developments were excluded from their dataset.",
+    "hashtags": ["ExclusionDocumentation", "AuditTrail", "2024AmendmentTracking", "VersionControlCompliance", "DataTransparency"],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Gemini-Pro",
+      "thread_id": "CONV_THREAD_FL_STATUTES_2023_ONLY",
+      "creation_date": "2024-05-16T18:00:00Z",
+      "version_control_policy": "2023_statutes_only_strict_exclusion",
+      "extraction_round": "compliance"
+    },
+    "relationships": {
+      "depends_on": ["TOPIC-QUALITY_CONTROL-2023_VERIFICATION-AUDIT_PROCESS"],
+      "related_to": ["TOPIC-DATA_PROCESSING-2023_INPUT_VALIDATION-EXCLUSION_STRATEGY"],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "version_controlled_legal_analysis",
+      "domain": "2023_florida_statutes_landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2,
+      "temporal_restriction": "2023_only"
+    },
+    "validation": {
+      "facts_verified": true,
+      "version_compliance_verified": true,
+      "completeness_score": 1.0,
+      "last_updated": "2024-05-16T18:00:00Z",
+      "update_reason": "enhanced_for_2023_version_control_requirements"
+    }
+  }
+]

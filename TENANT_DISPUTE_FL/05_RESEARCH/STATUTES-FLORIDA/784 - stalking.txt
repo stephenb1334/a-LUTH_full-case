@@ -1,0 +1,37 @@
+verify this list of claims related to state statutues in florida. , respond with a corrected version: 
+
+**Chapter 83, Florida Statutes: Landlord and Tenant**. This chapter is the primary source of law governing landlord-tenant relationships in Florida. It's divided into different parts, with Part II specifically addressing residential tenancies. Key sections within Chapter 83 include:
+
+*   **§83.49: Deposit money or advance rent; duty of landlord and tenant**: This section outlines the responsibilities of landlords regarding security deposits, including how they must be held, when and how claims against them can be made, and deadlines for returning them to tenants. It is relevant in this case because the landlord allegedly failed to provide the required itemized list of damages within 30 days of the l....Specifically,  §83.49(2) requires landlords to disclose ... §83.49(3)(a) details the requirement for a timely, ...
+*   **§83.51: Landlord's obligation to maintain premises**: This statute specifies the landlord's duty to maintain the property in a safe and habitable condition, complying with building, ...
+*   **§83.67: Prohibited practices**: This statute lists actions that are prohibited for landlords, including converting tenant property for personal use or failing to notify tenant...
+
+**Chapter 715, Florida Statutes: Property Generally**. This chapter addresses various aspects of property rights and responsibilities. Relevant sections include:
+
+*   **§715.104: Notification of former tenant of personal property left on premises**: This section outlines the procedure landlords must follow when a tenant leaves personal property behind, requiring written notice to the tenant that the property is considered abandoned and will be disposed of if not claimed. It is relevant because the landlord allegedly failed to provide this notice and unlawfully retained the tenant's personal belongings.
+*   **§715.109: Liability of the landlord**: This section specifies the penalties for landlords who fail to comply with the requirements for handling personal property, making them liable for actual damages or three months' rent, whichever is greater, plus the costs of the action.
+
+**Chapter 784, Florida Statutes: Assault and Battery; Stalking**
+
+*   **§784.048: Stalking; definitions; penalties**: This statute defines and prohibits stalking, including engaging in a course of conduct that causes substantial emotional distress and ser...
+**Chapter 768, Florida Statutes: Negligence and Tort Actions**: This chapter can be invoked if a tenant ...
+
+**Chapter 454, Florida Statutes: Attorneys**
+
+*   **§454.23:** This statute may be relevant if the landlord, who is also an attorney, misrepresented his legal status.
+
+**Chapter 605, Florida Statutes: Florida Revised Limited Liability Company Act**
+
+*   **§605.0902:** This statute requires foreign entities conducting business in Florida to r...
+
+
+
+**Other potentially relevant chapters:**
+
+*   **Chapter 831, Florida Statutes: Forgery and Counterfeiting**: Might be referenced if there are disputes over the authenticity of lease agreements or other documents.
+*   **Chapter 832, Florida Statutes: Fraudulent Practices**: Can be relevant if there are allegations of fraud in the rental agreement or related transactions.
+*   **Chapter 82, Florida Statutes**: This chapter deals with Conveyances of Land and Declarations of Trust, and it can be relevant in cases involving property ownership, title issues, or disputes over the validity of lease agreements.
+* **Chapter 83, Part I, Florida Statutes:** Although Part II of Chapter 83 is dedicated to residential tenancies, Part I covers Nonresidential Tenancies and might be relevant in disputes involving commercial properties or mixed-use buildings.
+*   **Chapter 83, Part III, Florida Statutes**: This part addresses Self-Service Storage Space and may be relevant in disputes over storage units or personal property left in rental units.
+*   **Chapter 83, Part IV, Florida Statutes**: This part deals with General Provisions and includes sections on Retaliatory Conduct (83.64) and Prohibited Practices (83.67).
+*  **Chapter 837, Florida Statutes**: Perjury might be invoked if there are disputes involving false statements made under oath in court proceedings related to landlord-tenant disputes.	

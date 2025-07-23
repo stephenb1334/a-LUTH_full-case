@@ -1,0 +1,162 @@
+The 2024 Florida Statutes
+
+Title VI
+CIVIL PRACTICE AND PROCEDURE
+Chapter 83
+LANDLORD AND TENANT
+
+
+PART I
+NONRESIDENTIAL TENANCIES
+(ss. 83.001-83.251)
+
+PART II
+RESIDENTIAL TENANCIES
+(ss. 83.40-83.683)
+
+
+
+
+-----
+
+
+BELOW IS:
+
+PART I
+NONRESIDENTIAL TENANCIES
+(ss. 83.001-83.251)
+
+-----
+
+TABLE OF CONTENTS: 
+
+
+83.001 Application.
+83.01 Unwritten lease tenancy at will; duration.
+83.02 Certain written leases tenancies at will; duration.
+83.03 Termination of tenancy at will; length of notice.
+83.04 Holding over after term, tenancy at sufferance, etc.
+83.05 Right of possession upon default in rent; determination of right of possession in action or surrender or abandonment of premises.
+83.06 Right to demand double rent upon refusal to deliver possession.
+83.07 Action for use and occupation.
+83.08 Landlord’s lien for rent.
+83.09 Exemptions from liens for rent.
+83.10 Landlord’s lien for advances.
+83.11 Distress for rent; complaint.
+83.12 Distress writ.
+83.13 Levy of writ.
+83.135 Dissolution of writ.
+83.14 Replevy of distrained property.
+83.15 Claims by third persons.
+83.18 Distress for rent; trial; verdict; judgment.
+83.19 Sale of property distrained.
+83.20 Causes for removal of tenants.
+83.201 Notice to landlord of failure to maintain or repair, rendering premises wholly untenantable; right to withhold rent.
+83.202 Waiver of right to proceed with eviction claim.
+83.21 Removal of tenant.
+83.22 Removal of tenant; service.
+83.231 Removal of tenant; judgment.
+83.232 Rent paid into registry of court.
+83.241 Removal of tenant; process.
+83.251 Removal of tenant; costs.
+83.001 Application.—This part applies to nonresidential tenancies and all tenancies not governed by part II of this chapter.
+History.—s. 1, ch. 73-330.
+
+
+-----
+
+
+
+83.01 Unwritten lease tenancy at will; duration.—Any lease of lands and tenements, or either, made shall be deemed and held to be a tenancy at will unless it shall be in writing signed by the lessor. Such tenancy shall be from year to year, or quarter to quarter, or month to month, or week to week, to be determined by the periods at which the rent is payable. If the rent is payable weekly, then the tenancy shall be from week to week; if payable monthly, then from month to month; if payable quarterly, then from quarter to quarter; if payable yearly, then from year to year.
+History.—ss. 1, 2, ch. 5441, 1905; RGS 3567, 3568; CGL 5431, 5432; s. 34, ch. 67-254.
+83.02 Certain written leases tenancies at will; duration.—Where any tenancy has been created by an instrument in writing from year to year, or quarter to quarter, or month to month, or week to week, to be determined by the periods at which the rent is payable, and the term of which tenancy is unlimited, the tenancy shall be a tenancy at will. If the rent is payable weekly, then the tenancy shall be from week to week; if payable monthly, then the tenancy shall be from month to month; if payable quarterly, then from quarter to quarter; if payable yearly, then from year to year.
+History.—s. 2, ch. 5441, 1905; RGS 3568; CGL 5432; s. 2, ch. 15057, 1931; s. 34, ch. 67-254.
+83.03 Termination of tenancy at will; length of notice.—A tenancy at will may be terminated by either party giving notice as follows:
+(1) Where the tenancy is from year to year, by giving not less than 3 months’ notice prior to the end of any annual period;
+(2) Where the tenancy is from quarter to quarter, by giving not less than 45 days’ notice prior to the end of any quarter;
+(3) Where the tenancy is from month to month, by giving not less than 15 days’ notice prior to the end of any monthly period; and
+(4) Where the tenancy is from week to week, by giving not less than 7 days’ notice prior to the end of any weekly period.
+History.—s. 3, ch. 5441, 1905; RGS 3569; CGL 5433; s. 34, ch. 67-254; s. 3, ch. 2003-5.
+83.04 Holding over after term, tenancy at sufferance, etc.—When any tenancy created by an instrument in writing, the term of which is limited, has expired and the tenant holds over in the possession of said premises without renewing the lease by some further instrument in writing then such holding over shall be construed to be a tenancy at sufferance. The mere payment or acceptance of rent shall not be construed to be a renewal of the term, but if the holding over be continued with the written consent of the lessor then the tenancy shall become a tenancy at will under the provisions of this law.
+History.—s. 4, ch. 5441, 1905; RGS 3570; CGL 5434; s. 3, ch. 15057, 1931; s. 34, ch. 67-254.
+83.05 Right of possession upon default in rent; determination of right of possession in action or surrender or abandonment of premises.—
+(1) If any person leasing or renting any land or premises other than a dwelling unit fails to pay the rent at the time it becomes due, the lessor has the right to obtain possession of the premises as provided by law.
+(2) The landlord shall recover possession of rented premises only:
+(a) In an action for possession under s. 83.20, or other civil action in which the issue of right of possession is determined;
+(b) When the tenant has surrendered possession of the rented premises to the landlord; or
+(c) When the tenant has abandoned the rented premises.
+(3) In the absence of actual knowledge of abandonment, it shall be presumed for purposes of paragraph (2)(c) that the tenant has abandoned the rented premises if:
+(a) The landlord reasonably believes that the tenant has been absent from the rented premises for a period of 30 consecutive days;
+(b) The rent is not current; and
+(c) A notice pursuant to s. 83.20(2) has been served and 10 days have elapsed since service of such notice.
+However, this presumption does not apply if the rent is current or the tenant has notified the landlord in writing of an intended absence.
+
+History.—s. 5, Nov. 21, 1828; RS 1750; GS 2226; RGS 3534; CGL 5398; s. 34, ch. 67-254; s. 1, ch. 83-151.
+83.06 Right to demand double rent upon refusal to deliver possession.—
+(1) When any tenant refuses to give up possession of the premises at the end of the tenant’s lease, the landlord, the landlord’s agent, attorney, or legal representatives, may demand of such tenant double the monthly rent, and may recover the same at the expiration of every month, or in the same proportion for a longer or shorter time by distress, in the manner pointed out hereinafter.
+(2) All contracts for rent, verbal or in writing, shall bear interest from the time the rent becomes due, any law, usage or custom to the contrary notwithstanding.
+History.—ss. 4, 6, Nov. 21, 1828; RS 1759; GS 2235; RGS 3554; CGL 5418; s. 34, ch. 67-254; s. 427, ch. 95-147.
+83.07 Action for use and occupation.—Any landlord, the landlord’s heirs, executors, administrators or assigns may recover reasonable damages for any house, lands, tenements, or hereditaments held or occupied by any person by the landlord’s permission in an action on the case for the use and occupation of the lands, tenements, or hereditaments when they are not held, occupied by or under agreement or demise by deed; and if on trial of any action, any demise or agreement (not being by deed) whereby a certain rent was reserved is given in evidence, the plaintiff shall not be dismissed but may make use thereof as an evidence of the quantum of damages to be recovered.
+History.—s. 7, Nov. 21, 1828; RS 1760; GS 2236; RGS 3555; CGL 5419; s. 34, ch. 67-254; s. 428, ch. 95-147.
+83.08 Landlord’s lien for rent.—Every person to whom rent may be due, the person’s heirs, executors, administrators or assigns, shall have a lien for such rent upon the property found upon or off the premises leased or rented, and in the possession of any person, as follows:
+(1) Upon agricultural products raised on the land leased or rented for the current year. This lien shall be superior to all other liens, though of older date.
+(2) Upon all other property of the lessee or his or her sublessee or assigns, usually kept on the premises. This lien shall be superior to any lien acquired subsequent to the bringing of the property on the premises leased.
+(3) Upon all other property of the defendant. This lien shall date from the levy of the distress warrant hereinafter provided.
+History.—ss. 1, 9, 10, ch. 3131, 1879; RS 1761; GS 2237; RGS 3556; CGL 5420; s. 34, ch. 67-254; s. 429, ch. 95-147.
+83.09 Exemptions from liens for rent.—No property of any tenant or lessee shall be exempt from distress and sale for rent, except beds, bedclothes and wearing apparel.
+History.—s. 6, Feb. 14, 1835; RS 1762; GS 2238; RGS 3557; CGL 5421; s. 34, ch. 67-254.
+83.10 Landlord’s lien for advances.—Landlords shall have a lien on the crop grown on rented land for advances made in money or other things of value, whether made directly by them or at their instance and requested by another person, or for which they have assumed a legal responsibility, at or before the time at which such advances were made, for the sustenance or well-being of the tenant or the tenant’s family, or for preparing the ground for cultivation, or for cultivating, gathering, saving, handling, or preparing the crop for market. They shall have a lien also upon each and every article advanced, and upon all property purchased with money advanced, or obtained, by barter or exchange for any articles advanced, for the aggregate value or price of all the property or articles so advanced. The liens upon the crop shall be of equal dignity with liens for rent, and upon the articles advanced shall be paramount to all other liens.
+History.—s. 2, ch. 3247, 1879; RS 1763; GS 2239; RGS 3558; CGL 5422; s. 34, ch. 67-254; s. 430, ch. 95-147.
+83.11 Distress for rent; complaint.—Any person to whom any rent or money for advances is due or the person’s agent or attorney may file an action in the court in the county where the land lies having jurisdiction of the amount claimed, and the court shall have jurisdiction to order the relief provided in this part. The complaint shall be verified and shall allege the name and relationship of the defendant to the plaintiff, how the obligation for rent arose, the amount or quality and value of the rent due for such land, or the advances, and whether payable in money, an agricultural product, or any other thing of value.
+History.—s. 2, ch. 3131, 1879; RS 1764; GS 2240; RGS 3559; CGL 5423; s. 34, ch. 67-254; s. 1, ch. 80-282; s. 431, ch. 95-147.
+83.12 Distress writ.—A distress writ shall be issued by a judge of the court which has jurisdiction of the amount claimed. The writ shall enjoin the defendant from damaging, disposing of, secreting, or removing any property liable to distress from the rented real property after the time of service of the writ until the sheriff levies on the property, the writ is vacated, or the court otherwise orders. A violation of the command of the writ may be punished as a contempt of court. If the defendant does not move for dissolution of the writ as provided in s. 83.135, the sheriff shall, pursuant to a further order of the court, levy on the property liable to distress forthwith after the time for answering the complaint has expired. Before the writ issues, the plaintiff or the plaintiff’s agent or attorney shall file a bond with surety to be approved by the clerk payable to defendant in at least double the sum demanded or, if property, in double the value of the property sought to be levied on, conditioned to pay all costs and damages which defendant sustains in consequence of plaintiff’s improperly suing out the distress.
+History.—s. 2, ch. 3131, 1879; RS 1765; GS 2241; s. 10, ch. 7838, 1919; RGS 3560; CGL 5424; s. 34, ch. 67-254; s. 2, ch. 80-282; s. 432, ch. 95-147.
+83.13 Levy of writ.—The sheriff shall execute the writ by service on defendant and, upon the order of the court, by levy on property distrainable for rent or advances, if found in the sheriff’s jurisdiction. If the property is in another jurisdiction, the party who had the writ issued shall deliver the writ to the sheriff in the other jurisdiction; and that sheriff shall execute the writ, upon order of the court, by levying on the property and delivering it to the sheriff of the county in which the action is pending, to be disposed of according to law, unless he or she is ordered by the court from which the writ emanated to hold the property and dispose of it in his or her jurisdiction according to law. If the plaintiff shows by a sworn statement that the defendant cannot be found within the state, the levy on the property suffices as service on the defendant.
+History.—s. 3, ch. 3721, 1887; RS 1765; GS 2241; RGS 3560; CGL 5424; s. 34, ch. 67-254; s. 3, ch. 80-282; s. 15, ch. 82-66; s. 8, ch. 83-255; s. 433, ch. 95-147; s. 5, ch. 2004-273.
+83.135 Dissolution of writ.—The defendant may move for dissolution of a distress writ at any time. The court shall hear the motion not later than the day on which the sheriff is authorized under the writ to levy on property liable under distress. If the plaintiff proves a prima facie case, or if the defendant defaults, the court shall order the sheriff to proceed with the levy.
+History.—s. 4, ch. 80-282.
+83.14 Replevy of distrained property.—The property distrained may be restored to the defendant at any time on the defendant’s giving bond with surety to the sheriff levying the writ. The bond shall be approved by such sheriff; made payable to plaintiff in double the value of the property levied on, with the value to be fixed by the sheriff; and conditioned for the forthcoming of the property restored to abide the final order of the court. It may be also restored to defendant on defendant’s giving bond with surety to be approved by the sheriff making the levy conditioned to pay the plaintiff the amount or value of the rental or advances which may be adjudicated to be payable to plaintiff. Judgment may be entered against the surety on such bonds in the manner and with like effect as provided in s. 76.31.
+History.—s. 3, ch. 3131, 1879; RS 1766; s. 1, ch. 4408, 1895; RGS 3561; CGL 5425; s. 34, ch. 67-254; s. 16, ch. 82-66; s. 9, ch. 83-255; s. 434, ch. 95-147.
+83.15 Claims by third persons.—Any third person claiming any property so distrained may interpose and prosecute his or her claim for it in the same manner as is provided in similar cases of claim to property levied on under execution.
+History.—s. 7, ch. 3131, 1879; RS 1770; GS 2246; RGS 3565; CGL 5429; s. 34, ch. 67-254; s. 17, ch. 82-66; s. 435, ch. 95-147.
+83.18 Distress for rent; trial; verdict; judgment.—If the verdict or the finding of the court is for plaintiff, judgment shall be rendered against defendant for the amount or value of the rental or advances, including interest and costs, and against the surety on defendant’s bond as provided for in s. 83.14, if the property has been restored to defendant, and execution shall issue. If the verdict or the finding of the court is for defendant, the action shall be dismissed and defendant shall have judgment and execution against plaintiff for costs.
+History.—RS 1768; s. 3, ch. 4408, 1895; GS 2244; RGS 3563; CGL 5427; s. 14, ch. 63-559; s. 34, ch. 67-254; s. 18, ch. 82-66.
+83.19 Sale of property distrained.—
+(1) If the judgment is for plaintiff and the property in whole or in part has not been replevied, it, or the part not restored to the defendant, shall be sold and the proceeds applied on the payment of the execution. If the rental or any part of it is due in agricultural products and the property distrained, or any part of it, is of a similar kind to that claimed in the complaint, the property up to a quantity to be adjudged of by the officer holding the execution (not exceeding that claimed), may be delivered to the plaintiff as a payment on the plaintiff’s execution at his or her request.
+(2) When any property levied on is sold, it shall be advertised two times, the first advertisement being at least 10 days before the sale. All property so levied on shall be sold at the location advertised in the notice of sheriff’s sale.
+(3) Before the sale if defendant appeals and obtains supersedeas and pays all costs accrued up to the time that the supersedeas becomes operative, the property shall be restored to defendant and there shall be no sale.
+(4) In case any property is sold to satisfy any rent payable in cotton or other agricultural product or thing, the officer shall settle with the plaintiff at the value of the rental at the time it became due.
+History.—ss. 5, 6, ch. 3131, 1879; RS 1769; GS 2245; RGS 3564; CGL 5428; s. 34, ch. 67-254; s. 19, ch. 82-66; s. 10, ch. 83-255; s. 436, ch. 95-147.
+83.20 Causes for removal of tenants.—Any tenant or lessee at will or sufferance, or for part of the year, or for one or more years, of any houses, lands or tenements, and the assigns, under tenants or legal representatives of such tenant or lessee, may be removed from the premises in the manner hereinafter provided in the following cases:
+(1) Where such person holds over and continues in the possession of the demised premises, or any part thereof, after the expiration of the person’s time, without the permission of the person’s landlord.
+(2) Where such person holds over without permission as aforesaid, after any default in the payment of rent pursuant to the agreement under which the premises are held, and 3 days’ notice in writing requiring the payment of the rent or the possession of the premises has been served by the person entitled to the rent on the person owing the same. The service of the notice shall be by delivery of a true copy thereof, or, if the tenant is absent from the rented premises, by leaving a copy thereof at such place.
+(3) Where such person holds over without permission after failing to cure a material breach of the lease or oral agreement, other than nonpayment of rent, and when 15 days’ written notice requiring the cure of such breach or the possession of the premises has been served on the tenant. This subsection applies only when the lease is silent on the matter or when the tenancy is an oral one at will. The notice may give a longer time period for cure of the breach or surrender of the premises. In the absence of a lease provision prescribing the method for serving notices, service must be by mail, hand delivery, or, if the tenant is absent from the rental premises or the address designated by the lease, by posting.
+History.—s. 1, ch. 3248, 1881; RS 1751; GS 2227; RGS 3535; CGL 5399; s. 34, ch. 67-254; s. 20, ch. 77-104; s. 2, ch. 88-379; s. 1, ch. 93-70; s. 437, ch. 95-147.
+83.201 Notice to landlord of failure to maintain or repair, rendering premises wholly untenantable; right to withhold rent.—When the lease is silent on the procedure to be followed to effect repair or maintenance and the payment of rent relating thereto, yet affirmatively and expressly places the obligation for same upon the landlord, and the landlord has failed or refused to do so, rendering the leased premises wholly untenantable, the tenant may withhold rent after notice to the landlord. The tenant shall serve the landlord, in the manner prescribed by s. 83.20(3), with a written notice declaring the premises to be wholly untenantable, giving the landlord at least 20 days to make the specifically described repair or maintenance, and stating that the tenant will withhold the rent for the next rental period and thereafter until the repair or maintenance has been performed. The lease may provide for a longer period of time for repair or maintenance. Once the landlord has completed the repair or maintenance, the tenant shall pay the landlord the amounts of rent withheld. If the landlord does not complete the repair or maintenance in the allotted time, the parties may extend the time by written agreement or the tenant may abandon the premises, retain the amounts of rent withheld, terminate the lease, and avoid any liability for future rent or charges under the lease. This section is cumulative to other existing remedies, and this section does not prevent any tenant from exercising his or her other remedies.
+History.—s. 2, ch. 93-70; s. 438, ch. 95-147.
+83.202 Waiver of right to proceed with eviction claim.—The landlord’s acceptance of the full amount of rent past due, with knowledge of the tenant’s breach of the lease by nonpayment, shall be considered a waiver of the landlord’s right to proceed with an eviction claim for nonpayment of that rent. Acceptance of the rent includes conduct by the landlord concerning any tender of the rent by the tenant which is inconsistent with reasonably prompt return of the payment to the tenant.
+History.—s. 3, ch. 93-70.
+83.21 Removal of tenant.—The landlord, the landlord’s attorney or agent, applying for the removal of any tenant, shall file a complaint stating the facts which authorize the removal of the tenant, and describing the premises in the proper court of the county where the premises are situated and is entitled to the summary procedure provided in s. 51.011.
+History.—s. 2, ch. 3248, 1881; RS 1752; GS 2228; RGS 3536; CGL 5400; s. 1, ch. 61-318; s. 34, ch. 67-254; s. 439, ch. 95-147.
+83.22 Removal of tenant; service.—
+(1) After at least two attempts to obtain service as provided by law, if the defendant cannot be found in the county in which the action is pending and either the defendant has no usual place of abode in the county or there is no person 15 years of age or older residing at the defendant’s usual place of abode in the county, the sheriff shall serve the summons by attaching it to some part of the premises involved in the proceeding. The minimum time delay between the two attempts to obtain service shall be 6 hours.
+(2) If a landlord causes, or anticipates causing, a defendant to be served with a summons and complaint solely by attaching them to some conspicuous part of the premises involved in the proceeding, the landlord shall provide the clerk of the court with two additional copies of the complaint and two prestamped envelopes addressed to the defendant. One envelope shall be addressed to such address or location as has been designated by the tenant for receipt of notice in a written lease or other agreement or, if none has been designated, to the residence of the tenant, if known. The second envelope shall be addressed to the last known business address of the tenant. The clerk of the court shall immediately mail the copies of the summons and complaint by first-class mail, note the fact of mailing in the docket, and file a certificate in the court file of the fact and date of mailing. Service shall be effective on the date of posting or mailing, whichever occurs later; and at least 5 days from the date of service must have elapsed before a judgment for final removal of the defendant may be entered.
+History.—s. 2, ch. 3248, 1881; RS 1753; GS 2229; RGS 3537; CGL 5401; s. 1, ch. 22731, 1945; s. 34, ch. 67-254; s. 2, ch. 83-151; s. 3, ch. 84-339; s. 440, ch. 95-147.
+83.231 Removal of tenant; judgment.—If the issues are found for plaintiff, judgment shall be entered that plaintiff recover possession of the premises. If the plaintiff expressly and specifically sought money damages in the complaint, in addition to awarding possession of the premises to the plaintiff, the court shall also direct, in an amount which is within its jurisdictional limitations, the entry of a money judgment in favor of the plaintiff and against the defendant for the amount of money found due, owing, and unpaid by the defendant, with costs. However, no money judgment shall be entered unless service of process has been effected by personal service or, where authorized by law, by certified or registered mail, return receipt, or in any other manner prescribed by law or the rules of the court, and no money judgment may be entered except in compliance with the Florida Rules of Civil Procedure. Where otherwise authorized by law, the plaintiff in the judgment for possession and money damages may also be awarded attorney’s fees and costs. If the issues are found for defendant, judgment shall be entered dismissing the action.
+History.—s. 8, ch. 6463, 1913; RGS 3549; CGL 5413; s. 34, ch. 67-254; s. 1, ch. 87-195; s. 4, ch. 93-70; s. 441, ch. 95-147.
+Note.—Former s. 83.34.
+83.232 Rent paid into registry of court.—
+(1) In an action by the landlord which includes a claim for possession of real property, the tenant shall pay into the court registry the amount alleged in the complaint as unpaid, or if such amount is contested, such amount as is determined by the court, and any rent accruing during the pendency of the action, when due, unless the tenant has interposed the defense of payment or satisfaction of the rent in the amount the complaint alleges as unpaid. Unless the tenant disputes the amount of accrued rent, the tenant must pay the amount alleged in the complaint into the court registry on or before the date on which his or her answer to the claim for possession is due. If the tenant contests the amount of accrued rent, the tenant must pay the amount determined by the court into the court registry on the day that the court makes its determination. The court may, however, extend these time periods to allow for later payment, upon good cause shown. Even though the defense of payment or satisfaction has been asserted, the court, in its discretion, may order the tenant to pay into the court registry the rent that accrues during the pendency of the action, the time of accrual being as set forth in the lease. If the landlord is in actual danger of loss of the premises or other hardship resulting from the loss of rental income from the premises, the landlord may apply to the court for disbursement of all or part of the funds so held in the court registry.
+(2) If the tenant contests the amount of money to be placed into the court registry, any hearing regarding such dispute shall be limited to only the factual or legal issues concerning:
+(a) Whether the tenant has been properly credited by the landlord with any and all rental payments made; and
+(b) What properly constitutes rent under the provisions of the lease.
+(3) The court, on its own motion, shall notify the tenant of the requirement that rent be paid into the court registry by order, which shall be issued immediately upon filing of the tenant’s initial pleading, motion, or other paper.
+(4) The filing of a counterclaim for money damages does not relieve the tenant from depositing rent due into the registry of the court.
+(5) Failure of the tenant to pay the rent into the court registry pursuant to court order shall be deemed an absolute waiver of the tenant’s defenses. In such case, the landlord is entitled to an immediate default for possession without further notice or hearing thereon.
+History.—s. 5, ch. 93-70; s. 442, ch. 95-147.
+83.241 Removal of tenant; process.—After entry of judgment in favor of plaintiff the clerk shall issue a writ to the sheriff describing the premises and commanding the sheriff to put plaintiff in possession.
+History.—s. 9, ch. 6463, 1913; RGS 3550; CGL 5414; s. 34, ch. 67-254; s. 1, ch. 70-360; s. 5, ch. 94-170; s. 1371, ch. 95-147.
+Note.—Former s. 83.35.
+83.251 Removal of tenant; costs.—The prevailing party shall have judgment for costs and execution shall issue therefor.
+History.—s. 11, ch. 6463, 1913; RGS 3552; CGL 5416; s. 34, ch. 67-254.
+Note.—Former s. 83.37.

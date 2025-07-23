@@ -1,0 +1,448 @@
+{
+  "overarchingChangesAndImprovements": [
+    "Added new sub-claim C7-S6 under Realtor and Brokerage Liability to address the alleged omission/manipulation of Zillow listing data on 10/31/2023, implicating both Realtor (secondary) and Landlord (primary).",
+    "All other claims remain as previously structured, with no additional revisions. The newly added claim includes tagging syntax and cross-references to potential fraud and misrepresentation claims."
+  ],
+  "tableOfContents": {
+    "ROOT": {
+      "C1": {
+        "categoryTitle": "Florida Landlord-Tenant Statutory Violations",
+        "claims": [
+          {
+            "nodeID": "C1-S1",
+            "tag": "[Cat=FLLT;Sub=LandlordAddress]",
+            "title": "Failure to Disclose Proper Landlord/Address Information",
+            "summary": "The landlord did not supply a valid or stable address, violating Florida disclosure rules. This omission complicated communications and hampered the tenant’s ability to serve notices.",
+            "linksRel": "Overlaps deposit claims if notices were never delivered correctly."
+          },
+          {
+            "nodeID": "C1-S2",
+            "tag": "[Cat=FLLT;Sub=SecurityDeposit]",
+            "title": "Improper Handling of Security Deposit (Fla. Stat. § 83.49)",
+            "summary": "The landlord violated Florida’s deposit-handling rules by withholding funds without a proper itemized notice or timeline. Potential entitlement to full deposit return and sanctions.",
+            "linksRel": "Connects with C5-S1/C5-S2 for deeper deposit specifics."
+          },
+          {
+            "nodeID": "C1-S3",
+            "tag": "[Cat=FLLT;Sub=Disclosures]",
+            "title": "Noncompliance with Required Disclosures",
+            "summary": "Florida statutes demand certain landlord/agent disclosures (management, address, deposit info). The landlord failed to provide these, leaving the tenant uninformed about key rights.",
+            "linksRel": "Overlaps with C4-S2: Fraudulent Omission."
+          },
+          {
+            "nodeID": "C1-S4",
+            "tag": "[Cat=FLLT;Sub=RentCollection]",
+            "title": "Unclear or Improper Rent Collection Methods",
+            "summary": "Rent was funneled through an unregistered out-of-state entity (Amarlu), conflicting with standard Florida landlord-tenant procedures. This setup may have undermined tenant protections.",
+            "linksRel": "Cross-reference C2-S1 (Unregistered Foreign Entity)."
+          },
+          {
+            "nodeID": "C1-S5",
+            "tag": "[Cat=FLLT;Sub=AddressDisclosure83.50]",
+            "title": "Violation of Fla. Stat. § 83.50 – Landlord’s Address Disclosure",
+            "summary": "By giving an invalid or shifting address, the landlord breached the statutory requirement to provide a stable location for notices, hindering the tenant’s official communications.",
+            "linksRel": "Could tie to C4-S3 (Deceptive Mailing)."
+          },
+          {
+            "nodeID": "C1-S6",
+            "tag": "[Cat=FLLT;Sub=WaiverRights]",
+            "title": "Attempted Waiver/Circumvention of Tenant Statutory Rights (Fla. Stat. § 83.47)",
+            "summary": "The lease contained language contradicting mandatory tenant protections—language void under § 83.47. The landlord cannot override Florida’s core landlord-tenant statutes by contract.",
+            "linksRel": "See also new C12-S1 for invalid property waivers."
+          },
+          {
+            "nodeID": "C1-S7",
+            "tag": "[Cat=FLLT;Sub=PersonalPropLiability]",
+            "title": "Invalid “No Liability for Tenant’s Property” Clause",
+            "summary": "Provisions disclaiming liability for personal items are null if not initialed or if they conflict with Florida’s personal-property statutes. This attempt to waive the landlord’s duty is unenforceable.",
+            "linksRel": "Overlaps with the C12 claims on personal property retrieval."
+          }
+        ]
+      },
+      "C2": {
+        "categoryTitle": "Illegality and Foreign Entity Registration Claims",
+        "claims": [
+          {
+            "nodeID": "C2-S1",
+            "tag": "[Cat=ForeignEntity;Sub=605.0902]",
+            "title": "Violation of Fla. Stat. § 605.0902 (Unregistered Foreign Entity)",
+            "summary": "Amarlu Enterprises collected Florida rent without registering as a foreign LLC, undermining the lease’s validity and preventing the landlord from enforcing contract provisions.",
+            "linksRel": "Connects with rent funneling claims in C1-S4."
+          },
+          {
+            "nodeID": "C2-S2",
+            "tag": "[Cat=ForeignEntity;Sub=IllegalityLease]",
+            "title": "Unenforceability Due to Illegal Purpose/Execution",
+            "summary": "Because the landlord engaged in unauthorized business conduct, any contract grounded in such illegality can be void. Courts generally refuse to uphold agreements rooted in unlawful operations.",
+            "linksRel": "Ties to deposit claims, C1-S2, as landlord might lack standing."
+          },
+          {
+            "nodeID": "C2-S3",
+            "tag": "[Cat=ForeignEntity;Sub=Concealment]",
+            "title": "Concealment of Entity Identity",
+            "summary": "The landlord never revealed Amarlu Enterprises in the lease, depriving the tenant of knowledge about the true payee. This concealment may be interpreted as fraud or material omission.",
+            "linksRel": "Overlaps with C4-S1 (Fraud in the Inducement)."
+          },
+          {
+            "nodeID": "C2-S4",
+            "tag": "[Cat=ForeignEntity;Sub=TaxEvasion]",
+            "title": "Potential Tax Evasion / Failure to Properly Report Income",
+            "summary": "By routing rental income through an unregistered out-of-state entity, the landlord sidestepped standard tax-reporting obligations. This could be deliberate tax evasion or other state/federal violations.",
+            "linksRel": "Possibly relevant to Professional Misconduct (C10-S2)."
+          }
+        ]
+      },
+      "C3": {
+        "categoryTitle": "Contractual and Lease Enforcement Claims",
+        "claims": [
+          {
+            "nodeID": "C3-S1",
+            "tag": "[Cat=Contract;Sub=BreachOfLease]",
+            "title": "Breach of Lease / Breach of Contract",
+            "summary": "Landlord failed to uphold promises in the written agreement (repairs, deposit returns), defeating the tenant’s justified expectations. This breach undermines the lease’s integrity.",
+            "linksRel": "See C1-S2 for deposit; C6-S2 for maintenance failings."
+          },
+          {
+            "nodeID": "C3-S2",
+            "tag": "[Cat=Contract;Sub=GoodFaith]",
+            "title": "Breach of Implied Covenant of Good Faith and Fair Dealing",
+            "summary": "The landlord’s manipulative acts (incorrect address, ignoring communications) violate the fundamental duty to deal fairly. Courts often treat these tactics as a breach of the implied covenant.",
+            "linksRel": "Overlaps with harassment claims in C9."
+          },
+          {
+            "nodeID": "C3-S3",
+            "tag": "[Cat=Contract;Sub=FailureOfConsideration]",
+            "title": "Failure of Consideration / Mutual Mistake",
+            "summary": "Key facts—like the undisclosed foreign entity—suggest no true ‘meeting of minds.’ The contract may fail for lack of valid consideration or fundamental error.",
+            "linksRel": "Potential synergy with C2-S2 (Illegality)."
+          },
+          {
+            "nodeID": "C3-S4",
+            "tag": "[Cat=Contract;Sub=WarrantyHabitability]",
+            "title": "Breach of Warranty of Habitability / Quiet Enjoyment",
+            "summary": "Essential maintenance and security failures left the property partially uninhabitable, violating Florida’s implied warranties. The tenant’s peaceful occupation was compromised.",
+            "linksRel": "Links to C6-S1 (negligent security)."
+          },
+          {
+            "nodeID": "C3-S5",
+            "tag": "[Cat=Contract;Sub=NegligentPrep]",
+            "title": "Lease Preparation Negligence (Address-Fields Error)",
+            "summary": "The landlord/agent drafted a lease with erroneous addresses/ZIP codes, causing confusion about where notices should be sent. This negligence fueled deposit and maintenance disputes.",
+            "linksRel": "Ties to C4-S3 (Deceptive Mailing)."
+          },
+          {
+            "nodeID": "C3-S6",
+            "tag": "[Cat=Contract;Sub=EarlyTermFee]",
+            "title": "Early Termination Fee Clause – Potential Exceeding of 2 Months’ Rent",
+            "summary": "A $9,000 termination fee may exceed Florida’s legal limit of two months’ rent. Courts can deem such an excessive fee penalty unenforceable.",
+            "linksRel": "Overlaps deposit issues if landlord tries to claim deposit for that fee."
+          },
+          {
+            "nodeID": "C3-S7",
+            "tag": "[Cat=Contract;Sub=InvalidWaivers]",
+            "title": "Invalid or Void Provisions Attempting to Waive Statutory Protections",
+            "summary": "Provisions disclaiming deposit obligations or personal-property duties contravene Florida law. Such clauses are void and cannot bypass statutory notice or disclosure requirements.",
+            "linksRel": "Overlaps with C12 (invalid lease provisions)."
+          }
+        ]
+      },
+      "C4": {
+        "categoryTitle": "Fraud, Misrepresentation, and Deceptive Practices",
+        "claims": [
+          {
+            "nodeID": "C4-S1",
+            "tag": "[Cat=Fraud;Sub=Inducement]",
+            "title": "Fraud in the Inducement",
+            "summary": "The landlord induced the tenant into signing by misrepresenting essential facts (e.g., deposit handling, who collects rent). If proven intentional, it invalidates the contract from inception.",
+            "linksRel": "Overlaps with C2-S3 (unregistered entity), C3-S3 (failure of consideration)."
+          },
+          {
+            "nodeID": "C4-S2",
+            "tag": "[Cat=Fraud;Sub=Omission]",
+            "title": "Fraudulent Concealment or Omission",
+            "summary": "Key facts about Amarlu Enterprises and deposit location were withheld. This prevented the tenant from making an informed decision about the lease’s legality.",
+            "linksRel": "May link with deposit issues (C5-S1) or foreign-entity claims (C2-S1)."
+          },
+          {
+            "nodeID": "C4-S3",
+            "tag": "[Cat=Fraud;Sub=MailingDeception]",
+            "title": "Deceptive Mailing/Address Practices",
+            "summary": "Using incorrect ZIP codes, P.O. Boxes, or inconsistent addresses obstructed the tenant’s official dispute processes. This tactic evidences an intent to confuse or delay the tenant’s rights.",
+            "linksRel": "Ties to C3-S5 (lease drafting negligence)."
+          },
+          {
+            "nodeID": "C4-S4",
+            "tag": "[Cat=Fraud;Sub=FDUTPA]",
+            "title": "Florida Deceptive and Unfair Trade Practices Act (FDUTPA) (Potential)",
+            "summary": "Misrepresentations, undisclosed entities, and deposit mismanagement could rise to the level of FDUTPA violations. The tenant may seek damages, attorney’s fees, and injunctive relief.",
+            "linksRel": "Overlaps with multiple counts of fraudulent omission."
+          },
+          {
+            "nodeID": "C4-S5",
+            "tag": "[Cat=Fraud;Sub=UPLOrMisrepAttorney]",
+            "title": "Unauthorized Practice of Law / Misrepresentation of Attorney Status",
+            "summary": "The landlord used an email implying Florida legal expertise but lacks a Florida license. This misrepresentation may have been used to intimidate or mislead the tenant.",
+            "linksRel": "See also C10-S1 (Professional Misconduct)."
+          },
+          {
+            "nodeID": "C4-S6",
+            "tag": "[Cat=Fraud;Sub=ForcedPhoneCalls]",
+            "title": "Misrepresentation that Phone Calls Were Legally Required",
+            "summary": "The landlord claimed an amicable resolution mandated phone discussions, though no such requirement exists. This undermined the tenant’s preference for certified-mail communication.",
+            "linksRel": "Ties to harassment/emotional-distress claims in C9-S1."
+          }
+        ]
+      },
+      "C5": {
+        "categoryTitle": "Security Deposit and Personal Property Claims",
+        "claims": [
+          {
+            "nodeID": "C5-S1",
+            "tag": "[Cat=Deposit;Sub=83.49Violation]",
+            "title": "Violation of Deposit Statute (Fla. Stat. § 83.49)",
+            "summary": "Landlord flouted deposit statutes by missing deadlines and sending incomplete notices. This alone may entitle the tenant to a full deposit refund, plus potential damages.",
+            "linksRel": "Overlaps C1-S2 (improper handling)."
+          },
+          {
+            "nodeID": "C5-S2",
+            "tag": "[Cat=Deposit;Sub=BadFaithRetention]",
+            "title": "Wrongful or Bad-Faith Retention of Deposit",
+            "summary": "Without evidence or an itemized breakdown, the landlord withheld the entire deposit, indicating bad faith. Under Florida law, bad-faith actions can lead to treble damages.",
+            "linksRel": "May merge with C5-S3 if retention equates to conversion."
+          },
+          {
+            "nodeID": "C5-S3",
+            "tag": "[Cat=Deposit;Sub=ConversionOrCivilTheft]",
+            "title": "Conversion / Civil Theft (Fla. Stat. § 772.11)",
+            "summary": "Keeping the deposit beyond allowable deductions or refusing to correct the situation could be conversion or civil theft. Treble damages and fees may apply if intentional.",
+            "linksRel": "Ties to C4-S1 (fraud in the inducement)."
+          },
+          {
+            "nodeID": "C5-S4",
+            "tag": "[Cat=PersonalProp;Sub=715.104Violation]",
+            "title": "Failure to Comply with Fla. Stat. § 715.104 (Disposition of Abandoned Property)",
+            "summary": "The landlord never provided required notice about belongings left behind post-lease. By ignoring the statute, the landlord forfeited defenses and faces liability.",
+            "linksRel": "Overlaps with C12-S2 (obstructing retrieval)."
+          },
+          {
+            "nodeID": "C5-S5",
+            "tag": "[Cat=PersonalProp;Sub=Interference]",
+            "title": "Interference with Tenant’s Right to Retrieve Personal Property",
+            "summary": "Despite repeated tenant attempts, the landlord obstructed retrieval efforts. Such interference violates Florida property laws requiring prompt access to leftover items.",
+            "linksRel": "Overlaps with C5-S3 (conversion) and C12-S3."
+          },
+          {
+            "nodeID": "C5-S6",
+            "tag": "[Cat=PersonalProp;Sub=ForcedAbandonment]",
+            "title": "Willful Communication Cutoff & Attempted Forced Abandonment",
+            "summary": "By ordering the realtor to cease contact, the landlord engineered a scenario where items would appear abandoned. Florida courts disfavor such manipulative tactics.",
+            "linksRel": "Overlaps with emotional distress (C9-S4)."
+          }
+        ]
+      },
+      "C6": {
+        "categoryTitle": "Negligence or Premises Liability",
+        "claims": [
+          {
+            "nodeID": "C6-S1",
+            "tag": "[Cat=Negligence;Sub=Security]",
+            "title": "Negligent Security (Home Invasion Incident)",
+            "summary": "Broken gates and nonfunctional motion lights facilitated a violent break-in, causing harm. The landlord’s neglect of essential security measures raises liability concerns.",
+            "linksRel": "Ties to C9-S3 if emotional distress is claimed post-invasion."
+          },
+          {
+            "nodeID": "C6-S2",
+            "tag": "[Cat=Negligence;Sub=Maintenance]",
+            "title": "General Negligent Maintenance",
+            "summary": "Ignoring standard upkeep—like a clogged sink for weeks—violates the landlord’s duty of care. This neglect caused direct harm and inconvenience to the tenant.",
+            "linksRel": "Overlaps with C3-S4 (habitability breach)."
+          },
+          {
+            "nodeID": "C6-S3",
+            "tag": "[Cat=Negligence;Sub=PerSe]",
+            "title": "Negligence Per Se (Violation of Building Codes)",
+            "summary": "Failing to meet local building codes for locks and lighting may constitute negligence per se. Such code breaches directly establish liability under Florida law.",
+            "linksRel": "Ties to C1-S1 or C1-S5 on addresses and structural compliance."
+          }
+        ]
+      },
+      "C7": {
+        "categoryTitle": "Realtor and Brokerage Liability",
+        "claims": [
+          {
+            "nodeID": "C7-S1",
+            "tag": "[Cat=Realtor;Sub=NegligentMisrep]",
+            "title": "Breach of Professional Duty / Negligent Misrepresentation",
+            "summary": "Realtor Steinberger provided unwarranted claims about property damage or deposit validity, exceeding his licensed scope. This misled the tenant and may breach fiduciary duties.",
+            "linksRel": "Overlaps with C4-S2 or C4-S4 if deemed deceptive."
+          },
+          {
+            "nodeID": "C7-S2",
+            "tag": "[Cat=Realtor;Sub=ConflictInterest]",
+            "title": "Conflict of Interest and Unfair Dealing",
+            "summary": "Steinberger’s close ties to the landlord compromised his neutrality. This conflict may have led him to dismiss the tenant’s valid concerns, aiding landlord misconduct.",
+            "linksRel": "Overlaps with deposit or eviction disputes if realtor abetted wrongdoing."
+          },
+          {
+            "nodeID": "C7-S3",
+            "tag": "[Cat=Realtor;Sub=BrokerageSupervision]",
+            "title": "Lack of Adequate Supervision by Brokerage",
+            "summary": "Compass Florida LLC may share liability if it failed to oversee Steinberger’s actions—like giving legal or arborist-level opinions. Brokers must ensure lawful agent behavior.",
+            "linksRel": "Potential aggregator with C7-S1, S2, S4, S5."
+          },
+          {
+            "nodeID": "C7-S4",
+            "tag": "[Cat=Realtor;Sub=PTSDDisclosure]",
+            "title": "Failure to Communicate Tenant’s Mental Health Information (PTSD)",
+            "summary": "Despite knowing the tenant’s PTSD, Steinberger did not convey urgent safety or emotional concerns to the landlord. This omission worsened the tenant’s vulnerability post-invasion.",
+            "linksRel": "Overlaps with C9’s emotional-distress claims."
+          },
+          {
+            "nodeID": "C7-S5",
+            "tag": "[Cat=Realtor;Sub=NARViolation]",
+            "title": "Potential Code of Ethics Violation (Offering “Professional Opinions” Outside Expertise)",
+            "summary": "Steinberger acted beyond a realtor’s scope, posing as an inspector or legal advisor. This breaches the NAR Code of Ethics, requiring professionals to stay within expertise.",
+            "linksRel": "Ties to professional duty claims in C7-S1."
+          },
+          {
+            "nodeID": "C7-S6",
+            "tag": "[Cat=Realtor;Sub=ZillowOmission]",
+            "title": "Omission/Manipulation of Zillow Listing Data",
+            "summary": "On 10/31/2023, the property was removed from Zillow while a new lease at $4,500/month actually commenced the same day. Realtor Steinberger (secondary) and Landlord Rollins (primary) failed to update the listing or reflect the actual rent. This alleged omission supports claims of bad faith, as it obscured the paper trail and furthered a premeditated plan to hide the true rental terms.",
+            "linksRel": "Overlaps with C4-S2 (fraudulent concealment) and supports broader bad-faith allegations."
+          }
+        ]
+      },
+      "C8": {
+        "categoryTitle": "Additional or Overarching Theories and Defenses",
+        "claims": [
+          {
+            "nodeID": "C8-S1",
+            "tag": "[Cat=Defenses;Sub=UnjustEnrichment]",
+            "title": "Unjust Enrichment",
+            "summary": "The landlord unjustly profited from withheld deposits and possibly leftover property. Courts may order restitution to prevent such inequitable gains.",
+            "linksRel": "Connects with deposit retention in C5-S2 or conversion in C5-S3."
+          },
+          {
+            "nodeID": "C8-S2",
+            "tag": "[Cat=Defenses;Sub=OffsetSetoff]",
+            "title": "Offset / Setoff Against Landlord Claims",
+            "summary": "If the landlord claims damages, the tenant can counter with deposit mishandling or unreturned property. Ensures a balanced resolution of mutual debts.",
+            "linksRel": "Ties to overall deposit claims or any landlord suit for rent arrears."
+          },
+          {
+            "nodeID": "C8-S3",
+            "tag": "[Cat=Defenses;Sub=DecJudgmentVoidLease]",
+            "title": "Declaratory Judgment (Lease Void / Unenforceable)",
+            "summary": "Given unregistered entities and illegal disclaimers, the tenant seeks a court ruling to void the lease. This clarifies that the landlord cannot selectively enforce illicit terms.",
+            "linksRel": "Overlaps with C2-S2 (Illegality)."
+          },
+          {
+            "nodeID": "C8-S4",
+            "tag": "[Cat=Defenses;Sub=AttnyFees]",
+            "title": "Attorney’s Fees & Costs",
+            "summary": "Statutes (e.g., Fla. Stat. § 83.48) or lease clauses may shift fees to the prevailing party. If the tenant wins, the landlord could be liable for all litigation costs.",
+            "linksRel": "Potential across all categories if landlord violations are proven."
+          }
+        ]
+      },
+      "C9": {
+        "categoryTitle": "Harassment and Emotional Distress Claims",
+        "claims": [
+          {
+            "nodeID": "C9-S1",
+            "tag": "[Cat=Emotional;Sub=Harassment]",
+            "title": "Harassment / Repeated Communications Causing Emotional Distress",
+            "summary": "Despite a request for written-only contact, the landlord bombarded the tenant with calls/texts, exacerbating anxiety/PTSD. Such persistent unwanted contact can constitute harassment.",
+            "linksRel": "Overlaps with unethical phone-call demands in C4-S6."
+          },
+          {
+            "nodeID": "C9-S2",
+            "tag": "[Cat=Emotional;Sub=InterfereProp]",
+            "title": "Emotional Distress from Interference with Personal Property",
+            "summary": "The landlord’s refusal to allow retrieval and possible conversion of items caused stress and worry. The tenant’s mental health deteriorated under these conditions.",
+            "linksRel": "Ties to C5-S5 or C12-S2 re. obstructed retrieval."
+          },
+          {
+            "nodeID": "C9-S3",
+            "tag": "[Cat=Emotional;Sub=InactionAfterHomeInvasion]",
+            "title": "Emotional Distress for Landlord’s Inaction Post–Home Invasion",
+            "summary": "After a violent break-in, the landlord failed to fix gates/lights, heightening the tenant’s trauma. This callous disregard inflicted lasting emotional harm.",
+            "linksRel": "Overlaps with C6-S1 (negligent security)."
+          },
+          {
+            "nodeID": "C9-S4",
+            "tag": "[Cat=Emotional;Sub=RentalTruckObstruction]",
+            "title": "Additional Financial & Emotional Harm from Wasted Rental Truck & Obstructed Plans",
+            "summary": "When the tenant rented a truck to collect belongings, the landlord abruptly cut communication, causing wasted fees and emotional turmoil. This willful act amplified distress.",
+            "linksRel": "Connects to C5-S6 forced abandonment or new C12-S2."
+          }
+        ]
+      },
+      "C10": {
+        "categoryTitle": "Professional Misconduct & Bar Violations",
+        "claims": [
+          {
+            "nodeID": "C10-S1",
+            "tag": "[Cat=Ethics;Sub=Rule4-8.4Viol]",
+            "title": "Potential Violations of Professional Rules (Rule 4-8.4)",
+            "summary": "If the landlord is an out-of-state attorney subject to Florida ethics, his misleading acts may violate Rule 4-8.4(c) or (d). Bar disciplinary action could follow.",
+            "linksRel": "Merges with misrep-of-attorney claims in C4-S5."
+          },
+          {
+            "nodeID": "C10-S2",
+            "tag": "[Cat=Ethics;Sub=FraudulentLeaseOrTax]",
+            "title": "Ethical Misconduct in Structuring Fraudulent Lease or Tax Avoidance",
+            "summary": "By orchestrating unregistered rent collection, the landlord may be evading taxes or concealing income. An attorney’s involvement in such schemes violates ethical standards.",
+            "linksRel": "Ties to C2-S4 (unregistered entity & tax evasion)."
+          }
+        ]
+      },
+      "C11": {
+        "categoryTitle": "Personal Injury & Loss of Consortium",
+        "claims": [
+          {
+            "nodeID": "C11-S1",
+            "tag": "[Cat=LossConsortium;Sub=MarriageBreakdown]",
+            "title": "Loss of Consortium by Stephen (Marriage Breakdown)",
+            "summary": "The landlord’s negligence (failing to secure the property) allegedly caused marital strife, ultimately destroying the relationship. Damages reflect the emotional toll of unsafe conditions.",
+            "linksRel": "Overlaps with C9 (emotional distress)."
+          },
+          {
+            "nodeID": "C11-S2",
+            "tag": "[Cat=LossConsortium;Sub=PTSDDivorce]",
+            "title": "Loss of Consortium – PTSD-Induced Marital Dissolution",
+            "summary": "After the home invasion, Stephen’s PTSD worsened, leading to a July 2024 divorce. The tenant blames the landlord’s inaction for exacerbating mental health and ending the marriage.",
+            "linksRel": "Cross-references C6-S1 (Negligent Security), C9-S3 (Emotional Distress)."
+          }
+        ]
+      },
+      "C12": {
+        "categoryTitle": "Invalid Lease Provisions re. Personal Property Access, Unlawful Obstruction, and Conversion",
+        "claims": [
+          {
+            "nodeID": "C12-S1",
+            "tag": "[Cat=InvalidLease;Sub=WaiverOfCh715]",
+            "title": "Invalid Clause Purporting to Waive Statutory Duties (Fla. Stat. § 83.47)",
+            "summary": "The lease’s disclaimers of liability for leftover tenant property conflict with chapter 715. Florida law automatically voids attempts to waive these statutory obligations.",
+            "linksRel": "Overlaps with C1-S6 (circumventing tenant rights), plus C5-S4 (property notice)."
+          },
+          {
+            "nodeID": "C12-S2",
+            "tag": "[Cat=InvalidLease;Sub=ObstructionOfRetrieval]",
+            "title": "Unlawful Obstruction of Retrieval (Communication Cutoff)",
+            "summary": "The landlord’s directive to end communication exactly when the tenant tried to pick up belongings shows deliberate obstruction. Florida law mandates a reasonable chance for retrieval.",
+            "linksRel": "Ties to C5-S5 or C5-S6, forced abandonment, plus harassment claims C9-S4."
+          },
+          {
+            "nodeID": "C12-S3",
+            "tag": "[Cat=InvalidLease;Sub=ConversionPersonalProp]",
+            "title": "Conversion for Landlord’s Own Use (Weber Grill & Other Items)",
+            "summary": "By retaining and marketing the tenant’s personal items for new renters, the landlord wrongfully exercised control. This may warrant liability for the property’s value and damages.",
+            "linksRel": "Overlaps with C5-S3 (conversion/civil theft)."
+          }
+        ]
+      }
+    }
+  }
+}

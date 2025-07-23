@@ -1,0 +1,489 @@
+X-GM-THRID: 1813287251271199145
+X-Gmail-Labels: Archived,Important,Opened,Category Personal
+Delivered-To: stephen.boerner@gmail.com
+Received: by 2002:a05:7301:1f0b:b0:144:67f9:8ed7 with SMTP id or11csp1174038dyb;
+        Fri, 18 Oct 2024 14:10:14 -0700 (PDT)
+X-Received: by 2002:a05:6a20:1592:b0:1d4:e40b:3de6 with SMTP id adf61e73a8af0-1d91c80c3bamr12937642637.16.1729285814215;
+        Fri, 18 Oct 2024 14:10:14 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1729285814; cv=none;
+        d=google.com; s=arc-20240605;
+        b=PGsc5VCj43C1RBnQ4+tZ7/9x3pZBF51b5wxcgKhT/K9yCgWhwsC2EY5FctjAP6Npj8
+         knnWoQUxxx2Inyr7Po6v6tcu/u7KL0Nx+ceXmtq8XsHWuMq23kz2dqAWRSNH3fSLAeCu
+         C+eb3hLZA1A3RTzYFLoiSn1Hdna4bqcqzx3g+0whIBbhhfIKo8wqfLGFieicMRBcYpjk
+         aKVRXAA6M4wA6wPq0ka80sMQoTQJFg+oZNqeebLJLWITVnoxp+zK4R//CJsA6ly93x82
+         yugIyp4rOlO1RQddiVqeSkUDCllxP5OMnz7B5FoEv6vdtx9Mu9QxjkypNCSMYrs/AE5k
+         aDhQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :dkim-signature;
+        bh=JlHApZU39Z2kOTVLnywN0sgwjaUBKBMrkWKWhRCegqk=;
+        fh=LwHXaLX5lYrbyTAQp7Ekyw/nfHujNo2y+p8QsU4pc6s=;
+        b=Jws53GB7aUyJQYVIi+A3Wu/U1KoHKOklrJmzBsIcG869VbsTC1zXJvE7aW9+yn+/Vq
+         Oz+0KtomEUpuEiv2s3jPFPk/VrtESsWVxZZdFq1bGe+xM756JHcwi0kw03d4vqba++56
+         /FJ9XW35FT6EHvWzH31BEsiLzPM+KOjkkX1w1ba/EnlWwvlNpRODYh/KxfMrA5HL8Kfo
+         9hI1+C16GNSKq9wIXHht7nBKH/mb+EMh/pYP5EY5N8golki+35HsD0mzMMbrtoADN6GL
+         ZTC9E5gLDcoof9D8SDQiirWIfsI94UJLqdpik73tOHlB8X4HvUvQ3FtEXwV7jgSYrUFU
+         gdkA==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@compass.com header.s=google header.b=bddc2arv;
+       spf=pass (google.com: domain of zach.steinberger@compass.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=zach.steinberger@compass.com;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=compass.com;
+       dara=pass header.i=@gmail.com
+Return-Path: <zach.steinberger@compass.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id 41be03b00d2f7-7eacb8534a1sor1177153a12.1.2024.10.18.14.10.14
+        for <stephen.boerner@gmail.com>
+        (Google Transport Security);
+        Fri, 18 Oct 2024 14:10:14 -0700 (PDT)
+Received-SPF: pass (google.com: domain of zach.steinberger@compass.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@compass.com header.s=google header.b=bddc2arv;
+       spf=pass (google.com: domain of zach.steinberger@compass.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=zach.steinberger@compass.com;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=compass.com;
+       dara=pass header.i=@gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=compass.com; s=google; t=1729285813; x=1729890613; dara=google.com;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=JlHApZU39Z2kOTVLnywN0sgwjaUBKBMrkWKWhRCegqk=;
+        b=bddc2arvmWG2rHJcAdfX4mQjmOvXj3mrnh821CXVbQJtx0t/QdOk1O2vbjnuXiKALC
+         7O6xcOEtK3v3iLU64goito+TuPiaVwch2s9owN7RzbQYvEfeZ/gu1TQ7qwfdPAoPZ6JT
+         uKQiP7OU4W1VQXptxQnWR13mfhDtNOUUpSNFE=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1729285813; x=1729890613;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=JlHApZU39Z2kOTVLnywN0sgwjaUBKBMrkWKWhRCegqk=;
+        b=ZOE6w1ikWYZSC8WTFqLopWLNl7ZyxwyiMb7YX6MjPjW+538FhPNZcHkQzfhhEV+0cU
+         c+gDT0lXAWJWcx9baGJjw3SwbUO/rKTHFJ5CAxIvP1pL0uNoj5ohggVU8EkUu0U2VVCm
+         Ctp7okJIx4+Mn41uAGZZ1PvsJPUqCBFy8sQx2fg7EoZnMIGYHLCwtPJfC6SuxM20Fvsq
+         Cnysp3DxJOa49bzWmZwK9AHD6cN8WqrA8RZGFbKVlxyDwkHAWRKuP9TmkIDTrX91uEqh
+         ebtMR5/Ha8OeWX3yD+SMRYFGznDSz/FIwlTNzdRNW55vJcOX/ikZIGlIiX/M04DdId+g
+         bZmg==
+X-Gm-Message-State: AOJu0YyUveNGyE/aOTX4SUedbEY5vJpLSyFaLPiQOI0teE4p/NMabpkU
+	Y2nqUtb7AASZkD62QYnmb5HHAuwHGQYjVhDKYZknuGGMwcS/EZSWNLwFZOF6L30yB1R1Jt/X0OI
+	nU0Anpp8QdwZHEoyJrn9S5CohweIqVXocn3iV34E///IilQ4jOPo=
+X-Google-Smtp-Source: AGHT+IEjjMYWm0uxuqVne5Mzd9gXovEgzlozitrpkewVSGAu7gOCkQYMZ2Oy8JyEFtMNIJCURj7Cj0KAVExYmEnEt2g=
+X-Received: by 2002:a05:6a20:db0c:b0:1d2:eaea:39d7 with SMTP id
+ adf61e73a8af0-1d92ca2a11fmr5581461637.9.1729285813266; Fri, 18 Oct 2024
+ 14:10:13 -0700 (PDT)
+MIME-Version: 1.0
+References: <27.63.01052.341C2176@mailrelay-ch13o.usps.gov> <68aafeff-a4ed-4be1-8fd5-9cf408d18f54@Spark>
+In-Reply-To: <68aafeff-a4ed-4be1-8fd5-9cf408d18f54@Spark>
+From: Zach Steinberger <zach.steinberger@compass.com>
+Date: Fri, 18 Oct 2024 17:10:01 -0400
+Message-ID: <CACttOeWc3_0-j7BxssrXszVS42TvKHJsb1GE9rYPX-nvF9NU-Q@mail.gmail.com>
+Subject: Re: Claims Dispute - Certified Mailing
+To: stephen.boerner@gmail.com
+Content-Type: multipart/alternative; boundary="0000000000009d81520624c6bab3"
+
+--0000000000009d81520624c6bab3
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please send to the landlord at his email address
+
+luther2law@gmail.com
+
+
+*Zach Steinberger*
+Principal Agent
+Former Professional Soccer Player
+
+200 Central Ave, St. Petersburg, FL 33701
+m: 941.539.7253
+email: zach.steinberger@compass.com
+
+
+
+
+On Fri, Oct 18, 2024 at 5:08=E2=80=AFPM <stephen.boerner@gmail.com> wrote:
+
+> Zach,
+>
+> I do not have Luther Rollin=E2=80=99s email address. Therefore, I am prov=
+iding it
+> to you as his proxy.
+>
+> I received his claims on security deposit notice on October 5, 2024 via
+> certified mail. Within the 15 day allotted window of time, I have issued =
+a
+> tenant dispute, sent via certified mail, to Luther, at the Hickory, NC
+> address that Luther provided.
+>
+> To ensure documentation of meeting this timeline requirement, I have
+> provided the USPS certified mail receipt that was forwarded to me at the
+> time of mailing my dispute today, October 18th, 2024.
+>
+> Further, I have attached the tenant dispute letter that Luther will
+> receive via USPS certified mail.
+>
+> This email serves to timestamp this detail and further remove any questio=
+n
+> about the timeliness of my response.
+>
+> Please notify Luther to look for, and sign for, this certified mail as it
+> contains the attached tenant dispute letter.
+>
+> Thank you,
+> ---------- Forwarded message ---------
+> From: <DoNotReply@ereceipt.usps.gov>
+> Date: Fri, Oct 18, 2024 at 4:12=E2=80=AFPM
+> Subject: USPS eReceipt
+> To: <STEPHEN.BOERNER@gmail.com>
+>
+>
+> [image: USPSlogo]
+>
+>                                 CHESTERTOWN
+>                                104
+> <https://www.google.com/maps/search/104+SPRING+AVE+CHESTERTOWN,+MD+21620-=
+9998?entry=3Dgmail&source=3Dg>
+>  SPRING
+> <https://www.google.com/maps/search/104+SPRING+AVE+CHESTERTOWN,+MD+21620-=
+9998?entry=3Dgmail&source=3Dg>
+>  AVE
+> <https://www.google.com/maps/search/104+SPRING+AVE+CHESTERTOWN,+MD+21620-=
+9998?entry=3Dgmail&source=3Dg>
+>                          CHESTERTOWN,
+> <https://www.google.com/maps/search/104+SPRING+AVE+CHESTERTOWN,+MD+21620-=
+9998?entry=3Dgmail&source=3Dg>
+>  MD
+> <https://www.google.com/maps/search/104+SPRING+AVE+CHESTERTOWN,+MD+21620-=
+9998?entry=3Dgmail&source=3Dg>
+>  21620-9998
+> <https://www.google.com/maps/search/104+SPRING+AVE+CHESTERTOWN,+MD+21620-=
+9998?entry=3Dgmail&source=3Dg>
+>                                (800)275-8777
+> 10/18/2024                                                         04:12 =
+PM
+> -------------------------------------------------------------------------=
+--
+> Product                                      Qty            Unit      Pri=
+ce
+>                                                            Price
+> -------------------------------------------------------------------------=
+--
+> Priority Mail=C2=AE                               1                      =
+ $10.45
+> Flat Rate Env
+>     Hickory, NC 28603
+>     Flat Rate
+>     Expected Delivery Date
+>         Mon 10/21/2024
+>     Shipment may be delayed due to weather conditions.
+>     Insurance                                                         $0.=
+00
+>         Up to $100.00 included
+>     Certified Mail=C2=AE                                                 =
+  $4.85
+>         Tracking #:
+>             9589 0710 5270 1953 8095 18
+> <https://tools.usps.com/go/TrackConfirmAction!input.action?tLabels=3D9589=
+071052701953809518>
+>     Return Receipt                                                    $4.=
+10
+>         Tracking #:
+>             9590 9402 6827 1074 1461 43
+> <https://tools.usps.com/go/TrackConfirmAction!input.action?tLabels=3D9590=
+940268271074146143>
+> Total                                                                $19.=
+40
+>
+> -------------------------------------------------------------------------=
+--
+> Grand Total:                                                         $19.=
+40
+> -------------------------------------------------------------------------=
+--
+> Credit Card Remit                                                    $19.=
+40
+>     Card Name: AMEX
+>     Account #: XXXXXXXXXXX9858
+>     Approval #: 820279
+>     Transaction #: 353
+>     AID: A000000025010901 Contactless
+>     AL: AMEX CREDIT
+>     PIN: Verified
+> -------------------------------------------------------------------------=
+--
+>
+>                  Text your tracking number to 28777 (2USPS)
+>                  to get the latest status. Standard Message
+>                    and Data rates may apply. You may also
+>                   visit www.usps.com USPS Tracking or call
+>                               1-800-222-1811.
+>
+>                       Save this receipt as evidence of
+>                   insurance. For information on filing an
+>                            insurance claim go to
+>                     https://www.usps.com/help/claims.htm
+>                            or call 1-800-222-1811
+>
+>                              Preview your Mail
+>                             Track your Packages
+>                              Sign up for FREE @
+>                      https://informeddelivery.usps.com
+>
+>                    All sales final on stamps and postage.
+>                    Refunds for guaranteed services only.
+>                         Thank you for your business.
+>
+>                        Tell us about your experience.
+>                           Go to: https://postalexperience.com/pos?mt=3D9
+> <https://postalexperience.com/pos?mt=3D9&sc=3D840-5210-0161-002-00032-797=
+73-02&zip5=3D21620>
+>                           or call 1-800-410-7420.
+>
+>
+> -------------------------------------------------------------------------=
+--
+>
+> UFN: 231764-0620
+> Receipt #: 840-52100161-2-3279773-2
+> Clerk: 09
+>
+> *Privacy Act Statement:*
+>  Your information will be used to provide you with an
+> electronic receipt for your purchase transaction via email. Collection is
+> authorized by 39 USC 401, 403, and 404. Providing the information is
+>
+> voluntary, but if not provided, we will be unable to process your request=
+ to
+> receive an electronic receipt. We do not disclose your information to thi=
+rd
+> parties without your consent, except to facilitate the transaction, to ac=
+t
+> on your behalf or request, or as legally required. This includes the
+> following limited circumstances: to a congressional office on your behalf=
+;
+> to financial entities regarding financial transaction issues; to a U.S.
+> Postal Service auditor; to entities, including law enforcement, as requir=
+ed
+> by law or in legal proceedings; to contractors and other entities aiding =
+us
+> to fulfill the service (service providers); to process servers; to domest=
+ic
+> government agencies if needed as part of their duties; and to a foreign
+> government agency for violations and alleged violations of law. For more
+> information on our privacy policies visit
+> www.usps.com/privacypolicy.
+>
+> This is an automated email. Please do not reply to this message. This
+> message is for the designated recipient only and may contain privileged,
+> proprietary, or otherwise private information. If you have received it in
+> error, please delete. Any other use of this email by you is prohibited.
+>
+
+--0000000000009d81520624c6bab3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9ImF1dG8iPlBsZWFzZSBzZW5kIHRvIHRoZSBsYW5kbG9yZCBhdCBoaXMgZW1haWwg
+YWRkcmVzczwvZGl2PjxkaXYgZGlyPSJhdXRvIj48YnI+PC9kaXY+PGRpdiBkaXI9ImF1dG8iPjxk
+aXY+PGEgaHJlZj0ibWFpbHRvOmx1dGhlcjJsYXdAZ21haWwuY29tIj5sdXRoZXIybGF3QGdtYWls
+LmNvbTwvYT48L2Rpdj48YnIgY2xlYXI9ImFsbCI+PGJyIGNsZWFyPSJhbGwiPjxkaXYgZGlyPSJh
+dXRvIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfc2lnbmF0dXJlIiBkYXRhLXNtYXJ0bWFp
+bD0iZ21haWxfc2lnbmF0dXJlIj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxiPjxzcGFuIHN0eWxlPSJj
+b2xvcjpyZ2IoMTAyLDEwMiwxMDIpO2ZvbnQtZmFtaWx5OmFyaWFsLGhlbHZldGljYSxzYW5zLXNl
+cmlmO2ZvbnQtc2l6ZToxM3B4Ij5aYWNoIFN0ZWluYmVyZ2VyPC9zcGFuPjwvYj48L2Rpdj48ZGl2
+PjxzcGFuIHN0eWxlPSJjb2xvcjpyZ2IoMTAyLDEwMiwxMDIpO2ZvbnQtZmFtaWx5OmFyaWFsLGhl
+bHZldGljYSxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxM3B4Ij5QcmluY2lwYWwgQWdlbnQ8L3NwYW4+
+PC9kaXY+PGRpdj48c3BhbiBzdHlsZT0iY29sb3I6cmdiKDEwMiwxMDIsMTAyKTtmb250LWZhbWls
+eTphcmlhbCxoZWx2ZXRpY2Esc2Fucy1zZXJpZjtmb250LXNpemU6MTNweCI+Rm9ybWVyIFByb2Zl
+c3Npb25hbCBTb2NjZXIgUGxheWVyPC9zcGFuPjwvZGl2PjxkaXY+wqA8L2Rpdj48ZGl2PjxzcGFu
+IHN0eWxlPSJjb2xvcjpyZ2IoMTAyLDEwMiwxMDIpO2ZvbnQtZmFtaWx5OmFyaWFsLGhlbHZldGlj
+YSxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxM3B4Ij4yMDAgQ2VudHJhbCBBdmUsIFN0LiBQZXRlcnNi
+dXJnLCBGTCAzMzcwMTwvc3Bhbj48L2Rpdj48ZGl2PjxzcGFuIHN0eWxlPSJjb2xvcjpyZ2IoMTAy
+LDEwMiwxMDIpO2ZvbnQtZmFtaWx5OmFyaWFsLGhlbHZldGljYSxzYW5zLXNlcmlmO2ZvbnQtc2l6
+ZToxM3B4Ij5tOiA5NDEuNTM5LjcyNTM8L3NwYW4+PC9kaXY+PGRpdj48Zm9udCBjb2xvcj0iIzY2
+NjY2NiIgZmFjZT0iYXJpYWwsIGhlbHZldGljYSwgc2Fucy1zZXJpZiI+ZW1haWw6wqA8YSBocmVm
+PSJtYWlsdG86emFjaC5zdGVpbmJlcmdlckBjb21wYXNzLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnph
+Y2guc3RlaW5iZXJnZXJAY29tcGFzcy5jb208L2E+PC9mb250PjwvZGl2PjxkaXY+PGJyPjwvZGl2
+PjxkaXY+PGltZyB3aWR0aD0iNDIwIiBoZWlnaHQ9IjE3NCIgc3JjPSJodHRwczovL2NpMy5nb29n
+bGV1c2VyY29udGVudC5jb20vbWFpbC1zaWcvQUlvcks0eExPSG1VQmx3Z1ktaFkydWJoWC04ZE1C
+SjUyaXN0b2piOGhCeUlmNDI3SHlNM0VsX2VXamdVeGU2OUwxUkhfdmJxWnloWTFvbyI+PGJyPjwv
+ZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjxkaXYg
+Y2xhc3M9ImdtYWlsX3F1b3RlIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfYXR0ciI+T24g
+RnJpLCBPY3QgMTgsIDIwMjQgYXQgNTowOOKAr1BNICZsdDs8YSBocmVmPSJtYWlsdG86c3RlcGhl
+bi5ib2VybmVyQGdtYWlsLmNvbSI+c3RlcGhlbi5ib2VybmVyQGdtYWlsLmNvbTwvYT4mZ3Q7IHdy
+b3RlOjxicj48L2Rpdj48YmxvY2txdW90ZSBjbGFzcz0iZ21haWxfcXVvdGUiIHN0eWxlPSJtYXJn
+aW46MCAwIDAgLjhleDtib3JkZXItbGVmdDoxcHggI2NjYyBzb2xpZDtwYWRkaW5nLWxlZnQ6MWV4
+Ij4NCg0KDQoNCjxkaXY+DQo8ZGl2IG5hbWU9Im1lc3NhZ2VCb2R5U2VjdGlvbiI+DQo8ZGl2IGRp
+cj0iYXV0byI+WmFjaCw8YnI+DQo8YnI+DQpJIGRvIG5vdCBoYXZlIEx1dGhlciBSb2xsaW7igJlz
+IGVtYWlsIGFkZHJlc3MuIFRoZXJlZm9yZSwgSSBhbSBwcm92aWRpbmcgaXQgdG8geW91IGFzIGhp
+cyBwcm94eS48YnI+DQo8YnI+DQpJIHJlY2VpdmVkIGhpcyBjbGFpbXMgb24gc2VjdXJpdHkgZGVw
+b3NpdCBub3RpY2Ugb24gT2N0b2JlciA1LCAyMDI0IHZpYSBjZXJ0aWZpZWQgbWFpbC4gV2l0aGlu
+IHRoZSAxNSBkYXkgYWxsb3R0ZWQgd2luZG93IG9mIHRpbWUsIEkgaGF2ZSBpc3N1ZWQgYSB0ZW5h
+bnQgZGlzcHV0ZSwgc2VudCB2aWEgY2VydGlmaWVkIG1haWwsIHRvIEx1dGhlciwgYXQgdGhlIEhp
+Y2tvcnksIE5DIGFkZHJlc3MgdGhhdCBMdXRoZXIgcHJvdmlkZWQuPGJyPg0KPGJyPg0KVG8gZW5z
+dXJlIGRvY3VtZW50YXRpb24gb2YgbWVldGluZyB0aGlzIHRpbWVsaW5lIHJlcXVpcmVtZW50LCBJ
+IGhhdmUgcHJvdmlkZWQgdGhlIFVTUFMgY2VydGlmaWVkIG1haWwgcmVjZWlwdCB0aGF0IHdhcyBm
+b3J3YXJkZWQgdG8gbWUgYXQgdGhlIHRpbWUgb2YgbWFpbGluZyBteSBkaXNwdXRlIHRvZGF5LCBP
+Y3RvYmVyIDE4dGgsIDIwMjQuPGJyPg0KPGJyPg0KRnVydGhlciwgSSBoYXZlIGF0dGFjaGVkIHRo
+ZSB0ZW5hbnQgZGlzcHV0ZSBsZXR0ZXIgdGhhdCBMdXRoZXIgd2lsbCByZWNlaXZlIHZpYSBVU1BT
+IGNlcnRpZmllZCBtYWlsLjxicj4NCjxicj4NClRoaXMgZW1haWwgc2VydmVzIHRvIHRpbWVzdGFt
+cCB0aGlzIGRldGFpbCBhbmQgZnVydGhlciByZW1vdmUgYW55IHF1ZXN0aW9uIGFib3V0IHRoZSB0
+aW1lbGluZXNzIG9mIG15IHJlc3BvbnNlLjxicj4NCjxicj4NClBsZWFzZSBub3RpZnkgTHV0aGVy
+IHRvIGxvb2sgZm9yLCBhbmQgc2lnbiBmb3IsIHRoaXMgY2VydGlmaWVkIG1haWwgYXMgaXQgY29u
+dGFpbnMgdGhlIGF0dGFjaGVkIHRlbmFudCBkaXNwdXRlIGxldHRlci48YnI+DQo8YnI+DQpUaGFu
+ayB5b3UswqA8L2Rpdj4NCjwvZGl2Pg0KPGRpdiBuYW1lPSJtZXNzYWdlUmVwbHlTZWN0aW9uIj4N
+CjxkaXYgZGlyPSJsdHIiIGNsYXNzPSJnbWFpbF9hdHRyIj4tLS0tLS0tLS0tIEZvcndhcmRlZCBt
+ZXNzYWdlIC0tLS0tLS0tLTxicj4NCkZyb206IDxzcGFuIGRpcj0iYXV0byI+Jmx0OzxhIGhyZWY9
+Im1haWx0bzpEb05vdFJlcGx5QGVyZWNlaXB0LnVzcHMuZ292IiB0YXJnZXQ9Il9ibGFuayI+RG9O
+b3RSZXBseUBlcmVjZWlwdC51c3BzLmdvdjwvYT4mZ3Q7PC9zcGFuPjxicj4NCkRhdGU6IEZyaSwg
+T2N0IDE4LCAyMDI0IGF0IDQ6MTLigK9QTTxicj4NClN1YmplY3Q6IFVTUFMgZVJlY2VpcHQ8YnI+
+DQpUbzogJmx0OzxhIGhyZWY9Im1haWx0bzpTVEVQSEVOLkJPRVJORVJAZ21haWwuY29tIiB0YXJn
+ZXQ9Il9ibGFuayI+U1RFUEhFTi5CT0VSTkVSQGdtYWlsLmNvbTwvYT4mZ3Q7PGJyPjwvZGl2Pg0K
+PGJyPg0KPGJyPg0KPGRpdj4NCjxkaXYgc3R5bGU9ImRpc3BsYXk6dGFibGU7aGVpZ2h0OjEwMCU7
+d2lkdGg6MTAwJSI+DQo8ZGl2IHN0eWxlPSJkaXNwbGF5OnRhYmxlLWNlbGw7dmVydGljYWwtYWxp
+Z246bWlkZGxlIj4NCjxkaXYgc3R5bGU9Im1hcmdpbi1sZWZ0OmF1dG87bWFyZ2luLXJpZ2h0OmF1
+dG87d2lkdGg6MjI4MnB4Ij4NCjx0YWJsZSBzdHlsZT0iYm9yZGVyOjFweCBzb2xpZCByZ2IoMCww
+LDApO2JhY2tncm91bmQtY29sb3I6cmdiKDI0NSwyNDUsMjQ1KSI+DQo8dGJvZHk+DQo8dHI+DQo8
+dGQgc3R5bGU9InBhZGRpbmctdG9wOjEwcHgiPg0KPGRpdiBzdHlsZT0idGV4dC1hbGlnbjpjZW50
+ZXIiPjxpbWcgc3JjPSJodHRwczovL3d3dy51c3BzLmNvbS9lbWFpbC9lcmVjZWlwdC9VU1BTbG9n
+by5wbmciIGFsdD0iVVNQU2xvZ28iIHdpZHRoPSI1MzUiIGFsaWduPSJjZW50ZXIiPjwvZGl2Pg0K
+PGJyPg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoENIRVNURVJUT1dOPGJyPg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqA8YSBocmVmPSJodHRwczovL3d3dy5n
+b29nbGUuY29tL21hcHMvc2VhcmNoLzEwNCtTUFJJTkcrQVZFK0NIRVNURVJUT1dOLCtNRCsyMTYy
+MC05OTk4P2VudHJ5PWdtYWlsJmFtcDtzb3VyY2U9ZyIgdGFyZ2V0PSJfYmxhbmsiPjEwNDwvYT7C
+oDxhIGhyZWY9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcy9zZWFyY2gvMTA0K1NQUklORytB
+VkUrQ0hFU1RFUlRPV04sK01EKzIxNjIwLTk5OTg/ZW50cnk9Z21haWwmYW1wO3NvdXJjZT1nIiB0
+YXJnZXQ9Il9ibGFuayI+U1BSSU5HPC9hPsKgPGEgaHJlZj0iaHR0cHM6Ly93d3cuZ29vZ2xlLmNv
+bS9tYXBzL3NlYXJjaC8xMDQrU1BSSU5HK0FWRStDSEVTVEVSVE9XTiwrTUQrMjE2MjAtOTk5OD9l
+bnRyeT1nbWFpbCZhbXA7c291cmNlPWciIHRhcmdldD0iX2JsYW5rIj5BVkU8L2E+PGJyPg0KwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqA8YSBocmVmPSJo
+dHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvc2VhcmNoLzEwNCtTUFJJTkcrQVZFK0NIRVNURVJU
+T1dOLCtNRCsyMTYyMC05OTk4P2VudHJ5PWdtYWlsJmFtcDtzb3VyY2U9ZyIgdGFyZ2V0PSJfYmxh
+bmsiPkNIRVNURVJUT1dOLDwvYT7CoDxhIGhyZWY9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFw
+cy9zZWFyY2gvMTA0K1NQUklORytBVkUrQ0hFU1RFUlRPV04sK01EKzIxNjIwLTk5OTg/ZW50cnk9
+Z21haWwmYW1wO3NvdXJjZT1nIiB0YXJnZXQ9Il9ibGFuayI+TUQ8L2E+wqA8YSBocmVmPSJodHRw
+czovL3d3dy5nb29nbGUuY29tL21hcHMvc2VhcmNoLzEwNCtTUFJJTkcrQVZFK0NIRVNURVJUT1dO
+LCtNRCsyMTYyMC05OTk4P2VudHJ5PWdtYWlsJmFtcDtzb3VyY2U9ZyIgdGFyZ2V0PSJfYmxhbmsi
+PjIxNjIwLTk5OTg8L2E+PGJyPg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAoODAwKTI3NS04Nzc3PGJyPg0KMTAvMTgvMjAyNMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoDA0
+OjEywqBQTTxicj4NCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxicj4NClByb2R1Y3TCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgUXR5wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgVW5pdMKgwqDCoMKgwqDCoFByaWNlPGJy
+Pg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoFByaWNlPGJyPg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPg0KUHJpb3JpdHnCoE1haWzC
+rsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgMcKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAkMTAu
+NDU8YnI+DQpGbGF0wqBSYXRlwqBFbnY8YnI+DQrCoMKgwqDCoEhpY2tvcnkswqBOQ8KgMjg2MDM8
+YnI+DQrCoMKgwqDCoEZsYXTCoFJhdGU8YnI+DQrCoMKgwqDCoEV4cGVjdGVkwqBEZWxpdmVyecKg
+RGF0ZTxicj4NCsKgwqDCoMKgwqDCoMKgwqBNb27CoDEwLzIxLzIwMjQ8YnI+DQrCoMKgwqDCoFNo
+aXBtZW50wqBtYXnCoGJlwqBkZWxheWVkwqBkdWXCoHRvwqB3ZWF0aGVywqBjb25kaXRpb25zLjxi
+cj4NCsKgwqDCoMKgSW5zdXJhbmNlwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgJDAuMDA8YnI+DQrCoMKgwqDCoMKgwqDCoMKgVXDCoHRvwqAk
+MTAwLjAwwqBpbmNsdWRlZDxicj4NCsKgwqDCoMKgQ2VydGlmaWVkwqBNYWlswq7CoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAkNC44NTxicj4NCsKgwqDCoMKgwqDC
+oMKgwqBUcmFja2luZ8KgIzo8YnI+DQrCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqA8YSBocmVmPSJo
+dHRwczovL3Rvb2xzLnVzcHMuY29tL2dvL1RyYWNrQ29uZmlybUFjdGlvbiFpbnB1dC5hY3Rpb24/
+dExhYmVscz05NTg5MDcxMDUyNzAxOTUzODA5NTE4IiB0YXJnZXQ9Il9ibGFuayI+OTU4OcKgMDcx
+MMKgNTI3MMKgMTk1M8KgODA5NcKgMTg8L2E+PGJyPg0KwqDCoMKgwqBSZXR1cm7CoFJlY2VpcHTC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCQ0LjEwPGJyPg0K
+wqDCoMKgwqDCoMKgwqDCoFRyYWNraW5nwqAjOjxicj4NCsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oDxhIGhyZWY9Imh0dHBzOi8vdG9vbHMudXNwcy5jb20vZ28vVHJhY2tDb25maXJtQWN0aW9uIWlu
+cHV0LmFjdGlvbj90TGFiZWxzPTk1OTA5NDAyNjgyNzEwNzQxNDYxNDMiIHRhcmdldD0iX2JsYW5r
+Ij45NTkwwqA5NDAywqA2ODI3wqAxMDc0wqAxNDYxwqA0MzwvYT48YnI+DQpUb3RhbMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgJDE5LjQwPGJyPg0KPGJyPg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPg0KR3JhbmTCoFRv
+dGFsOsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoCQxOS40MDxicj4NCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxicj4NCkNyZWRpdMKgQ2FyZMKgUmVt
+aXTCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCQxOS40MDxi
+cj4NCsKgwqDCoMKgQ2FyZMKgTmFtZTrCoEFNRVg8YnI+DQrCoMKgwqDCoEFjY291bnTCoCM6wqBY
+WFhYWFhYWFhYWDk4NTg8YnI+DQrCoMKgwqDCoEFwcHJvdmFswqAjOsKgODIwMjc5PGJyPg0KwqDC
+oMKgwqBUcmFuc2FjdGlvbsKgIzrCoDM1Mzxicj4NCsKgwqDCoMKgQUlEOsKgQTAwMDAwMDAyNTAx
+MDkwMcKgQ29udGFjdGxlc3M8YnI+DQrCoMKgwqDCoEFMOsKgQU1FWMKgQ1JFRElUPGJyPg0KwqDC
+oMKgwqBQSU46wqBWZXJpZmllZDxicj4NCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxicj4NCjxicj4NCsKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqBUZXh0wqB5b3VywqB0cmFja2luZ8KgbnVt
+YmVywqB0b8KgMjg3NzfCoCgyVVNQUyk8YnI+DQrCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgdG/CoGdldMKgdGhlwqBsYXRlc3TCoHN0YXR1cy7CoFN0YW5kYXJkwqBNZXNzYWdlPGJy
+Pg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqBhbmTCoERhdGHCoHJhdGVz
+wqBtYXnCoGFwcGx5LsKgWW91wqBtYXnCoGFsc288YnI+DQrCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqB2aXNpdMKgPGEgaHJlZj0iaHR0cDovL3d3dy51c3BzLmNvbSIgdGFyZ2V0
+PSJfYmxhbmsiPnd3dy51c3BzLmNvbTwvYT7CoFVTUFPCoFRyYWNraW5nwqBvcsKgY2FsbDxicj4N
+CsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoDEtODAwLTIyMi0xODExLjxicj4NCjxicj4NCsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgU2F2ZcKgdGhpc8KgcmVjZWlwdMKgYXPCoGV2aWRlbmNlwqBvZjxi
+cj4NCsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoGluc3VyYW5jZS7CoEZvcsKg
+aW5mb3JtYXRpb27CoG9uwqBmaWxpbmfCoGFuPGJyPg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgaW5zdXJhbmNlwqBjbGFpbcKgZ2/CoHRvPGJy
+Pg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoDxhIGhyZWY9Imh0dHBz
+Oi8vd3d3LnVzcHMuY29tL2hlbHAvY2xhaW1zLmh0bSIgdGFyZ2V0PSJfYmxhbmsiPmh0dHBzOi8v
+d3d3LnVzcHMuY29tL2hlbHAvY2xhaW1zLmh0bTwvYT48YnI+DQrCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqBvcsKgY2FsbMKgMS04MDAtMjIyLTE4
+MTE8YnI+DQo8YnI+DQrCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgUHJldmlld8KgeW91csKgTWFpbDxicj4NCsKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgVHJhY2vCoHlvdXLCoFBhY2th
+Z2VzPGJyPg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoFNpZ27CoHVwwqBmb3LCoEZSRUXCoEA8YnI+DQrCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqA8YSBocmVmPSJodHRwczovL2luZm9ybWVkZGVsaXZlcnku
+dXNwcy5jb20iIHRhcmdldD0iX2JsYW5rIj5odHRwczovL2luZm9ybWVkZGVsaXZlcnkudXNwcy5j
+b208L2E+PGJyPg0KPGJyPg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqBB
+bGzCoHNhbGVzwqBmaW5hbMKgb27CoHN0YW1wc8KgYW5kwqBwb3N0YWdlLjxicj4NCsKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgUmVmdW5kc8KgZm9ywqBndWFyYW50ZWVkwqBz
+ZXJ2aWNlc8Kgb25seS48YnI+DQrCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqBUaGFua8KgeW91wqBmb3LCoHlvdXLCoGJ1c2luZXNzLjxicj4NCjxicj4NCsKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqBUZWxswqB1c8KgYWJv
+dXTCoHlvdXLCoGV4cGVyaWVuY2UuPGJyPg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoEdvwqB0bzrCoDxhIGhyZWY9Imh0dHBzOi8vcG9zdGFsZXhw
+ZXJpZW5jZS5jb20vcG9zP210PTkmYW1wO3NjPTg0MC01MjEwLTAxNjEtMDAyLTAwMDMyLTc5Nzcz
+LTAyJmFtcDt6aXA1PTIxNjIwIiB0YXJnZXQ9Il9ibGFuayI+aHR0cHM6Ly9wb3N0YWxleHBlcmll
+bmNlLmNvbS9wb3M/bXQ9OTwvYT48YnI+DQrCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgb3LCoGNhbGzCoDEtODAwLTQxMC03NDIwLjxicj4NCjxicj4N
+Cjxicj4NCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxicj4NCjxicj4NClVGTjrCoDIzMTc2NC0wNjIwPGJy
+Pg0KUmVjZWlwdMKgIzrCoDg0MC01MjEwMDE2MS0yLTMyNzk3NzMtMjxicj4NCkNsZXJrOsKgMDk8
+YnI+DQo8YnI+DQo8Yj5Qcml2YWN5wqBBY3TCoFN0YXRlbWVudDo8L2I+wqBZb3VywqBpbmZvcm1h
+dGlvbsKgd2lsbMKgYmXCoHVzZWTCoHRvwqBwcm92aWRlwqB5b3XCoHdpdGjCoGFuPGJyPg0KZWxl
+Y3Ryb25pY8KgcmVjZWlwdMKgZm9ywqB5b3VywqBwdXJjaGFzZcKgdHJhbnNhY3Rpb27CoHZpYcKg
+ZW1haWwuwqBDb2xsZWN0aW9uwqBpczxicj4NCmF1dGhvcml6ZWTCoGJ5wqAzOcKgVVNDwqA0MDEs
+wqA0MDMswqBhbmTCoDQwNC7CoFByb3ZpZGluZ8KgdGhlwqBpbmZvcm1hdGlvbsKgaXM8YnI+DQp2
+b2x1bnRhcnkswqBidXTCoGlmwqBub3TCoHByb3ZpZGVkLMKgd2XCoHdpbGzCoGJlwqB1bmFibGXC
+oHRvwqBwcm9jZXNzwqB5b3VywqByZXF1ZXN0wqB0bzxicj4NCnJlY2VpdmXCoGFuwqBlbGVjdHJv
+bmljwqByZWNlaXB0LsKgV2XCoGRvwqBub3TCoGRpc2Nsb3NlwqB5b3VywqBpbmZvcm1hdGlvbsKg
+dG/CoHRoaXJkPGJyPg0KcGFydGllc8Kgd2l0aG91dMKgeW91csKgY29uc2VudCzCoGV4Y2VwdMKg
+dG/CoGZhY2lsaXRhdGXCoHRoZcKgdHJhbnNhY3Rpb24swqB0b8KgYWN0PGJyPg0Kb27CoHlvdXLC
+oGJlaGFsZsKgb3LCoHJlcXVlc3QswqBvcsKgYXPCoGxlZ2FsbHnCoHJlcXVpcmVkLsKgVGhpc8Kg
+aW5jbHVkZXPCoHRoZTxicj4NCmZvbGxvd2luZ8KgbGltaXRlZMKgY2lyY3Vtc3RhbmNlczrCoHRv
+wqBhwqBjb25ncmVzc2lvbmFswqBvZmZpY2XCoG9uwqB5b3VywqBiZWhhbGY7PGJyPg0KdG/CoGZp
+bmFuY2lhbMKgZW50aXRpZXPCoHJlZ2FyZGluZ8KgZmluYW5jaWFswqB0cmFuc2FjdGlvbsKgaXNz
+dWVzO8KgdG/CoGHCoFUuUy48YnI+DQpQb3N0YWzCoFNlcnZpY2XCoGF1ZGl0b3I7wqB0b8KgZW50
+aXRpZXMswqBpbmNsdWRpbmfCoGxhd8KgZW5mb3JjZW1lbnQswqBhc8KgcmVxdWlyZWQ8YnI+DQpi
+ecKgbGF3wqBvcsKgaW7CoGxlZ2FswqBwcm9jZWVkaW5nczvCoHRvwqBjb250cmFjdG9yc8KgYW5k
+wqBvdGhlcsKgZW50aXRpZXPCoGFpZGluZ8KgdXM8YnI+DQp0b8KgZnVsZmlsbMKgdGhlwqBzZXJ2
+aWNlwqAoc2VydmljZcKgcHJvdmlkZXJzKTvCoHRvwqBwcm9jZXNzwqBzZXJ2ZXJzO8KgdG/CoGRv
+bWVzdGljPGJyPg0KZ292ZXJubWVudMKgYWdlbmNpZXPCoGlmwqBuZWVkZWTCoGFzwqBwYXJ0wqBv
+ZsKgdGhlaXLCoGR1dGllczvCoGFuZMKgdG/CoGHCoGZvcmVpZ248YnI+DQpnb3Zlcm5tZW50wqBh
+Z2VuY3nCoGZvcsKgdmlvbGF0aW9uc8KgYW5kwqBhbGxlZ2VkwqB2aW9sYXRpb25zwqBvZsKgbGF3
+LsKgRm9ywqBtb3JlPGJyPg0KaW5mb3JtYXRpb27CoG9uwqBvdXLCoHByaXZhY3nCoHBvbGljaWVz
+wqB2aXNpdDxicj4NCjxhIGhyZWY9Imh0dHA6Ly93d3cudXNwcy5jb20vcHJpdmFjeXBvbGljeSIg
+dGFyZ2V0PSJfYmxhbmsiPnd3dy51c3BzLmNvbS9wcml2YWN5cG9saWN5PC9hPi48YnI+PC90ZD4N
+CjwvdHI+DQo8dHI+DQo8dGQ+PC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQgc3R5bGU9InBhZGRpbmct
+Ym90dG9tOjEwcHgiPjxicj4NClRoaXMgaXMgYW4gYXV0b21hdGVkIGVtYWlsLiBQbGVhc2UgZG8g
+bm90IHJlcGx5IHRvIHRoaXMgbWVzc2FnZS4gVGhpczxicj4NCm1lc3NhZ2UgaXMgZm9yIHRoZSBk
+ZXNpZ25hdGVkIHJlY2lwaWVudCBvbmx5IGFuZCBtYXkgY29udGFpbiBwcml2aWxlZ2VkLDxicj4N
+CnByb3ByaWV0YXJ5LCBvciBvdGhlcndpc2UgcHJpdmF0ZSBpbmZvcm1hdGlvbi4gSWYgeW91IGhh
+dmUgcmVjZWl2ZWQgaXQgaW48YnI+DQplcnJvciwgcGxlYXNlIGRlbGV0ZS4gQW55IG90aGVyIHVz
+ZSBvZiB0aGlzIGVtYWlsIGJ5IHlvdSBpcyBwcm9oaWJpdGVkLjxicj48L3RkPg0KPC90cj4NCjwv
+dGJvZHk+DQo8L3RhYmxlPg0KPC9kaXY+DQo8L2Rpdj4NCjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj4N
+CjwvZGl2Pg0KDQo8L2Jsb2NrcXVvdGU+PC9kaXY+PC9kaXY+DQo=
+--0000000000009d81520624c6bab3--
+

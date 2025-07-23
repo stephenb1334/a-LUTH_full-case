@@ -1,0 +1,34 @@
+# Florida Tenant Dispute Timeline
+# Case: Security Deposit Dispute
+# Generated: $(date)
+
+metadata:
+  case_name: "Security Deposit Dispute"
+  case_type: "Landlord-Tenant"
+  jurisdiction: "Florida"
+  statutes_year: 2023
+  lease_signed: "2023-10-01"  # Critical date for statute versions
+
+events:
+  - date: "2023-10-01"
+    type: "contract"
+    description: "Lease agreement signed"
+    evidence: ["lease_agreement.pdf"]
+    statutes: ["83.49"]
+    
+  - date: "2023-10-01"
+    type: "payment"
+    description: "Security deposit paid"
+    amount: "$[AMOUNT]"
+    evidence: ["deposit_receipt.pdf"]
+    
+  # Add your events here following this format
+
+deadlines:
+  - date: "[MOVE_OUT_DATE + 15 days]"
+    description: "Landlord must return deposit (no deductions)"
+    statute: "83.49(3)(a)"
+    
+  - date: "[MOVE_OUT_DATE + 30 days]"
+    description: "Landlord must return deposit or provide written notice of claim"
+    statute: "83.49(3)(a)"

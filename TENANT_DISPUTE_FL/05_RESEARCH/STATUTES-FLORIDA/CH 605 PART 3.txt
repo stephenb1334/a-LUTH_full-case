@@ -1,0 +1,697 @@
+
+
+
+The 2024 Florida Statutes
+
+Title XXXVI
+BUSINESS ORGANIZATIONS
+
+Chapter 605
+FLORIDA REVISED LIMITED LIABILITY COMPANY ACT
+
+
+
+----
+
+PROVIDED IN THIS DOCUMENT IS 605.0703 - 605.1031 
+
+
+---
+
+
+
+TABLE OF CONTENTS:
+
+
+
+605.0101 Short title.
+605.0102 Definitions.
+605.0103 Knowledge; notice.
+605.0104 Governing law.
+605.0105 Operating agreement; scope, function, and limitations.
+605.0106 Operating agreement; effect on limited liability company and person becoming member; preformation agreement; other matters involving operating agreement.
+605.0107 Operating agreement; effect on third parties and relationship to records effective on behalf of limited liability company.
+605.0108 Nature, purpose, and duration of limited liability company.
+605.0109 Powers.
+605.0110 Limited liability company property.
+605.0111 Rules of construction and supplemental principles of law.
+605.0112 Name.
+605.01125 Reserved name.
+605.0113 Registered agent.
+605.0114 Change of registered agent or registered office.
+605.0115 Resignation of registered agent.
+605.0116 Change of name or address by registered agent.
+605.0117 Serving process, giving notice, or making a demand.
+605.0118 Delivery of record.
+605.0119 Waiver of notice.
+605.0201 Formation of limited liability company; articles of organization.
+605.0202 Amendment or restatement of articles of organization.
+605.0203 Signing of records to be delivered for filing to department.
+605.0204 Signing and filing pursuant to judicial order.
+605.0205 Liability for inaccurate information in filed record.
+605.0206 Filing requirements.
+605.0207 Effective date and time.
+605.0208 Withdrawal of filed record before effectiveness.
+605.0209 Correcting filed record.
+605.0210 Duty of department to file; review of refusal to file; transmission of information by department.
+605.0211 Certificate of status.
+605.0212 Annual report for department.
+605.0213 Fees of the department.
+605.0214 Powers of department.
+605.0215 Certificates to be received in evidence and evidentiary effect of certified copy of filed document.
+605.0216 Statement of dissociation or resignation.
+605.0301 Power to bind limited liability company.
+605.0302 Statement of authority.
+605.0303 Statement of denial.
+605.0304 Liability of members and managers.
+605.0401 Becoming a member.
+605.0402 Form of contribution.
+605.0403 Liability for contributions.
+605.0404 Sharing of distributions before dissolution and profits and losses.
+605.0405 Limitations on distributions.
+605.0406 Liability for improper distributions.
+605.0407 Management of limited liability company.
+605.04071 Delegation of rights and powers to manage.
+605.04072 Selection and terms of managers in a manager-managed limited liability company.
+605.04073 Voting rights of members and managers.
+605.04074 Agency rights of members and managers.
+605.0408 Reimbursement, indemnification, advancement, and insurance.
+605.04091 Standards of conduct for members and managers.
+605.04092 Conflict of interest transactions.
+605.04093 Limitation of liability of managers and members.
+605.0410 Records to be kept; rights of member, manager, and person dissociated to information.
+605.0411 Court-ordered inspection.
+605.0501 Nature of transferable interest.
+605.0502 Transfer of transferable interest.
+605.0503 Charging order.
+605.0504 Power of legal representative.
+605.0601 Power to dissociate as member; wrongful dissociation.
+605.0602 Events causing dissociation.
+605.0603 Effect of dissociation.
+605.0701 Events causing dissolution.
+605.0702 Grounds for judicial dissolution.
+605.0703 Procedure for judicial dissolution; alternative remedies.
+605.0704 Receivership or custodianship.
+605.0705 Decree of dissolution.
+605.0706 Election to purchase instead of dissolution.
+605.0707 Articles of dissolution; filing of articles of dissolution.
+605.0708 Revocation of articles of dissolution.
+605.0709 Winding up.
+605.0710 Disposition of assets in winding up.
+605.0711 Known claims against dissolved limited liability company.
+605.0712 Other claims against a dissolved limited liability company.
+605.0713 Court proceedings.
+605.0714 Administrative dissolution.
+605.0715 Reinstatement.
+605.0716 Judicial review of denial of reinstatement.
+605.0717 Effect of dissolution.
+605.0801 Direct action by member.
+605.0802 Derivative action.
+605.0803 Proper plaintiff.
+605.0804 Special litigation committee.
+605.0805 Proceeds and expenses.
+605.0806 Voluntary dismissal or settlement; notice.
+605.0901 Governing law.
+605.0902 Application for certificate of authority.
+605.0903 Effect of a certificate of authority.
+605.0904 Effect of failure to have certificate of authority.
+605.0905 Activities not constituting transacting business.
+605.0906 Noncomplying name of foreign limited liability company.
+605.0907 Amendment to certificate of authority.
+605.0908 Revocation of certificate of authority.
+605.0909 Reinstatement following revocation of certificate of authority.
+605.09091 Judicial review of denial of reinstatement.
+605.0910 Withdrawal and cancellation of certificate of authority.
+605.0911 Withdrawal deemed on conversion to domestic filing entity.
+605.0912 Withdrawal on dissolution, merger, or conversion to nonfiling entity.
+605.0913 Action by Department of Legal Affairs.
+605.1001 Relationship of the provisions of this section and ss. 605.1002-605.1072 to other laws.
+605.1002 Charitable and donative provisions.
+605.1003 Status of filings.
+605.1004 Nonexclusivity.
+605.1005 Reference to external facts.
+605.1006 Appraisal rights.
+605.1021 Merger authorized.
+605.1022 Plan of merger.
+605.1023 Approval of merger.
+605.1024 Amendment or abandonment of plan of merger.
+605.1025 Articles of merger.
+605.1026 Effect of merger.
+605.1031 Interest exchange authorized.
+605.1032 Plan of interest exchange.
+605.1033 Approval of interest exchange.
+605.1034 Amendment or abandonment of plan of interest exchange.
+605.1035 Articles of interest exchange.
+605.1036 Effect of interest exchange.
+605.1041 Conversion authorized.
+605.1042 Plan of conversion.
+605.1043 Approval of conversion.
+605.1044 Amendment or abandonment of plan of conversion.
+605.1045 Articles of conversion.
+605.1046 Effect of conversion.
+605.1051 Domestication authorized.
+605.1052 Plan of domestication.
+605.1053 Approval of domestication.
+605.1054 Amendment or abandonment of plan of domestication.
+605.1055 Articles of domestication.
+605.1056 Effect of domestication.
+605.1061 Appraisal rights; definitions.
+605.1062 Assertion of rights by nominees and beneficial owners.
+605.1063 Notice of appraisal rights.
+605.1064 Notice of intent to demand payment.
+605.1065 Appraisal notice and form.
+605.1066 Perfection of rights; right to withdraw.
+605.1067 Member’s acceptance of limited liability company’s offer.
+605.1068 Procedure if member is dissatisfied with offer.
+605.1069 Court action.
+605.1070 Court costs and attorney fees.
+605.1071 Limitation on limited liability company payment.
+605.1072 Other remedies limited.
+605.1101 Uniformity of application and construction.
+605.1102 Relation to Electronic Signatures in Global and National Commerce Act.
+605.1103 Tax exemption on income of certain limited liability companies.
+605.1104 Interrogatories by department; other powers of department.
+605.1105 Reservation of power to amend or repeal.
+605.1106 Savings clause.
+605.1107 Severability clause.
+605.1108 Application to limited liability company formed under the Florida Limited Liability Company Act.
+
+
+-----
+
+
+
+605.0703 Procedure for judicial dissolution; alternative remedies.—
+(1) Venue for a proceeding brought under s. 605.0702 lies in the circuit court of the county where the limited liability company’s principal office is or was last located, as shown by the records of the department, or, if there is or was no principal office in this state, in the circuit court of the county where the company’s registered office is or was last located.
+(2) It is not necessary to make members parties to a proceeding to dissolve a limited liability company unless relief is sought against such members individually.
+(3) A court in a proceeding brought to dissolve a limited liability company may issue injunctions, appoint a receiver or custodian pendente lite with all powers and duties the court directs, take other action required to preserve the limited liability company’s assets wherever located, and carry on the business of the limited liability company until a full hearing can be held.
+(4) In a proceeding brought under s. 605.0702, the court may, upon a showing of sufficient merit to warrant such a remedy:
+(a) Appoint a receiver or custodian under s. 605.0704;
+(b) Order a purchase of a petitioning member’s interest pursuant to s. 605.0706; or
+(c) Upon a showing of good cause, order another remedy the court deems appropriate in its discretion, including an equitable remedy.
+(5) Section 57.105 applies to a proceeding brought under s. 605.0702.
+History.—s. 2, ch. 2013-180.
+605.0704 Receivership or custodianship.—
+(1) A court in a judicial proceeding brought to dissolve a limited liability company may appoint one or more receivers to wind up and liquidate or one or more custodians to manage the business and affairs of the limited liability company. The court shall hold a hearing, after notifying all parties to the proceeding and an interested person designated by the court, before appointing a receiver or custodian. The court appointing a receiver or custodian has exclusive jurisdiction over the limited liability company and all of its property, wherever located.
+(2) The court may appoint a person authorized to act as a receiver or custodian. The court may require the receiver or custodian to post bond, with or without sureties, in an amount the court directs.
+(3) The court shall describe the powers and duties of the receiver or custodian in its appointing order, which may be amended. Among other powers:
+(a) The receiver:
+1. May dispose of all or a part of the assets of the limited liability company, wherever located, at a public or private sale, if authorized by the court; and
+2. May sue and defend in the receiver’s own name, as receiver of the limited liability company, in all courts of this state; and
+(b) The custodian may exercise all of the powers of the limited liability company, through or in place of its managers or members, to the extent necessary to manage the activities and affairs of the limited liability company in the best interest of its members and creditors.
+(4) During a receivership, the court may redesignate the receiver as a custodian and, during a custodianship, may redesignate the custodian as a receiver if doing so is in the best interests of the limited liability company and its members and creditors.
+(5) During the receivership or custodianship the court may order compensation paid and expense disbursements or reimbursements made to the receiver or custodian and the receiver’s or custodian’s counsel from the assets of the limited liability company or proceeds from the sale of part or all of those assets.
+(6) The court has jurisdiction to appoint an ancillary receiver for the assets and business of a limited liability company. The ancillary receiver shall serve ancillary to a receiver located in another state if the court deems that circumstances exist requiring the appointment of such a receiver. The court may appoint a receiver for a foreign limited liability company even though a receiver has not been appointed elsewhere. The receivership shall be converted into an ancillary receivership if an order entered by a court of competent jurisdiction in the other state provides for a receivership of the foreign limited liability company.
+History.—s. 2, ch. 2013-180.
+605.0705 Decree of dissolution.—
+(1) If, after a hearing, the court determines that one or more grounds for judicial dissolution described in s. 605.0702 exist, the court may enter a decree dissolving the limited liability company and specifying the effective date of the dissolution, and the clerk of the court shall deliver a certified copy of the decree to the department, which shall file the decree.
+(2) After entering the decree of dissolution, the court shall direct the winding up and liquidation of the limited liability company’s activities and affairs in accordance with ss. 605.0709-605.0713, subject to subsection (3).
+(3) In a proceeding for judicial dissolution, the court may require all creditors of the limited liability company to file with the clerk of the court or with the receiver, in a form as the court may prescribe, proofs under oath of their respective claims. If the court requires the filing of claims, the court shall fix a date, which may not be earlier than 4 months after the date of the order, as the last day for filing claims. The court shall prescribe the deadline for filing claims which shall be given to creditors and claimants. Before the date so fixed, the court may extend the time for the filing of claims by court order. Creditors and claimants failing to file proofs of claim on or before the date so fixed may be barred, by order of court, from participating in the distribution of the assets of the limited liability company. This section does not affect the enforceability of a recorded mortgage or lien or the perfected security interest or rights of a person in possession of real or personal property.
+History.—s. 2, ch. 2013-180.
+605.0706 Election to purchase instead of dissolution.—
+(1) In a proceeding initiated by a member of a limited liability company under s. 605.0702(1)(b), the company may elect, or, if it fails to elect, one or more other members may elect, to purchase the entire interest of the petitioner in the company at the fair value of the interest. An election pursuant to this section is irrevocable unless the court determines that it is equitable to set aside or modify the election.
+(2) An election to purchase pursuant to this section may be filed with the court within 90 days after the filing of the petition by the petitioning member under s. 605.0702(1)(b) or at such later time as the court may allow. If the election to purchase is filed, the company shall within 10 days thereafter give written notice to all members, other than the petitioning member. The notice must describe the interest in the company owned by each petitioning member and must advise the recipients of their right to join in the election to purchase the petitioning member’s interest in accordance with this section. Members who wish to participate must file notice of their intention to join in the purchase within 30 days after the effective date of the notice. A member who has filed an election or notice of the intent to participate in the election to purchase thereby becomes a party to the proceeding and shall participate in the purchase in proportion to the ownership interest as of the date the first election was filed unless the members otherwise agree or the court otherwise directs. After an election to purchase has been filed by the limited liability company or one or more members, the proceeding under s. 605.0702(1)(b) may not be discontinued or settled, and the petitioning member may not sell or otherwise dispose of the interest of the petitioner in the company unless the court determines that it would be equitable to the company and the members, other than the petitioner, to authorize such discontinuance, settlement, sale, or other disposition or the sale is pursuant to a deadlock sale provision described in s. 605.0702(1)(b).
+(3) If, within 60 days after the filing of the first election, the parties reach an agreement as to the fair value and terms of the purchase of the petitioner’s interest, the court shall enter an order directing the purchase of the petitioner’s interest upon the terms and conditions agreed to by the parties, unless the petitioner’s interest has been acquired pursuant to a deadlock sale provision before the order.
+(4) If the parties are unable to reach an agreement as provided for in subsection (3), the court, upon application of a party, may stay the proceedings to dissolve under s. 605.0702(1)(b) and shall, whether or not the proceeding is stayed, determine the fair value of the petitioner’s interest as of the day before the date on which the petition was filed or as of such other date as the court deems appropriate under the circumstances.
+(5) Upon determining the fair value of the petitioner’s interest in the company, unless the petitioner’s interest has been acquired pursuant to a deadlock sale provision before the order, the court shall enter an order directing the purchase upon such terms and conditions as the court deems appropriate, which may include: payment of the purchase price in installments, when necessary in the interests of equity; a provision for security to ensure payment of the purchase price and additional costs, fees, and expenses as may have been awarded; and, if the interest is to be purchased by members, the allocation of the interest among those members. In allocating the petitioner’s interest among holders of different classes or series of interests in the company, the court shall attempt to preserve any existing distribution of voting rights among holders of different classes or series insofar as practicable and may direct that holders of any specific class or classes or series may not participate in the purchase. Interest may be allowed at the rate and from the date determined by the court to be equitable; however, if the court finds that the refusal of the petitioning member to accept an offer of payment was arbitrary or otherwise not in good faith, payment of interest is not allowed. If the court finds that the petitioning member had probable grounds for relief under s. 605.0702(1)(b), it may award expenses to the petitioning member, including reasonable fees and expenses of counsel and of experts employed by petitioner.
+(6) The entry of an order under subsection (3) or subsection (5) shall be subject to subsection (8), and the order may not be entered unless the award is determined by the court to be allowed under subsection (8). In determining compliance with s. 605.0405, the court may rely on an affidavit from the limited liability company as to compliance with that section as of the measurement date. Upon entry of an order under subsection (3) or subsection (5), the court shall dismiss the petition to dissolve the limited liability company under s. 605.0702(1)(b), and the petitioning member shall no longer have rights or status as a member of the limited liability company except the right to receive the amounts awarded by the order of the court, which shall be enforceable in the same manner as any other judgment.
+(7) The purchase ordered pursuant to subsection (5) shall be made within 10 days after the date the order becomes final.
+(8) Any award pursuant to an order under subsection (3) or subsection (5), other than an award of fees and expenses pursuant to subsection (5), is subject to s. 605.0405. Unless otherwise provided in the court’s order, the effect of a distribution under s. 605.0405 shall be measured as of the date of the court’s order under subsection (3) or subsection (5).
+History.—s. 2, ch. 2013-180; s. 252, ch. 2019-90.
+605.0707 Articles of dissolution; filing of articles of dissolution.—
+(1) Upon the occurrence of an event described in s. 605.0701(1)-(3), the limited liability company shall deliver for filing articles of dissolution as provided in this section.
+(2) The articles of dissolution must state the following:
+(a) The name of the limited liability company.
+(b) The delayed effective date of the limited liability company’s dissolution if the dissolution is not to be effective on the date the articles of dissolution are filed by the department.
+(c) The occurrence that resulted in the limited liability company’s dissolution.
+(d) If there are no members, the name, address, and signature of the person appointed in accordance with this subsection to wind up the company.
+(3) The articles of dissolution of the limited liability company shall be delivered to the department. If the department finds that the articles of dissolution conform to law, it shall, when all fees have been paid as prescribed in this chapter, file the articles of dissolution and issue a certificate of dissolution.
+(4) Upon the filing of the articles of dissolution, the limited liability company shall cease conducting its business and shall continue solely for the purpose of winding up its affairs in accordance with s. 605.0709, except for the purpose of lawsuits, other proceedings, and appropriate action as provided in this chapter.
+History.—s. 2, ch. 2013-180.
+605.0708 Revocation of articles of dissolution.—
+(1) A limited liability company that has dissolved as the result of an event described in s. 605.0701(1)-(3) and filed articles of dissolution with the department, but has not filed a statement of termination which has become effective, may revoke its dissolution at any time before 120 days after the effective date of its articles of dissolution.
+(2) The revocation of the dissolution shall be authorized in the same manner as the dissolution was authorized.
+(3) After the revocation of dissolution is authorized, the limited liability company shall deliver a statement of revocation of dissolution to the department for filing, together with a copy of its articles of dissolution, which must include the following:
+(a) The name of the limited liability company.
+(b) The effective date of the dissolution which was revoked.
+(c) The date that the statement of revocation of dissolution was authorized.
+(4) If there has been substantial compliance with subsection (3), the revocation of dissolution is effective when the department files the statement of revocation of dissolution.
+(5) When the revocation of dissolution becomes effective:
+(a) The company resumes carrying on its activities and affairs as if dissolution had never occurred;
+(b) Subject to paragraph (c), a liability incurred by the company after the dissolution and before the revocation is effective is determined as if dissolution had never occurred; and
+(c) The rights of a third party arising out of conduct in reliance on the dissolution before the third party knew or had notice of the revocation may not be adversely affected.
+History.—s. 2, ch. 2013-180.
+605.0709 Winding up.—
+(1) A dissolved limited liability company shall wind up its activities and affairs and, except as otherwise provided in ss. 605.0708 and 605.0715, the company continues after dissolution only for the purpose of winding up.
+(2) In winding up its activities and affairs, a limited liability company:
+(a) Shall discharge or make provision for the company’s debts, obligations, and other liabilities as provided in ss. 605.0710-605.0713, settle and close the company’s activities and affairs, and marshal and distribute the assets of the company; and
+(b) May:
+1. Preserve the company’s activities, affairs, and property as a going concern for a reasonable time;
+2. Prosecute and defend actions and proceedings, whether civil, criminal, or administrative;
+3. Transfer title to the company’s real estate and other property;
+4. Settle disputes by mediation or arbitration;
+5. Dispose of its properties that will not be distributed in kind to its members; and
+6. Perform other acts necessary or appropriate to the winding up.
+(3) If a dissolved limited liability company has no members, the legal representative of the last person to have been a member may wind up the activities and affairs of the company. If the legal representative does so, the person has the powers of a sole manager under s. 605.0407(3) and is deemed to be a manager for the purposes of s. 605.0304(1).
+(4) If the legal representative under subsection (3) declines or fails to wind up the company’s activities and affairs, a person may be appointed to do so by the consent of the transferees owning a majority of the rights to receive distributions as transferees at the time the consent is to be effective. A person appointed under this subsection has the powers of a sole manager under s. 605.0407(3) and is deemed to be a manager for the purposes of s. 605.0304(1).
+(5) A circuit court may order judicial supervision of the winding up of a dissolved limited liability company, including the appointment of one or more persons to wind up the company’s activities and affairs:
+(a) On application of a member or manager if the applicant establishes good cause;
+(b) On the application of a transferee if:
+1. The company does not have any members;
+2. The legal representative of the last person to have been a member declines or fails to wind up the company’s activities and affairs; or
+3. Within a reasonable time following the dissolution a person has not been appointed pursuant to subsection (3);
+(c) On application of a creditor of the company if the applicant establishes good cause, but only if a receiver, custodian, or another person has not already been appointed for that purpose under this chapter; or
+(d) In connection with a proceeding under s. 605.0702 if a receiver, custodian, or another person has not already been appointed for that purpose under s. 605.0704.
+(6) The person or persons appointed by a court under subsection (5) may also be designated trustees for or receivers of the company with the authority to take charge of the limited liability company’s property; to collect the debts and property due and belonging to the limited liability company; to prosecute and defend, in the name of the limited liability company, or otherwise, all such suits as may be necessary or proper for the purposes described above; to appoint an agent or agents under them; and to do all other acts that might be done by the limited liability company, if in being, which may be necessary for the final settlement of the unfinished activities and affairs of the limited liability company. The powers of the trustees or receivers may be continued as long as the court determines is necessary for the above purposes.
+(7) A dissolved limited liability company that has completed winding up may deliver to the department for filing a statement of termination that provides the following:
+(a) The name of the limited liability company.
+(b) The date of filing of its initial articles of organization.
+(c) The date of the filing of its articles of dissolution.
+(d) The limited liability company has completed winding up its activities and affairs and has determined that it will file a statement of termination.
+(e) Other information as determined by the authorized representative.
+(8) The manager or managers in office at the time of dissolution or the survivors of such manager or managers, or, if none, the members, shall thereafter be trustees for the members and creditors of the dissolved limited liability company. The trustees may distribute property of the limited liability company discovered after dissolution, convey real estate and other property, and take such other action as may be necessary on behalf of and in the name of the dissolved limited liability company.
+History.—s. 2, ch. 2013-180.
+605.0710 Disposition of assets in winding up.—
+(1) In winding up its activities and affairs, a limited liability company must apply its assets to discharge its obligations to creditors, including members who are creditors.
+(2) After a limited liability company complies with subsection (1), the surplus must be distributed in the following order, subject to a charging order in effect under s. 605.0503:
+(a) To each person owning a transferable interest that reflects contributions made and not previously returned, an amount equal to the value of the unreturned contributions; then
+(b) To members and persons dissociated as members, in the proportions in which they shared in distributions before dissolution, except to the extent necessary to comply with a transfer effective under s. 605.0502.
+(3) If the limited liability company does not have sufficient surplus to comply with paragraph (2)(a), any surplus must be distributed among the owners of transferable interests in proportion to the value of their respective unreturned contributions.
+(4) All distributions made under subsections (2) and (3) must be paid in money.
+History.—s. 2, ch. 2013-180.
+605.0711 Known claims against dissolved limited liability company.—
+(1) A dissolved limited liability company or successor entity, as defined in subsection (14), may dispose of the known claims against it by following the procedures described in subsections (2)-(7).
+(2) A dissolved limited liability company or successor entity shall deliver to each of its known claimants written notice of the dissolution after its effective date. The written notice must do the following:
+(a) Provide a reasonable description of the claim that the claimant may be entitled to assert.
+(b) State whether the claim is admitted or not admitted, in whole or in part, and, if admitted:
+1. The amount that is admitted, which may be as of a given date; and
+2. An interest obligation if fixed by an instrument of indebtedness.
+(c) Provide a mailing address to which a claim may be sent.
+(d) State the deadline, which may not be less than 120 days after the effective date of the written notice, by which confirmation of the claim must be delivered to the dissolved limited liability company or successor entity.
+(e) State that the dissolved limited liability company or successor entity may make distributions to other claimants and to the members or transferees of the limited liability company or persons interested without further notice.
+(3) A dissolved limited liability company or successor entity may reject, in whole or in part, a claim made by a claimant pursuant to this subsection by mailing notice of the rejection to the claimant within 90 days after receipt of the claim and, in all events, at least 150 days before the expiration of the 3-year period after the effective date of dissolution. A notice sent by the dissolved limited liability company or successor entity pursuant to this subsection must be accompanied by a copy of this section.
+(4) A dissolved limited liability company or successor entity electing to follow the procedures described in subsections (2) and (3) shall also give notice of the dissolution of the limited liability company to persons who have known claims that are contingent upon the occurrence or nonoccurrence of future events or otherwise conditional or unmatured and request that the persons present the claims in accordance with the terms of the notice. The notice must be in substantially the same form and sent in the same manner as described in subsection (2).
+(5) A dissolved limited liability company or successor entity shall offer a claimant whose known claim is contingent, conditional, or unmatured such security as the limited liability company or entity determines is sufficient to provide compensation to the claimant if the claim matures. The dissolved limited liability company or successor entity shall deliver such offer to the claimant within 90 days after receipt of the claim and, in all events, at least 150 days before expiration of 3 years after the effective date of dissolution. If the claimant that is offered the security does not deliver in writing to the dissolved limited liability company or successor entity a notice rejecting the offer within 120 days after receipt of the offer for security, the claimant is deemed to have accepted such security as the sole source from which to satisfy his, her, or its claim against the limited liability company.
+(6) A dissolved limited liability company or successor entity that gives notice in accordance with subsections (2) and (4) shall petition the circuit court in the applicable county to determine the amount and form of security that are sufficient to provide compensation to a claimant that has rejected the offer for security made pursuant to subsection (5).
+(7) A dissolved limited liability company or successor entity that has given notice in accordance with subsection (2) shall petition the circuit court in the applicable county to determine the amount and form of security that will be sufficient to provide compensation to claimants whose claims are known to the limited liability company or successor entity but whose identities are unknown. The court shall appoint a guardian ad litem to represent all claimants whose identities are unknown in a proceeding brought under this subsection. The reasonable fees and expenses of the guardian, including all reasonable expert witness fees, shall be paid by the petitioner in the proceeding.
+(8) The giving of notice or making of an offer pursuant to this section does not revive a claim then barred, extend an otherwise applicable statute of limitations, or constitute acknowledgment by the dissolved limited liability company or successor entity that a person to whom such notice is sent is a proper claimant, and does not operate as a waiver of a defense or counterclaim in respect of a claim asserted by a person to whom such notice is sent.
+(9) A dissolved limited liability company or successor entity that followed the procedures described in subsections (2)-(7) must:
+(a) Pay the claims admitted or made and not rejected in accordance with subsection (3);
+(b) Post the security offered and not rejected pursuant to subsection (5);
+(c) Post a security ordered by the circuit court in a proceeding under subsections (6) and (7); and
+(d) Pay or make provision for all other known obligations of the limited liability company or the successor entity.
+If there are sufficient funds, such claims or obligations must be paid in full, and a provision for payments must be made in full. If there are insufficient funds, the claims and obligations shall be paid or provided for according to their priority and, among claims of equal priority, ratably to the extent of funds that are legally available therefor. Remaining funds shall be distributed to the members and transferees of the dissolved limited liability company. However, the distribution may not be made before the expiration of 150 days after the date of the last notice of a rejection given pursuant to subsection (3). In the absence of actual fraud, the judgment of the managers of a dissolved manager-managed limited liability company or the members of a dissolved member-managed limited liability company, or other person or persons winding up the limited liability company or the governing persons of the successor entity, as to the provisions made for the payment of all obligations under paragraph (d), is conclusive.
+
+(10) A dissolved limited liability company or successor entity that has not followed the procedures described in subsections (2) and (3) shall pay or make reasonable provision to pay all known claims and obligations, including all contingent, conditional, or unmatured claims known to the dissolved limited liability company or the successor entity and all claims that are known to the dissolved limited liability company or the successor entity but for which the identity of the claimant is unknown. If there are sufficient funds, the claims must be paid in full, and a provision made for payment must be made in full. If there are insufficient funds, the claims and obligations shall be paid or provided for according to their priority and, among claims of equal priority, ratably to the extent of funds that are legally available. Remaining funds shall be distributed to the members and transferees of the dissolved limited liability company.
+(11) A member or transferee of a dissolved limited liability company to which the assets were distributed pursuant to subsection (9) or subsection (10) is not liable for a claim against the limited liability company in an amount in excess of the member’s or transferee’s pro rata share of the claim or the amount distributed to the member or transferee, whichever is less.
+(12) A member or transferee of a dissolved limited liability company to whom the assets were distributed pursuant to subsection (9) is not liable for a claim against the limited liability company, which claim is known to the limited liability company or successor entity and on which a proceeding is not begun before the expiration of 3 years after the effective date of dissolution.
+(13) The aggregate liability of a person for claims against the dissolved limited liability company arising under this section or s. 605.0710 may not exceed the amount distributed to the person in dissolution.
+(14) As used in this section and s. 605.0712, the term “successor entity” includes a trust, receivership, or other legal entity governed by the laws of this state to which the remaining assets and liabilities of a dissolved limited liability company are transferred and which exists solely for the purposes of prosecuting and defending suits by or against the dissolved limited liability company, thereby enabling the dissolved limited liability company to settle and close the activities and affairs of the dissolved limited liability company, to dispose of and convey the property of the dissolved limited liability company, to discharge the liabilities of the dissolved limited liability company, and to distribute to the dissolved limited liability company’s members or transferees any remaining assets, but not for the purpose of continuing the activities and affairs for which the dissolved limited liability company was organized.
+(15) As used in this section and ss. 605.0712 and 605.0713, the term “applicable county” means the county in this state in which the limited liability company’s principal office is located or was located at the effective date of dissolution; if the company has, and at the effective date of dissolution had, no principal office in this state, then in the county in which the company has, or at the effective date of dissolution had, an office in this state; or if none in this state, then in the county in which the company’s registered office is or was last located.
+(16) As used in this section, the term “known claim” or “claim” includes unliquidated claims, but does not include a contingent liability that has not matured so that there is no immediate right to bring suit or a claim based on an event occurring after the effective date of dissolution.
+History.—s. 2, ch. 2013-180; s. 134, ch. 2014-17.
+605.0712 Other claims against a dissolved limited liability company.—
+(1) A dissolved limited liability company or successor entity, as defined in s. 605.0711(14), may choose to execute one of the following procedures to resolve payment of unknown claims:
+(a) The company or successor entity may file notice of its dissolution with the department on the form prescribed by the department and request that persons who have claims against the company which are not known to the company or successor entity present them in accordance with the notice. The notice must:
+1. State the name of the company and the date of dissolution;
+2. Describe the information that must be included in a claim, state that the claim must be in writing, and provide a mailing address to which the claim may be sent; and
+3. State that a claim against the company is barred unless an action to enforce the claim is commenced within 4 years after the filing of the notice.
+(b) The company or successor entity may publish notice of its dissolution and request persons who have claims against the company to present them in accordance with the notice. The notice must:
+1. Be published in a newspaper of general circulation in the county in which the dissolved limited liability company’s principal office is located or, if the principal office is not located in this state, in the county in which the office of the company’s registered agent is or was last located;
+2. Describe the information that must be included in a claim, state that the claim must be in writing, and provide a mailing address to which the claim is to be sent; and
+3. State that a claim against the company is barred unless an action to enforce the claim is commenced within 4 years after publication of the notice.
+(2) If a dissolved limited liability company complies with paragraph (1)(a) or paragraph (1)(b), unless sooner barred by another statute limiting actions, the claim of each of the following claimants is barred unless the claimant commences an action to enforce the claim against the dissolved limited liability company within 4 years after the publication date of the notice:
+(a) A claimant that did not receive notice in a record under s. 605.0711;
+(b) A claimant whose claim was timely sent to the dissolved limited liability company but not acted on; and
+(c) A claimant whose claim is contingent at or based on an event occurring after the effective date of dissolution.
+(3) A claim that is not barred by this section or another statute limiting actions may be enforced:
+(a) Against a dissolved limited liability company, to the extent of its undistributed assets; and
+(b) Except as otherwise provided in s. 605.0713, if assets of the limited liability company have been distributed after dissolution, against a member or transferee to the extent of that person’s proportionate share of the claim or of the company’s assets distributed to the member or transferee after dissolution, whichever is less, but a person’s total liability for all claims under this subsection may not exceed the total amount of assets distributed to the person after dissolution.
+(4) This section does not extend an otherwise applicable statute of limitations.
+History.—s. 2, ch. 2013-180; s. 73, ch. 2015-2; s. 25, ch. 2015-148.
+605.0713 Court proceedings.—
+(1) A dissolved limited liability company that has filed or published a notice under s. 605.0712(1)(a) or (1)(b) may file an application with the circuit court in the applicable county, as defined in s. 605.0711(15), for a determination of the amount and form of security to be provided for payment of claims that are contingent, have not been made known to the company, or are based on an event occurring after the effective date of dissolution but which, based on the facts known to the dissolved company, are reasonably expected to arise after the effective date of dissolution. Security is not required for a claim that is, or is reasonably anticipated to be, barred under s. 605.0712.
+(2) Within 10 days after filing an application under subsection (1), the dissolved limited liability company must give notice of the proceeding to each claimant holding a contingent claim known to the company.
+(3) In a proceeding under this section, the court may appoint a guardian ad litem to represent all claimants whose identities are unknown. The reasonable fees and expenses of the guardian ad litem, including all reasonable expert witness fees, must be paid by the dissolved limited liability company.
+(4) A dissolved limited liability company that provides security in the amount and form ordered by the court under subsection (1) satisfies the company’s obligations with respect to claims that are contingent, have not been made known to the company, or are based on an event occurring after the effective date of dissolution, and such claims may not be enforced against a member or transferee that received assets in liquidation.
+History.—s. 2, ch. 2013-180.
+605.0714 Administrative dissolution.—
+(1) The department may dissolve a limited liability company administratively if the company does not:
+(a) Deliver its annual report to the department by 5:00 p.m. Eastern Time on the third Friday in September of each year;
+(b) Pay a fee or penalty due to the department under this chapter;
+(c) Appoint and maintain a registered agent as required under s. 605.0113; or
+(d) Deliver for filing a statement of a change under s. 605.0114 within 30 days after a change has occurred in the name or address of the agent unless, within 30 days after the change occurred:
+1. The agent filed a statement of change under s. 605.0116; or
+2. The change was made in accordance with s. 605.0114(4).
+(2) Administrative dissolution of a limited liability company for failure to file an annual report must occur on the fourth Friday in September of each year. The department shall issue a notice in a record of administrative dissolution to the limited liability company dissolved for failure to file an annual report. Issuance of the notice may be by electronic transmission to a limited liability company that has provided the department with an e-mail address.
+(3) If the department determines that one or more grounds exist for administratively dissolving a limited liability company under paragraph (1)(b), paragraph (1)(c), or paragraph (1)(d), the department shall serve notice in a record to the limited liability company of its intent to administratively dissolve the limited liability company. Issuance of the notice may be by electronic transmission to a limited liability company that has provided the department with an e-mail address.
+(4) If, within 60 days after sending the notice of intent to administratively dissolve pursuant to subsection (3), a limited liability company does not correct each ground for dissolution under paragraph (1)(b), paragraph (1)(c), or paragraph (1)(d) or demonstrate to the reasonable satisfaction of the department that each ground determined by the department does not exist, the department shall dissolve the limited liability company administratively and issue to the company a notice in a record of administrative dissolution that states the grounds for dissolution. Issuance of the notice of administrative dissolution may be by electronic transmission to a limited liability company that has provided the department with an e-mail address.
+(5) A limited liability company that has been administratively dissolved continues in existence but may only carry on activities necessary to wind up its activities and affairs, liquidate and distribute its assets, and notify claimants under ss. 605.0711 and 605.0712.
+(6) The administrative dissolution of a limited liability company does not terminate the authority of its registered agent for service of process.
+History.—s. 2, ch. 2013-180; s. 135, ch. 2014-17.
+605.0715 Reinstatement.—
+(1) A limited liability company that is administratively dissolved under s. 605.0714 or former s. 608.4481 may apply to the department for reinstatement at any time after the effective date of dissolution. The company must submit all fees and penalties then owed by the company at the rates provided by law at the time the company applies for reinstatement, together with an application for reinstatement prescribed and furnished by the department, which is signed by both the registered agent and an authorized representative of the company and states:
+(a) The name of the limited liability company.
+(b) The street address of the company’s principal office and mailing address.
+(c) The date of the company’s organization.
+(d) The company’s federal employer identification number or, if none, whether one has been applied for.
+(e) The name, title or capacity, and address of at least one person who has authority to manage the company.
+(f) Additional information that is necessary or appropriate to enable the department to carry out this chapter.
+(2) In lieu of the requirement to file an application for reinstatement as described in subsection (1), an administratively dissolved limited liability company may submit all fees and penalties owed by the company at the rates provided by law at the time the company applies for reinstatement, together with a current annual report, signed by both the registered agent and an authorized representative of the company, which contains the information described in subsection (1).
+(3) If the department determines that an application for reinstatement contains the information required under subsection (1) or subsection (2) and that the information is correct, upon payment of all required fees and penalties, the department shall reinstate the limited liability company.
+(4) When reinstatement under this section becomes effective:
+(a) The reinstatement relates back to and takes effect as of the effective date of the administrative dissolution.
+(b) The limited liability company may resume its activities and affairs as if the administrative dissolution had not occurred.
+(c) The rights of a person arising out of an act or omission in reliance on the dissolution before the person knew or had notice of the reinstatement are not affected.
+(5) The name of the dissolved limited liability company is not available for assumption or use by another business entity until 1 year after the effective date of dissolution unless the dissolved limited liability company provides the department with a record executed as required pursuant to s. 605.0203 permitting the immediate assumption or use of the name by another business entity.
+(6) If the name of the dissolved limited liability company has been lawfully assumed in this state by another business entity, the department shall require the dissolved limited liability company to amend its articles of organization to change its name before accepting the application for reinstatement.
+History.—s. 2, ch. 2013-180; s. 7, ch. 2015-148; s. 253, ch. 2019-90.
+605.0716 Judicial review of denial of reinstatement.—
+(1) If the department denies a limited liability company’s application for reinstatement after administrative dissolution, the department shall serve the company with a notice in a record that explains the reason or reasons for the denial.
+(2) Within 30 days after service of a notice of denial of reinstatement, a limited liability company may appeal the denial by petitioning the Circuit Court of Leon County to set aside the dissolution. The petition must be served on the department and must contain a copy of the department’s notice of administrative dissolution, the company’s application for reinstatement, and the department’s notice of denial.
+(3) The circuit court may order the department to reinstate a dissolved limited liability company or take other action the court considers appropriate.
+(4) The circuit court’s final decision may be appealed as in other civil proceedings.
+History.—s. 2, ch. 2013-180; s. 254, ch. 2019-90; s. 74, ch. 2020-32.
+605.0717 Effect of dissolution.—
+(1) Dissolution of a limited liability company does not:
+(a) Transfer title to the limited liability company’s assets;
+(b) Prevent commencement of a proceeding by or against the limited liability company in its name;
+(c) Abate or suspend a proceeding pending by or against the limited liability company on the effective date of dissolution; or
+(d) Terminate the authority of the registered agent of the limited liability company.
+(2) Except as provided in s. 605.0715(5), the name of the dissolved limited liability company is not available for assumption or use by another business entity until 120 days after the effective date of dissolution or filing of a statement of termination, if earlier.
+History.—s. 2, ch. 2013-180; s. 26, ch. 2015-148.
+605.0801 Direct action by member.—
+(1) Subject to subsection (2), a member may maintain a direct action against another member, a manager, or the limited liability company to enforce the member’s rights and otherwise protect the member’s interests, including rights and interests under the operating agreement or this chapter or arising independently of the membership relationship.
+(2) A member maintaining a direct action under this section must plead and prove either:
+(a) An actual or threatened injury that is not solely the result of an injury suffered or threatened to be suffered by the limited liability company; or
+(b) An actual or threatened injury resulting from a violation of a separate statutory or contractual duty owed by the alleged wrongdoer to the member, even if the injury is in whole or in part the same as the injury suffered or threatened to be suffered by the limited liability company.
+History.—s. 2, ch. 2013-180; s. 255, ch. 2019-90.
+605.0802 Derivative action.—A member may maintain a derivative action to enforce a right of a limited liability company if:
+(1) The member first makes a demand on the other members in a member-managed limited liability company or the managers of a manager-managed limited liability company requesting that the managers or other members cause the company to take suitable action to enforce the right, and the managers or other members do not take the action within a reasonable time, not to exceed 90 days; or
+(2) A demand under subsection (1) would be futile, or irreparable injury would result to the company by waiting for the other members or the managers to take action to enforce the right in accordance with subsection (1).
+History.—s. 2, ch. 2013-180.
+605.0803 Proper plaintiff.—A derivative action to enforce a right of a limited liability company may be commenced only by a person who is a member at the time the action is commenced and:
+(1) Was a member when the conduct giving rise to the action occurred; or
+(2) Whose status as a member devolved on the person by operation of law or pursuant to the terms of the operating agreement from a person who was a member when the conduct giving rise to the action occurred.
+History.—s. 2, ch. 2013-180; s. 256, ch. 2019-90.
+605.0804 Special litigation committee.—
+(1) If a limited liability company is named as or made a party in a derivative action, the company may appoint a special litigation committee to investigate the claims asserted in the derivative action and determine whether pursuing the action is in the best interest of the company. If the company appoints a special litigation committee, on motion, except for good cause shown, the court may stay any derivative action for the time reasonably necessary to permit the committee to make its investigation. This subsection does not prevent the court from:
+(a) Enforcing a person’s rights under the company’s operating agreement or this chapter, including the person’s rights to information under s. 605.0410; or
+(b) Exercising its equitable or other powers, including granting extraordinary relief in the form of a temporary restraining order or preliminary injunction.
+(2) A special litigation committee must be composed of one or more disinterested and independent individuals, who may be members.
+(3) A special litigation committee may be appointed:
+(a) In a member-managed limited liability company, by the consent of the members who are not named as parties in the derivative action, who are otherwise disinterested and independent, and who hold a majority of the current percentage or other interest in the profits of the company owned by all of the members of the company who are not named as parties in the derivative action and who are otherwise disinterested and independent;
+(b) In a manager-managed limited liability company, by a majority of the managers not named as parties in the derivative action and who are otherwise disinterested and independent; or
+(c) Upon motion by the limited liability company, consisting of a panel of one or more disinterested and independent persons.
+(4) After appropriate investigation, a special litigation committee shall determine what action is in the best interest of the limited liability company, including continuing, dismissing, or settling the derivative action or taking another action that the special litigation committee deems appropriate.
+(5) After making a determination under subsection (4), a special litigation committee shall file or cause to be filed with the court a statement of its determination and its report supporting its determination and shall serve each party to the derivative action with a copy of the determination and report. Upon motion to enforce the determination of the special litigation committee, the court shall determine whether the members of the committee were disinterested and independent and whether the committee conducted its investigation and made its recommendation in good faith, independently, and with reasonable care, with the committee having the burden of proof. If the court finds that the members of the committee were disinterested and independent and that the committee acted in good faith, independently, and with reasonable care, the court may enforce the determination of the committee. Otherwise, the court shall dissolve any stay of derivative action entered under subsection (1) and allow the derivative action to continue under the control of the plaintiff.
+History.—s. 2, ch. 2013-180.
+605.0805 Proceeds and expenses.—
+(1) Except as otherwise provided in subsection (2):
+(a) Proceeds or other benefits of a derivative action under s. 605.0802, whether by judgment, compromise, or settlement, belong to the limited liability company and not to the plaintiff; and
+(b) If the plaintiff receives any proceeds, the plaintiff shall remit them immediately to the company.
+(2) If a derivative action is successful in whole or in part, the court may award the plaintiff reasonable expenses, including reasonable attorney fees and costs, from the recovery of the limited liability company.
+History.—s. 2, ch. 2013-180; s. 74, ch. 2015-2; s. 27, ch. 2015-148.
+605.0806 Voluntary dismissal or settlement; notice.—
+(1) A derivative action on behalf of a limited liability company may not be voluntarily dismissed or settled without the court’s approval.
+(2) If the court determines that a proposed voluntary dismissal or settlement will substantially affect the interest of the limited liability company’s members or a class, series, or voting group of members, the court shall direct that notice be given to the members affected. The court may determine which party or parties to the derivative action shall bear the expense of giving the notice.
+History.—s. 2, ch. 2013-180.
+605.0901 Governing law.—
+(1) The law of the state or other jurisdiction under which a foreign limited liability company exists governs:
+(a) The organization and internal affairs of the foreign limited liability company; and
+(b) The liability of a member as member and a manager as manager for the debts, obligations, or other liabilities of the foreign limited liability company.
+(2) A foreign limited liability company may not be denied a certificate of authority by reason of a difference between its jurisdiction of formation and the laws of this state.
+(3) A certificate of authority does not authorize a foreign limited liability company to engage in any business or exercise any power that a limited liability company may not engage in or exercise in this state.
+History.—s. 2, ch. 2013-180.
+605.0902 Application for certificate of authority.—
+(1) A foreign limited liability company may not transact business in this state until it obtains a certificate of authority from the department. A foreign limited liability company may apply for a certificate of authority to transact business in this state by delivering an application to the department for filing. Such application must be made on forms prescribed by the department. The application must contain the following:
+(a) The name of the foreign limited liability company and, if the name does not comply with s. 605.0112, an alternate name adopted pursuant to s. 605.0906.
+(b) The name of the foreign limited liability company’s jurisdiction of formation.
+(c) The principal office and mailing addresses of the foreign limited liability company.
+(d) The name and street address in this state of, and the written acceptance by, the foreign limited liability company’s initial registered agent in this state.
+(e) The name, title or capacity, and address of at least one person who has the authority to manage the foreign limited liability company.
+(f) Additional information as may be necessary or appropriate in order to enable the department to determine whether the foreign limited liability company is entitled to file an application for a certificate of authority to transact business in this state and to determine and assess the fees as prescribed in this chapter.
+(2) A foreign limited liability company shall deliver with a completed application under subsection (1) a certificate of existence or a record of similar import signed by the Secretary of State or other official having custody of the foreign limited liability company’s publicly filed records in its jurisdiction of formation, dated not more than 90 days before the delivery of the application to the department.
+(3) For purposes of complying with the requirements of this chapter, the department may require each individual series or cell of a foreign series limited liability company that transacts business in this state to make a separate application for certificate of authority, and to make such other filings as may be required for purposes of complying with the requirements of this chapter as if each such series or cell were a separate foreign limited liability company.
+History.—s. 2, ch. 2013-180.
+605.0903 Effect of a certificate of authority.—
+(1) Unless the department determines that an application for a certificate of authority of a foreign limited liability company to transact business in this state does not comply with the filing requirements of this chapter, the department shall, upon payment of all filing fees, authorize the foreign limited liability company to transact business in this state and file the application for a certificate of authority.
+(2) The filing by the department of an application for a certificate of authority means the foreign limited liability company that filed the application to transact business in this state has obtained a certificate of authority to transact business in this state and is authorized to transact business in this state, subject, however, to the right of the department to suspend or revoke the certificate of authority as provided in this chapter.
+History.—s. 2, ch. 2013-180; s. 257, ch. 2019-90.
+605.0904 Effect of failure to have certificate of authority.—
+(1) A foreign limited liability company transacting business in this state or its successors may not maintain an action or proceeding in this state unless it has a certificate of authority to transact business in this state.
+(2) The successor to a foreign limited liability company that transacted business in this state without a certificate of authority and the assignee of a cause of action arising out of that business may not maintain a proceeding based on that cause of action in a court in this state until the foreign limited liability company or its successor obtains a certificate of authority.
+(3) A court may stay a proceeding commenced by a foreign limited liability company or its successor or assignee until it determines whether the foreign limited liability company or its successor requires a certificate of authority. If it so determines, the court may further stay the proceeding until the foreign limited liability company or its successor has obtained a certificate of authority to transact business in this state.
+(4) The failure of a foreign limited liability company to have a certificate of authority to transact business in this state does not impair the validity of any contract, deed, mortgage, security interest, or act of the foreign limited liability company or prevent the foreign limited liability company from defending an action or proceeding in this state.
+(5) A member or manager of a foreign limited liability company is not liable for the debts, obligations, or other liabilities of the foreign limited liability company solely because the foreign limited liability company transacted business in this state without a certificate of authority.
+(6) If a foreign limited liability company transacts business in this state without a certificate of authority or cancels its certificate of authority, it appoints the department as its agent for service of process for rights of action arising out of the transaction of business in this state.
+(7) A foreign limited liability company that transacts business in this state without obtaining a certificate of authority is liable to this state for the years or parts thereof during which it transacted business in this state without obtaining a certificate of authority in an amount equal to all fees and penalties that would have been imposed by this chapter upon the foreign limited liability company had it duly applied for and received a certificate of authority to transact business in this state as required under this chapter. In addition to the payments thus prescribed, the foreign limited liability company is liable for a civil penalty of at least $500 but not more than $1,000 for each year or part thereof during which it transacts business in this state without a certificate of authority. The department may collect all penalties due under this subsection.
+History.—s. 2, ch. 2013-180; s. 136, ch. 2014-17; s. 258, ch. 2019-90.
+605.0905 Activities not constituting transacting business.—
+(1) The following activities, among others, do not constitute transacting business within the meaning of s. 605.0902(1):
+(a) Maintaining, defending, or settling any proceeding.
+(b) Holding meetings of the managers or members or carrying on other activities concerning internal company affairs.
+(c) Maintaining bank accounts.
+(d) Maintaining managers or agencies for the transfer, exchange, and registration of the foreign limited liability company’s own securities or maintaining trustees or depositaries with respect to those securities.
+(e) Selling through independent contractors.
+(f) Soliciting or obtaining orders, whether by mail or through employees, agents, or otherwise, if the orders require acceptance outside this state before they become contracts.
+(g) Creating or acquiring indebtedness, mortgages, and security interests in real or personal property.
+(h) Securing or collecting debts or enforcing mortgages and security interests in property securing the debts.
+(i) Transacting business in interstate commerce.
+(j) Conducting an isolated transaction that is completed within 30 days and that is not one in the course of repeated transactions of a like nature.
+(k) Owning and controlling a subsidiary corporation incorporated in or limited liability company formed in, or transacting business within, this state; voting the stock of any such subsidiary corporation; or voting the membership interests of any such limited liability company, which it has lawfully acquired.
+(l) Owning a limited partner interest in a limited partnership that is transacting business within this state, unless the limited partner manages or controls the partnership or exercises the powers and duties of a general partner.
+(m) Owning, without more, real or personal property.
+(2) The list of activities in subsection (1) is not an exhaustive list of activities that do not constitute transacting business within the meaning of s. 605.0902(1).
+(3) The ownership in this state of income-producing real property or tangible personal property, other than property excluded under subsection (1), constitutes transacting business in this state for purposes of s. 605.0902(1).
+(4) This section does not apply when determining the contacts or activities that may subject a foreign limited liability company to service of process, taxation, or regulation under the law of this state other than this chapter.
+History.—s. 2, ch. 2013-180; s. 137, ch. 2014-17.
+605.0906 Noncomplying name of foreign limited liability company.—
+(1) A foreign limited liability company whose name is unavailable under or whose name does not otherwise comply with s. 605.0112 shall use an alternate name that complies with s. 605.0112 to transact business in this state. An alternate name adopted for use in this state shall be cross-referenced to the actual name of the foreign limited liability company in the records of the department. If the actual name of the foreign limited liability company subsequently becomes available in this state or the foreign limited liability company chooses to change its alternate name, a copy of the record approving the change by its members, managers, or other persons having the authority to do so, and executed as required pursuant to s. 605.0203, shall be delivered to the department for filing.
+(2) A foreign limited liability company that adopts an alternate name under subsection (1) and obtains a certificate of authority with the alternate name need not comply with s. 865.09.
+(3) After obtaining a certificate of authority with an alternate name, a foreign limited liability company shall transact business in this state under the alternate name unless the company is authorized under s. 865.09 to transact business in this state under another name.
+(4) If a foreign limited liability company authorized to transact business in this state changes its name to one that does not comply with s. 605.0112, it may not thereafter transact business in this state until it complies with subsection (1) and obtains an amended certificate of authority pursuant to s. 605.0907.
+History.—s. 2, ch. 2013-180; s. 259, ch. 2019-90.
+605.0907 Amendment to certificate of authority.—
+(1) A foreign limited liability company authorized to transact business in this state shall deliver for filing an amendment to its certificate of authority to reflect the change of any of the following:
+(a) Its name on the records of the department.
+(b) Its jurisdiction of formation.
+(c) The name and street address in this state of the company’s registered agent in this state, unless the change was timely made in accordance with s. 605.0114 or s. 605.0116.
+(d) Any person identified in accordance with s. 605.0902(1)(e), or a change in the title or capacity or address of that person.
+(2) The amendment must be filed within 90 days after the occurrence of a change described in subsection (1), must be signed by an authorized representative of the foreign limited liability company, and must state the following:
+(a) The name of the foreign limited liability company as it appears on the records of the department.
+(b) Its jurisdiction of formation.
+(c) The date the foreign limited liability company was authorized to transact business in this state.
+(d) If the name of the foreign limited liability company has been changed, the name relinquished and its new name.
+(e) If the amendment changes the jurisdiction of formation of the foreign limited liability company, a statement of that change.
+(3) Subject to subsection (4), a foreign limited liability company authorized to do business in this state may make application to the department to obtain an amended certificate of authority to add, remove, or change the name, title, capacity, or address of a person who has the authority to manage the foreign limited liability company.
+(4) The requirements of s. 605.0902 for obtaining an original certificate of authority apply to obtaining an amended certificate under this section unless the official having custody of the foreign limited liability company’s publicly filed records in its jurisdiction of formation did not require an amendment to effectuate the change on its records.
+History.—s. 2, ch. 2013-180; s. 138, ch. 2014-17; s. 260, ch. 2019-90.
+605.0908 Revocation of certificate of authority.—
+(1) A certificate of authority of a foreign limited liability company to transact business in this state may be revoked by the department if:
+(a) The foreign limited liability company does not deliver its annual report to the department by 5 p.m. Eastern Time on the third Friday in September of each year.
+(b) The foreign limited liability company does not pay a fee or penalty due to the department under this chapter.
+(c) The foreign limited liability company does not appoint and maintain a registered agent as required under s. 605.0113.
+(d) The foreign limited liability company does not deliver for filing a statement of a change under s. 605.0114 within 30 days after a change in the name or address of the agent has occurred, unless, within 30 days after the change occurred, either:
+1. The registered agent files a statement of change under s. 605.0116; or
+2. The change was made in accordance with s. 605.0114(4).
+(e) The foreign limited liability company has failed to amend its certificate of authority to reflect a change in its name on the records of the department or its jurisdiction of formation.
+(f) The department receives a duly authenticated certificate from the official having custody of records in the company’s jurisdiction of formation stating that it has been dissolved or is no longer active on the official’s records.
+(g) The foreign limited liability company’s period of duration has expired.
+(h) A member, manager, or agent of the foreign limited liability company signs a document that the member, manager, or agent knew was false in a material respect with the intent that the document be delivered to the department for filing.
+(i) The foreign limited liability company has failed to answer truthfully and fully, within the time prescribed in s. 605.1104, interrogatories propounded by the department.
+(2) Revocation of a foreign limited liability company’s certificate of authority for failure to file an annual report shall occur on the fourth Friday in September of each year. The department shall issue a notice in a record of the revocation to the revoked foreign limited liability company. Issuance of the notice may be by electronic transmission to a foreign limited liability company that has provided the department with an e-mail address.
+(3) If the department determines that one or more grounds exist under paragraphs (1)(b)-(i) for revoking a foreign limited liability company’s certificate of authority, the department shall issue a notice in a record to the foreign limited liability company of the department’s intent to revoke the certificate of authority. Issuance of the notice may be by electronic transmission to a foreign limited liability company that has provided the department with an e-mail address.
+(4) If, within 60 days after the department sends the notice of intent to revoke in accordance with subsection (3), the foreign limited liability company does not correct each ground for revocation or demonstrate to the reasonable satisfaction of the department that each ground determined by the department does not exist, the department shall revoke the foreign limited liability company’s authority to transact business in this state and issue a notice in a record of revocation which states the grounds for revocation. Issuance of the notice may be by electronic transmission to a foreign limited liability company that has provided the department with an e-mail address.
+History.—s. 2, ch. 2013-180; s. 261, ch. 2019-90.
+605.0909 Reinstatement following revocation of certificate of authority.—
+(1) A foreign limited liability company whose certificate of authority has been revoked may apply to the department for reinstatement at any time after the effective date of the revocation. The foreign limited liability company applying for reinstatement must submit all fees and penalties then owed by the foreign limited liability company at rates provided by law at the time the foreign limited liability company applies for reinstatement, together with an application for reinstatement prescribed and furnished by the department, which is signed by both the registered agent and an authorized representative of the company and states:
+(a) The name under which the foreign limited liability company is registered to transact business in this state.
+(b) The street address of the company’s principal office and its mailing address.
+(c) The jurisdiction of the company’s formation and the date on which it became qualified to transact business in this state.
+(d) The company’s federal employer identification number or, if none, whether one has been applied for.
+(e) The name, title or capacity, and address of at least one person who has authority to manage the company.
+(f) Additional information that is necessary or appropriate to enable the department to carry out this chapter.
+(2) In lieu of the requirement to file an application for reinstatement as described in subsection (1), a foreign limited liability company whose certificate of authority has been revoked may submit all fees and penalties owed by the company at the rates provided by law at the time the company applies for reinstatement, together with a current annual report, signed by both the registered agent and an authorized representative of the company, which contains the information described in subsection (1).
+(3) If the department determines that an application for reinstatement contains the information required under subsection (1) or subsection (2) and that the information is correct, upon payment of all required fees and penalties, the department shall reinstate the foreign limited liability company’s certificate of authority.
+(4) When a reinstatement becomes effective, it relates back to and takes effect as of the effective date of the revocation of authority and the foreign limited liability company may resume its activities in this state as if the revocation of authority had not occurred.
+(5) The name of the foreign limited liability company whose certificate of authority has been revoked is not available for assumption or use by another business entity until 1 year after the effective date of revocation of authority unless the limited liability company provides the department with a record executed pursuant to s. 605.0203 which authorizes the immediate assumption or use of its name by another limited liability company.
+(6) If the name of the foreign limited liability company applying for reinstatement has been lawfully assumed in this state by another business entity, the department shall require the foreign limited liability company to comply with s. 605.0906 before accepting its application for reinstatement.
+History.—s. 2, ch. 2013-180; s. 8, ch. 2015-148.
+605.09091 Judicial review of denial of reinstatement.—
+(1) If the department denies a foreign limited liability company’s application for reinstatement after revocation of its certificate of authority, the department must serve the foreign limited liability company, pursuant to s. 605.0117(2), with a written notice that explains the reason or reasons for the denial.
+(2) Within 30 days after service of a notice of denial of reinstatement, a foreign limited liability company may appeal the denial by petitioning the Circuit Court of Leon County to set aside the revocation. The petition must be served on the department and must contain a copy of the department’s notice of revocation, the foreign limited liability company’s application for reinstatement, and the department’s notice of denial.
+(3) The circuit court may order the department to reinstate the certificate of authority of the foreign limited liability company or take other action the court considers appropriate.
+(4) The circuit court’s final decision may be appealed as in other civil proceedings.
+History.—s. 262, ch. 2019-90; s. 20, ch. 2022-190.
+605.0910 Withdrawal and cancellation of certificate of authority.—
+(1) To cancel its certificate of authority to transact business in this state, a foreign limited liability company must deliver to the department for filing a notice of withdrawal of certificate of authority. The certificate of authority is canceled when the notice becomes effective pursuant to s. 605.0207. The notice of withdrawal of certificate of authority must be signed by an authorized representative and state the following:
+(a) The name of the foreign limited liability company as it appears on the records of the department.
+(b) The name of the foreign limited liability company’s jurisdiction of formation.
+(c) The date the foreign limited liability company was authorized to transact business in this state.
+(d) That the foreign limited liability company is withdrawing its certificate of authority in this state.
+(e) That the foreign limited liability company revokes the authority of its registered agent to accept service on its behalf and appoints the secretary of state as its agent for service of process based on a cause of action arising during the time the foreign limited liability company was authorized to transact business in this state.
+(f) A mailing address and an e-mail address to which a party seeking to effectuate service of process may send a copy of any process served on the Secretary of State under paragraph (e).
+(g) A commitment to notify the department in the future of any change in its mailing address or e-mail address.
+(2) After the withdrawal of the foreign limited liability company is effective, service of process on the Secretary of State using the procedures set forth in s. 48.161 is service on the foreign limited liability company.
+History.—s. 2, ch. 2013-180; s. 263, ch. 2019-90; s. 21, ch. 2022-190.
+605.0911 Withdrawal deemed on conversion to domestic filing entity.—A registered foreign limited liability company authorized to transact business in this state that converts to a domestic limited liability company or to another domestic entity that is organized, incorporated, registered or otherwise formed through the delivery of a record to the department for filing is deemed to have withdrawn its certificate of authority on the effective date of the conversion.
+History.—s. 2, ch. 2013-180; s. 264, ch. 2019-90.
+605.0912 Withdrawal on dissolution, merger, or conversion to nonfiling entity.—
+(1) A registered foreign limited liability company that has dissolved and completed winding up, has merged into a foreign entity that is not authorized to transact business in this state, or has converted to a domestic or foreign entity that is not organized, incorporated, registered or otherwise formed through the public filing of a record, shall deliver a notice of withdrawal of certificate of authority to the department for filing in accordance with s. 605.0910.
+(2) After a withdrawal under this section of a foreign limited liability company that has converted to another type of entity is effective, service of process in any action or proceeding based on a cause of action arising during the time the foreign limited liability company was authorized to transact business in this state may be made pursuant to s. 605.0117.
+History.—s. 2, ch. 2013-180; s. 139, ch. 2014-17; s. 265, ch. 2019-90.
+605.0913 Action by Department of Legal Affairs.—The Department of Legal Affairs may maintain an action to enjoin a foreign limited liability company from transacting business in this state in violation of this chapter.
+History.—s. 2, ch. 2013-180.
+605.1001 Relationship of the provisions of this section and ss. 605.1002-605.1072 to other laws.—
+(1) The provisions of this section and ss. 605.1002-605.1072 do not authorize an act prohibited by, and do not affect the application or requirements of, law other than the provisions of this section and ss. 605.1002-605.1072.
+(2) A transaction effected under this section and ss. 605.1002-605.1072 may not create or impair a right or obligation on the part of a person under a provision of the law of this state other than this section and ss. 605.1002-605.1072, relating to a change in control, takeover, business combination, control-share acquisition, or similar transaction involving a merging, acquiring, or converting domestic business corporation unless:
+(a) If the corporation does not survive the transaction, the transaction satisfies the requirements of the provision; or
+(b) If the corporation survives the transaction, the approval of the plan is by a vote of the shareholders or directors which would be sufficient to create or impair the right or obligation directly under the provision.
+History.—s. 2, ch. 2013-180.
+605.1002 Charitable and donative provisions.—
+(1) Property held for a charitable purpose under the law of this state by a domestic or foreign entity immediately before a transaction under this chapter becomes effective may not, as a result of the transaction, be diverted from the objects for which it was donated, granted, devised, or otherwise transferred unless, to the extent required under or pursuant to the law of this state concerning cy pres or other law dealing with nondiversion of charitable assets, the entity obtains an appropriate order of the appropriate court specifying the disposition of the property.
+(2) A bequest, devise, gift, grant, or promise contained in a will or other instrument of donation, subscription, or conveyance that is made to a merging entity that is not the surviving entity and that takes effect or remains payable after the merger inures to the surviving entity. A trust obligation that would govern property if transferred to the nonsurviving entity applies to property that is transferred to the surviving entity under this section.
+History.—s. 2, ch. 2013-180.
+605.1003 Status of filings.—A filing under ss. 605.1001-605.1072 signed by a domestic entity becomes part of the public organic record of the entity if the entity’s organic law provides that similar filings under that law become part of the public organic record of the entity.
+History.—s. 2, ch. 2013-180.
+605.1004 Nonexclusivity.—The fact that a transaction under ss. 605.1001-605.1072 produces a certain result does not preclude the same result from being accomplished in any other manner authorized under a law other than the provisions of ss. 605.1001-605.1072.
+History.—s. 2, ch. 2013-180.
+605.1005 Reference to external facts.—A plan may refer to facts ascertainable outside the plan if the manner in which the facts will operate upon the plan is specified in the plan. The facts may include the occurrence of an event or a determination or action by a person, whether or not the event, determination, or action is within the control of a party to the transaction.
+History.—s. 2, ch. 2013-180.
+605.1006 Appraisal rights.—
+(1) A member of a limited liability company is entitled to appraisal rights and to obtain payment of the fair value of that member’s membership interest in the following events:
+(a) Consummation of a merger of a limited liability company pursuant to this chapter where the member possessed the right to vote upon the merger.
+(b) Consummation of a conversion of such limited liability company pursuant to this chapter where the member possessed the right to vote upon the conversion.
+(c) Consummation of an interest exchange pursuant to this chapter where the member possessed the right to vote upon the interest exchange except that appraisal rights are not available to any interest holder of the limited liability company whose interest in the limited liability company is not subject to exchange in the interest exchange.
+(d) Consummation of a sale of substantially all of the assets of a limited liability company where the member possessed the right to vote upon the sale unless the sale is pursuant to court order or the sale is for cash pursuant to a plan under which all or substantially all of the net proceeds of the sale will be distributed to the interest holders within 1 year after the date of sale.
+(e) An amendment to the organic rules of the entity which reduces the interest of the holder to a fraction of an interest, if the limited liability company will be obligated to or will have the right to repurchase the fractional interest so created.
+(f) An amendment to the organic rules of an entity, the effect of which is to alter or abolish voting or other rights with respect to such interest in a manner that is adverse to the interest of such member, except as the right may be affected by the voting or other rights of new interests then being authorized of a new class or series of interests.
+(g) An amendment to the organic rules of an entity the effect of which is to adversely affect the interest of the member by altering or abolishing appraisal rights under this section.
+(h) To the extent otherwise expressly authorized by the organic rules of the limited liability company.
+(2) A limited liability company may modify, restrict, or eliminate the appraisal rights provided in this section in its organic rules if the provision modifying, restricting, or eliminating the appraisal rights is authorized by each member whose appraisal rights are being modified, restricted, or eliminated. Organic rules containing an express waiver of appraisal rights that are approved by a member constitute a waiver of appraisal rights with respect to such member to the extent provided in such organic rules.
+(3) To the extent that appraisal rights are available hereunder, ss. 605.1061-605.1072 govern the procedures with respect to such appraisal rights as between the limited liability company and its members.
+(4) Notwithstanding subsection (1), the availability of appraisal rights must be limited in accordance with the following provisions:
+(a) Appraisal rights are not available for holders of a membership interest that is:
+1. A covered security under s. 18(b)(1)(A) or (B) of the Securities Act of 1933, as amended;
+2. Traded in an organized market and part of a class or series that has at least 2,000 members or other holders and a market value of at least $20 million, exclusive of the value of such class or series of membership interests held by the limited liability company’s subsidiaries, senior executives, managers, and beneficial members owning more than 10 percent of such class or series of membership interests; or
+3. Issued by an open-end management investment company registered with the Securities and Exchange Commission under the Investment Company Act of 1940 and subject to being redeemed at the option of the holder at net asset value.
+(b) The applicability of paragraph (a) shall be determined as of the date fixed to determine the members entitled to receive notice of and to vote upon the appraisal event, or the day before the effective date of such appraisal event if there is no meeting of the members to vote upon the appraisal event.
+(c) This subsection does not apply to, and appraisal rights must be available pursuant to subsection (1) for, any members who are required by the appraisal event to accept for their membership interests anything other than cash or a proprietary interest in an entity that satisfies the standards provided in paragraph (a) at the time the appraisal event becomes effective.
+(d) This subsection does not apply to, and appraisal rights must be available pursuant to subsection (1) for, the holder of a membership interest if:
+1. Any of the members’ interests in the limited liability company or the limited liability company’s assets are being acquired or converted, whether by merger, conversion, or otherwise, pursuant to the appraisal event by a person or by an affiliate of a person who:
+a. Is or at any time in the 1-year period immediately preceding approval of the appraisal event was the beneficial owner of 20 percent or more of those interests in the limited liability company entitled to vote on the appraisal event, excluding any such interests acquired pursuant to an offer for all interests having such voting rights, if such offer was made within 1 year before the appraisal event for consideration of the same kind and of a value equal to or less than that paid in connection with the appraisal event; or
+b. Directly or indirectly has, or at any time in the 1-year period immediately preceding approval of the appraisal event had, the power, contractually or otherwise, to cause the appointment or election of any senior executives or managers of the limited liability company; or
+2. Any of the members’ interests in the limited liability company or the limited liability company’s assets are being acquired or converted, whether by merger, conversion, or otherwise, pursuant to the appraisal event by a person, or by an affiliate of a person, who is or at any time in the 1-year period immediately preceding approval of the appraisal event was a senior executive of the limited liability company or a senior executive of any affiliate of the limited liability company, and that senior executive will receive, as a result of the limited liability company action, a financial benefit not generally available to members, other than:
+a. Employment, consulting, retirement, or similar benefits established separately and not as part, or in contemplation, of the appraisal event;
+b. Employment, consulting, retirement, or similar benefits established in contemplation, or as part, of the appraisal event which are not more favorable than those existing before the appraisal event or, if more favorable, which have been approved by the limited liability company; or
+c. In the case of a manager of the limited liability company who will, during or as the result of the appraisal event, become a manager, general partner, or director of the surviving or converted entity or one of its affiliates, those rights and benefits as a manager, general partner, or director which are provided on the same basis as those afforded by the surviving or converted entity generally to other managers, general partners, or directors of the surviving or converted entity or its affiliate.
+(e) For the purposes of sub-subparagraph (d)1.a., the term “beneficial owner” means a person who, directly or indirectly, through a contract, arrangement, or understanding, other than a revocable proxy, has or shares the right to vote or to direct the voting of an interest in a limited liability company with respect to approval of the appraisal event; however, a member of a national securities exchange may not be deemed to be a beneficial owner of an interest in a limited liability company held directly or indirectly by it on behalf of another person solely because the member is the record holder of interests in the limited liability company if the member is precluded by the rules of such exchange from voting without instruction on contested matters or matters that may substantially affect the rights or privileges of the holders of the interests in the limited liability company to be voted. If two or more persons agree to act together for the purpose of voting such interests, each member of the group formed thereby is deemed to have acquired beneficial ownership, as of the date of such agreement, of all voting interests in the limited liability company beneficially owned by a member or members of the group.
+History.—s. 2, ch. 2013-180; s. 140, ch. 2014-17.
+605.1021 Merger authorized.—
+(1) By complying with the provisions of this section and ss. 605.1022-605.1026:
+(a) One or more domestic limited liability companies may merge with one or more domestic or foreign entities into a domestic or foreign surviving entity; and
+(b) Two or more foreign entities may merge into a domestic limited liability company.
+(2) By complying with the provisions of this section and ss. 605.1022-605.1026 which are applicable to foreign entities, a foreign entity may be a party to a merger under the provisions of this section and ss. 605.1022-605.1026 or may be the surviving entity in such a merger if the merger is authorized by the law of the foreign entity’s jurisdiction of formation.
+(3) In the case of a merger involving a limited liability company that is a not-for-profit company, the surviving limited liability company or other business entity must also be a not-for-profit entity.
+History.—s. 2, ch. 2013-180.
+605.1022 Plan of merger.—
+(1) A domestic limited liability company may become a party to a merger under the provisions of ss. 605.1021-605.1026 by approving a plan of merger. The plan must be in a record and contain the following:
+(a) As to each merging entity, its name, jurisdiction of formation, and type of entity.
+(b) The surviving entity in the merger.
+(c) The manner and basis of converting the interests and the rights to acquire interests in each party to the merger into interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing.
+(d) If the surviving entity exists before the merger, any proposed amendments to or restatements of its public organic record, or any proposed amendments to or restatements of its private organic rules, which are or are proposed to be in a record, and all such amendments or restatements that are effective at the effective date of the merger.
+(e) If the surviving entity is to be created in the merger, its proposed public organic record and the full text of its private organic rules that are proposed to be in a record, if any.
+(f) The other terms and conditions of the merger.
+(g) Any other provision required by the law of a merging entity’s jurisdiction of formation or the organic rules of a merging entity.
+(2) In addition to the requirements under subsection (1), a plan of merger may contain any other provision not prohibited by law.
+History.—s. 2, ch. 2013-180.
+605.1023 Approval of merger.—
+(1) A plan of merger is not effective unless it has been approved:
+(a) With respect to a domestic merging limited liability company, by a majority-in-interest of the members; and
+(b) In a record, by each member of a merging limited liability company which will have interest holder liability for debts, obligations, and other liabilities that arise after the merger becomes effective, unless:
+1. The organic rules of the company in a record provide for the approval of a merger in which some or all of its members become subject to interest holder liability by the vote or consent of fewer than all of the members; and
+2. The member consented in a record to or voted for that provision of the organic rules or became a member after the adoption of that provision.
+(2) A merger involving a domestic merging entity that is not a limited liability company is not effective unless the merger is approved by that entity in accordance with its organic law.
+(3) A merger involving a foreign merging entity is not effective unless the merger is approved by the foreign entity in accordance with the law of the foreign entity’s jurisdiction of formation.
+(4) All members of each domestic limited liability company that is a party to the merger who have a right to vote upon the merger must be given written notice of any meeting with respect to the approval of a plan of merger as provided in subsection (1) not less than 10 days and not more than 60 days before the date of the meeting at which the plan of merger is submitted for approval by the members of such limited liability company. The notification required under this subsection may be waived in writing by the person or persons entitled to such notification.
+(5) The notification required under subsection (4) must be in writing and must include the following:
+(a) The date, time, and place of the meeting at which the plan of merger is to be submitted for approval by the members of the limited liability company.
+(b) A copy of the plan of merger.
+(c) The statement or statements required under ss. 605.1006 and 605.1061-605.1072 regarding the availability of appraisal rights, if any, to members of the limited liability company.
+(d) The date on which such notification was mailed or delivered to the members.
+(6) In addition to the requirements under subsection (5), the notification required under subsection (4) may contain any other information concerning the plan of merger not prohibited by applicable law.
+(7) The notification required under subsection (4) is deemed to be given at the earliest date of:
+(a) The date such notification is received;
+(b) Five days after the date such notification is deposited in the United States mail addressed to the member at the member’s address as it appears in the books and records of the limited liability company, with prepaid postage affixed;
+(c) The date shown on the return receipt if sent by registered or certified mail, return receipt requested, and the receipt is signed by or on behalf of the addressee; or
+(d) The date such notification is given in accordance with the provisions of the organic rules of the limited liability company.
+History.—s. 2, ch. 2013-180.
+605.1024 Amendment or abandonment of plan of merger.—
+(1) A plan of merger may be amended only with the consent of each party to the plan except as otherwise provided in the plan or in the organic rules of each such entity.
+(2) A merging limited liability company may approve an amendment of a plan of merger:
+(a) In the same manner that the plan was approved if the plan does not provide for the manner in which it may be amended; or
+(b) By the managers or members in the manner provided in the plan, but a member who was entitled to vote on or consent to the approval of the merger is entitled to vote on or consent to an amendment of the plan which will change:
+1. The amount or kind of interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing, to be received by the interest holders of any party to the plan;
+2. The public organic record, if any, or private organic rules of the surviving entity which will be in effect immediately after the merger becomes effective, except for changes that do not require approval of the interest holders of the surviving entity under its organic law or organic rules; or
+3. Any other terms or conditions of the plan if the change would adversely affect the member in any material respect.
+(3) After a plan of merger has been approved and before the articles of merger become effective, the plan may be abandoned as provided in the plan. Unless prohibited by the plan, a domestic merging limited liability company may abandon the plan in the same manner as the plan was approved.
+(4) If a plan of merger is abandoned after articles of merger have been delivered to the department for filing and before such articles of merger have become effective, a statement of abandonment, signed by a party to the plan, must be delivered to the department for filing before the articles of merger become effective. The statement of abandonment takes effect on filing, and the merger is abandoned and does not become effective. The statement of abandonment must contain the following:
+(a) The name of each party to the plan of merger.
+(b) The date on which the articles of merger were delivered to the department for filing.
+(c) A statement that the merger has been abandoned in accordance with this section.
+History.—s. 2, ch. 2013-180.
+605.1025 Articles of merger.—
+(1) After a plan of merger is approved, articles of merger must be signed by each merging entity and delivered to the department for filing.
+(2) The articles of merger must contain the following:
+(a) The name, jurisdiction of formation, and type of entity of each merging entity that is not the surviving entity.
+(b) The name, jurisdiction of formation, and type of entity of the surviving entity.
+(c) A statement that the merger was approved by each domestic merging entity that is a limited liability company, if any, in accordance with the provisions of ss. 605.1021-605.1026; by each other merging entity, if any, in accordance with the law of its jurisdiction of formation; and by each member of such limited liability company who, as a result of the merger, will have interest holder liability under s. 605.1023(1)(b) and whose approval is required.
+(d) If the surviving entity exists before the merger and is a domestic filing entity, any amendment to its public organic record approved as part of the plan of merger.
+(e) If the surviving entity is created by the merger and is a domestic filing entity, its public organic record, as an attachment.
+(f) If the surviving entity is created by the merger and is a domestic limited liability partnership or domestic limited liability limited partnership, its statement of qualification, as an attachment.
+(g) If the surviving entity is a foreign entity that does not have a certificate of authority to transact business in this state, a mailing address to which the department may send any process served on the department pursuant to s. 605.0117 and chapter 48.
+(h) A statement that the surviving entity has agreed to pay to any members of any limited liability company with appraisal rights the amount to which such members are entitled under the provisions of ss. 605.1006 and 605.1061-605.1072.
+(i) The effective date of the merger if the effective date of the merger is not the same as the date of filing of the articles of merger, subject to the limitations contained in s. 605.0207.
+(3) In addition to the requirements of subsection (2), articles of merger may contain any other provision not prohibited by law.
+(4) A merger becomes effective when the articles of merger become effective, unless the articles of merger specify an effective time or a delayed effective date that complies with s. 605.0207.
+(5) A copy of the articles of merger, certified by the department, may be filed in the official records of any county in this state in which any party to the merger holds an interest in real property.
+(6) A limited liability company is not required to deliver articles of merger for filing pursuant to subsection (1) if the limited liability company is named as a merging entity or surviving entity in articles of merger or a certificate of merger filed for the same merger in accordance with s. 607.1105, s. 617.1108, s. 620.2108(3), or s. 620.8918(3), and if such articles of merger or certificate of merger substantially comply with the requirements of this section. In such a case, the other articles of merger or certificate of merger may also be used for purposes of subsection (5).
+History.—s. 2, ch. 2013-180; s. 266, ch. 2019-90.
+605.1026 Effect of merger.—
+(1) When a merger becomes effective:
+(a) The surviving entity continues in existence;
+(b) Each merging entity that is not the surviving entity ceases to exist;
+(c) All property of each merging entity vests in the surviving entity without transfer, reversion, or impairment;
+(d) All debts, obligations, and other liabilities of each merging entity are debts, obligations, and other liabilities of the surviving entity;
+(e) Except as otherwise provided by law or the plan of merger, all the rights, privileges, immunities, powers, and purposes of each merging entity vest in the surviving entity;
+(f) If the surviving entity exists before the merger:
+1. All its property continues to be vested in it without transfer, reversion, or impairment;
+2. It remains subject to all of its debts, obligations, and other liabilities; and
+3. All of its rights, privileges, immunities, powers, and purposes continue to be vested in it;
+(g) The name of the surviving entity may be substituted for the name of any merging entity that is a party to any pending action or proceeding;
+(h) If the surviving entity exists before the merger:
+1. Its public organic record, if any, is amended as provided in the articles of merger; and
+2. Its private organic rules that are to be in a record, if any, are amended to the extent provided in the plan of merger;
+(i) If the surviving entity is created by the merger:
+1. Its public organic record, if any, is effective; and
+2. Its private organic rules are effective; and
+(j) The interests or rights to acquire interests in each merging entity which are to be converted in the merger are converted, and the interest holders of those interests are entitled only to the rights provided to them under the plan of merger and to any appraisal rights they have under ss. 605.1006 and 605.1061-605.1072 and the merging entity’s organic law.
+(2) Except as otherwise provided in the organic law or organic rules of a merging entity:
+(a) The merger does not give rise to any rights that an interest holder, governor, or third party would have upon a dissolution, liquidation, or winding up of the merging entity; and
+(b) The merging entity is not required to wind up its affairs, pay its liabilities, and distribute its assets under ss. 605.0701-605.0717, and the merger shall not constitute a dissolution of the merging entity.
+(3) When a merger becomes effective, a person who did not have interest holder liability with respect to any of the merging entities and becomes subject to interest holder liability with respect to a domestic entity as a result of the merger will have interest holder liability only to the extent provided by the organic law of that entity and only for those debts, obligations, and other liabilities that arise after the merger becomes effective.
+(4) When a merger becomes effective, the interest holder liability of a person who ceases to hold an interest in a domestic merging entity with respect to which the person had interest holder liability is as follows:
+(a) The merger does not discharge an interest holder liability under the organic law of the domestic merging entity to the extent the interest holder liability arose before the merger became effective.
+(b) The person does not have interest holder liability under the organic law of the domestic merging entity for a debt, obligation, or other liability that arises after the merger becomes effective.
+(c) The organic law of the domestic merging entity and any rights of contribution provided under such law, or the organic rules of the domestic merging entity, continue to apply to the release, collection, or discharge of any interest holder liability preserved under paragraph (a) as if the merger had not occurred and the surviving entity were the domestic merging entity.
+(5) When a merger becomes effective, a foreign entity that is the surviving entity may be served with process in this state for the collection and enforcement of any debts, obligations, or other liabilities of a domestic merging entity as provided in s. 605.0117 and chapter 48.
+(6) When a merger becomes effective, the certificate of authority to transact business in this state of any foreign merging entity that is not the surviving entity is canceled.
+History.—s. 2, ch. 2013-180.
+605.1031 Interest exchange authorized.—
+(1) By complying with the provisions this section and of ss. 605.1032-605.1036:
+(a) A domestic limited liability company may acquire all of one or more classes or series of interests of another domestic or foreign entity, or rights to acquire one or more classes or series of any such interests, in exchange for interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing; or
+(b) All of one or more classes or series of interests of a domestic limited liability company or rights to acquire one or more classes or series of any such interests may be acquired by another domestic or foreign entity in exchange for interests, securities, obligations, money, other property, rights to acquire interests or securities, or any combination of the foregoing.
+(2) By complying with the provisions of this section and ss. 605.1032-605.1036 which are applicable to foreign entities, a foreign entity may be the acquiring or acquired entity in an interest exchange completed under the provisions of this section and ss. 605.1032-605.1036 if the interest exchange is authorized by the organic law in the foreign entity’s jurisdiction of formation.
+(3) If a protected agreement contains a provision that applies to a merger of a domestic limited liability company but does not refer to an interest exchange, the provision applies to an interest exchange in which the domestic limited liability company is the acquired entity as if the interest exchange were a merger until the provision is amended after January 1, 2014.
+History.—s. 2, ch. 2013-180.

@@ -1,0 +1,107 @@
+EXECUTIVE SUMMARY
+This report reconstructs two decades of real‑estate activity by Luther J. Rollins Jr. and the closely held entities through which he operates.  In North Carolina he acquires property from insider limited‑liability companies by means of “ten‑dollar” deeds that carry little or no transfer tax, drafts those deeds through a single law office that expressly disavows any title examination, and records them under addresses that oscillate between street residences and post‑office boxes.  In Florida he purchases a Gulfport residence under the same nominal‑consideration language, mis‑labels his own North‑Carolina street address as a “post‑office address,” and then rents the house out, routing monthly payments through an unregistered North‑Carolina LLC whose mailbox is disguised as a professional “suite.”  The lease he drafted from North Carolina recycles the property address itself as the landlord’s mailing address, a move that obstructs statutory notices and deposit disputes.  When tenants eventually contest his effort to keep their entire security deposit, certified mail nearly fails because the landlord omitted “P.O. Box” from the reply address; he adds the tag only after being warned by e‑mail that the letter is being returned.  Across both states the same pattern recurs: undervalued deeds, misleading address labels, skipped professional safeguards, and misuse of legal credentials to discourage scrutiny.  That continuity converts what might appear to be isolated paperwork errors into evidence of an intentional scheme, opening Rollins to tax claw‑backs, bar suspensions, statutory damages, and potential mail‑ or wire‑fraud exposure.
+
+1 │ ASSET MAP AND CHRONOLOGICAL NARRATIVE
+
+Importance of this detail
+A forensic timeline is the spine of any fraud or regulatory brief. It demonstrates whether transactions are separated accidents or coordinated phases of one plan. By matching deed dates, tax stamps, entity names, and address conventions, the timeline shows how quickly Rollins moves when a price dip appears, how he controls the paper flow through a single law office, and how the same address tricks surface whether he is buying in Hickory or Gulfport.
+
+Narrative explanation
+February 2000 marks the first appearance of the portfolio.  Ten Hickory‑area rental parcels are deeded into DAB of Hickory LLC under a $280 transfer‑tax stamp—consistent with a price of roughly $140,000.  Within weeks two correction deeds are filed, each marked “NO REVENUE,” rewriting the legal description and avoiding any additional tax.  The drafter is attorney M. Elizabeth Williams; her footer already foreshadows later disclaimers by stating that the deed was prepared “without title search.”
+
+Eighteen years pass before the parcels move again.  On 7 June 2018 DAB deeds the same portfolio to JTB of Hickory LLC for zero tax.  The drafter’s footer now says explicitly, “The attorney preparing this instrument has not conducted a title search or closing.”  The principal office for JTB is listed as 420 18ᵗʰ Avenue Lane NW—the personal residence of Luther Rollins.
+
+Fast forward to 7 April 2020.  JTB conveys the flagship parcel, 607 17ᵗʰ Street NW, directly to Rollins and his wife for one‑hundred‑forty dollars in transfer tax, an amount that implies a seventy‑thousand‑dollar sale price—exactly half the county’s then‑current assessed value of one‑hundred‑forty thousand.  The deed’s checkbox “Seller is Residence” is inexplicably ticked, despite the fact that the grantor is an LLC.  The same attorney drafts and notarizes this deed, again with no title search.
+
+In May 2022 Rollins purchases 2649 Tifton Street South, Gulfport, Florida.  Zillow shows the house was listed at five‑hundred‑forty‑four thousand dollars, reduced to five‑hundred‑twenty thousand, then sold to Rollins within sixty days.  The Florida deed repeats the “ten‑dollar” recital but, more tellingly, states that the grantees’ “post‑office address” is 420 18ᵗʰ Avenue Lane NW—Rollins’s Hickory street residence, which is not a P.O. box at all.
+
+On October 31st, 2023 his marketing alliance with Zach Steinberger, a St. Petersburg, FL based realtor associated with COMPASS Florida, LLC attracts a young married couple the the doorstep of 2649 Tifton St. S. Gulfport, FL 33711. Luther Rollins, Jr. the named owner on the deed to this property, signs a ten‑month lease with the young married couple - a lease that reflects ownership and landlord correctly by name, but shortly becomes a fraudulent as a result of action starting November 29th, 2023. At the time of signing the lease, move-in costs equal $14,000 ($4,500 per month rent x 2 for first month rent and last month's rent plus an additional $4,500 for a security deposit, plus another $500 for a pet deposit equallying $14,000 to which his listing agent, Zach Steinberger was the scriber and overseeing parter of the lease signing, and also responded on behalf of the owners not brokering an introduction until after the lease was settled, move-in payments of $14,000 were issued to the landlords, that of which it was Zach's instruction put in writing to the tenants to make the move-in costs a collective single cashier's check and when asked to whom to make the cashier's check out to, Zach responded correctly "Luther Rollins, Jr." as were the terms of the lease agreement. 
+
+30 days later, after a move-in date of October 31st, 2023, as stated in the fully executed lease agreement, having not provided monthly payment instruction to that point, and after receiving a request for such proceedings by Stephen Boerner on November 23, 2024, Luther issued a physical package that arrived on November 29, 2023, just days before the rent was due as Month-2 of the 10-month lease was just coming up.
+
+In this package, nearly a full month after the tenants moved in, Luther's package provides pre-stamped, pre-addressed evelopes and written payment instructions for the tenants to follow for months two through nine, as the tenth month's rent was paid in full with the $14,000 move-in costs.
+
+Luther's instructions redirects rent to AMARLU Enterprises LLC, an entity formed in North Carolina but unregistered in Florida, instructing tenants to mail payments to “231 Government Avenue SW, Suite 3097,” a USPS box disguised as a commercial suite. No addendum was issued, the listing agent was not made aware, the tenants followed orders in good faith and in ignorance of what appeared to be mutually good faith communications, preferences, and requests from the out-of-state landlord. 
+
+Rephrased (in my writing style):
+
+During mid-Summer 2024, Stephen Boerner initiated discussions with Luther Rollins regarding potential lease extensions. Following documented text message exchanges, Luther committed to draft and transmit via postal mail a written lease extension for consideration. This consideration was subsequently declined by the tenants, who promptly issued notice of non-renewal precisely at the 60-day threshold prior to the ten-month lease expiration, thereby securing their unencumbered right to vacate at the conclusion of the lease term. 
+
+It warrants emphasis that Luther Rollins, Jr. drafted said lease extension from North Carolina, utilizing a United States Post Office facility (federal government property housing Federal Bureau of Investigation offices) to transmit documents—actions constituting unlicensed practice of law under Florida statutes. 
+
+Significantly, Luther maintains licensure solely in Missouri and Illinois, with lapsed authorization in Texas, and possesses no valid credentials from either the North Carolina or Florida Bar Associations at the time of document preparation, placing him in identical legal standing as Amarlu Enterprises regarding authority to conduct business operations and collect revenue within Florida jurisdiction.
+
+The lease concludes August 31, 2024. And on October 2, 2024 the claim on Security Deposit letter is issued to Stephen Boerner. Rollins demands the entire $4,500 deposit and tells tenants to send objections to the Government Avenue address—with no “P.O. Box” label.  Certified mail bounces; only after the tenant complains by e‑mail does Rollins add “P.O. # 3097” to a new envelope and sign for the letter at the counter.
+
+Section 1 summary
+Viewed end to end, the timeline shows rapid acquisitions following price cuts, repeated nominal‑value deeds, identical drafter disclaimers, and address labels that morph to obscure where Rollins can be reached and how much tax he truly paid.  These are coordinated moves, not stand‑alone events.
+
+2 │ CORE IRREGULARITIES
+
+Importance of this detail
+Grouping defects by theme allows each regulator—tax department, bar counsel, consumer‑protection unit, or trial judge—to see exactly how its statute is triggered.  Identical flaws appear in both states, making it impossible to write them off as clerical errors.
+
+Narrative explanation
+Five recurring defects dominate the record.
+	1.	Artificially low deed taxes.  The 2018 bulk deed on ten parcels pays zero tax; the 2020 deed pays one‑hundred‑forty dollars on a property county‑valued at twice the declared price.  The Florida doc‑stamp amount remains to be confirmed; if under‑stamped, it rounds out the pattern.
+	2.	Misleading address language.  The Florida deed calls a street residence a “post‑office address.”  Gulfport rent envelopes present a USPS box as “Suite 3097.”  The lease forces statutory notices to the tenant’s own dwelling.
+	3.	Unregistered shell entities.  AMARLU Enterprises LLC collects rent in Florida without obtaining the certificate of authority the Florida LLC Act requires.  JTB of Hickory LLC lists Rollins’s home as its principal office, masking real ownership.
+	4.	Deeds prepared with no title examination.  Two warranty deeds bear an attorney’s disclaimer that no title search was performed, sidestepping a cornerstone of consumer protection in real‑estate practice.
+	5.	Florida deposit‑handling violations.  The lease omits the bank‑name disclosure mandated by Statute 83.49, and the claim letter directs objections to a mislabeled mailbox, thwarting the tenant’s fifteen‑day response right.
+
+Taken together, these flaws reveal a deliberate strategy to reduce taxes, obscure ownership and location, and bypass duties that protect tenants and future purchasers.
+
+3 │ ADDRESS‑MANIPULATION SCHEME
+
+Importance of this detail
+Proper mailing addresses drive service of process, tax billing, and statutory notice periods. Mis‑labelling an address, whether by demoting a street to a P.O. box or elevating a P.O. box to a “suite,” obstructs those statutory mechanisms and demonstrates intent to confuse.
+
+Narrative explanation
+Rollins deploys the same trick in two directions.  In the Florida deed he upgrades his North Carolina residence into a “post‑office address,” distancing himself from Florida process servers.  In rent envelopes he downgrades a Hickory P.O. box into “Suite 3097,” giving tenants and regulators the illusion of a commercial office.  Inside the lease, every landlord‑address blank is filled with the tenant’s own property address, creating a closed loop that forces notices to circulate within the rented premises.  Only after a tenant’s certified letter is rejected does Rollins acknowledge the box by adding “P.O.” to the envelope, proving he knew the correct label all along.
+
+Section 3 summary
+The address toggling—house to box, box to suite, tenant home to landlord mail—recurs at every critical communication point. It is not accidental formatting; it is a calculated barrier to legal notice.
+
+4 │ INTEGRATED PATTERN NARRATIVE
+
+Importance of this detail
+A pattern narrative converts scattered red flags into a coherent theory of intent that regulators, juries, and creditors can grasp.
+
+Narrative explanation
+Rollins operates by a four‑step script.  First, acquire property through insider LLCs and nominal‑value deeds, keeping transfer tax to a minimum.  Second, mask physical presence by manipulating address labels.  Third, eliminate professional gatekeepers: deeds disclaim title searches, brokers are cut out of renewals, deposits are handled outside escrow.  Fourth, leverage the prestige of the law license: emails from “luth2law,” self‑drafted Florida leases, and assurances that everything is compliant.  Because this script appears without deviation in both states, enforcement bodies can treat it as a single, ongoing scheme.
+
+Section 4 summary
+Cheap deeds, mailbox masks, skipped oversight, and lawyer aura are not isolated quirks but components of one integrated strategy to reduce cost and evade scrutiny.
+
+5 │ REGULATORY AND LITIGATION ROADMAP
+
+Importance of this detail
+Translating each defect into an enforcement action equips every agency and private litigant with a ready‑made plan.
+
+Narrative explanation
+North Carolina’s revenue department can reassess transfer tax on the 2018 and 2020 deeds, adding interest and a fifty‑percent penalty. Florida’s Department of State can fine AMARLU LLC for operating without authority and bar it from filing suits. The Florida Bar’s UPL committee can seek an injunction and refer Rollins for felony prosecution. Illinois and Missouri bars can impose reciprocal suspensions. Tenants can sue for triple the deposit plus fees. Compass Florida can pursue the bypassed commission. Federal prosecutors can frame the interstate mailings and false filings as mail or wire fraud.
+
+Section 5 summary
+Multiple tracks can proceed in parallel, leaving Rollins exposed even if he cures one deficiency.
+
+6 │ EVIDENCE GAPS AND DISCOVERY TARGETS
+
+Importance of this detail
+Closing open records prevents defense arguments about missing evidence and solidifies the case for willful misconduct.
+
+Narrative explanation
+Three records will complete the chain. A certified Pinellas deed will show the exact documentary‑stamp tax. USPS box‑holder data on Box 3097 will confirm when Rollins rented it and under which names. The AMARLU operating agreement and related bank statements will prove single‑member control and commingling of tenant funds. Secretary‑of‑State filings and closing files from Attorney Williams will establish whether Rollins directed the zero‑tax transfers.
+
+Section 6 summary
+Obtaining these records removes the last avenues of plausible deniability and supports punitive‑damage allegations.
+
+7 │ EXECUTIVE CONCLUSION
+
+Importance of this detail
+Decision‑makers need a concise statement linking each irregularity to tangible legal consequences.
+
+Narrative explanation
+Across two decades Luther Rollins has used nominal‑value deeds, manipulated address labels, bypassed title safeguards, and mishandled tenant funds. The recurrence of identical tactics in two states confirms a deliberate plan, not sloppy record‑keeping. Probable outcomes include transfer‑tax claw‑backs, reciprocal bar suspensions, injunctions for unauthorized practice, treble‑deposit judgments, and potential federal fraud charges.
+
+Section 7 summary
+Every shortcut—undervaluation, mailbox disguise, skipped title work—serves one objective: personal gain through regulatory evasion, giving each governing body a clear statutory path to act.

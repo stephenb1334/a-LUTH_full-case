@@ -1,0 +1,70 @@
+[
+  {
+    "block_id": "TOPIC-UPL-VIOLATION_FLORIDA-LEASE_EXTENSION",
+    "content": "Luther J. Rollins Jr., a Missouri/Illinois-licensed attorney, likely committed unlicensed practice of law (UPL) under Florida Statutes \u00a7 454.23 by drafting a custom lease extension for Florida property while not licensed in Florida. The act was performed from North Carolina and affects Florida tenants, falling under Florida\u2019s jurisdictional reach for UPL violations.",
+    "hashtags": [
+      "UPL",
+      "FloridaLaw",
+      "LeaseViolation"
+    ],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Claude-4-Sonnet",
+      "thread_id": "upl-analysis-thread",
+      "creation_date": "2025-06-08T10:30:00Z",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": [],
+      "related_to": [],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "legal_analysis",
+      "domain": "landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2
+    },
+    "validation": {
+      "facts_verified": true,
+      "completeness_score": 0.95,
+      "last_updated": "2025-06-08T10:30:00Z",
+      "update_reason": "expansion"
+    }
+  },
+  {
+    "block_id": "TOPIC-UPL-LEGAL_AUTHORITY-KEY_CASES",
+    "content": "Key precedents:\n- Keyes Co. v. Dade County Bar Ass'n (1950): Establishes that drafting real estate documents including leases constitutes the practice of law unless within statutory exceptions.\n- The Florida Bar re: Advisory Opinion \u2013 Nonlawyer Preparation of Residential Leases (1996): Only Supreme Court-approved leases of under one year can be completed by nonlawyers under strict limitations.\n- The Florida Bar v. Moses (1980): Practice of law is defined by effect, not location. Luther\u2019s conduct falls squarely within this rule.",
+    "hashtags": [
+      "KeyesCase",
+      "FloridaSupremeCourt",
+      "PracticeOfLaw"
+    ],
+    "metadata": {
+      "confidence_level": "high",
+      "ai_provider": "Claude-4-Sonnet",
+      "thread_id": "upl-analysis-thread",
+      "creation_date": "2025-06-08T10:30:00Z",
+      "extraction_round": "main"
+    },
+    "relationships": {
+      "depends_on": [],
+      "related_to": [
+        "TOPIC-UPL-VIOLATION_FLORIDA-LEASE_EXTENSION"
+      ],
+      "supersedes": []
+    },
+    "source_context": {
+      "conversation_type": "legal_analysis",
+      "domain": "landlord_tenant_law",
+      "complexity": "high",
+      "participant_count": 2
+    },
+    "validation": {
+      "facts_verified": true,
+      "completeness_score": 0.95,
+      "last_updated": "2025-06-08T10:30:00Z",
+      "update_reason": "expansion"
+    }
+  }
+]

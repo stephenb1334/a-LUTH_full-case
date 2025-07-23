@@ -1,0 +1,109 @@
+PART I: (an improved version of Part II)
+
+### **Legal Framework for the Transfer of Tenant Security Deposits Upon the Sale of Rental Property in Florida**
+
+#### **I. Introduction**
+
+This memorandum outlines the controlling legal framework under Florida law for the transfer of tenant security deposits when a rental property is sold or its title is otherwise transferred. The analysis is grounded in the Florida Residential Landlord and Tenant Act, specifically addressing the duties of the selling landlord (transferor), the obligations of the purchasing landlord (transferee), and the continuous protection of the tenant's rights throughout the transaction.
+
+#### **II. Mandatory Transfer of Security Deposits and Advance Rents**
+
+The cornerstone of Florida's regulatory scheme is Florida Statute § 83.49(7), which imposes a non-discretionary, affirmative duty upon the selling landlord. The statute mandates that upon the sale or transfer of title, all security deposits and advance rents held for the benefit of tenants **must be transferred** to the new owner or agent.
+
+This transfer must include:
+*   The full amount of all security deposits and advance rents.
+*   Any earned interest that has accrued on the tenant's funds.
+*   An accurate accounting that clearly shows the amounts to be credited to each individual tenant's account.
+
+The law does not provide the selling landlord with the option to retain the deposit and settle with the tenant separately after the sale; the transfer to the successor in interest is obligatory.
+
+#### **III. Release from Liability and the Written Receipt Requirement**
+
+The original landlord is not automatically absolved of responsibility simply by selling the property. To be legally released from the statutory obligation to hold and account for the tenant's deposit, the transferor must complete two steps:
+
+1.  Properly transfer the funds and records to the new owner.
+2.  Obtain a **written receipt** from the new owner acknowledging the transfer.
+
+Only upon the transmittal of this written receipt is the transferor "free from the obligation imposed...to hold such moneys on behalf of the tenant". Failure to secure this receipt means the original landlord may remain liable for the deposit, particularly for any violations that occurred during their ownership.
+
+#### **IV. The Rebuttable Presumption: A Key Tenant Protection**
+
+To protect tenants from disputes between a seller and a buyer over whether the deposit was actually transferred, Florida law establishes a critical safeguard: a **rebuttable presumption**.
+
+The statute creates a legal presumption that the new owner has, in fact, received the security deposit from the former owner[7]. This presumption, however, is explicitly **limited to an amount equal to one month's rent**.
+
+The practical effect of this presumption is to shift the burden of proof. If a dispute arises, it is the **new owner's responsibility** to prove that they did not receive the security deposit. If the new owner cannot rebut this presumption with evidence, they are held liable for the return of the deposit up to the presumed amount, even if they never actually received the funds from the seller.
+
+#### **V. New Owner's Assumption of Landlord Obligations**
+
+Upon the closing of the sale, the new owner immediately and automatically assumes all the rights and responsibilities of the landlord under the existing lease and the Florida Residential Landlord and Tenant Act[9][10]. This transfer of duties occurs by operation of law.
+
+The new owner is therefore responsible for full compliance with all statutory procedures regarding the security deposit, including:
+
+*   Returning the deposit within 15 days of the tenant vacating if no claim is made.
+*   Sending a proper, itemized notice of intent to impose a claim via certified mail within 30 days if they intend to keep any portion of the deposit.
+
+The tenant's rights remain fully intact and enforceable against the new owner, regardless of the property's sale.
+
+#### **VI. Disclosure Requirements During the Sale**
+
+Florida statutes do not impose a specific, express duty on a selling landlord to disclose the existence or status of tenant security deposits to a potential buyer as part of the real estate transaction.
+
+However, the mandatory transfer requirement and the rebuttable presumption that holds the new owner liable create a powerful practical incentive for buyers to perform due diligence. Real estate attorneys and standard commercial purchase contracts typically address the proration of rents and the transfer of deposits as a routine part of the closing process to avoid future liability. While not a statutory mandate aimed at tenant protection, these transactional norms help ensure compliance with § 83.49(7).
+
+#### **VII. Conclusion**
+
+The legal framework in Florida is designed to ensure the seamless continuation of a tenant's security deposit rights across a change in property ownership. The law mandates the transfer of funds, requires a written receipt to release the former landlord from liability, and protects the tenant through a rebuttable presumption that places the burden of proof on the new owner. A tenant's right to the proper handling and return of their security deposit is not diminished by the sale of the property; rather, the full weight of statutory obligation is transferred to the new owner.
+
+
+PART II: 
+
+Legal Framework for the Transfer of Tenant Security Deposits Upon Sale of Rental Property in Florida
+
+Mandatory Transfer of Security Deposits:
+
+Florida law provides a clear and comprehensive framework governing the transfer of tenant security deposits when a rental property is sold. Pursuant to Florida Statute § 83.49(7), a landlord is legally mandated to transfer all security deposits and advance rents to the new owner upon the sale or transfer of title.
+The statute specifies: "Upon the sale or transfer of title of the rental property from one owner to another... any and all security deposits or advance rents being held for the benefit of the tenants shall be transferred to the new owner or agent, together with any earned interest and with an accurate accounting showing the amounts to be credited to each tenant account."
+
+Statutory Requirements for a Valid Transfer
+
+For a transfer to be legally sufficient and to release the former owner from liability, two key conditions must be met:
+
+Complete Transfer of Funds and Records: The law obligates the selling landlord to transfer the full amount of all security deposits, any accrued interest, a precise accounting for each tenant, and all associated documentation.
+
+Written Receipt Requirement: 
+The transferring owner must obtain a written receipt from the new owner that acknowledges the transfer of these funds and records. Only upon the issuance of this receipt is the former landlord released from the statutory duty to hold and account for the tenant's deposit.
+
+The Rebuttable Presumption and Burden of Proof
+
+To protect tenants in the event of a flawed or undocumented transfer, Florida law establishes a rebuttable presumption. The statute presumes that the new owner or agent has received the security deposit from the previous owner.
+
+One Month's Rent Limitation: 
+
+This legal presumption is limited to an amount equivalent to one month's rent.
+
+Burden of Proof on New Owner: 
+
+This statutory presumption places the burden of proof squarely on the new owner. To avoid liability for the deposit, the new owner must affirmatively prove that they did not receive it from the seller. Absent such proof, the new owner is liable for the return of the tenant's deposit up to the presumed amount, even if the funds were never actually received.
+
+Assumption of Landlord Obligations by the New Owner
+
+Upon the closing of the property sale, the new owner automatically assumes all duties and obligations of a landlord under Florida's Residential Landlord and Tenant Act. This transfer of responsibility occurs by operation of law.
+
+Consequently, the new owner becomes responsible for all post-tenancy procedures regarding the security deposit, including:
+The 15-day deadline to return the deposit if no claim is made.
+
+The 30-day deadline to provide a proper, itemized written notice by certified mail if a claim is imposed against the deposit.
+Seller's Disclosure Obligations to a Buyer
+
+While the transfer of the deposit itself is mandatory, Florida statutes do not impose a specific duty on a selling landlord to explicitly disclose the existence or status of tenant security deposits to a potential buyer.
+
+The general common law standard for real estate disclosures, established in Johnson v. Davis, requires a seller to disclose known facts that materially affect the value of the property and are not readily observable by the buyer. However, an outstanding security deposit obligation typically does not meet this standard, as it represents a transfer of a liability rather than a material defect, and the new owner's potential exposure is statutorily limited by the one-month-rent presumption.
+
+Enforcement and Legal Remedies
+
+The failure of a selling landlord to properly transfer a security deposit does not excuse any statutory violations that occurred while the original landlord held the funds. The new owner's assumption of liability, fortified by the rebuttable presumption, ensures that tenant protections remain intact throughout a change in ownership.
+
+A tenant retains the right to pursue legal action for the return of their security deposit directly against the new property owner. The new owner cannot use ignorance of the deposit's existence as a defense to escape liability due to the function of the rebuttable presumption mechanism.
+
+

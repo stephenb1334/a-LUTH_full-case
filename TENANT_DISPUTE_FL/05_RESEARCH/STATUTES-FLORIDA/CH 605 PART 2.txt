@@ -1,0 +1,688 @@
+
+
+The 2024 Florida Statutes
+
+Title XXXVI
+BUSINESS ORGANIZATIONS
+
+Chapter 605
+FLORIDA REVISED LIMITED LIABILITY COMPANY ACT
+
+
+
+----
+
+PROVIDED IN THIS DOCUMENT IS 605.0207 - 605.0702 
+
+---
+
+
+
+TABLE OF CONTENTS:
+
+
+
+605.0101 Short title.
+605.0102 Definitions.
+605.0103 Knowledge; notice.
+605.0104 Governing law.
+605.0105 Operating agreement; scope, function, and limitations.
+605.0106 Operating agreement; effect on limited liability company and person becoming member; preformation agreement; other matters involving operating agreement.
+605.0107 Operating agreement; effect on third parties and relationship to records effective on behalf of limited liability company.
+605.0108 Nature, purpose, and duration of limited liability company.
+605.0109 Powers.
+605.0110 Limited liability company property.
+605.0111 Rules of construction and supplemental principles of law.
+605.0112 Name.
+605.01125 Reserved name.
+605.0113 Registered agent.
+605.0114 Change of registered agent or registered office.
+605.0115 Resignation of registered agent.
+605.0116 Change of name or address by registered agent.
+605.0117 Serving process, giving notice, or making a demand.
+605.0118 Delivery of record.
+605.0119 Waiver of notice.
+605.0201 Formation of limited liability company; articles of organization.
+605.0202 Amendment or restatement of articles of organization.
+605.0203 Signing of records to be delivered for filing to department.
+605.0204 Signing and filing pursuant to judicial order.
+605.0205 Liability for inaccurate information in filed record.
+605.0206 Filing requirements.
+605.0207 Effective date and time.
+605.0208 Withdrawal of filed record before effectiveness.
+605.0209 Correcting filed record.
+605.0210 Duty of department to file; review of refusal to file; transmission of information by department.
+605.0211 Certificate of status.
+605.0212 Annual report for department.
+605.0213 Fees of the department.
+605.0214 Powers of department.
+605.0215 Certificates to be received in evidence and evidentiary effect of certified copy of filed document.
+605.0216 Statement of dissociation or resignation.
+605.0301 Power to bind limited liability company.
+605.0302 Statement of authority.
+605.0303 Statement of denial.
+605.0304 Liability of members and managers.
+605.0401 Becoming a member.
+605.0402 Form of contribution.
+605.0403 Liability for contributions.
+605.0404 Sharing of distributions before dissolution and profits and losses.
+605.0405 Limitations on distributions.
+605.0406 Liability for improper distributions.
+605.0407 Management of limited liability company.
+605.04071 Delegation of rights and powers to manage.
+605.04072 Selection and terms of managers in a manager-managed limited liability company.
+605.04073 Voting rights of members and managers.
+605.04074 Agency rights of members and managers.
+605.0408 Reimbursement, indemnification, advancement, and insurance.
+605.04091 Standards of conduct for members and managers.
+605.04092 Conflict of interest transactions.
+605.04093 Limitation of liability of managers and members.
+605.0410 Records to be kept; rights of member, manager, and person dissociated to information.
+605.0411 Court-ordered inspection.
+605.0501 Nature of transferable interest.
+605.0502 Transfer of transferable interest.
+605.0503 Charging order.
+605.0504 Power of legal representative.
+605.0601 Power to dissociate as member; wrongful dissociation.
+605.0602 Events causing dissociation.
+605.0603 Effect of dissociation.
+605.0701 Events causing dissolution.
+605.0702 Grounds for judicial dissolution.
+605.0703 Procedure for judicial dissolution; alternative remedies.
+605.0704 Receivership or custodianship.
+605.0705 Decree of dissolution.
+605.0706 Election to purchase instead of dissolution.
+605.0707 Articles of dissolution; filing of articles of dissolution.
+605.0708 Revocation of articles of dissolution.
+605.0709 Winding up.
+605.0710 Disposition of assets in winding up.
+605.0711 Known claims against dissolved limited liability company.
+605.0712 Other claims against a dissolved limited liability company.
+605.0713 Court proceedings.
+605.0714 Administrative dissolution.
+605.0715 Reinstatement.
+605.0716 Judicial review of denial of reinstatement.
+605.0717 Effect of dissolution.
+605.0801 Direct action by member.
+605.0802 Derivative action.
+605.0803 Proper plaintiff.
+605.0804 Special litigation committee.
+605.0805 Proceeds and expenses.
+605.0806 Voluntary dismissal or settlement; notice.
+605.0901 Governing law.
+605.0902 Application for certificate of authority.
+605.0903 Effect of a certificate of authority.
+605.0904 Effect of failure to have certificate of authority.
+605.0905 Activities not constituting transacting business.
+605.0906 Noncomplying name of foreign limited liability company.
+605.0907 Amendment to certificate of authority.
+605.0908 Revocation of certificate of authority.
+605.0909 Reinstatement following revocation of certificate of authority.
+605.09091 Judicial review of denial of reinstatement.
+605.0910 Withdrawal and cancellation of certificate of authority.
+605.0911 Withdrawal deemed on conversion to domestic filing entity.
+605.0912 Withdrawal on dissolution, merger, or conversion to nonfiling entity.
+605.0913 Action by Department of Legal Affairs.
+605.1001 Relationship of the provisions of this section and ss. 605.1002-605.1072 to other laws.
+605.1002 Charitable and donative provisions.
+605.1003 Status of filings.
+605.1004 Nonexclusivity.
+605.1005 Reference to external facts.
+605.1006 Appraisal rights.
+605.1021 Merger authorized.
+605.1022 Plan of merger.
+605.1023 Approval of merger.
+605.1024 Amendment or abandonment of plan of merger.
+605.1025 Articles of merger.
+605.1026 Effect of merger.
+605.1031 Interest exchange authorized.
+605.1032 Plan of interest exchange.
+605.1033 Approval of interest exchange.
+605.1034 Amendment or abandonment of plan of interest exchange.
+605.1035 Articles of interest exchange.
+605.1036 Effect of interest exchange.
+605.1041 Conversion authorized.
+605.1042 Plan of conversion.
+605.1043 Approval of conversion.
+605.1044 Amendment or abandonment of plan of conversion.
+605.1045 Articles of conversion.
+605.1046 Effect of conversion.
+605.1051 Domestication authorized.
+605.1052 Plan of domestication.
+605.1053 Approval of domestication.
+605.1054 Amendment or abandonment of plan of domestication.
+605.1055 Articles of domestication.
+605.1056 Effect of domestication.
+605.1061 Appraisal rights; definitions.
+605.1062 Assertion of rights by nominees and beneficial owners.
+605.1063 Notice of appraisal rights.
+605.1064 Notice of intent to demand payment.
+605.1065 Appraisal notice and form.
+605.1066 Perfection of rights; right to withdraw.
+605.1067 Member’s acceptance of limited liability company’s offer.
+605.1068 Procedure if member is dissatisfied with offer.
+605.1069 Court action.
+605.1070 Court costs and attorney fees.
+605.1071 Limitation on limited liability company payment.
+605.1072 Other remedies limited.
+605.1101 Uniformity of application and construction.
+605.1102 Relation to Electronic Signatures in Global and National Commerce Act.
+605.1103 Tax exemption on income of certain limited liability companies.
+605.1104 Interrogatories by department; other powers of department.
+605.1105 Reservation of power to amend or repeal.
+605.1106 Savings clause.
+605.1107 Severability clause.
+605.1108 Application to limited liability company formed under the Florida Limited Liability Company Act.
+
+
+-----
+
+
+605.0207 Effective date and time.—Except as otherwise provided in s. 605.0208, and subject to s. 605.0209(3), any document delivered to the department for filing under this chapter may specify an effective time and a delayed effective date. In the case of initial articles of organization, a prior effective date may be specified in the articles of organization if such date is within 5 business days before the date of filing. Subject to ss. 605.0114, 605.0115, 605.0208, and 605.0209, a record filed by the department is effective:
+(1) If the record filed does not specify an effective time and does not specify a prior or a delayed effective date, on the date and at the time the record is accepted as evidenced by the department’s endorsement of the date and time on the filing.
+(2) If the record filed specifies an effective time, but not a prior or delayed effective date, on the date the record is accepted, as evidenced by the department’s endorsement, and at the time specified in the filing.
+(3) If the record filed specifies a delayed effective date, but not an effective time, at 12:01 a.m. on the earlier of:
+(a) The specified date; or
+(b) The 90th day after the record is filed.
+(4) If the record filed specifies a delayed effective date and an effective time, at the specified time on or the earlier of:
+(a) The specified date; or
+(b) The 90th day after the record is filed.
+(5) If the record filed is the initial articles of organization and specifies an effective date before the date of the filing, but no effective time, at 12:01 a.m. on the later of:
+(a) The specified date; or
+(b) The 5th business day before the record is filed.
+(6) If the record filed is the initial articles of organization and specifies an effective time and an effective date before the date of the filing, at the specified time on the later of:
+(a) The specified date; or
+(b) The 5th business day before the record is filed.
+(7) If the record filed does not specify the time zone or place at which the date or time, or both, is to be determined, the date or time, or both, at which it becomes effective shall be those prevailing at the place of filing in this state.
+History.—s. 2, ch. 2013-180; s. 244, ch. 2019-90; s. 71, ch. 2020-32; s. 15, ch. 2024-265.
+605.0208 Withdrawal of filed record before effectiveness.—
+(1) Except as otherwise provided in ss. 605.1001-605.1072, a record delivered to the department for filing may be withdrawn before it takes effect by delivering to the department for filing a withdrawal statement.
+(2) A withdrawal statement must:
+(a) Be signed by each person who signed the record being withdrawn, except as otherwise agreed by those persons;
+(b) Identify the record to be withdrawn; and
+(c) If not signed by all the persons who signed the record being withdrawn, state that the record is withdrawn in accordance with the agreement of all the persons who signed the record.
+(3) On the filing by the department of a withdrawal statement, the action or transaction evidenced by the original record does not take effect.
+History.—s. 2, ch. 2013-180.
+605.0209 Correcting filed record.—
+(1) A person on whose behalf a filed record was delivered to the department for filing may correct the record if:
+(a) The record at the time of filing was inaccurate;
+(b) The record was defectively signed;
+(c) The electronic transmission of the record to the department was defective; or
+(d) The record contains false, misleading, or fraudulent information.
+(2) To correct a filed record, a person on whose behalf the record was delivered to the department must deliver to the department for filing a statement of correction.
+(3) A statement of correction:
+(a) May not state a delayed effective date;
+(b) Must be signed by the person correcting the filed record;
+(c) Must identify the filed record to be corrected, including such record’s filing date, or attach a copy of the record to the statement of correction;
+(d) Must specify the inaccuracy or defect to be corrected; and
+(e) Must correct the inaccuracy or defect.
+(4) A statement of correction is effective as of the effective date of the filed record that it corrects, except for purposes of s. 605.0103(4) and as to persons relying on the uncorrected filed record and adversely affected by the correction. For those purposes and as to those persons, the statement of correction is effective when filed.
+(5) A statement of correction that is filed to correct false, misleading, or fraudulent information is not subject to a fee of the department if the statement of correction is delivered to the department within 15 days after the notification of filing sent pursuant to s. 605.0210.
+History.—s. 2, ch. 2013-180; s. 1, ch. 2018-58; s. 245, ch. 2019-90.
+605.0210 Duty of department to file; review of refusal to file; transmission of information by department.—
+(1) The department files a document by stamping or otherwise endorsing the document as “filed,” together with the department’s official title and the date and time of receipt.
+(2) After filing a record, the department shall send notice of the filing to the electronic mail address on file for the company or foreign limited liability company or its authorized representative or shall send a copy of the document to the address of such company or authorized representative. If the record changes the electronic mail address for the company, the department must send such notice to the new electronic mail address and to the most recent prior electronic mail address. If the record changes the mailing address for the company, the department must send such notice to the new mailing address and to the most recent prior mailing address.
+(3) If the department refuses to file a record, the department shall, within 15 days after the record is delivered:
+(a) Return the record or notify the person who submitted the record of the refusal; and
+(b) Provide a brief explanation in a record of the reason for the refusal.
+(4) If the applicant returns the document with corrections in accordance with the rules of the department within 60 days after it was mailed to the applicant by the department and, if at the time of return, the applicant so requests in writing, the filing date of the document shall be the filing date that would have been applied had the original document not been deficient, except as to persons who relied on the record before correction and were adversely affected thereby.
+(5) The department’s duty to file documents under this section is ministerial. Filing or refusing to file a document does not:
+(a) Affect the validity or invalidity of the document in whole or part;
+(b) Relate to the correctness or incorrectness of information contained in the document; or
+(c) Create a presumption that the document is valid or invalid or that information contained in the document is correct or incorrect.
+(6) If not otherwise provided by law and this chapter, the department shall determine by rule the appropriate format for any document placed under its jurisdiction, and the number of copies, manner of execution, method of electronic transmission, and amount and method of payment of fees for such document.
+(7) If the department refuses to file a record delivered to its office for filing, the person who submitted the record for filing may petition the Circuit Court of Leon County to compel filing of the record. The record and the explanation from the department of the refusal to file must be attached to the petition. The court may decide the matter in a summary proceeding, and the court may summarily order the department to file the record or take other action the court considers appropriate. The court’s final decision may be appealed as in other civil proceedings.
+(8) Except as otherwise provided under s. 605.0117 or by any law other than this chapter, the department may deliver a record to a person by delivering it:
+(a) In person to the person who submitted it;
+(b) To the address of the person’s registered agent;
+(c) To the principal office of the person; or
+(d) To another address that the person provides to the department for delivery.
+History.—s. 2, ch. 2013-180; s. 2, ch. 2018-58; s. 246, ch. 2019-90.
+605.0211 Certificate of status.—
+(1) The department, upon request and payment of the requisite fee, shall issue a certificate of status for a limited liability company if the records filed in the department show that the department has accepted and filed the company’s articles of organization. A certificate of status must state the following:
+(a) The company’s name.
+(b) That the company was organized under the laws of this state and the date of organization.
+(c) Whether all fees due to the department under this chapter have been paid.
+(d) If the company’s most recent annual report required under s. 605.0212 has not been filed by the department.
+(e) If the department has administratively dissolved the company or received a record notifying the department that the company has been dissolved by judicial action pursuant to s. 605.0705.
+(f) If the department has filed articles of dissolution for the company.
+(g) If the department has accepted and filed a statement of termination.
+(2) The department, upon request and payment of the requisite fee, shall furnish a certificate of status for a foreign limited liability company if the records filed show that the department has filed a certificate of authority. A certificate of status for a foreign limited liability company must state the following:
+(a) The foreign limited liability company’s name and any current alternate name adopted under s. 605.0906(1) for use in this state.
+(b) That the foreign limited liability company is authorized to transact business in this state.
+(c) Whether all fees and penalties due to the department under this chapter or other law have been paid.
+(d) If the foreign limited liability company’s most recent annual report required under s. 605.0212 has not been filed by the department.
+(e) If the department has:
+1. Revoked the foreign limited liability company’s certificate of authority; or
+2. Filed a notice of withdrawal of certificate of authority.
+(3) Subject to any qualification stated in the certificate of status, a certificate of status issued by the department is conclusive evidence that the domestic limited liability company is in existence and is of active status in this state or the foreign limited liability company is authorized to transact business in this state and is of active status in this state.
+History.—s. 2, ch. 2013-180; s. 247, ch. 2019-90.
+605.0212 Annual report for department.—
+(1) A limited liability company or a registered foreign limited liability company shall deliver to the department for filing an annual report that states the following:
+(a) The name of the limited liability company or, if a foreign limited liability company, the name under which the foreign limited liability company is registered to transact business in this state.
+(b) The street address of its principal office and its mailing address.
+(c) The date of its organization and, if a foreign limited liability company, the jurisdiction of its formation and the date on which it became qualified to transact business in this state.
+(d) The company’s federal employer identification number or, if none, whether one has been applied for.
+(e) The name, title or capacity, and address of at least one person who has the authority to manage the company.
+(f) Any additional information that is necessary or appropriate to enable the department to carry out this chapter.
+(2) Information in the annual report must be current as of the date the report is delivered to the department for filing.
+(3) The first annual report must be delivered to the department between January 1 and May 1 of the year following the calendar year in which the limited liability company’s articles of organization became effective or the foreign limited liability company obtained a certificate of authority to transact business in this state. Subsequent annual reports must be delivered to the department between January 1 and May 1 of each calendar year thereafter. If one or more forms of annual report are submitted for a calendar year, the department shall file each of them and make the information contained in them part of the official record. The first form of annual report filed in a calendar year shall be considered the annual report for that calendar year, and each report filed after that one in the same calendar year shall be treated as an amended report for that calendar year.
+(4) If an annual report does not contain the information required in this section, the department shall promptly notify the reporting limited liability company or registered foreign limited liability company. If the report is corrected to contain the information required in subsection (1) and delivered to the department within 30 days after the effective date of the notice, it is timely delivered.
+(5) If an annual report contains the name or address of a registered agent which differs from the information shown in the records of the department immediately before the annual report becomes effective, the differing information in the annual report is considered a statement of change under s. 605.0114.
+(6) A limited liability company or foreign limited liability company that fails to file an annual report that complies with the requirements of this section may not maintain or defend any action in a court of this state until the report is filed and all fees and penalties due under this chapter are paid, and shall be subject to dissolution or cancellation of its certificate of authority to transact business as provided in this chapter.
+(7) The department shall prescribe the forms, which may be in an electronic format, on which to make the annual report called for in this section and may substitute the uniform business report pursuant to s. 606.06 as a means of satisfying the requirement of this chapter.
+(8) As a condition of a merger under s. 605.1021, each party to a merger which exists under the laws of this state, and each party to the merger which exists under the laws of another jurisdiction and has a certificate of authority to transact business or conduct its affairs in this state, must be active and current in filing its annual reports in the records of the department through December 31 of the calendar year in which the articles of merger are submitted to the department for filing.
+(9) As a condition of a conversion of an entity to a limited liability company under s. 605.1041, the entity, if it exists under the laws of this state, or if it exists under the laws of another jurisdiction and has a certificate of authority to transact business or conduct its affairs in this state, must be active and current in filing its annual reports in the records of the department through December 31 of the calendar year in which the articles of conversion are submitted to the department for filing.
+(10) As a condition of a conversion of a limited liability company to another type of entity under s. 605.1041, the limited liability company converting to the other type of entity must be active and current in filing its annual reports in the records of the department through December 31 of the calendar year in which the articles of conversion are submitted to the department for filing.
+(11) As a condition of an interest exchange between a limited liability company and another entity under s. 605.1031, the limited liability company and each other entity that is a party to the interest exchange which exists under the laws of this state, and each party to the interest exchange which exists under the laws of another jurisdiction and has a certificate of authority to transact business or conduct its affairs in this state, must be active and current in filing its annual reports in the records of the department through December 31 of the calendar year in which the articles of interest exchange are submitted to the department for filing.
+History.—s. 2, ch. 2013-180.
+605.0213 Fees of the department.—The fees of the department under this chapter are as follows:
+(1) For furnishing a certified copy, $30.
+(2) For filing original articles of organization or articles of revocation of dissolution, $100.
+(3) For filing a foreign limited liability company’s application for a certificate of authority to transact business, $100.
+(4) For filing a certificate of merger of limited liability companies or other business entities, $25 per constituent party to the merger, unless a specific fee is required for a party under other applicable law.
+(5) For filing an annual report, $50.
+(6) For filing an application for reinstatement after an administrative or judicial dissolution or a revocation of authority to transact business, $100.
+(7) For filing a certificate designating a registered agent or changing a registered agent, $25.
+(8) For filing a registered agent’s statement of resignation from a limited liability company that has not been dissolved, $85.
+(9) For filing a registered agent’s statement of resignation from a dissolved limited liability company or a composite statement of resignation from two or more dissolved limited liability companies pursuant to s. 605.0115(6), $25.
+(10) For filing a certificate of conversion of a limited liability company, $25.
+(11) For filing any other limited liability company document, $25.
+(12) For furnishing a certificate of status, $5.
+History.—s. 2, ch. 2013-180; s. 12, ch. 2024-265.
+605.0214 Powers of department.—The department has the authority reasonably necessary to administer this chapter efficiently, to perform the duties imposed upon it, and to adopt reasonable rules necessary to carry out its duties and functions under this chapter.
+History.—s. 2, ch. 2013-180.
+605.0215 Certificates to be received in evidence and evidentiary effect of certified copy of filed document.—All certificates issued by the department in accordance with this chapter shall be taken and received in all courts, public offices, and official bodies as prima facie evidence of the facts stated. A certificate from the department delivered with a copy of a document filed by the department bearing the signature of the secretary of state, which may be in facsimile, and the seal of this state, is conclusive evidence that the original document is on file with the department.
+History.—s. 2, ch. 2013-180; s. 248, ch. 2019-90; s. 72, ch. 2020-32.
+605.0216 Statement of dissociation or resignation.—
+(1) A member of a limited liability company may file a statement of dissociation with the department containing the following:
+(a) The name of the limited liability company.
+(b) The name and signature of the dissociating member.
+(c) The date the member withdrew or will withdraw.
+(d) A statement that the company has been notified of the dissociation in writing.
+(2) A manager in a manager-managed limited liability company may file a statement of resignation with the department containing the following:
+(a) The name of the limited liability company.
+(b) The name and signature of the resigning manager.
+(c) The date the resigning manager resigned or will resign.
+(d) A statement that the limited liability company has been notified of the resignation in writing.
+History.—s. 2, ch. 2013-180.
+605.0301 Power to bind limited liability company.—A person does not have the power to bind a limited liability company, except to the extent the person:
+(1) Is an agent of the company by virtue of s. 605.04074;
+(2) Has the authority to do so under the articles of organization or operating agreement of the company;
+(3) Has the authority to do so by a statement of authority filed under s. 605.0302; or
+(4) Has the status of an agent of the company or the authority or power to bind the company under a law other than this chapter.
+History.—s. 2, ch. 2013-180.
+605.0302 Statement of authority.—
+(1) A limited liability company may file a statement of authority. The statement:
+(a) Must include the name of the company as it appears on the records of the department, and the street and mailing addresses of its principal office;
+(b) With respect to a specified status or position of a person in a company, whether as a member, transferee, manager, officer, or otherwise, may state the authority or limitations on the authority of all persons having such status or holding such position to:
+1. Execute an instrument transferring real property held in the name of the company; or
+2. Enter into other transactions on behalf of, or otherwise act for or bind, the company; and
+(c) May state the authority or limitations on the authority of a specific person to:
+1. Execute an instrument transferring real property held in the name of the company; or
+2. Enter into other transactions on behalf of, or otherwise act for or bind, the company.
+(2) To amend or cancel a statement of authority filed by the department, a limited liability company must deliver to the department for filing an amendment or cancellation stating the following:
+(a) The name of the company as it appears on the records of the department.
+(b) The street and mailing addresses of the limited liability company’s principal office.
+(c) The date the statement being affected became effective.
+(d) The contents of the amendment or a declaration that the affected statement is canceled.
+(3) A statement of authority affects only the power of a person to bind a limited liability company to persons who are not members.
+(4) Subject to subsection (3) and s. 605.0103(4) and except as otherwise provided in subsections (6)-(8), a limitation on the authority of a person or a status or position contained in an effective statement of authority is not by itself evidence of knowledge or notice of the limitation.
+(5) Subject to subsection (3) and ss. 605.0407-605.04074, a grant of authority not pertaining to transfers of real property and contained in an effective statement of authority is conclusive in favor of a person who gives value in reliance on the grant, except to the extent that when the person gives value:
+(a) The person has knowledge to the contrary;
+(b) The statement has been canceled or restrictively amended under subsection (2); or
+(c) A limitation on the grant is contained in another statement of authority that became effective after the statement containing the grant became effective.
+(6) Subject to subsection (3), an effective statement of authority that grants authority to transfer real property held in the name of the limited liability company, a certified copy of which statement is recorded in the office for recording transfers of the real property, is conclusive in favor of a person who gives value in reliance on the grant without knowledge to the contrary, except to the extent that when the person gives value:
+(a) The statement has been canceled or restrictively amended under subsection (2) and a certified copy of the cancellation or restrictive amendment has been recorded in the office for recording transfers of the real property; or
+(b) A limitation on the grant is contained in another statement of authority that became effective after the statement containing the grant became effective and a certified copy of the later effective statement is recorded in the office for recording transfers of the real property.
+(7) Subject to subsection (3), if a certified copy of an effective statement of authority containing a limitation on the authority to transfer real property held in the name of a limited liability company is recorded in the office for recording transfers of that real property, all persons are deemed to know of the limitation.
+(8) Subject to subsection (9), effective articles of dissolution or termination effectuate a cancellation of a filed statement of authority for the purposes of subsection (6) and limit authority for the purposes of subsection (7).
+(9) After a company’s articles of dissolution become effective, a limited liability company may deliver to the department for filing and, if appropriate, may record a statement of authority in accordance with subsection (1) which is designated as a postdissolution statement of authority. The statement operates as provided in subsections (6) and (7).
+(10) Unless earlier canceled, an effective statement of authority is canceled by operation of law 5 years after the date on which the statement, or its most recent amendment, becomes effective. This cancellation operates without need for a recording under subsection (6) or subsection (7). An effective statement of denial operates as a restrictive amendment under this section and may be recorded by certified copy for the purposes of paragraph (6)(a).
+(11) A statement of dissociation or a statement of resignation filed pursuant to s. 605.0216 terminates the authority of the person who filed the statement.
+History.—s. 2, ch. 2013-180.
+605.0303 Statement of denial.—A person who is named in a filed statement of authority granting that person authority may deliver to the department for filing a statement of denial signed by that person which:
+(1) Provides the name of the limited liability company and the caption of the statement of authority to which the statement of denial pertains; and
+(2) Denies the grant of authority.
+History.—s. 2, ch. 2013-180.
+605.0304 Liability of members and managers.—
+(1) A debt, obligation, or other liability of a limited liability company is solely the debt, obligation, or other liability of the company. A member or manager is not personally liable, directly or indirectly, by way of contribution or otherwise, for a debt, obligation, or other liability of the company solely by reason of being or acting as a member or manager. This subsection applies regardless of the dissolution of the company.
+(2) The failure of a limited liability company to observe formalities relating to the exercise of its powers or management of its activities and affairs is not a ground for imposing liability on a member or manager of the company for a debt, obligation, or other liability of the company.
+(3) The limitation of liability in this section is in addition to the limitations of liability provided for in s. 605.04093.
+History.—s. 2, ch. 2013-180.
+605.0401 Becoming a member.—
+(1) If a limited liability company is to have only one member upon formation, the person becomes a member as agreed by that person and the authorized representative of the company. That person and the authorized representative may be, but need not be, different persons. If different persons, the authorized representative acts on behalf of the initial member.
+(2) If a limited liability company is to have more than one member upon formation, those persons become members as agreed by the persons before the formation of the company. The authorized representative acts on behalf of the persons in forming the company and may be, but need not be, one of the persons.
+(3) After formation of a limited liability company, a person becomes a member:
+(a) As provided in the operating agreement;
+(b) As the result of a merger, interest exchange, conversion, or domestication under ss. 605.1001-605.1072, as applicable;
+(c) With the consent of all the members; or
+(d) As provided in s. 605.0701(3).
+(4) A person may become a member without acquiring a transferable interest and without making or being obligated to make a contribution to the limited liability company.
+History.—s. 2, ch. 2013-180; s. 21, ch. 2015-148.
+605.0402 Form of contribution.—A contribution may consist of tangible or intangible property or other benefit to a limited liability company, including money, services performed, promissory notes, other agreements to contribute money or property, and contracts for services to be performed.
+History.—s. 2, ch. 2013-180.
+605.0403 Liability for contributions.—
+(1) A promise by a person to contribute to the limited liability company is not enforceable unless it is set out in a writing signed by the person.
+(2) A person’s obligation to make a contribution to a limited liability company is not excused by the person’s death, disability, or other inability to perform personally.
+(3) If a person does not fulfill an obligation to make a contribution other than money, the person is obligated at the option of the limited liability company to contribute money equal to the value of the part of the contribution that has not been made. The foregoing option is in addition to and not in lieu of other rights, including the right to specific performance, that the limited liability company may have against the person under the articles of organization or operating agreement or applicable law.
+(4) The obligation of a person to make a contribution may be compromised only by consent of all members. If a creditor of a limited liability company extends credit or otherwise acts in reliance on an obligation described in subsection (1) without notice of a compromise under this subsection, the creditor may enforce the obligation.
+(5) An operating agreement may provide that the limited liability company interest of a member who fails to make a contribution that the member is obligated to make is subject to specified penalties for or specified consequences of the failure. The penalty or consequence may take the form of reducing or eliminating the defaulting member’s proportionate interest in a limited liability company, subordinating the defaulting member’s limited liability company interest to that of nondefaulting members, a forced sale of that limited liability company interest, forfeiture of the defaulting member’s limited liability company interest, the lending by other members of the amount necessary to meet the defaulting member’s commitment, a fixing of the value of the defaulting member’s limited liability company interest by appraisal or by formula and redemption or sale of the defaulting member’s limited liability company interest at such value, or other penalty or consequence.
+History.—s. 2, ch. 2013-180.
+605.0404 Sharing of distributions before dissolution and profits and losses.—
+(1) Distributions made by a limited liability company before its dissolution and winding up must be shared by the members and persons dissociated as members on the basis of the agreed value, as stated in the company’s records, of the contributions made by each of the members and persons dissociated as members to the extent that the contributions have been received by the company, except to the extent necessary to comply with a transfer effective under s. 605.0502 or charging order in effect under s. 605.0503.
+(2) A person has a right to a distribution before the dissolution and winding up of a limited liability company only if the company decides to make an interim distribution. A person’s dissociation does not entitle the person to a distribution.
+(3) A person does not have a right to demand or receive a distribution from a limited liability company in a form other than money. Except as otherwise provided in s. 605.0710(4), a limited liability company may distribute an asset in kind only if each part of the asset is fungible with each other part and each person receives a percentage of the asset equal in value to the person’s share of distributions.
+(4) If a member or transferee becomes entitled to receive a distribution, the member or transferee has the status of and is entitled to all remedies available to a creditor of the limited liability company with respect to the distribution.
+(5) Profits and losses of a limited liability company must be allocated among the members and persons dissociated as members on the basis of the agreed value, as stated in the company’s records, of the contributions made by each of the members and persons dissociated as members to the extent that the contributions have been received by the company.
+History.—s. 2, ch. 2013-180.
+605.0405 Limitations on distributions.—
+(1) A limited liability company may not make a distribution, including a distribution under s. 605.0710, if after the distribution:
+(a) The company would not be able to pay its debts as they become due in the ordinary course of the company’s activities and affairs; or
+(b) The company’s total assets would be less than the sum of its total liabilities, plus the amount that would be needed if the company were to be dissolved and wound up at the time of the distribution, to satisfy the preferential rights upon dissolution and winding up of members and transferees whose preferential rights are superior to those of persons receiving the distribution.
+(2) A limited liability company may base a determination that a distribution is not prohibited under subsection (1) on:
+(a) Financial statements prepared on the basis of accounting practices and principles that are reasonable under the circumstances; or
+(b) A fair valuation or other method that is reasonable under the circumstances.
+(3) Except as otherwise provided in subsection (5), the effect of a distribution under subsection (1) is measured:
+(a) In the case of a distribution by purchase, redemption, or other acquisition of a transferable interest in the company, as of the earlier of the date on which:
+1. Money or other property is transferred or the debt is incurred by the company; and
+2. The person entitled to distribution ceases to own the interest or right being acquired by the company in return for the distribution.
+(b) In the case of a distribution of indebtedness, as of the date on which the indebtedness is distributed.
+(c) In all other cases, as of the date on which:
+1. The distribution is authorized if the payment occurs within 120 days after that date; or
+2. The payment is made if the payment occurs more than 120 days after the distribution is authorized.
+(4) A limited liability company’s indebtedness to a member or transferee incurred by reason of a distribution made in accordance with this section is at parity with the company’s indebtedness to its general, unsecured creditors, except to the extent subordinated by agreement.
+(5) A limited liability company’s indebtedness, including indebtedness issued as a distribution, is not a liability for purposes of subsection (1) if the terms of the indebtedness provide that payment of principal and interest is made only if and to the extent that a distribution could then be made under this section. If the indebtedness is issued as a distribution, and by its terms provides that the payments of principal and interest are made only to the extent a distribution could be made under this section, then each payment of principal or interest of that indebtedness is treated as a distribution, the effect of which is measured on the date the payment is actually made.
+(6) In measuring the effect of a distribution under s. 605.0710, the liabilities of a dissolved limited liability company do not include a claim that is disposed of under ss. 605.0710-605.0713.
+History.—s. 2, ch. 2013-180.
+605.0406 Liability for improper distributions.—
+(1) Except as otherwise provided in subsection (2), if a member of a member-managed limited liability company or manager of a manager-managed limited liability company consents to a distribution made in violation of s. 605.0405 and, in consenting to the distribution, fails to comply with s. 605.04091, the member or manager is personally liable to the company for the amount of the distribution which exceeds the amount that could have been distributed without the violation of s. 605.0405.
+(2) To the extent the operating agreement of a member-managed limited liability company expressly relieves a member of the authority and responsibility to consent to distributions and imposes that authority and responsibility on one or more other members, the liability in subsection (1) applies to the other members and not the member that the operating agreement relieves of authority and responsibility.
+(3) A person who receives a distribution knowing that the distribution violated s. 605.0405 is personally liable to the limited liability company, but only to the extent that the distribution received by the person exceeded the amount that could have been properly paid under s. 605.0405.
+(4) A person against whom an action is commenced because that person is or may be liable under subsection (1) may:
+(a) Implead another person who is or may be liable under subsection (1) and seek to enforce a right of contribution from the person; or
+(b) Implead a person who received a distribution in violation of subsection (3) and seek to enforce a right of contribution from an impleaded person in the amount the person received in violation of subsection (3).
+(5) An action under this section is barred unless commenced within 2 years after the distribution.
+History.—s. 2, ch. 2013-180.
+605.0407 Management of limited liability company.—
+(1) A limited liability company is a member-managed limited liability company unless the operating agreement or articles of organization:
+(a) Expressly provide that:
+1. The company is or will be manager-managed;
+2. The company is or will be managed by managers; or
+3. Management of the company is or will be vested in managers; or
+(b) Include words of similar import to those in subparagraphs (a)1.-3. except that, unless the context in which the expression is used otherwise requires, the terms “managing member” and “managing members” do not, in and of themselves, constitute words of similar import for this purpose.
+(2) In a member-managed limited liability company, the management and conduct of the company are vested in the members, except as expressly provided in this chapter.
+(3) In a manager-managed limited liability company, a matter relating to the activities and affairs of the company is decided exclusively by the manager, or if there is more than one manager, by the managers, except as expressly provided in this chapter.
+(4) A member is not entitled to remuneration for services performed for a member-managed limited liability company, except for reasonable compensation for services rendered in winding up the activities and affairs of the company, in the absence of an agreement to the contrary.
+(5) A limited liability company shall reimburse a member for an advance to the company beyond the amount of capital the member agreed to contribute.
+(6) The dissolution of a limited liability company does not affect the applicability of this section and ss. 605.04071-605.04074. However, a person who wrongfully causes dissolution of the company loses the right to participate in management as a member and a manager.
+History.—s. 2, ch. 2013-180.
+605.04071 Delegation of rights and powers to manage.—A member or manager of a limited liability company has the power and authority to delegate to one or more other persons the member’s or manager’s, as the case may be, rights and powers to manage and control the business and affairs of the limited liability company, including the power and authority to delegate to agents, boards of managers, members, or directors, officers and assistant officers, and employees of a member or manager of the limited liability company, and the power and authority to delegate by a management agreement or similar agreement with, or otherwise to other persons. The delegation by a member or manager will not cause the member or manager to cease to be a member or manager, as the case may be, of the limited liability company.
+History.—s. 2, ch. 2013-180.
+605.04072 Selection and terms of managers in a manager-managed limited liability company.—In a manager-managed limited liability company, the following rules apply:
+(1) A manager may be chosen at any time by the consent of the member or members holding more than 50 percent of the then-current percentage or other interest in the profits of the limited liability company owned by all of its members.
+(2) A person need not be a member to be a manager.
+(3) A person chosen as a manager continues as a manager until a successor is chosen, unless the manager at an earlier time resigns, is removed, or dies or, in the case of a manager that is not an individual, terminates.
+(4) A manager may be removed at any time without notice or cause by the consent of the member or members holding more than 50 percent of the then-current percentage or other interest in the profits of the limited liability company owned by all of its members.
+(5) The dissociation of a member who is also a manager removes the person as a manager.
+(6) If a person who is both a manager and a member ceases to be a manager, that cessation does not, by itself, dissociate the person as a member.
+(7) A person’s ceasing to be a manager does not discharge a debt, obligation, or other liability to the limited liability company or members which the person incurred while a manager.
+History.—s. 2, ch. 2013-180.
+605.04073 Voting rights of members and managers.—
+(1) In a member-managed limited liability company, the following rules apply:
+(a) Each member has the right to vote with respect to the management and conduct of the company’s activities and affairs.
+(b) Each member’s vote is proportionate to that member’s then-current percentage or other interest in the profits of the limited liability company owned by all members.
+(c) Except as otherwise provided in this chapter, the affirmative vote or consent of a majority-in-interest of the members is required to undertake an act, whether within or outside the ordinary course of the company’s activities and affairs, including a transaction under ss. 605.1001-605.1072.
+(d) The operating agreement and articles of organization may be amended only with the affirmative vote or consent of all members.
+(2) In a manager-managed limited liability company, the following rules apply:
+(a) Each manager has equal rights in the management and conduct of the company’s activities and affairs.
+(b) Except as expressly provided in this chapter, a matter relating to the activities and affairs of the company shall be decided by the manager; if there is more than one manager, by the affirmative vote or consent of a majority of the managers; or if the action is taken without a meeting, by the managers’ unanimous consent in a record.
+(c) Each member’s vote is proportionate to that member’s then-current percentage or other interest in the profits of the limited liability company owned by all members.
+(d) Except as otherwise provided in this chapter, the affirmative vote or consent of a majority-in-interest of the members is required to undertake an act outside the ordinary course of the company’s activities and affairs, including a transaction under ss. 605.1001-605.1072.
+(e) The operating agreement and articles of organization may be amended only with the affirmative vote or consent of all members.
+(3) If a member has transferred all or a portion of the member’s transferable interest in the limited liability company to a person who is not admitted as a member and if the transferring member has not been dissociated in accordance with s. 605.0602(5)(b), the transferring member continues to be entitled to vote on an action reserved to the members, with the vote of the transferring member being proportionate to the then-current percentage or other interest in the profits of the limited liability company owned by all members that the transferring member would have if the transfer had not occurred.
+(4) An action requiring the vote or consent of members under this chapter may be taken without a meeting if the action is approved in a record by members with at least the minimum number of votes that would be necessary to authorize or take the action at a meeting of the members. A member may appoint a proxy or other agent to vote or consent for the member by signing an appointing record, personally or by the member’s agent. On an action taken by fewer than all of the members without a meeting, notice of the action must be given to those members who did not consent in writing to the action or who were not entitled to vote on the action within 10 days after the action was taken.
+(5) An action requiring the vote or consent of managers under this chapter may be taken without a meeting if the action is unanimously approved by the managers in a record. A manager may appoint a proxy or other agent to vote or consent for the manager by signing an appointing record, personally or by the manager’s agent.
+(6) Meetings of members and meetings of managers may be held by a conference telephone call or other communications equipment if all persons participating in the meeting can hear each other. Participation in a meeting pursuant to this subsection constitutes presence in person at the meeting.
+History.—s. 2, ch. 2013-180; s. 4, ch. 2015-148.
+605.04074 Agency rights of members and managers.—
+(1) In a member-managed limited liability company, the following rules apply:
+(a) Except as provided in subsection (3), each member is an agent of the limited liability company for the purpose of its activities and affairs, and an act of a member, including signing an agreement or instrument of transfer in the name of the company for apparently carrying on in the ordinary course of the company’s activities and affairs or activities and affairs of the kind carried on by the company, binds the company unless the member had no authority to act for the company in the particular matter and the person with whom the member was dealing knew or had notice that the member lacked authority.
+(b) An act of a member which is not done for apparently carrying on in the ordinary course of the limited liability company’s activities and affairs or activities and affairs of the kind carried on by the company, binds the company only if the act was authorized by appropriate vote of the members.
+(2) In a manager-managed limited liability company, the following rules apply:
+(a) A member is not an agent of the limited liability company for the purpose of its business solely by reason of being a member.
+(b) Except as provided in subsection (3), each manager is an agent of the limited liability company for the purpose of its activities and affairs, and an act of a manager, including signing an agreement or instrument of transfer in the name of the company, for apparently carrying on in the ordinary course of the company’s activities and affairs or activities and affairs of the kind carried on by the company, binds the company unless the manager had no authority to act for the company in the particular matter and the person with whom the manager was dealing knew or had notice that the manager lacked authority.
+(c) An act of a manager which is not apparently for carrying on in the ordinary course of the limited liability company’s activities and affairs or activities and affairs of the kind carried on by the company, binds the company only if the act was authorized by appropriate vote of the members.
+(3) Unless a certified statement of authority recorded in the applicable real estate records limits the authority of a member or a manager, a member of a member-managed company or a manager of a manager-managed company may sign and deliver an instrument transferring or affecting the limited liability company’s interest in real property. The instrument is conclusive in favor of a person who gives value without knowledge of the lack of the authority of the person signing and delivering the instrument.
+History.—s. 2, ch. 2013-180; s. 22, ch. 2015-148.
+605.0408 Reimbursement, indemnification, advancement, and insurance.—
+(1) A limited liability company may reimburse a member of a member-managed company or a manager of a manager-managed company for any payment made by the member or manager in the course of the member’s or manager’s activities on behalf of the company if the member or manager complied with ss. 605.0407-605.04074, this section, and s. 605.04091 in making the payment.
+(2) A limited liability company may indemnify and hold harmless a person with respect to a claim or demand against the person and a debt, obligation, or other liability incurred by the person by reason of the person’s former or present capacity as a member or manager if the claim, demand, debt, obligation, or other liability does not arise from the person’s breach of s. 605.0405, s. 605.0407, s. 605.04071, s. 605.04072, s. 605.04073, s. 605.04074, or s. 605.04091.
+(3) In the ordinary course of its activities and affairs, a limited liability company may advance reasonable expenses, including attorney fees and costs, incurred by a person in connection with a claim or demand against the person by reason of the person’s former or present capacity as a member or manager if the person promises to repay the company in the event that the person ultimately is determined not to be entitled to be indemnified under subsection (2).
+(4) A limited liability company may purchase and maintain insurance on behalf of a member or manager of the company against liability asserted against or incurred by the member or manager in that capacity or arising from that status even if:
+(a) Under s. 605.0105(3)(g), the operating agreement could not eliminate or limit the person’s liability to the company for the conduct giving rise to the liability; and
+(b) Under s. 605.0105(3)(p), the operating agreement could not provide for indemnification for the conduct giving rise to the liability.
+History.—s. 2, ch. 2013-180.
+605.04091 Standards of conduct for members and managers.—
+(1) Each manager of a manager-managed limited liability company and member of a member-managed limited liability company owes fiduciary duties of loyalty and care to the limited liability company and members of the limited liability company.
+(2) The duty of loyalty includes:
+(a) Accounting to the limited liability company and holding as trustee for it any property, profit, or benefit derived by the manager or member, as applicable:
+1. In the conduct or winding up of the company’s activities and affairs;
+2. From the use by the member or manager of the company’s property; or
+3. From the appropriation of a company opportunity;
+(b) Refraining from dealing with the company in the conduct or winding up of the company’s activities and affairs as, or on behalf of, a person having an interest adverse to the company, except to the extent that a transaction satisfies the requirements of s. 605.04092; and
+(c) Refraining from competing with the company in the conduct of the company’s activities and affairs before the dissolution of the company.
+(3) The duty of care in the conduct or winding up of the company’s activities and affairs is to refrain from engaging in grossly negligent or reckless conduct, willful or intentional misconduct, or a knowing violation of law.
+(4) A manager of a manager-managed limited liability company and a member of a member-managed limited liability company shall discharge their duties and obligations under this chapter or under the operating agreement and exercise any rights consistently with the obligation of good faith and fair dealing.
+(5) A manager of a manager-managed limited liability company or a member of a member-managed limited liability company does not violate a duty or obligation under this chapter or under the operating agreement solely because the manager’s or member’s conduct furthers the manager’s or member’s own interest.
+(6) In discharging his, her, or its duties, a manager of a manager-managed limited liability company or a member of a member-managed limited liability company is entitled to rely on information, opinions, reports, or statements, including financial statements and other financial data, if prepared or presented by any of the following:
+(a) One or more members or employees of the limited liability company whom the manager or member reasonably believes to be reliable and competent in the matters presented.
+(b) Legal counsel, public accountants, or other persons as to matters the manager or member reasonably believes are within the persons’ professional or expert competence.
+(c) A committee of managers or members of which the affected manager or member is not a participant, if the manager or member reasonably believes the committee merits confidence.
+(7) A manager or member, as applicable, is not acting in good faith if the manager or member has knowledge concerning the matter in question which makes reliance otherwise authorized under subsection (6) unwarranted.
+(8) In discharging his, her, or its duties, a manager of a manager-managed limited liability company or member of a member-managed limited liability company may consider factors that the manager or member deems relevant, including the long-term prospects and interests of the limited liability company and its members, and the social, economic, legal, or other effects of any action on the employees, suppliers, and customers of the limited liability company, the communities and society in which the limited liability company operates, and the economy of this state and the nation.
+(9) This section applies to a person winding up the limited liability company activities and affairs as the legal representative of the last surviving member as if such person were subject to this section.
+History.—s. 2, ch. 2013-180; ss. 5, 23, ch. 2015-148.
+605.04092 Conflict of interest transactions.—
+(1) As used in this section, the following terms and definitions apply:
+(a) A member or manager is “indirectly” a party to a transaction if that member or manager has a material financial interest in or is a director, officer, member, manager, or partner of a person, other than the limited liability company, who is a party to the transaction.
+(b) A member or manager has an “indirect material financial interest” if a family member has a material financial interest in the transaction, other than having an indirect interest as a member or manager of the limited liability company, or if the transaction is with an entity, other than the limited liability company, which has a material financial interest in the transaction and controls, or is controlled by, the member or manager or another person specified in this subsection.
+(c) “Fair to the limited liability company” means that the transaction, as a whole, is beneficial to the limited liability company and its members, taking into appropriate account whether it is:
+1. Fair in terms of the member’s or manager’s dealings with the limited liability company in connection with that transaction; and
+2. Comparable to what might have been obtainable in an arm’s length transaction.
+(d) “Family member” includes any of the following:
+1. The member’s or manager’s spouse.
+2. A child, stepchild, parent, stepparent, grandparent, sibling, step sibling, or half sibling of the member or manager or the member’s or manager’s spouse.
+(e) “Manager’s conflict of interest transaction” means a transaction between a limited liability company and one or more of its managers, or another entity in which one or more of the limited liability company’s managers is directly or indirectly a party to the transaction, other than being an indirect party as a result of being a member of the limited liability company, and has a direct or indirect material financial interest or other material interest.
+(f) “Material financial interest” or “other material interest” means a financial or other interest in the transaction that would reasonably be expected to impair the objectivity of the judgment of the member or manager when participating in the action on the authorization of the transaction.
+(g) “Member’s conflict of interest transaction” means a transaction between a limited liability company and one or more of its members, or another entity in which one or more of the limited liability company’s members is directly or indirectly a party to the transaction, other than being an indirect party as a result of being a member of the limited liability company, and has a direct or indirect material financial interest or other material interest.
+(2) If the requirements of this section have been satisfied, a member’s conflict of interest transaction or a manager’s conflict of interest transaction between a limited liability company and one or more of its members or managers, or another entity in which one or more of the limited liability company’s members or managers have a financial or other interest, is not void or voidable because of that relationship or interest; because the members or managers are present at the meeting of the members or managers at which the transaction was authorized, approved, effectuated, or ratified; or because the votes of the members or managers are counted for such purpose.
+(3) If a member’s conflict of interest transaction or a manager’s conflict of interest transaction is fair to the limited liability company at the time it is authorized, approved, effectuated, or ratified, the fact that a member or manager of the limited liability company is directly or indirectly a party to the transaction, other than being an indirect party as a result of being a member or manager of the limited liability company, or has a direct or indirect material financial interest or other interest in the transaction, other than having an indirect interest as a result of being a member or manager of the limited liability company, is not grounds for equitable relief and does not give rise to an award of damages or other sanctions.
+(4)(a) In a proceeding challenging the validity of a member’s conflict of interest transaction or a manager’s conflict of interest transaction or in a proceeding seeking equitable relief, award of damages, or other sanctions with respect to a member’s conflict of interest transaction or a manager’s conflict of interest transaction, the person challenging the validity or seeking equitable relief, award of damages, or other sanctions has the burden of proving the lack of fairness of the transaction if:
+1. In a manager-managed limited liability company, the material facts of the transaction and the member’s or manager’s interest in the transaction were disclosed or known to the managers or a committee of managers who voted upon the transaction and the transaction was authorized, approved, or ratified by a majority of the disinterested managers even if the disinterested managers constitute less than a quorum; however, the transaction cannot be authorized, approved, or ratified under this subsection solely by a single manager; and
+2. In a member-managed limited liability company, or a manager-managed limited liability company in which the managers have failed to or cannot act under subparagraph 1., the material facts of the transaction and the member’s or manager’s interest in the transaction were disclosed or known to the members who voted upon such transaction and the transaction was authorized, approved, or ratified by a majority-in-interest of the disinterested members even if the disinterested members constitute less than a quorum; however, the transaction cannot be authorized, approved, or ratified under this subsection solely by a single member; or
+(b) If neither of the conditions provided in paragraph (a) has been satisfied, the person defending or asserting the validity of a member’s conflict of interest transaction or a manager’s conflict of interest transaction has the burden of proving its fairness in a proceeding challenging the validity of the transaction.
+(5) The presence of or a vote cast by a manager or member with an interest in the transaction does not affect the validity of an action taken under paragraph (4)(a) if the transaction is otherwise authorized, approved, or ratified as provided in subsection (4), but the presence or vote of the manager or member may be counted for purposes of determining whether the transaction is approved under other sections of this chapter.
+(6) In addition to other grounds for challenge, a party challenging the validity of the transaction is not precluded from asserting and proving that a particular member or manager was not disinterested on grounds of financial or other interest for purposes of the vote on, consent to, or approval of the transaction.
+History.—s. 2, ch. 2013-180; s. 133, ch. 2014-17; s. 249, ch. 2019-90.
+605.04093 Limitation of liability of managers and members.—
+(1) A manager in a manager-managed limited liability company or a member in a member-managed limited liability company is not personally liable for monetary damages to the limited liability company, its members, or any other person for any statement, vote, decision, or failure to act regarding management or policy decisions by a manager in a manager-managed limited liability company or a member in a member-managed limited liability company unless:
+(a) The manager or member breached or failed to perform the duties as a manager in a manager-managed limited liability company or a member in a member-managed limited liability company; and
+(b) The manager’s or member’s breach of, or failure to perform, those duties constitutes any of the following:
+1. A violation of the criminal law unless the manager or member had a reasonable cause to believe his, her, or its conduct was lawful or had no reasonable cause to believe such conduct was unlawful. A judgment or other final adjudication against a manager or member in any criminal proceeding for a violation of the criminal law estops that manager or member from contesting the fact that such breach, or failure to perform, constitutes a violation of the criminal law, but does not estop the manager or member from establishing that he, she, or it had reasonable cause to believe that his, her, or its conduct was lawful or had no reasonable cause to believe that such conduct was unlawful.
+2. A transaction from which the manager or member derived an improper personal benefit, directly or indirectly.
+3. A distribution in violation of s. 605.0406.
+4. In a proceeding by or in the right of the limited liability company to procure a judgment in its favor or by or in the right of a member, conscious disregard of the best interest of the limited liability company, or willful misconduct.
+5. In a proceeding by or in the right of someone other than the limited liability company or a member, recklessness or an act or omission that was committed in bad faith or with malicious purpose or in a manner exhibiting wanton and willful disregard of human rights, safety, or property.
+(2) As used in this section, the term “recklessness” means acting or failing to act in conscious disregard of a risk known, or a risk so obvious that it should have been known, to the manager in a manager-managed limited liability company or the member in a member-managed limited liability company, and known to the manager or member, or so obvious that it should have been known, to be so great as to make it highly probable that harm would follow from such action or failure to act.
+(3) A manager in a manager-managed limited liability company or a member in a member-managed limited liability company is deemed not to have derived an improper personal benefit from any transaction if the transaction has been approved in the manner as is provided in s. 605.04092 or is fair to the limited liability company as defined in s. 605.04092(1)(c).
+(4) The circumstances set forth in subsection (3) are not exclusive and do not preclude the existence of other circumstances under which a manager in a manager-managed limited liability company or a member in a member-managed limited liability company will be deemed not to have derived an improper benefit.
+History.—s. 2, ch. 2013-180.
+605.0410 Records to be kept; rights of member, manager, and person dissociated to information.—
+(1) A limited liability company shall keep at its principal office or another location the following records:
+(a) A current list of the full names and last known business, residence, or mailing addresses of each member and manager.
+(b) A copy of the then-effective operating agreement, if made in a record, and all amendments thereto if made in a record.
+(c) A copy of the articles of organization, articles of merger, articles of interest exchange, articles of conversion, and articles of domestication, and other documents and all amendments thereto, concerning the limited liability company which were filed with the department, together with executed copies of any powers of attorney pursuant to which any articles of organization or such other documents were executed.
+(d) Copies of the limited liability company’s federal, state, and local income tax returns and reports, if any, for the 3 most recent years.
+(e) Copies of the financial statements of the limited liability company, if any, for the 3 most recent years.
+(f) Unless contained in an operating agreement made in a record, a record stating the amount of cash and a description and statement of the agreed value of the property or other benefits contributed and agreed to be contributed by each member, and the times at which or occurrence of events upon which additional contributions agreed to be made by each member are to be made.
+(2) In a member-managed limited liability company, the following rules apply:
+(a) Upon reasonable notice, a member may inspect and copy during regular business hours, at a reasonable location specified by the company:
+1. The records described in subsection (1); and
+2. Each other record maintained by the company regarding the company’s activities, affairs, financial condition, and other circumstances, to the extent the information is material to the member’s rights and duties under the operating agreement or this chapter.
+(b) The company shall furnish to each member:
+1. Without demand, any information concerning the company’s activities, affairs, financial condition, and other circumstances that is known to the company and is material to the proper exercise of the member’s rights and duties under the operating agreement or this chapter, except to the extent the company can establish that it reasonably believes the member already knows the information; and
+2. On demand, other information concerning the company’s activities, affairs, financial condition, and other circumstances, except to the extent the demand or information demanded is unreasonable or otherwise improper under the circumstances.
+(c) Within 10 days after receiving a demand pursuant to subparagraph (b)2., the company shall provide to the member who made the demand a record of:
+1. The information that the company will provide in response to the demand and when and where the company will provide such information.
+2. For any demanded information that the company is not providing, the reasons that the company will not provide the information.
+(d) The duty to furnish information under this subsection also applies to each member to the extent the member knows any of the information described in this subsection.
+(3) In a manager-managed limited liability company, the following rules apply:
+(a) The informational rights stated in subsection (2) and the duty stated in paragraph (2)(d) apply to the managers and not to the members.
+(b) During regular business hours and at a reasonable location specified by the company, a member may inspect and copy:
+1. The records described in subsection (1); and
+2. Full information regarding the activities, affairs, financial condition, and other circumstances of the company as is just and reasonable if:
+a. The member seeks the information for a purpose reasonably related to the member’s interest as a member; and
+b. The member makes a demand in a record received by the company, describing with reasonable particularity the information sought and the purpose for seeking the information, and if the information sought is directly connected to the member’s purpose.
+(c) Within 10 days after receiving a demand pursuant to subparagraph (b)2., the company shall, in a record, inform the member who made the demand of:
+1. The information that the company will provide in response to the demand and when and where the company will provide the information; and
+2. The company’s reasons for declining, if the company declines to provide any demanded information.
+(d) If this chapter or an operating agreement provides for a member to give or withhold consent to a matter, before the consent is given or withheld, the company shall, without demand, provide the member with all information that is known to the company and is material to the member’s decision.
+(4) Subject to subsection (10), on 10 days’ demand made in a record received by a limited liability company, a person dissociated as a member may have access to information to which the person was entitled while a member if:
+(a) The information pertains to the period during which the person was a member;
+(b) The person seeks the information in good faith; and
+(c) The person satisfies the requirements imposed on a member by paragraph (3)(b).
+(5) A limited liability company shall respond to a demand made pursuant to subsection (4) in the manner provided in paragraph (3)(c).
+(6) A limited liability company may charge a person who makes a demand under this section the reasonable costs of copying, which costs are limited to the costs of labor and materials.
+(7) A member or person dissociated as a member may exercise rights under this section through an agent or, in the case of an individual under legal disability or an entity that is dissolved or its existence terminated, through a legal representative. A restriction or condition imposed by the operating agreement or under subsection (10) applies both to the agent or legal representative and the member or person dissociated as a member.
+(8) Subject to subsection (9), the rights under this section do not extend to a person as transferee.
+(9) If a member dies, s. 605.0504 applies.
+(10) In addition to a restriction or condition stated in the operating agreement, a limited liability company, as a matter within the ordinary course of its activities and affairs, may impose reasonable restrictions and conditions on access to and use of information to be furnished under this section, including designating information confidential and imposing nondisclosure and safeguarding obligations on the recipient. In a dispute concerning the reasonableness of a restriction under this subsection, the company has the burden of proving reasonableness. This subsection does not apply to the request by a member for the records described in subsection (1).
+History.—s. 2, ch. 2013-180; s. 6, ch. 2015-148; s. 72, ch. 2016-10; s. 250, ch. 2019-90; s. 1, ch. 2021-13.
+605.0411 Court-ordered inspection.—
+(1) If a limited liability company does not allow a member, manager, or other person who complies with s. 605.0410(2)(a), (3)(a), (3)(b), or (4), as applicable, to inspect and copy any records required by that section to be available for inspection, the circuit court in the county where the limited liability company’s principal office is or was last located, as shown by the records of the department or, if there is no principal office in this state, where its registered office is or was last located, may summarily order inspection and copying of the records demanded, at the limited liability company’s expense, upon application of the member, manager, or other person.
+(2) If the court orders inspection or copying of the records demanded, it shall also order the limited liability company to pay the costs, including reasonable attorney fees, reasonably incurred by the member, manager, or other person seeking the records to obtain the order and enforce its rights under this section unless the limited liability company proves that it refused inspection in good faith because the company had a reasonable basis for doubt about the right of the member, manager, or such other person to inspect or copy the records demanded.
+(3) If the court orders inspection or copying of the records demanded, it may impose reasonable restrictions on the use or distribution of the records by the member, manager, or other person demanding such records.
+History.—s. 2, ch. 2013-180.
+605.0501 Nature of transferable interest.—A transferable interest is personal property.
+History.—s. 2, ch. 2013-180.
+605.0502 Transfer of transferable interest.—
+(1) Subject to s. 605.0503, a transfer, in whole or in part, of a transferable interest:
+(a) Is permissible;
+(b) Does not by itself cause a member’s dissociation or a dissolution and winding up of the limited liability company’s activities and affairs; and
+(c) Does not entitle the transferee to:
+1. Participate in the management or conduct of the company’s activities and affairs; or
+2. Except as otherwise provided in subsection (3), have access to records or other information concerning the company’s activities and affairs.
+(2) A transferee has the right to receive, in accordance with the transfer, distributions to which the transferor would otherwise be entitled.
+(3) In a dissolution and winding up of a limited liability company, a transferee is entitled to an account of the company’s transactions only from the date of dissolution.
+(4) A transferable interest may be evidenced by a certificate of the interest issued by the limited liability company in a record, and, subject to this section, the interest represented by the certificate may be transferred by a transfer of the certificate.
+(5) A limited liability company need not give effect to a transferee’s rights under this section until the company knows or has notice of the transfer.
+(6) A transfer of a transferable interest in violation of a restriction on transfer contained in the operating agreement is ineffective as to a person who has knowledge or notice of the restriction at the time of transfer.
+(7) Except as otherwise provided in s. 605.0602(5)(b), if a member transfers a transferable interest, the transferor retains the rights of a member other than the transferable interest transferred and retains all the duties and obligations of a member.
+(8) If a member transfers a transferable interest to a person who becomes a member with respect to the transferred interest, the transferee is liable for the member’s obligations under ss. 605.0403 and 605.0406(3) which are known to the transferee at the time the transferee becomes a member.
+History.—s. 2, ch. 2013-180.
+605.0503 Charging order.—
+(1) On application to a court of competent jurisdiction by a judgment creditor of a member or a transferee, the court may enter a charging order against the transferable interest of the member or transferee for payment of the unsatisfied amount of the judgment with interest. Except as provided in subsection (5), a charging order constitutes a lien upon a judgment debtor’s transferable interest and requires the limited liability company to pay over to the judgment creditor a distribution that would otherwise be paid to the judgment debtor.
+(2) This chapter does not deprive a member or transferee of the benefit of any exemption law applicable to the transferable interest of the member or transferee.
+(3) Except as provided in subsections (4) and (5), a charging order is the sole and exclusive remedy by which a judgment creditor of a member or member’s transferee may satisfy a judgment from the judgment debtor’s interest in a limited liability company or rights to distributions from the limited liability company.
+(4) In the case of a limited liability company that has only one member, if a judgment creditor of a member or member’s transferee establishes to the satisfaction of a court of competent jurisdiction that distributions under a charging order will not satisfy the judgment within a reasonable time, a charging order is not the sole and exclusive remedy by which the judgment creditor may satisfy the judgment against a judgment debtor who is the sole member of a limited liability company or the transferee of the sole member, and upon such showing, the court may order the sale of that interest in the limited liability company pursuant to a foreclosure sale. A judgment creditor may make a showing to the court that distributions under a charging order will not satisfy the judgment within a reasonable time at any time after the entry of the judgment and may do so at the same time that the judgment creditor applies for the entry of a charging order.
+(5) If a limited liability company has only one member and the court orders a foreclosure sale of a judgment debtor’s interest in the limited liability company or of a charging order lien against the sole member of the limited liability company pursuant to subsection (4):
+(a) The purchaser at the court-ordered foreclosure sale obtains the member’s entire limited liability company interest, not merely the rights of a transferee;
+(b) The purchaser at the sale becomes the member of the limited liability company; and
+(c) The person whose limited liability company interest is sold pursuant to the foreclosure sale or is the subject of the foreclosed charging order ceases to be a member of the limited liability company.
+(6) In the case of a limited liability company that has more than one member, the remedy of foreclosure on a judgment debtor’s interest in the limited liability company or against rights to distribution from the limited liability company is not available to a judgment creditor attempting to satisfy the judgment and may not be ordered by a court.
+(7) This section does not limit any of the following:
+(a) The rights of a creditor who has been granted a consensual security interest in a limited liability company interest to pursue the remedies available to the secured creditor under other law applicable to secured creditors.
+(b) The principles of law and equity which affect fraudulent transfers.
+(c) The availability of the equitable principles of alter ego, equitable lien, or constructive trust or other equitable principles not inconsistent with this section.
+(d) The continuing jurisdiction of the court to enforce its charging order in a manner consistent with this section.
+History.—s. 2, ch. 2013-180.
+605.0504 Power of legal representative.—If a member who is an individual dies or a court of competent jurisdiction adjudges the member to be incompetent to manage the member’s person or property, the member’s legal representative may exercise all of the member’s rights for the purpose of settling the member’s estate or administering the member’s property, including any power the member had to give a transferee the right to become a member. If a member is a corporation, trust, or other entity and is dissolved or terminated, the powers of that member may be exercised by its legal representative.
+History.—s. 2, ch. 2013-180.
+605.0601 Power to dissociate as member; wrongful dissociation.—
+(1) A person has the power to dissociate as a member at any time, rightfully or wrongfully, by withdrawing as a member by express will under s. 605.0602(1).
+(2) A person’s dissociation as a member is wrongful only if the dissociation:
+(a) Is in breach of an express provision of the operating agreement; or
+(b) Occurs before completion of the winding up of the company, and:
+1. The person withdraws as a member by express will;
+2. The person is expelled as a member by judicial order under s. 605.0602(6);
+3. The person is dissociated under s. 605.0602(8); or
+4. In the case of a person that is not a trust other than a business trust, an estate, or an individual, the person is expelled or otherwise dissociated as a member because it willfully dissolved or terminated.
+(3) A person who wrongfully dissociates as a member is liable to the limited liability company and, subject to s. 605.0801, to the other members for damages caused by the dissociation. The liability is in addition to each debt, obligation, or other liability of the member to the company or the other members.
+(4) Notwithstanding anything to the contrary under applicable law, the articles of organization or operating agreement may provide that a limited liability company interest may not be assigned before the dissolution and winding up of the limited liability company.
+History.—s. 2, ch. 2013-180.
+605.0602 Events causing dissociation.—A person is dissociated as a member if any of the following occur:
+(1) The company has notice of the person’s express will to withdraw as a member, but if the person specified a withdrawal date later than the date the company had notice, on that later date.
+(2) An event stated in the operating agreement as causing the person’s dissociation occurs.
+(3) The person’s entire interest is transferred in a foreclosure sale under s. 605.0503(5).
+(4) The person is expelled as a member pursuant to the operating agreement.
+(5) The person is expelled as a member by the unanimous consent of the other members if any of the following occur:
+(a) It is unlawful to carry on the company’s activities and affairs with the person as a member.
+(b) There has been a transfer of the person’s entire transferable interest in the company other than:
+1. A transfer for security purposes; or
+2. A charging order in effect under s. 605.0503 which has not been foreclosed.
+(c) The person is a corporation and:
+1. The company notifies the person that it will be expelled as a member because the person has filed articles or a certificate of dissolution or the equivalent, the person has been administratively dissolved, its charter or equivalent has been revoked, or the person’s right to conduct business has been suspended by the person’s jurisdiction of its formation; and
+2. Within 90 days after the notification, the articles or certificate of dissolution or the equivalent has not been revoked or its charter or right to conduct business has not been reinstated.
+(d) The person is an unincorporated entity that has been dissolved and whose business is being wound up.
+(6) On application by the company or a member in a direct action under s. 605.0801, the person is expelled as a member by judicial order because the person:
+(a) Has engaged or is engaging in wrongful conduct that has affected adversely and materially, or will affect adversely and materially, the company’s activities and affairs;
+(b) Has committed willfully or persistently, or is committing willfully or persistently, a material breach of the operating agreement or a duty or obligation under s. 605.04091; or
+(c) Has engaged or is engaging in conduct relating to the company’s activities and affairs which makes it not reasonably practicable to carry on the activities and affairs with the person as a member.
+(7) In the case of an individual:
+(a) The individual dies; or
+(b) In a member-managed limited liability company:
+1. A guardian or general conservator for the individual is appointed; or
+2. There is a judicial order that the individual has otherwise become incapable of performing the individual’s duties as a member under this chapter or the operating agreement.
+(8) In a member-managed limited liability company, the person:
+(a) Becomes a debtor in bankruptcy;
+(b) Executes an assignment for the benefit of creditors; or
+(c) Seeks, consents to, or acquiesces in the appointment of a trustee, receiver, or liquidator of the person or of all or substantially all the person’s property.
+(9) In the case of a person that is a testamentary or inter vivos trust or is acting as a member by virtue of being a trustee of such a trust, the trust’s entire transferable interest in the company is distributed.
+(10) In the case of a person that is an estate or is acting as a member by virtue of being a legal representative of an estate, the estate’s entire transferable interest in the company is distributed.
+(11) In the case of a person that is not an individual, the existence of the person terminates.
+(12) The company participates in a merger under ss. 605.1021-605.1026 and:
+(a) The company is not the surviving entity; or
+(b) Otherwise as a result of the merger, the person ceases to be a member.
+(13) The company participates in an interest exchange under ss. 605.1031-605.1036, and the person ceases to be a member.
+(14) The company participates in a conversion under ss. 605.1041-605.1046, and the person ceases to be a member.
+(15) The company dissolves and completes winding up.
+History.—s. 2, ch. 2013-180; s. 24, ch. 2015-148.
+605.0603 Effect of dissociation.—
+(1) If a person is dissociated as a member:
+(a) The person’s right to participate as a member in the management and conduct of the company’s activities and affairs terminates;
+(b) If the company is member-managed, the person’s duties and obligations under s. 605.04091 as a member end with regard to matters arising and events occurring after the person’s dissociation; and
+(c) Subject to ss. 605.0504 and 605.1001-605.1072, a transferable interest owned by the person in the person’s capacity immediately before dissociation as a member is owned by the person solely as a transferee.
+(2) A person’s dissociation as a member does not, of itself, discharge the person from a debt, obligation, or other liability to the company or the other members which the person incurred while a member.
+History.—s. 2, ch. 2013-180.
+605.0701 Events causing dissolution.—A limited liability company is dissolved and its activities and affairs must be wound up upon the occurrence of the following:
+(1) An event or circumstance that the operating agreement states causes dissolution.
+(2) The consent of all the members.
+(3) The passage of 90 consecutive days during which the company has no members, unless:
+(a) Consent to admit at least one specified person as a member is given by transferees owning the rights to receive a majority of distributions as transferees at the time the consent is to be effective; and
+(b) At least one person becomes a member in accordance with the consent.
+(4) The entry of a decree of judicial dissolution in accordance with s. 605.0705.
+(5) The filing of a statement of administrative dissolution by the department pursuant to s. 605.0714.
+History.—s. 2, ch. 2013-180.
+605.0702 Grounds for judicial dissolution.—
+(1) A circuit court may dissolve a limited liability company:
+(a) In a proceeding by the Department of Legal Affairs if it is established that:
+1. The limited liability company obtained its articles of organization through fraud; or
+2. The limited liability company has continued to exceed or abuse the authority conferred upon it by law.
+The enumeration in subparagraphs 1. and 2. of grounds for involuntary dissolution does not exclude actions or special proceedings by the Department of Legal Affairs or a state official for the annulment or dissolution of a limited liability company for other causes as provided in another law of this state.
+
+(b) In a proceeding by a manager or member to dissolve the limited liability company if it is established that:
+1. The conduct of all or substantially all of the company’s activities and affairs is unlawful;
+2. It is not reasonably practicable to carry on the company’s activities and affairs in conformity with the articles of organization and the operating agreement;
+3. The managers or members in control of the company have acted, are acting, or are reasonably expected to act in a manner that is illegal or fraudulent;
+4. The limited liability company’s assets are being misappropriated or wasted, causing injury to the limited liability company, or in a proceeding by a member, causing injury to one or more of its members; or
+5. The managers or the members of the limited liability company are deadlocked in the management of the limited liability company’s activities and affairs, the members are unable to break the deadlock, and irreparable injury to the limited liability company is threatened or being suffered.
+(c) In a proceeding by the limited liability company to have its voluntary dissolution continued under court supervision.
+(2)(a) If the managers or the members of the limited liability company are deadlocked in the management of the limited liability company’s activities and affairs, the members are unable to break the deadlock, and irreparable injury to the limited liability company is threatened or being suffered, if the operating agreement contains a deadlock sale provision that has been initiated before the time that the court determines that the grounds for judicial dissolution exist under subparagraph (1)(b)5., then such deadlock sale provision applies to the resolution of such deadlock instead of the court entering an order of judicial dissolution or an order directing the purchase of petitioner’s interest under s. 605.0706, so long as the provisions of such deadlock sale provision are thereafter initiated and effectuated in accordance with the terms of such deadlock sale provision or otherwise pursuant to an agreement of the members of the company.
+(b) For purposes of this section, the term “deadlock sale provision” means a provision in an operating agreement which is or may be applicable in the event of a deadlock among the managers or the members of the limited liability company which the members of the company are unable to break and which provides for a deadlock breaking mechanism, including, but not limited to:
+1. A redemption or a purchase and sale of interests;
+2. A governance change, among or between members;
+3. The sale of the company or all or substantially all of the assets of the company; or
+4. A similar provision that, if initiated and effectuated, breaks the deadlock by causing the transfer of interests, a governance change, or the sale of all or substantially all of the company’s assets.
+(3) A deadlock sale provision in an operating agreement which is not initiated and effectuated before the court enters an order of judicial dissolution under subparagraph (1)(b)5. or an order directing the purchase of petitioner’s interest under s. 605.0706, does not adversely affect the rights of members and managers to seek judicial dissolution under subparagraph (1)(b)5. or the rights of the company or one or more members to purchase the petitioner’s interest under s. 605.0706. The filing of an action for judicial dissolution on the grounds described in subparagraph (1)(b)5. or an election to purchase the petitioner’s interest under s. 605.0706, does not adversely affect the right of a member to initiate an available deadlock sale provision under the operating agreement or to enforce a member-initiated or an automatically-initiated deadlock sale provision if the deadlock sale provision is initiated and effectuated before the court enters an order of judicial dissolution under subparagraph (1)(b)5. or an order directing the purchase of petitioner’s interest under s. 605.0706.
+History.—s. 2, ch. 2013-180; s. 251, ch. 2019-90; s. 73, ch. 2020-32.

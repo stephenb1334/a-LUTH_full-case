@@ -1,0 +1,65 @@
+nodeID,tag,title,category
+C1-S1,[Cat=FLLT;Sub=LandlordAddress],Failure to Disclose Proper Landlord/Address Information,Florida Landlord-Tenant Statutory Violations
+C1-S2,[Cat=FLLT;Sub=SecurityDeposit],Improper Handling of Security Deposit (Fla. Stat. § 83.49),Florida Landlord-Tenant Statutory Violations
+C1-S3,[Cat=FLLT;Sub=Disclosures],Noncompliance with Required Disclosures,Florida Landlord-Tenant Statutory Violations
+C1-S4,[Cat=FLLT;Sub=RentCollection],Unclear or Improper Rent Collection Methods,Florida Landlord-Tenant Statutory Violations
+C1-S5,[Cat=FLLT;Sub=AddressDisclosure83.50],Violation of Fla. Stat. § 83.50 – Landlord’s Address Disclosure,Florida Landlord-Tenant Statutory Violations
+C1-S6,[Cat=FLLT;Sub=WaiverRights],Attempted Waiver/Circumvention of Tenant Statutory Rights (Fla. Stat. § 83.47),Florida Landlord-Tenant Statutory Violations
+C1-S7,[Cat=FLLT;Sub=PersonalPropLiability],Invalid “No Liability for Tenant’s Property” Clause,Florida Landlord-Tenant Statutory Violations
+C10-S1,[Cat=Ethics;Sub=Rule4-8.4Viol],Potential Violations of Professional Rules (Rule 4-8.4),Professional Misconduct & Bar Violations
+C10-S2,[Cat=Ethics;Sub=FraudulentLeaseOrTax],Ethical Misconduct in Structuring Fraudulent Lease or Tax Avoidance,Professional Misconduct & Bar Violations
+C10-S3,[Cat=Damages;Sub=CompensatoryDamages],Compensatory Damages (Actual Economic Losses),Damages and Remedies Claims
+C10-S4,[Cat=Damages;Sub=PunitiveDamages],Punitive Damages (Fla. Stat. §768.72),Damages and Remedies Claims
+C10-S5,[Cat=Damages;Sub=EmotionalPainSuffering],Emotional Distress / Pain and Suffering,Damages and Remedies Claims
+C10-S6,[Cat=Damages;Sub=AttorneyFees],"Attorney's Fees and Costs (Fla. Stat. §83.48, §57.105)",Damages and Remedies Claims
+C10-S7,[Cat=Damages;Sub=TenantPropertyValue],"Value of Tenant's Personal Property (Weber Grill, etc.)",Damages and Remedies Claims
+C11-S1,[Cat=LossConsortium;Sub=MarriageBreakdown],Loss of Consortium by Stephen (Marriage Breakdown),Personal Injury & Loss of Consortium
+C11-S2,[Cat=LossConsortium;Sub=PTSDDivorce],Loss of Consortium – PTSD-Induced Marital Dissolution,Personal Injury & Loss of Consortium
+C12-S1,[Cat=InvalidLease;Sub=WaiverOfCh715],Invalid Clause Purporting to Waive Statutory Duties (Fla. Stat. § 83.47),"Invalid Lease Provisions re. Personal Property Access, Unlawful Obstruction, and Conversion"
+C12-S2,[Cat=InvalidLease;Sub=ObstructionOfRetrieval],Unlawful Obstruction of Retrieval (Communication Cutoff),"Invalid Lease Provisions re. Personal Property Access, Unlawful Obstruction, and Conversion"
+C12-S3,[Cat=InvalidLease;Sub=ConversionPersonalProp],Conversion for Landlord’s Own Use (Weber Grill & Other Items),"Invalid Lease Provisions re. Personal Property Access, Unlawful Obstruction, and Conversion"
+C2-S1,[Cat=ForeignEntity;Sub=605.0902],Violation of Fla. Stat. § 605.0902 (Unregistered Foreign Entity),Illegality and Foreign Entity Registration Claims
+C2-S2,[Cat=ForeignEntity;Sub=IllegalityLease],Unenforceability Due to Illegal Purpose/Execution,Illegality and Foreign Entity Registration Claims
+C2-S3,[Cat=ForeignEntity;Sub=Concealment],Concealment of Entity Identity,Illegality and Foreign Entity Registration Claims
+C2-S4,[Cat=ForeignEntity;Sub=TaxEvasion],Potential Tax Evasion / Failure to Properly Report Income,Illegality and Foreign Entity Registration Claims
+C3-S1,[Cat=Contract;Sub=BreachOfLease],Breach of Lease / Breach of Contract,Contractual and Lease Enforcement Claims
+C3-S2,[Cat=Contract;Sub=GoodFaith],Breach of Implied Covenant of Good Faith and Fair Dealing,Contractual and Lease Enforcement Claims
+C3-S3,[Cat=Contract;Sub=FailureOfConsideration],Failure of Consideration / Mutual Mistake,Contractual and Lease Enforcement Claims
+C3-S4,[Cat=Contract;Sub=WarrantyHabitability],Breach of Warranty of Habitability / Quiet Enjoyment,Contractual and Lease Enforcement Claims
+C3-S5,[Cat=Contract;Sub=NegligentPrep],Lease Preparation Negligence (Address-Fields Error),Contractual and Lease Enforcement Claims
+C3-S6,[Cat=Contract;Sub=EarlyTermFee],Early Termination Fee Clause – Potential Exceeding of 2 Months’ Rent,Contractual and Lease Enforcement Claims
+C3-S7,[Cat=Contract;Sub=InvalidWaivers],Invalid or Void Provisions Attempting to Waive Statutory Protections,Contractual and Lease Enforcement Claims
+C4-S1,[Cat=Fraud;Sub=Inducement],Fraud in the Inducement,"Fraud, Misrepresentation, and Deceptive Practices"
+C4-S2,[Cat=Fraud;Sub=Omission],Fraudulent Concealment or Omission,"Fraud, Misrepresentation, and Deceptive Practices"
+C4-S3,[Cat=Fraud;Sub=MailingDeception],Deceptive Mailing/Address Practices,"Fraud, Misrepresentation, and Deceptive Practices"
+C4-S4,[Cat=Fraud;Sub=FDUTPA],Florida Deceptive and Unfair Trade Practices Act (FDUTPA) (Potential),"Fraud, Misrepresentation, and Deceptive Practices"
+C4-S5,[Cat=Fraud;Sub=UPLOrMisrepAttorney],Unauthorized Practice of Law / Misrepresentation of Attorney Status,"Fraud, Misrepresentation, and Deceptive Practices"
+C4-S6,[Cat=Fraud;Sub=ForcedPhoneCalls],Misrepresentation that Phone Calls Were Legally Required,"Fraud, Misrepresentation, and Deceptive Practices"
+C5-S1,[Cat=Deposit;Sub=83.49Violation],Violation of Deposit Statute (Fla. Stat. § 83.49),Security Deposit and Personal Property Claims
+C5-S2,[Cat=Deposit;Sub=BadFaithRetention],Wrongful or Bad-Faith Retention of Deposit,Security Deposit and Personal Property Claims
+C5-S3,[Cat=Deposit;Sub=ConversionOrCivilTheft],Conversion / Civil Theft (Fla. Stat. § 772.11),Security Deposit and Personal Property Claims
+C5-S4,[Cat=PersonalProp;Sub=715.104Violation],Failure to Comply with Fla. Stat. § 715.104 (Disposition of Abandoned Property),Security Deposit and Personal Property Claims
+C5-S5,[Cat=PersonalProp;Sub=Interference],Interference with Tenant’s Right to Retrieve Personal Property,Security Deposit and Personal Property Claims
+C5-S6,[Cat=PersonalProp;Sub=ForcedAbandonment],Willful Communication Cutoff & Attempted Forced Abandonment,Security Deposit and Personal Property Claims
+C6-S1,[Cat=Negligence;Sub=Security],Negligent Security (Home Invasion Incident),Negligence or Premises Liability
+C6-S2,[Cat=Negligence;Sub=Maintenance],General Negligent Maintenance,Negligence or Premises Liability
+C6-S3,[Cat=Negligence;Sub=PerSe],Negligence Per Se (Violation of Building Codes),Negligence or Premises Liability
+C6-S4,[Cat=Negligence;Sub=EmotionalDistress],Negligent Infliction of Emotional Distress (Security Breach & PTSD),Negligence and Safety Claims
+C6-S5,[Cat=Negligence;Sub=KitchenPlumbing],Plumbing Maintenance Failures (Kitchen Sink),Negligence and Safety Claims
+C6-S6,[Cat=Negligence;Sub=SupervisoryNeglect],Negligent Supervision of Property Management,Negligence and Safety Claims
+C7-S1,[Cat=Realtor;Sub=NegligentMisrep],Breach of Professional Duty / Negligent Misrepresentation,Realtor and Brokerage Liability
+C7-S2,[Cat=Realtor;Sub=ConflictInterest],Conflict of Interest and Unfair Dealing,Realtor and Brokerage Liability
+C7-S3,[Cat=Realtor;Sub=BrokerageSupervision],Lack of Adequate Supervision by Brokerage,Realtor and Brokerage Liability
+C7-S4,[Cat=Realtor;Sub=PTSDDisclosure],Failure to Communicate Tenant’s Mental Health Information (PTSD),Realtor and Brokerage Liability
+C7-S5,[Cat=Realtor;Sub=NARViolation],Potential Code of Ethics Violation (Offering “Professional Opinions” Outside Expertise),Realtor and Brokerage Liability
+C7-S6,[Cat=Realtor;Sub=ZillowOmission],Omission/Manipulation of Zillow Listing Data,Realtor and Brokerage Liability
+C8-S1,[Cat=Defenses;Sub=UnjustEnrichment],Unjust Enrichment,Additional or Overarching Theories and Defenses
+C8-S2,[Cat=Defenses;Sub=OffsetSetoff],Offset / Setoff Against Landlord Claims,Additional or Overarching Theories and Defenses
+C8-S3,[Cat=Defenses;Sub=DecJudgmentVoidLease],Declaratory Judgment (Lease Void / Unenforceable),Additional or Overarching Theories and Defenses
+C8-S4,[Cat=Defenses;Sub=AttnyFees],Attorney’s Fees & Costs,Additional or Overarching Theories and Defenses
+C8-S5,[Cat=Ethics;Sub=PhoneIntimidation],Coercive Phone Call Demands / Harassment Communications,Ethics and Professional Misconduct
+C8-S6,[Cat=Ethics;Sub=ViolationsDuringSuit],Ongoing Violations During Legal Proceedings,Ethics and Professional Misconduct
+C9-S1,[Cat=Emotional;Sub=Harassment],Harassment / Repeated Communications Causing Emotional Distress,Harassment and Emotional Distress Claims
+C9-S2,[Cat=Emotional;Sub=InterfereProp],Emotional Distress from Interference with Personal Property,Harassment and Emotional Distress Claims
+C9-S3,[Cat=Emotional;Sub=InactionAfterHomeInvasion],Emotional Distress for Landlord’s Inaction Post–Home Invasion,Harassment and Emotional Distress Claims
+C9-S4,[Cat=Emotional;Sub=RentalTruckObstruction],Additional Financial & Emotional Harm from Wasted Rental Truck & Obstructed Plans,Harassment and Emotional Distress Claims

@@ -1,0 +1,43 @@
+MEMORANDUM
+
+TO: [Client Name]
+FROM: [Your Law Firm/Advisor Name]
+RE: Guidance on Filing a Lis Pendens and Related Actions to Restrict Sale of Real Property
+DATE: [Insert Date]
+
+I. INTRODUCTION
+
+You have requested guidance regarding the process of filing a lis pendens or related legal actions to prevent the sale or transfer of a property under legal scrutiny, such as in the event of litigation involving a landlord or owner. This memorandum provides a comprehensive, step-by-step outline of the procedures, statutory requirements, and practical considerations for initiating such a filing in Florida.
+
+II. OVERVIEW OF LIS PENDENS
+
+A. Definition and Purpose
+
+A lis pendens is a formal written notice filed in the public records, signifying that a lawsuit has been initiated concerning a specific piece of real property. Its purpose is to provide constructive notice to all prospective purchasers, lenders, and other interested parties that the property is subject to litigation that may affect title or ownership.
+
+B. Legal Effect
+
+Once recorded, a lis pendens effectively “clouds” the title, rendering most buyers and lenders unwilling to proceed with any transaction involving the property until the underlying dispute is resolved or the notice is released.
+
+III. STATUTORY AUTHORITY
+
+Florida Statutes § 48.23 governs the filing and effect of a lis pendens. The statute requires that the underlying lawsuit must concern the property’s title, interest, or right of possession.
+
+IV. STEP-BY-STEP FILING PROCESS 1. Initiate the Underlying Lawsuit ▫ Draft and file a complaint in the appropriate court (typically Circuit Court) asserting claims that affect the property’s title or ownership (e.g., foreclosure, partition, quiet title, specific performance). ▫ Ensure the complaint specifically identifies the property by legal description. 2. Prepare the Lis Pendens Notice ▫ The notice must include: ⁃ The names of the parties. ⁃ The date of the lawsuit filing. ⁃ The court and case number. ⁃ A complete legal description of the property. ⁃ A brief statement of the nature of the claims affecting the property. 3. File the Lis Pendens with the Clerk of Court ▫ File the notice of lis pendens in the public records of the county where the property is located. ▫ Pay any required filing fees. 4. Serve Notice to Interested Parties ▫ While not strictly required by statute, it is prudent to notify all known parties with an interest in the property (e.g., owners, mortgage holders, tenants) to avoid challenges to the notice. 5. Monitor and Defend the Lis Pendens ▫ Be prepared for potential motions to dissolve or expunge the lis pendens if the opposing party alleges the underlying claim does not affect the property or is otherwise improper. ▫ Maintain the underlying lawsuit diligently; failure to prosecute may result in the lis pendens being lifted.
+
+V. PRACTICAL CONSIDERATIONS • Good Faith Requirement: Filing a lis pendens without a valid underlying property claim can subject the filer to sanctions, including damages and attorney’s fees. • Duration: The lis pendens remains effective until the litigation is resolved, or the court orders its removal. • Release: Once the dispute is resolved or settled, file a release of lis pendens to clear the title.
+
+VI. ALTERNATIVE OR SUPPLEMENTARY ACTIONS • Injunction: In cases of fraud or urgent risk of unauthorized transfer, seek a temporary restraining order or preliminary injunction to prevent the sale pending litigation. • Lien Filing: For unpaid debts related to the property (e.g., contractor services), file a statutory lien as permitted by law.
+
+VII. CONCLUSION
+
+The filing of a lis pendens is a powerful tool to protect your interest in disputed real property. Strict adherence to statutory requirements and procedural formalities is essential to ensure its enforceability and to avoid liability for improper filings. It is advisable to consult with experienced real estate counsel throughout this process to ensure compliance and strategic advantage.
+
+Should you require further assistance or wish to initiate this process, please contact our office to arrange a detailed consultation.
+
+Respectfully,
+
+[Attorney Name]
+[Law Firm Name]
+[Bar Number]
+[Contact Information]
