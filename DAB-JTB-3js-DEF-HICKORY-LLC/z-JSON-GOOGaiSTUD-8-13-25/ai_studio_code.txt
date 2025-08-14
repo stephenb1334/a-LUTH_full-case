@@ -1,0 +1,210 @@
+{
+  "caseSnapshot": {
+    "metadata": {
+      "caseTitle": "Comprehensive Analysis of Property Management, Business Practices, and Statutory Compliance",
+      "primarySubject": "Luther J. Rollins, Jr.",
+      "subjectProperty": "2649 Tifton St S, Gulfport, FL 33711",
+      "primaryJurisdiction": "Florida, USA",
+      "secondaryJurisdiction": "North Carolina, USA",
+      "periodOfAnalysis": "2000-06-2025",
+      "exportTimestamp": "2024-10-27T18:00:00Z"
+    },
+    "keyParties": [
+      {
+        "name": "Luther J. Rollins, Jr.",
+        "role": "Landlord, Principal",
+        "primaryAddress": "420 18th Avenue Ln NW, Hickory, NC 28601",
+        "associatedEntities": ["AMARLU ENTERPRISES (Assumed Name)"],
+        "notes": "Attorney licensed in Missouri with a stated practice area in Real Estate. Central figure in the Florida tenancy dispute and owner of the subject property."
+      },
+      {
+        "name": "Mary O. Polk",
+        "role": "Landlord, Co-owner",
+        "primaryAddress": "420 18th Avenue Ln NW, Hickory, NC 28601",
+        "notes": "Co-owner of the Florida property and spouse of Luther Rollins."
+      },
+      {
+        "name": "Stephen Boerner",
+        "role": "Tenant",
+        "primaryAddress": "2649 Tifton St S, Gulfport, FL 33711",
+        "notes": "Tenant of the subject property during the 10-month lease term."
+      },
+      {
+        "name": "James D. Dietz, Jr. ('Jim Dietz')",
+        "role": "Principal of NC Business Network",
+        "primaryAddress": "1729 N Center St, Hickory, NC 28601",
+        "associatedEntities": ["Dab of Hickory, LLC", "JTB of Hickory, LLC", "Dietz & Dietz Investments, LLC", "Viewmont Auto Sales, Inc."],
+        "notes": "Central figure in the Hickory, NC real estate network. President of Viewmont Auto Sales and organizer/manager of multiple real estate LLCs."
+      },
+      {
+        "name": "John Timothy Bowman",
+        "role": "Principal of NC Business Network",
+        "primaryAddress": "3211 7th Street Dr NE, Hickory, NC 28601",
+        "associatedEntities": ["Dab of Hickory, LLC", "JTB of Hickory, LLC"],
+        "notes": "Original organizer of Dab of Hickory, LLC. Acted as signatory for JTB of Hickory, LLC in the property sale to Luther Rollins, forming a direct link."
+      }
+    ],
+    "keyEntities": [
+      {
+        "entityName": "AMARLU ENTERPRISES",
+        "entityType": "Assumed Business Name (Sole Proprietorship)",
+        "registeredAddress": "231 Government Ave SW #3097, Hickory, NC 28603",
+        "status": "Registered at county level in NC only. Not registered as an LLC/Corp in NC. Not registered as a foreign entity in FL.",
+        "notes": "Used by Luther Rollins to collect rent for the Florida property. The address is a disguised P.O. Box at a USPS facility, a key element in the obfuscation pattern."
+      },
+      {
+        "entityName": "Dab of Hickory, LLC",
+        "entityType": "North Carolina Limited Liability Company",
+        "registeredAddress": "1729 N Center St, Hickory, NC 28601",
+        "status": "Active in NC.",
+        "notes": "Foundational entity of the Dietz/Bowman network. Engaged in sophisticated, multi-property acquisitions since its formation in 2000."
+      },
+      {
+        "entityName": "JTB of Hickory, LLC",
+        "entityType": "North Carolina Limited Liability Company",
+        "registeredAddress": "3211 7th Street Dr NE, Hickory, NC 28601",
+        "status": "Active in NC.",
+        "notes": "Entity that sold a property directly to Luther J. Rollins, Jr. in 2020, establishing a prior business relationship."
+      },
+      {
+        "entityName": "Las Vegas Trusts (e.g., 4636 BOWMAN ROAD TRUST)",
+        "entityType": "Nevada Trust",
+        "registeredAddress": "304 S JONES BLVD # 7700, LAS VEGAS, NV 89107",
+        "status": "Used to hold NC property.",
+        "notes": "Multiple trusts, named after the properties they own, use the same Commercial Mail Receiving Agency (CMRA) address in Las Vegas. This demonstrates a sophisticated, multi-state asset protection and anonymization strategy potentially linked to the core network."
+      }
+    ],
+    "chronologicalEvents": [
+      {
+        "date": "2000-02-29",
+        "event": "Dab of Hickory, LLC acquires a 2.337-acre multi-property parcel from Toua and Shoua Khang.",
+        "significance": "Establishes the long-standing, sophisticated, and large-scale nature of the Dietz/Bowman real estate network from its inception."
+      },
+      {
+        "date": "2020-04-06",
+        "event": "JTB of Hickory, LLC (signed by John Timothy Bowman) sells a property to Luther J. Rollins, Jr.",
+        "significance": "Creates a direct, documented, prior business relationship between Rollins and the core Hickory real estate network."
+      },
+      {
+        "date": "2022-05-27",
+        "event": "Luther J. Rollins, Jr. purchases the subject property at 2649 Tifton St S, Gulfport, FL.",
+        "significance": "This is Day 1 of ownership for all subsequent analysis."
+      },
+      {
+        "date": "2023-07-07",
+        "event": "Rollins files Assumed Business Name certificates for AMARLU entities in Catawba County, NC.",
+        "significance": "Creates the entity later used to collect rent, using a disguised P.O. Box address."
+      },
+      {
+        "date": "2023-10-31",
+        "event": "Lease commences with tenant Stephen Boerner. The MLS rental listing is immediately removed from public view.",
+        "significance": "Suggests a deliberate effort to conceal the active tenancy."
+      },
+      {
+        "date": "2023-11-29",
+        "event": "Rollins provides new instructions to make rent payable to 'AMARLU ENTERPRISES' at the disguised NC P.O. Box.",
+        "significance": "Constitutes a unilateral breach of the written lease agreement and initiates the use of an unregistered entity for business in Florida."
+      },
+      {
+        "date": "2024-01-10",
+        "event": "Tenant reports a severely clogged and unsanitary kitchen sink.",
+        "significance": "Landlord is non-responsive for over 15 days, a breach of F.S. 83.51 (Duty to Maintain Premises)."
+      },
+      {
+        "date": "2024-03-26",
+        "event": "A violent home invasion occurs. Tenant reports the incident and requests urgent security repairs to non-locking gates.",
+        "significance": "Landlord acknowledges the danger but fails to take corrective action, a further breach of F.S. 83.51."
+      },
+      {
+        "date": "2024-08-30",
+        "event": "Lease term concludes. Tenant's personal property remains on the premises.",
+        "significance": "Triggers the landlord's statutory obligations under F.S. 715.104."
+      },
+      {
+        "date": "2024-10-04",
+        "event": "Landlord re-lists the property for rent, advertising it as 'FULLY FURNISHED' and including 'barbecues'.",
+        "significance": "Constitutes civil conversion of the tenant's property, as no statutory notice was provided."
+      }
+    ],
+    "evidenceCatalog": [
+      {
+        "id": "DOC-01",
+        "type": "Residential Lease Agreement (Florida)",
+        "findings": "Violates F.S. 83.50 by listing tenant's address as landlord's address. Contains a procedurally flawed and contradictory Lead-Based Paint Disclosure. Specifies rent is payable to 'Luther Rollins', which was later breached."
+      },
+      {
+        "id": "DOC-02",
+        "type": "NC Public Records (Deeds, LLC Filings)",
+        "findings": "Establishes the existence, history, and interconnectedness of the Dietz/Bowman real estate network. Documents the direct property sale from JTB of Hickory, LLC to Luther Rollins."
+      },
+      {
+        "id": "DOC-03",
+        "type": "NC Assumed Business Name Certificates",
+        "findings": "Confirms Luther Rollins is the principal of AMARLU ENTERPRISES and registered it with a disguised P.O. Box address."
+      },
+      {
+        "id": "DATA-01",
+        "type": "Catawba County Parcel Data (CSV/Shapefile)",
+        "findings": "Contains raw property data for the entire county. Analysis reveals a network of trusts based in Las Vegas using a CMRA address, including trusts named after 'Bowman Rd', suggesting a wider, more sophisticated anonymization strategy."
+      },
+      {
+        "id": "DATA-02",
+        "type": "MLS and Zillow Listing Histories",
+        "findings": "Documents the strategic removal of rental listings coinciding with tenancy periods and confirms the marketing of the tenant's converted property as a rental amenity."
+      },
+      {
+        "id": "COMM-01",
+        "type": "Tenant-Landlord Communications (Text Messages)",
+        "findings": "Provides a chronological record of the landlord's non-responsiveness to maintenance and security issues, and the landlord's attempts to coerce verbal communication."
+      }
+    ],
+    "legalAnalysis": {
+      "strongClaims": [
+        {
+          "statute": "Florida Statute § 83.50 (Disclosure of Landlord's Address)",
+          "violation": "Lease agreement lists the tenant's own address as the landlord's address for notices, making legal service unworkable."
+        },
+        {
+          "statute": "Florida Statute § 605.0902 (Foreign LLC Registration)",
+          "violation": "Landlord collected rent in Florida through 'AMARLU ENTERPRISES', an entity not registered to transact business in the state."
+        },
+        {
+          "statute": "Florida Statute § 83.51 (Duty to Maintain Premises)",
+          "violation": "Documented failure to address a critical plumbing issue and, more severely, failure to repair non-locking security gates after a violent home invasion."
+        },
+        {
+          "statute": "Florida Statute § 715.104 & § 83.67 (Abandoned Property & Prohibited Practices)",
+          "violation": "Landlord failed to provide statutory notice for tenant's personal property and subsequently converted it by advertising it as a rental amenity."
+        },
+        {
+          "statute": "Breach of Contract (Lease Agreement)",
+          "violation": "Landlord unilaterally changed the payee and payment address for rent, contradicting the explicit terms of the signed lease."
+        },
+        {
+          "statute": "42 U.S.C. § 4852d (Lead-Based Paint Disclosure)",
+          "violation": "The disclosure form is legally defective due to a primary unchecked box creating a direct contradiction, rendering the disclosure invalid."
+        }
+      ],
+      "invalidatedTheories": [
+        {
+          "theory": "Unlicensed Practice of Law (UPL)",
+          "reasoning": "A landlord drafting a lease extension for their own property is acting as a principal in a transaction, not providing legal services to a client. This does not meet the legal standard for UPL."
+        },
+        {
+          "theory": "Mortgage Fraud (Second Home Rider)",
+          "reasoning": "The corrected timeline of ownership (starting May 27, 2022) shows the landlord complied with the one-year personal use requirement before listing the property for rent, invalidating this specific claim."
+        }
+      ]
+    },
+    "keyFindingsAndPatterns": [
+      "Systemic Use of Obfuscated Addresses: A pattern exists across multiple entities (AMARLU, Las Vegas Trusts) of using disguised P.O. Boxes and Commercial Mail Receiving Agencies to obscure the true location of principals.",
+      "Sophisticated, Multi-Entity Network: The individuals involved are not casual investors but are part of a long-standing, interconnected network of real estate companies with a history of complex transactions.",
+      "Contrast in Compliance (NC vs. FL): The network demonstrates meticulous legal compliance in its home state of North Carolina, which contrasts sharply with the pattern of statutory non-compliance by Luther Rollins in Florida.",
+      "Willful Non-Compliance vs. Negligence: The landlord's professional background as a real estate attorney, combined with the systemic nature of the violations, strongly suggests that the non-compliance was intentional rather than a series of mistakes."
+    ],
+    "investigativeStatus": {
+      "summary": "The investigation has established a strong, evidence-based case for multiple violations of Florida landlord-tenant law and business registration statutes. A clear pattern of sophisticated and intentional obfuscation has been identified, linking the landlord to a larger real estate network.",
+      "nextSteps": "The immediate next step is to utilize the raw Catawba County parcel data (CSV and Shapefile) with a GIS tool like QGIS or a custom application. The objective is to perform spatial analysis to visually map the full property portfolio of the entire network, identify geographic clusters, and uncover previously unknown connections by analyzing adjacent properties and ownership patterns."
+    }
+  }
+}

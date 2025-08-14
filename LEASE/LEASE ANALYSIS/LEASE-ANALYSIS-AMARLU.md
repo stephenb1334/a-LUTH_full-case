@@ -634,3 +634,9 @@ In sum, the landlord’s repeated noncompliance with statutory duties, evasive c
 
 ### **Conclusion**
 The landlord, Luther Rollins, repeatedly violated **Florida Statutes Chapter 83**, failing to maintain the property in a safe and habitable condition. These violations include neglecting safety concerns after a home invasion, delaying responses to maintenance issues, and failing to repair essential facilities. The landlord’s actions caused financial and emotional harm to the tenant, Stephen Boerner, and constitute a breach of the landlord’s legal obligations.
+
+
+
+
+
+

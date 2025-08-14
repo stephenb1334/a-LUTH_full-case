@@ -1,0 +1,7 @@
+module,description,required,met,score_%,missing
+habitability_83_51,Maintenance/safety obligations under §83.51.,3,3,100.0,
+communications_minimum,At least one authenticated written communication.,4,4,100.0,
+evidence_minimum,Lease file present as evidence.,2,2,100.0,
+foreign_entity_605_0902,Foreign entity registration for rent collection.,3,2,66.7,lease.is_recipient_disclosed_in_lease
+personal_property_715,Personal property handling under Ch. 715.,5,3,60.0,personal_property.items[0].tenant_request_dates; personal_property.items[0].evidence_ids
+deposit_claim_83_49,Security deposit compliance under §83.49(3)(a).,6,0,0.0,lease.end_date; deposit_claim.notice_sent_date; deposit_claim.notice_method; deposit_claim.itemizations; deposit_claim.compliance.notice_within_30_days; deposit_claim.tenant_dispute_date

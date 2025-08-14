@@ -1,0 +1,76 @@
+{
+  "deposit_claim_83_49": {
+    "description": "Security deposit compliance under \u00a783.49(3)(a).",
+    "required_paths": [
+      "lease.end_date",
+      "deposit_claim.notice_sent_date",
+      "deposit_claim.notice_method",
+      "deposit_claim.itemizations",
+      "deposit_claim.compliance.notice_within_30_days",
+      "deposit_claim.tenant_dispute_date"
+    ],
+    "evidence_hint": [
+      "evidence.ev_claim_notice",
+      "evidence.ev_itemization_support"
+    ]
+  },
+  "personal_property_715": {
+    "description": "Personal property handling under Ch. 715.",
+    "required_paths": [
+      "personal_property.items[0].id",
+      "personal_property.items[0].status",
+      "personal_property.items[0].claimed_value_cents",
+      "personal_property.items[0].tenant_request_dates",
+      "personal_property.items[0].evidence_ids"
+    ],
+    "evidence_hint": [
+      "evidence.ev_pp_notice",
+      "evidence.ev_pp_photos"
+    ]
+  },
+  "habitability_83_51": {
+    "description": "Maintenance/safety obligations under \u00a783.51.",
+    "required_paths": [
+      "incidents[?].statute_refs[*].chapter==83",
+      "incidents[?].statute_refs[*].section==51",
+      "incidents[?].evidence_ids[0]"
+    ],
+    "evidence_hint": [
+      "evidence.ev_breakin_photos",
+      "evidence.ev_repair_workorders"
+    ]
+  },
+  "foreign_entity_605_0902": {
+    "description": "Foreign entity registration for rent collection.",
+    "required_paths": [
+      "lease.recipient_entity",
+      "lease.is_recipient_disclosed_in_lease",
+      "payments[0].to_party_id"
+    ],
+    "evidence_hint": [
+      "evidence.ev_sunbiz_search"
+    ]
+  },
+  "communications_minimum": {
+    "description": "At least one authenticated written communication.",
+    "required_paths": [
+      "communications[0].timestamp",
+      "communications[0].channel",
+      "communications[0].from_party_id",
+      "communications[0].evidence_id"
+    ],
+    "evidence_hint": [
+      "evidence.ev_text_1029"
+    ]
+  },
+  "evidence_minimum": {
+    "description": "Lease file present as evidence.",
+    "required_paths": [
+      "lease.lease_file_evidence_id",
+      "evidence[?].id==ev_lease_pdf"
+    ],
+    "evidence_hint": [
+      "evidence.ev_lease_pdf"
+    ]
+  }
+}

@@ -1,0 +1,755 @@
+
+# LEASE-SIG-META-DATA-ADOBE-OCR-FULL-COMPLETE.pdf
+
+
+**TABLE OF CONTENTS**
+
+
+-  Authentisign: 2649 Tifton St S - Lease1
+
+  -  ID: D4A6EBE1-6672-EE11-B004-6045BDED1DA9
+
+  -  Created: 10/24/2023 8:14:36 AM EDT
+
+  -  Signing Creator ID: OEAAEF7F-B70A-EC11-981F-501AC544F02B
+
+  -  Signing Creator: Zach Steinberger
+
+
+-  Signers (2)
+
+  -  1. Luther J. Rollins, Jr.
+      - SIGNATURE & INITIAL META DATA: LUTHER J. ROLLINS, JR. 
+
+  -  2. Mary O. Polk
+      - SIGNATURE & INITIAL META DATA: MARY O. POLK
+
+-  History
+
+
+
+---------------------------------------
+
+
+
+## Authentisign: 2649 Tifton St S - Lease1
+
+  -  ID: D4A6EBE1-6672-EE11-B004-6045BDED1DA9
+
+  -  Created: 10/24/2023 8:14:36 AM EDT
+
+  -  Signing Creator ID: 0EAAEF7F-B70A-EC11-981F-501AC544F02B
+
+  -  Signing Creator: Zach Steinberger
+
+
+
+---------------------------------------
+
+
+## SIGNERS (2):
+
+  -  1. Luther J. Rollins, Jr.
+
+  -  2. Mary O. Polk
+
+
+
+
+### SIGNER 1: LUTHER J. ROLLINS, JR.
+
+
+1. Luther J. Rollins, Jr.
+
+   ID: EABDD4E8-6672-EE11-B004-6045BDED1DA9
+
+   Phone:
+
+   Email: luther2law@gmail.com
+
+   Signed Signatures/Initials (27)
+
+
+### SIGNATURE & INITIAL META DATA:
+
+1. Signature on Page 1
+
+ID: D77EB5A7-6E06-45FE-A2B6-A15DDF0FD03E
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+2. Initials on Page 2
+
+ID: 589E7D23-COC1-4E65-9326-670366506DCA
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+3. Initials on Page 3
+
+ID: AB228541-E2D5-4B2B-BB97-4DDFB76EFBF1
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+4. Initials on Page 4
+
+ID: 56D13AD6-2474-4CB9-A00F-D9676DFBCE4D
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+5. DateStamp on Page 5
+
+ID: A4724BD4-FB6B-4F9B-9969-B1FECCF597F8
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+6. Signature on Page 5
+
+ID: 608CEDA4-3740-466B-84EF-CA8E1C76E1CB
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+7. Initials on Page 5
+
+ID: 6D6A0A35-6727-4358-AFB6-E25170DEA5F3
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+8. Initials on Page 6
+
+ID: 2726D7B9-9288-46A0-AB30-5DCADCC96B4B
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+9. DateStamp on Page 7
+
+ID: 8DF507F3-7A44-43C9-90A0-84073F84D608
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+10. Signature on Page 7
+
+ID: EC658683-1769-4AE1-9539-D15181D31348
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+11. Initials on Page 7
+
+ID: C729C982-DEFA-4245-A5CE-185AC64368E9
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+12. DateStamp on Page 8
+
+ID: EA57DCFB-9D91-46B7-8342-BEAE6910DD3E
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+13. Signature on Page 8
+
+ID: 2ECA9976-B63C-4291-A7FF-8B9AD03CC1E6
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+14. Initials on Page 8
+
+ID: BEA4EF42-2DEE-459E-9E5F-AADB85F20975
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+15. Initials on Page 9
+
+ID: 19C79C65-25C7-473E-9541-AA3EF149DE6C
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+16. Initials on Page 10
+
+ID: 81E34FAC-4530-4252-BE45-ACF50062F406
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+17. Initials on Page 11
+
+ID: 5D482E8A-E188-4A60-81A8-95694C7D1194
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+18. Initials on Page 12
+
+ID: 5BABFB18-B601-4228-86E6-CE334B13CB7A
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+19. Initials on Page 13
+
+ID: 3FC51324-CE4B-4672-A407-8F65D8892E51
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+20. Initials on Page 14
+
+ID: 934E6AAA-31EC-4D40-86B8-05E870E167F2
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+21. Initials on Page 15
+
+ID: 5951C43E-BBA6-409F-A2AB-A0923F0E2C5B
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+22. Initials on Page 16
+
+ID: 9BF93E83-EE86-4419-8EE8-92EB0E83E755
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+23. Initials on Page 17
+
+ID: 3F5DE538-A397-4223-9FCD-7D29826F1F17
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+24. Initials on Page 18
+
+ID: 521DC38B-783E-4E30-A89E-A95A7A219DBB
+
+IP Address: 47135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+25. Initials on Page 19
+
+ID: C8580755-A3E6-4EFC-B7D0-903A6EFECEC6
+
+IP Address: 47.135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+26. Initials on Page 20
+
+ID: EC57CD7F-AF2A-4DBF-91AE-5D6FD2F1AB91
+
+IP Address: 47135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+27. Initials on Page 21
+
+ID: 3DE54B96-2CF9-44EF-9BC2-0D57392CF2FO
+
+IP Address: 47135.37.7
+
+Accepted: 10/24/2023 9:21:51 AM EDT
+
+
+
+
+
+### SIGNATURE & INITIAL META DATA: MARY O. POLK
+
+
+2. Mary O. Polk
+
+   ID: D2DDE4EE-6672-EE11-B004-6045BDED1DA9
+
+   Phone:
+
+   Email: Inhale1@aol.com
+
+   Signed Signatures/Initials (27)
+
+
+1. Signature on Page 1
+
+ID: 169614FE-0800-4537-9B7A-1F35E43B8A58
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+2. Initials on Page 2
+
+ID: 67D17F32-1082-4775-BE04-DF0888964F22
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+3. Initials on Page 3
+
+ID: 275EDB30-15B5-44AE-9BDC-E99FB4545CD3
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+4. Initials on Page 4
+
+ID: 70A09225-2858-422B-B494-EF1BE6716D0E
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+
+5. DateStamp on Page 5
+
+ID: 5A36E804-B470-4E99-BE10-6634975E046D
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+6. Signature on Page 5
+
+ID: 4ED66892-DC96-418D-BCBD-1FBA2D5D8D94
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+7. Initials on Page 5
+
+ID: ABF3DBBD-8E2F-465C-B4F0-2DEC3FD3B238
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+8. Initials on Page 6
+
+ID: 4953B1F9-D424-479B-B70A-5C6C55BB5981
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+9. DateStamp on Page 7
+
+ID: 90314FDC-9776-4B6F-B851-23D86766343B
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+10. Signature on Page 7
+
+ID: D4D69AEE-2EA5-451A-9AE5-B85763B96F01
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+11. Initials on Page 7
+
+ID: 0302AA08-1CFA-461E-BOA8-F64D1784B19C
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+12. DateStamp on Page 8
+
+ID: BC2CEEC7-59EC-4161-B671-C34D25827C7F
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+13. Signature on Page 8
+
+ID: 3E9A29C3-6B1E-422D-A433-C012568ED0A4
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+14. Initials on Page 8
+
+ID: 3E513371-4F97-4CD1-A487-D7FF560553E4
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+15. Initials on Page 9
+
+ID: 2B4FB854-876B-4113-93B3-1DE98E17A1BD
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+16. Initials on Page 10
+
+ID: 7DC50820-3051-42C8-9E68-036998BEF046
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+17. Initials on Page 11
+
+ID: 5B6160FD-CA6A-4226-8555-8C692EDD2064
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+18. Initials on Page 12
+
+ID: DB21623A-B564-40E1-8680-8B47BF8702AE
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+19. Initials on Page 13
+
+ID: 8AEEE601-8A65-4E9F-89B4-AC3D1C5624B6
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/20239:54:24 AM EDT
+
+
+20. Initials on Page 14
+
+ID: 25E508A0-3695-4331-BA12-B1563FD5C916
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+21. Initials on Page 15
+
+ID: D6BBB076-5AE0-45D4-983F-43F61E0F0D89
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+22. Initials on Page 16
+
+ID: 4855219D-2B4A-442E-81FD-617CC129EFC7
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+23. Initials on Page 17
+
+ID: B8FA7CBD-8E0E-4E89-899C-BOD1E5C38E6B
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+24. Initials on Page 18
+
+ID: 7F1F80C3-4CA0-45B8-9028-1A5D39DD490C
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+25. Initials on Page 19
+
+ID: AA8FA828-685E-437F-ABAA-7580D0B99221
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+26. Initials on Page 20
+
+ID: DFA77EFF-2CBA-46E4-B7D1-8C5CD3F9A3A9
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+27. Initials on Page 21
+
+ID: 18A39473-7C63-4EE5-AF00-EC495FBF1F91
+
+IP Address: 166.137.19.30
+
+Accepted: 10/24/2023 9:54:24 AM EDT
+
+
+-----------------------------------
+
+
+## History
+
+
+Signing Created: 10/24/2023 8:14:36 AM EDT
+
+Details: {"Creatorld":"Oeaaef7f-b70a-ec11-981f-501ac544f02b""CreatorName":"Zach Steinberger""Signingld":"d4a6ebel-6672-ee11-b004-6045bded1da9"SigningName":"2649 Tifton St S - Lease")
+
+History ID: C3471C50-035D-44A5-A8F5-CE2C800112AE
+
+
+
+
+Document Added: 10/24/2023 8:14:36 AM EDT
+
+Details: {"Documentld":"d5aбebe1-6672-ee11- b004-6045bded1da9" DocumentName". "Lease1"}
+
+History ID: 9BBEB5C3-C6F7-4478-B5F1-8172B9EE8996
+
+
+
+
+Participant Added: 10/24/2023 8:14:48 AM EDT
+
+IP Address: 72.186.104.250
+
+Details: ("Participantld"."eabdd4e8-6672-ee11- b004-6045bded1da9","ParticipantName":"Luther J. Rollins, Jr. "ParticipantType":"RemoteSigner"}
+
+History ID: E3D06F1B-0E2C-4A16-B605-3C44A9905AA5
+
+
+
+
+Participant Added: 10/24/2023 8:14:59 AM EDT
+
+IP Address: 72.186.104.250
+
+Details: {"Participantld":"d2dde4ee-6672-ee11- b004-6045bded1dag"',"ParticipantName"."Mary O. Polk""ParticipantType":"RemoteSigner";
+
+History ID: 862B42D0-5AB3-4D65-BB00-EC7FE635BAA8
+
+
+
+
+
+Participant Sent: 10/24/2023 8:17:19 AM EDT
+
+Details: {"Participantld"."eabdd4e8-6672-ee11- b004-6045bded1da9","ParticipantName":"Luther J. Rollins, Jr.,"ParticipantType":"RemoteSigner""ParticipantEmail":"luther2law@gmail.com" Subject"." Your signature is requested: 2649 Tifton St S - Lease1","'Message"." Luther J. Rollins, Jr., Zach Steinberger zach.steinberger@compass.com is inviting you to participate as a signing party
+
+History ID: 757120E2-8123-4DE3-85DC-C3F4C5B0E49B
+
+
+
+
+Participant Sent: 10/24/2023 8:17:19 AM EDT
+
+Details: ("Participantld":"d2dde4ee-6672-ee11- b004-6045bdedda9" "ParticipantName"."Mary O. Polk"'ParticipantType" "RemoteSigner" "ParticipantEmail". "Inhale1@aol.com""Subject"."You r signature is requested: 2649 Tifton St S - Lease1",'Message"." Mary O. Polk, Zach Steinberger zach.steinberger@compass.com is inviting you to participate as a signing party
+
+History ID: 997D70AE-9F7C-469D-A3B7-67422EC33969
+
+
+
+
+participantauthenticated: 10/24/2023 9:15:55 AM EDT
+
+IP Address: 47.135.37.7
+
+Details: {"Participantld":"eabdd4e8-6672-ee11- b004-6045bded1da9","ParticipantName":"Luther J. Rollins, Jr. ParticipantType"."RemoteSigner"ParticipantEmail"."luther2law@gmail.com"
+
+History ID: 5C2C6394-D8FF-4E79-8AE7-1A4CDA96BB6B
+
+
+
+
+Participant CCD Accepted: 10/24/2023 9:21:51 AM EDT
+
+IP Address: 47.135.37.7
+
+Details: {"CCDVersion":"https://secure.authentisign.com/assets/files/ Authentisign_CCD_202106.pdf","Participantld"."eabdd4e8-6672-ee11- b004-6045bded1da9","ParticipantName":"Luther J. Rollins, Jr. "ParticipantType". "RemoteSigner"
+
+History ID: 623A90D8-013B-41AA-88CE-9137EC2F6870
+
+
+
+
+Participant TOS Accepted: 10/24/2023 9:21:51 AM EDT
+
+IP Address: 47.135.37.7
+
+Details: {"TOSVersion":"https://secure.authentisign.com/assets/files/ Authentisign_TOS_202106.pdf",'STAESPVersion":"https://secure.authentisign.com/assets/ files/Authentisign_STAESP_202106.pdf"'Participantld"."eabdd4e8-6672-ee11- b004-6045bded1da9","ParticipantName": "Luther J. Rollins, Jr.,"'ParticipantType":"RemoteSigner"}
+
+History ID: 2978421B-86A0-485A-B792-2B14F171A35F
+
+
+
+
+Participant Accepted: 10/24/2023 9:21:51 AM EDT
+
+IP Address: 47.135.37.7
+
+Details: {("Participantld":"eabdd4e8-6672-ee11- b004-6045bded1da9","ParticipantName":"Luther J. Rollins, Jr. "ParticipantType". "RemoteSigner"}
+
+History ID: ЗEEABAEA-DOCE-4A41-8485-F38623649436
+
+
+
+
+participantauthenticated: 10/24/2023 9:50:45 AM EDT
+
+IP Address: 47.135.37.7
+
+Details: {"Participantld":"eabdd4e8-6672-ee11- b004-6045bded1da9","ParticipantName"."Luther J. Rollins, Jr.,ParticipantType":"RemoteSigner","ParticipantEmail":"luther2law@gmail.com"}
+
+History ID: E846C676-32E8-4A42-88E8-604EFDD78FA4
+
+
+
+
+participantauthenticated: 10/24/2023 9:53:01 AM EDT
+
+IP Address: 166.137.19.30
+
+Details: {"Participantld":"d2dde4ee-6672-ee11- b004-6045bded1dag","ParticipantName":"Mary O.
+
+History ID: 137CAB08-7AB6-44CE-84B9-69F555219C63
+
+
+
+
+
+Participant CCD Accepted: 10/24/2023 9:54:24 AM EDT
+
+IP Address: 166.137.19.30
+
+Details: {"CCDVersion":"https://secure.authentisign.com/assets/files/ Authentisign_CCD_202106.pdf""Participantld"."d2dde4ee-6672-ee11- b004-6045bdeddag""ParticipantName"."Mary O. Polk""ParticipantType" "RemoteSigner"}
+
+History ID: FE9ED95D-2A7C-4D50-9246-7F9DD0B52452
+
+
+
+
+
+Participant TOS Accepted: 10/24/2023 9:54:24 AM EDT
+
+IP Address: 166.137.19.30
+
+Details: ("TOSVersion":"https://secure.authentisign.com/assets/files/ Authentisign_TOS_202106.pdf","STAESPVersion":"https://secure.authentisign.com/assets/ files/Authentisign_STAESP_202106.pdf","Participantld":"d2dde4ee-6672-ee11- b004-6045bdeddag""ParticipantName"."Mary O. Polk""ParticipantType". "RemoteSigner"}
+
+History ID: AB7506B2-A39E-4D4D-A8A5-328E13218471
+
+
+
+Participant Accepted: 10/24/2023 9:54:24 AM EDT
+
+IP Address: 166.137.19.30
+
+Details: {"Participantld":"d2dde4ee-6672-ee11- b004-6045bded1dag""Participantame" "Mary O. Polk","ParticipantType". "RemoteSigner"";
+
+History ID: 162EB5D6-AE86-4804-AD00-377D604324E1
+
+
+
+Finalizing Signing: 10/24/2023 9:54:24 AM EDT
+
+Details: ("Signing|d":"d4a6ebe1-6672-ee11-b004-6045bded1da9""'SigningName":"2649 Tifton St S - Lease1"}
+
+History ID: 58B0F037-837B-48EF-8B28-2170B24BB38C
+
+
+
+Signing Completed: 10/24/2023 9:54:24 AM EDT
+
+Details: ("Signing|d "d4a6ebe1-6672-ee11-b004-6045bded1dag""SigningName"."2649 Tifton St S - Lease1"}
+
+History ID: 7387D73B-BC37-4B14-954E-C9D8327ADB69

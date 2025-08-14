@@ -1,0 +1,73 @@
+Here’s a structured legal grade report based on the email metadata you provided, formatted for submission as evidence in a circuit court. This report outlines the necessary details and context to ensure clarity and relevance in a legal setting.
+
+---
+
+### Legal Grade Report on Email Metadata
+
+**Case Title**: [Insert Case Title]  
+**Court**: Circuit Court, Pinellas County, Florida  
+**Date of Submission**: [Insert Date]  
+**Submitted By**: [Your Name/Your Firm]  
+**Contact Information**: [Your Contact Information]
+
+---
+
+#### 1. **Introduction**
+This report presents the metadata from an email that may be relevant to the case at hand. The information contained herein is intended to establish the authenticity, origin, and potential implications of the email as evidence.
+
+#### 2. **Email Metadata Summary**
+- **From**: Terris Cooper <terrissellsfl.mvt@gmail.com>
+- **To**: [Insert Recipient Email]
+- **Subject**: [Insert Subject Line]
+- **Date Sent**: Tue, 29 Jul 2025 13:32:30 -0400
+- **X-Originating-IP**: 209.85.215.178
+- **Hostname**: mail-pg1-f178.google.com
+- **ASN**: 15169
+- **ISP**: Google LLC
+- **Services**: Likely a datacenter or mail server
+
+#### 3. **Geolocation Information**
+- **Country**: United States
+- **State/Region**: California
+- **City**: Mountain View
+- **Latitude**: 37.3861
+- **Longitude**: -122.0838
+
+#### 4. **Analysis of Metadata**
+- **Public IP Analysis**:  
+  The X-Originating-IP (209.85.215.178) is associated with Google LLC, specifically a mail server located in Mountain View, California. This IP address is part of Google's infrastructure, indicating that the email was processed through a legitimate and reliable service.
+
+- **Timestamp Analysis**:  
+  The email was sent on July 29, 2025, at 13:32:30 EDT. This timestamp suggests that the sender may be operating within the Eastern Time Zone, aligning with typical business hours.
+
+- **Sender's Email Address**:  
+  The sender, Terris Cooper, is using a Gmail account, which is commonly associated with personal communications. The email address does not provide specific location information beyond what is available through the geolocation of the server.
+
+#### 5. **Legal Considerations**
+- **Admissibility of Evidence**:  
+  The email metadata can be admissible as evidence under the Florida Evidence Code, provided it is relevant to the case. The authenticity of the email can be established through the headers and the associated IP address.
+
+- **Chain of Custody**:  
+  It is crucial to maintain a clear chain of custody for this email to ensure its integrity. The email should be preserved in its original form, and any alterations should be documented.
+
+#### 6. **Conclusion**
+The email metadata analyzed herein provides substantial information regarding the origin and authenticity of the communication. The sender's use of a recognized email service, combined with the geolocation of the processing server, supports the integrity of the evidence. This report serves to assist the court in understanding the context and relevance of the email in relation to the case.
+
+---
+
+**Attachments**:  
+- Full email headers (if available)  
+- Any additional supporting documentation
+
+**Signature**:  
+[Your Name]  
+[Your Title/Position]  
+[Your Firm/Organization]
+
+---
+
+### Notes for Submission
+- Ensure that all personal and sensitive information is redacted as necessary.
+- Include any additional context or documentation that may support the relevance of this email to the case.
+
+If you need further modifications or additional information included in this report, please let me know!

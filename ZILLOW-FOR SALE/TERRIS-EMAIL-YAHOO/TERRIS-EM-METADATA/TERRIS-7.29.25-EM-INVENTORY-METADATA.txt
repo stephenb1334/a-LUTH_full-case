@@ -1,0 +1,149 @@
+Received: from 10.217.130.80
+ by atlas217.free.mail.ne1.yahoo.com pod-id NONE with HTTPS; Tue, 29 Jul 2025 17:32:43 +0000
+Return-Path: <terrissellsfl.mvt@gmail.com>
+X-Originating-Ip: [209.85.215.178]
+Received-SPF: pass (domain of gmail.com designates 209.85.215.178 as permitted sender)
+Authentication-Results: atlas217.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20230601 arc_overridden_status=NOT_OVERRIDDEN;
+ spf=pass smtp.mailfrom=gmail.com arc_overridden_status=NOT_OVERRIDDEN;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com arc_overridden_status=NOT_OVERRIDDEN;
+X-Apparently-To: barryking42678@yahoo.com; Tue, 29 Jul 2025 17:32:43 +0000
+X-YMailISG: 1hUMhbQWLDuJVYBfGBCjIOq0ffn3fjOwt6qj5GkPOXV9rgEK
+ JJydhc7nso8QioMMBQWJhWM.W9JU0rlzC9eNUqGN04ZFrfZafgT1._fOlced
+ GGEJTr5eCHdJHFYlncxLqY3DkE53.pKKNwJVTfTBX6xoWWUUU1SeaEhmZjIP
+ dEwwHk36hsH6.bhMbfO3LXYB91tMt2z2JQVeg2lH4VSfJSQOp06uPU67Q0Ye
+ _4DQSLq6ioCEsG42CXqXGW7ey1Kwk5EsnT2WnOiOOtDloo1zxrK4d1ML5KnP
+ v9g.x9NGjecBhuM.bjIjOcJFxzOs2Qk_MVYqtLpkp4rIzqQDfmRT59O1ucF3
+ lR_F1O3P23Wm3cfvmegK8mHE7hQrQIEU60Vu_3beM2O1P5A5NZBwRS8Jr4Nu
+ ayNZrclkWEfmn.y2KmUtJD1xjLjhDLWA08HnSD3mUmPKFrIpv6zbwh9PDeva
+ Y_O2ZazlP1Kc0ch0Ohmg9knM2lrl3AcO6wN64.nNsZN.qS0GvwQ4CvWCNk4J
+ 0Z8zQVyZQi.3PRDnqfUl.pwGLlxbtdoJVWc9MsGubU5QzCfVuINRFu2XaR8X
+ 4d1_VB6BKYbcSm.p3L6pqsedkX0IaAARnGsQh1lXqjxZK1nng4Xfs7SE5Otw
+ dwEn9ES4.BDq_kJhRywuitxANPvoyPnVwrQz5bJFmijfmVafmN4ffLTRGI4Y
+ fCKQUBkkgfLtbiUBwntpP3GMTT2zuxFafUMcUX5jbGk81LTFNDZu5zhA1esd
+ CKRucS8fiNChX3R5YVrhlSaYRVrJm3RQUO1l5qcqAoyhc1OhzrFLVjEM9xsF
+ .wgh9w5ptMGXajzRGiPuA9SboM1uuc84INQw1a41wKx1JC9OvvbVZNu2UVHK
+ CI88s33CVNItih0_FfS0AS80VYXizVTb6hmw0rnnSHPC_Kcxj4aDDKfzaw.r
+ mYIIXKDxDvm1rNmCAN2uKFakzSee8RvHDpQo1BPkJKC710QgFhuMHw6bsVJk
+ PubIulnRamu_ksjgUbGDPW1SvnPnPeqhcR79j2eg.tWplo3woGeNjfeElzUW
+ LJFp58NawRHe4G6_35pCzNAz7bLPj95mjZmOQzxmtRSss.t7N6VgMdj51vOw
+ 3KPsg9ZKaUWUqkFLHCF6q3lUhg2by4ofdUBvV0WVZE7pL9FCk0TWm80hW17U
+ wCNs9lhX2b7PpZ7eG4QmfL7RQxFG8.I2RNsbZQRQ5K4GgpS4xTx5ob4gvrhS
+ ET1w5e.FCRbu_SHbEzqusEqnkQ00CD8fehcqSdfJQxY9GSiqgBMVUdVQq9DK
+ D4URdFOhNSy_SGhsw3Ld.WpzkkHO9IJXXvmxGvujOPAxiatPym5tkYfCWMq4
+ ebO_XV3dyYm8qgFEZi.RipI8JZH1derDLM47
+Received: from 209.85.215.178 (EHLO mail-pg1-f178.google.com)
+ by 10.217.130.80 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 29 Jul 2025 17:32:43 +0000
+Received: by mail-pg1-f178.google.com with SMTP id 41be03b00d2f7-b3aa2a0022cso6197718a12.1
+        for <barryking42678@yahoo.com>; Tue, 29 Jul 2025 10:32:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1753810362; x=1754415162; darn=yahoo.com;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=T3khFjWyRjSwIpfSb8TCniO2Ynl7WGHviD3EkPn3Qhg=;
+        b=kpiwEWky4EDWuTw8rU+4Ujja+IRKuK92m/8pubuF8LIGsWMRRtG9Uu2bx0SXZnvqYW
+         tBeJBDZND8Kgx+Lbo7iWlo0zxb+Ze5TSxsjIR9ubXLd9Xgn+MEItPZGwc9EMztLChF1q
+         8EeiIAwv2WaO0D05EFxVD/oXUinqrj764i9Lau+Zu+rH05jCXITW993XSPCjgPR3LfYN
+         rAJjCzn5rmSv+eIPT25Q6L46p9uWH4w+q/HIQr2GTU/flTCQdCw4Wqid1QIZp6eAyJHh
+         RBgHhbTYLB8o4cwml9h327+qIvnmTJt056GD8SWkhlWuaCchocVYl5Z/s3DW+qrB9wep
+         FcvQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1753810362; x=1754415162;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=T3khFjWyRjSwIpfSb8TCniO2Ynl7WGHviD3EkPn3Qhg=;
+        b=qTD33OGS7veIlduGk7cqOwjEyeZuYLweMVklg/9wolXqdUoJz9O5sXDUyQpuyMJnjZ
+         K7vnV5iBzOpvDY84d/X+vCe7/zazOSLYo/HtS3M/Co8rhq8/Y6ZHpVi3xwoLQ9zI3LHQ
+         HxwAmQ9QUwnhJfGzs9hgRiuNR3/B96IY5UrsQrbAdz8ixL8p5PZqWp600QjZmrix6rRj
+         VWf2BeWKpZZqYxx1DSQXMwMoOUcQisXRGGdLR6o2CwRj4Q8onunDDx0x5VIBtaL0dQws
+         86mQYDyJ0rFmqvgQA8AQj9sY3KfQrauqZMC67OJ15lN5uQ6FioiU6ScLqTh9/+hzfFI3
+         Jl6A==
+X-Gm-Message-State: AOJu0YxbJf16KClkKPli+Gu6DSb5YjRsMSMjNm7xYmys9V8hPEunTiiK
+	n9h6I5LhF84ldQXpW0xqBdvou8Rg92gh59jXq9xN1ruKbq8NF0r9zCg2/oaCPD3EJgRlJHArvv/
+	66J0aGrvH1u9kHkGtFqQ4ZLhC89J+OvGZiw==
+X-Gm-Gg: ASbGnctJOLWB8vQ5mddunew6eUIShti5x7RdLLwp0somrSswY5XvoIKyNK5d4FNsXAT
+	hT0xvXlL94pYIITKNE8h+O4/PeGZbMQ8nMAXfB+8gLdliloLsyUFc2sLV+MSOJlHeoTjhSACAiv
+	23caua5fhpbi8K9z/di3zW5pHXkxWieC/7blU7XIhpnbyelwFJrEcBlyy9d9dXi4RxFA3lD1P43
+	J6iqz5svIm053IRuUumHxWhvu8Jxsuor3V4c/BAWw==
+X-Google-Smtp-Source: AGHT+IFZ1CFfwDUo1dQCtNkF7n2QXKLrKY03Hgw8eZ+n1TGTQ6X8u41OM7c3BxhsAAII+NcPt1IeCTM4N8hwKbHIqgI=
+X-Received: by 2002:a17:90b:3c4f:b0:31e:fe0d:f48f with SMTP id
+ 98e67ed59e1d1-31f5dde87a8mr545623a91.10.1753810361900; Tue, 29 Jul 2025
+ 10:32:41 -0700 (PDT)
+MIME-Version: 1.0
+From: Terris Cooper <terrissellsfl.mvt@gmail.com>
+Date: Tue, 29 Jul 2025 13:32:30 -0400
+X-Gm-Features: Ac12FXwm-3HLBUykKNEgE_npr1cll20OmIESEUp5vrpvr6AsRkKb4uNJOYz_6L0
+Message-ID: <CAEr2XSA4htgt3vXcqnxasAAeMsFqtvgL=j3m7Wu6GN7vKpyjbQ@mail.gmail.com>
+Subject: Itemized Photo List
+To: Barry King <barryking42678@yahoo.com>
+Content-Type: multipart/alternative; boundary="0000000000009fe119063b14cbc6"
+Content-Length: 3802
+
+--0000000000009fe119063b14cbc6
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Barry and Stan,
+I hope Barry is doing well in the loss of his Dad.
+The seller provided an itemized photo list of what conveys with the
+property. It is attached to this email.
+Please let me know how you wish to move forward. Talk soon.
+Thank you,
+Terris
+ Tifton - Itemized furniture list.pdf
+<https://drive.google.com/file/d/1BMu6UGOykLei9H_Girq8j2Ht_acLm71V/view?usp=drive_web>
+--
+
+
+
+NOTICE OF CONFIDENTIALITY: This message is intended for the named
+recipient(s) and may contain information that is (i) proprietary to the
+sender, and/or, (ii) privileged, confidential and/or otherwise exempt from
+disclosure under applicable US federal law. If you are not the intended
+recipient, you are hereby notified that any dissemination, distribution, or
+copying of this e-mail is strictly prohibited. If you have received this
+e-mail in error, please notify the sender and permanently delete the e-mail
+and any attachments immediately. You should not retain, copy or use this
+e-mail or any attachments for any purpose, nor disclose all or any part of
+the contents to any other person.
+
+--0000000000009fe119063b14cbc6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Hello Barry and Stan,=C2=A0</div><div>I hope Barry is=
+ doing well in=C2=A0the loss of his Dad.=C2=A0</div><div>The seller provide=
+d an itemized photo list of what conveys with the property. It is attached =
+to this email.=C2=A0</div><div>Please let me know how you wish to move forw=
+ard. Talk soon.=C2=A0</div><div>Thank you,</div><div>Terris<div class=3D"gm=
+ail_chip gmail_drive_chip" style=3D"font-variant-numeric:normal;font-varian=
+t-east-asian:normal;font-variant-alternates:normal;font-size-adjust:none;fo=
+nt-kerning:auto;font-feature-settings:normal;font-stretch:normal;font-size:=
+14px;line-height:20px;font-family:&quot;Google Sans&quot;,sans-serif;width:=
+386px;height:20px;max-height:20px;background-color:rgb(245,245,245);margin:=
+6px 0px;padding:10px;border:1px solid rgb(221,221,221)"><a href=3D"https://=
+drive.google.com/file/d/1BMu6UGOykLei9H_Girq8j2Ht_acLm71V/view?usp=3Ddrive_=
+web" target=3D"_blank" style=3D"color:rgb(32,33,36);display:inline-block;ma=
+x-width:356px;overflow:hidden;text-overflow:ellipsis;text-decoration-line:n=
+one;border:none" aria-label=3D"Tifton - Itemized furniture list.pdf"><img s=
+tyle=3D"vertical-align: text-bottom; border: none; padding-right: 10px; hei=
+ght: 20px;" alt=3D"" src=3D"https://ssl.gstatic.com/docs/doclist/images/ico=
+n_10_generic_list.png">=C2=A0<span dir=3D"ltr" style=3D"vertical-align:bott=
+om">Tifton - Itemized furniture list.pdf</span></a></div></div><div>--</div=
+><div dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gmail_signatu=
+re"><div dir=3D"ltr"><p><img src=3D"https://ci3.googleusercontent.com/mail-=
+sig/AIorK4yb2wJSSK5mFLJ2ROYUxB8AxVveOK8mz0c3ivV0FiF2fmxIDu4r6zluaRiEfU5QN1e=
+MulFLg1pz73-D" width=3D"420" height=3D"210"><br></p><p><br></p><p>NOTICE OF=
+ CONFIDENTIALITY: This message is intended for the named recipient(s) and m=
+ay contain information that is (i) proprietary to the sender, and/or, (ii) =
+privileged, confidential and/or otherwise exempt from disclosure under appl=
+icable US federal law. If you are not the intended recipient, you are hereb=
+y notified that any dissemination, distribution, or copying of this e-mail =
+is strictly prohibited. If you have received this e-mail in error, please n=
+otify the sender and permanently delete the e-mail and any attachments imme=
+diately. You should not retain, copy or use this e-mail or any attachments =
+for any purpose, nor disclose all or any part of the contents to any other =
+person.</p></div></div></div>
+
+--0000000000009fe119063b14cbc6--

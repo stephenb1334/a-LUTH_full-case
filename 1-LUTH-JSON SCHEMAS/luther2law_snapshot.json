@@ -1,0 +1,327 @@
+{
+  "case_id": "case_luther2law_001",
+  "meta": {
+    "created_at": "2025-08-09T14:00:00-04:00",
+    "updated_at": "2025-08-09T14:00:00-04:00",
+    "title": "Tenant v. Landlords \u2014 2649 Tifton St S (FL)",
+    "status": "active",
+    "jurisdiction": "Florida",
+    "time_zone": "America/New_York",
+    "notes": "Seeded from project files; expand as evidence is normalized."
+  },
+  "parties": [
+    {
+      "id": "tenant_1",
+      "name": "Stephen Boerner",
+      "role": "tenant"
+    },
+    {
+      "id": "tenant_2",
+      "name": "Melissa Bemer",
+      "role": "tenant"
+    },
+    {
+      "id": "landlord_1",
+      "name": "Luther Rollins",
+      "role": "landlord",
+      "email": "luther2law@gmail.com"
+    },
+    {
+      "id": "landlord_2",
+      "name": "Mary O. Polk",
+      "role": "landlord"
+    },
+    {
+      "id": "entity_1",
+      "name": "Amarlu Enterprises",
+      "role": "entity",
+      "notes": "Out-of-state payee for rent"
+    },
+    {
+      "id": "realtor_1",
+      "name": "Zachary Steinberger",
+      "role": "realtor"
+    }
+  ],
+  "property": {
+    "address": "2649 Tifton St S, Gulfport, FL 33711",
+    "county": "Pinellas",
+    "year_built": 1955,
+    "square_ft": 1472,
+    "furnished": true
+  },
+  "lease": {
+    "signing_date": "2023-10-24",
+    "start_date": null,
+    "end_date": null,
+    "monthly_rent_cents": 450000,
+    "first_month_collected_cents": 450000,
+    "last_month_collected_cents": 450000,
+    "security_deposit_cents": 450000,
+    "pet_deposit_cents": 50000,
+    "payment_instructions": "Pre-stamped envelopes; pay to Amarlu Enterprises (NC address).",
+    "named_landlords": [
+      "Luther Rollins",
+      "Mary O. Polk"
+    ],
+    "recipient_entity": "Amarlu Enterprises",
+    "is_recipient_disclosed_in_lease": false,
+    "lease_file_evidence_id": "ev_lease_pdf"
+  },
+  "payments": [
+    {
+      "id": "pay_movein_1",
+      "date": null,
+      "amount_cents": 1400000,
+      "currency": "USD",
+      "method": "check",
+      "from_party_id": "tenant_1",
+      "to_party_id": "entity_1",
+      "memo": "Move-in funds: 1st + last + $4,500 security + $500 pet",
+      "tags": [
+        "move_in",
+        "composite"
+      ]
+    }
+  ],
+  "deposit_claim": {
+    "notice_sent_date": null,
+    "notice_method": null,
+    "tenant_dispute_date": null,
+    "itemizations": [],
+    "compliance": {
+      "notice_within_30_days": null,
+      "itemized_with_support": null,
+      "burden_of_proof_met": null
+    },
+    "statute_refs": [
+      {
+        "chapter": "83",
+        "section": "49",
+        "pinpoint": "(3)(a)"
+      }
+    ]
+  },
+  "personal_property": {
+    "items": [
+      {
+        "id": "pp_1",
+        "description": "Tenant personal property (aggregate group; detail later)",
+        "claimed_value_cents": 420000,
+        "status": "withheld",
+        "tenant_request_dates": [],
+        "evidence_ids": []
+      }
+    ],
+    "statute_refs": [
+      {
+        "chapter": "715",
+        "section": "10"
+      },
+      {
+        "chapter": "715",
+        "section": "104"
+      }
+    ]
+  },
+  "incidents": [
+    {
+      "id": "inc_1",
+      "date": "2024-03-26",
+      "type": "break_in",
+      "description": "Home invasion; security deficiencies (gate, lighting) alleged.",
+      "landlord_actions": "Acknowledged; minimal remediation approved (cameras w/ constraints).",
+      "tenant_impacts": "Fear/PTS symptoms reported.",
+      "statute_refs": [
+        {
+          "chapter": "83",
+          "section": "51"
+        }
+      ],
+      "evidence_ids": [
+        "ev_breakin_notes"
+      ]
+    }
+  ],
+  "communications": [
+    {
+      "id": "com_1029_text",
+      "timestamp": "2024-10-29T17:55:00-04:00",
+      "channel": "sms",
+      "from_party_id": "landlord_1",
+      "to_party_id": "tenant_1",
+      "subject": "Request to talk about Tenant Response & Dispute",
+      "body_excerpt": "\"I called you a couple times today... I believe we are both supposed to...\"",
+      "evidence_id": "ev_text_1029",
+      "tags": [
+        "pressure_to_call",
+        "pref_written_only"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "ev_lease_pdf",
+      "kind": "pdf",
+      "filename": "LEASE.pdf",
+      "path": "/mnt/data/LEASE.pdf"
+    },
+    {
+      "id": "ev_text_1029",
+      "kind": "text",
+      "filename": "legally_relevant_text_messages.md",
+      "path": "/mnt/data/legally relevant text messages.md"
+    },
+    {
+      "id": "ev_breakin_notes",
+      "kind": "text",
+      "filename": "BREAK-IN COMMS.pdf",
+      "path": "/mnt/data/BREAK-IN COMMS.pdf"
+    }
+  ],
+  "legal_issues": [
+    {
+      "id": "iss_foreign_entity",
+      "title": "Unregistered foreign entity collecting FL rent",
+      "description": "Out-of-state entity allegedly collected rent without FL registration.",
+      "severity": "high",
+      "status": "alleged",
+      "statute_refs": [
+        {
+          "chapter": "605",
+          "section": "0902"
+        }
+      ],
+      "evidence_ids": []
+    },
+    {
+      "id": "iss_deposit_procedure",
+      "title": "Security deposit handling / notice compliance",
+      "description": "Timeliness and itemization of claim; burden of proof on landlord.",
+      "severity": "high",
+      "status": "alleged",
+      "statute_refs": [
+        {
+          "chapter": "83",
+          "section": "49",
+          "pinpoint": "(3)(a)"
+        }
+      ],
+      "evidence_ids": []
+    },
+    {
+      "id": "iss_personal_property",
+      "title": "Unlawful retention / mishandling of tenant property",
+      "description": "Failure to follow Ch. 715 notice and retrieval procedures.",
+      "severity": "high",
+      "status": "alleged",
+      "statute_refs": [
+        {
+          "chapter": "715",
+          "section": "10"
+        },
+        {
+          "chapter": "715",
+          "section": "104"
+        }
+      ],
+      "evidence_ids": []
+    },
+    {
+      "id": "iss_habitability",
+      "title": "Failure to maintain safe premises",
+      "description": "Post break-in security deficiencies (gates/lighting).",
+      "severity": "moderate",
+      "status": "alleged",
+      "statute_refs": [
+        {
+          "chapter": "83",
+          "section": "51"
+        }
+      ],
+      "evidence_ids": [
+        "ev_breakin_notes"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "cl_deposit_return",
+      "type": "deposit_return",
+      "amount_cents": 450000,
+      "basis": "Return of full security deposit",
+      "statute_refs": [
+        {
+          "chapter": "83",
+          "section": "49"
+        }
+      ]
+    },
+    {
+      "id": "cl_pet_fee",
+      "type": "other",
+      "amount_cents": 50000,
+      "basis": "Refund of pet deposit if lease unenforceable",
+      "statute_refs": []
+    },
+    {
+      "id": "cl_withheld_property",
+      "type": "withheld_property",
+      "amount_cents": 420000,
+      "basis": "Value of retained property",
+      "statute_refs": [
+        {
+          "chapter": "715",
+          "section": "10"
+        }
+      ]
+    }
+  ],
+  "insurance": [],
+  "forensics": [
+    {
+      "id": "fx_lease_pkg",
+      "evidence_id": "ev_lease_pdf",
+      "summary": "Signature package irregularities flagged; tenant signatures absent in export; potential reconstruction.",
+      "flags": [
+        "metadata_scrubbed",
+        "signer_mismatch",
+        "assembly_artifacts"
+      ]
+    }
+  ],
+  "realtor_conflicts": {
+    "agents": [
+      "Zachary Steinberger"
+    ],
+    "roles": "Listing & rental involvement; potential dual-interest",
+    "conflict_description": "Financial incentive alignment with landlord; opinion weight limited absent expert credentials.",
+    "evidence_ids": []
+  },
+  "events_timeline": [
+    {
+      "id": "evt_movein_funds",
+      "timestamp": null,
+      "kind": "payment",
+      "ref_type": "payments",
+      "ref_id": "pay_movein_1",
+      "note": "Composite $14,000 move-in payment (1st, last, security, $500 pet)"
+    },
+    {
+      "id": "evt_breakin",
+      "timestamp": "2024-03-26T12:00:00-04:00",
+      "kind": "incident",
+      "ref_type": "incidents",
+      "ref_id": "inc_1",
+      "note": "Reported home invasion; security remediation requested"
+    },
+    {
+      "id": "evt_text1029",
+      "timestamp": "2024-10-29T17:55:00-04:00",
+      "kind": "communication",
+      "ref_type": "communications",
+      "ref_id": "com_1029_text",
+      "note": "Landlord presses for phone call; tenant prefers written record"
+    }
+  ]
+}
